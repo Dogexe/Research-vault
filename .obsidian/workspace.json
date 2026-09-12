@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Evidence/Biopsy Specimen Quality.md",
+                "file": "06 Synthesis/Contradictions in Diode Laser Biopsy Evidence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Biopsy Specimen Quality"
+              "title": "Contradictions in Diode Laser Biopsy Evidence"
             }
           }
         ]
@@ -205,14 +205,17 @@
   },
   "active": "c6ffd2e55847c5c4",
   "lastOpenFiles": [
-    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md",
     "06 Synthesis/Current Evidence on Diode Laser Power Output.md",
+    "06 Synthesis/Contradictions in Diode Laser Biopsy Evidence.md",
+    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md",
     "06 Synthesis/Research Gaps in Dental Diode Laser Output.md",
+    "01 Projects/Diode Laser Biopsy.md",
+    "04 Evidence/Biopsy Specimen Quality.md",
+    "01 Projects/Diode Laser Biopsy.md.tmp.25088.8f010c469021",
+    "06 Synthesis/Contradictions in Diode Laser Biopsy Evidence.md.tmp.25088.a5665d2a6b75",
     "04 Evidence/Tip Initiation and Fiber Condition - Supporting Evidence.md",
     "03 Concepts/Glossary/Diagnostic Quality.md",
     "03 Concepts/Glossary/Histological Artifact.md",
-    "04 Evidence/Biopsy Specimen Quality.md",
-    "01 Projects/Diode Laser Biopsy.md",
     "04 Evidence/Power Loss and Deviation Across Dental Diode Devices.md",
     "01 Projects/Diode Laser Master.md",
     "00 Inbox/Shortlist - PubMed Candidates 3-7 (Adjacent, Not Core Diode-Output Evidence).md",
@@ -224,8 +227,6 @@
     "06 Synthesis/Diode Laser Biopsy Specimen Quality.md.tmp.25088.bcede0091bb7",
     "06 Synthesis/Diode Laser Biopsy Specimen Quality.md.tmp.25088.a0cddcfebf31",
     "06 Synthesis/Diode Laser Biopsy Specimen Quality.md.tmp.25088.8403ce33451d",
-    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md.tmp.25088.0873d3d99753",
-    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md.tmp.25088.d08b33d561b2",
     "07 Data/Pergolini et al 2025 - Dual-Wavelength Diode Laser Ex Vivo Thermal Damage Data.md",
     "02 Literature/10.3390/dj13060265.md",
     "07 Data/Gundlapalle et al 2022 - Diode Laser CW vs PW Biopsy Margin Data.md",
@@ -238,8 +239,6 @@
     "03 Concepts/Glossary/Carbonization.md",
     "03 Concepts/Glossary/Coagulation Zone.md",
     "04 Evidence/Surgical Margins.md",
-    "07 Data/Gambino et al 2026 - Diode Laser OCT and Histologic Thermal Damage Data.md",
-    "03 Concepts/Operating Parameters.md",
-    "02 Literature/Biopsy of Different Oral Soft Tissues Lesions by KTP and Diode Laser_ Histological Evaluation - Romeo - 2014 - The Scientific World Journal - Wiley Online Library.md"
+    "07 Data/Gambino et al 2026 - Diode Laser OCT and Histologic Thermal Damage Data.md"
   ]
 }
