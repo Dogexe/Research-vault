@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Literature/Oral laser surgical pathology_ a preliminary study on the clinical advantages of diode laser and on the histopathological features of specimens evaluated by conventional and confocal laser scanning microscopy.md",
+                "file": "99 Templates/Laser Operating Parameters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oral laser surgical pathology_ a preliminary study on the clinical advantages of diode laser and on the histopathological features of specimens evaluated by conventional and confocal laser scanning microscopy"
+              "title": "Laser Operating Parameters"
             }
           }
         ]
@@ -203,14 +203,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6ffd2e55847c5c4",
+  "active": "e29076f1deb0efc5",
   "lastOpenFiles": [
-    "07 Data/Wilder-Smith et al 1995 - CO2 Laser Incision and Thermal Damage Data.md",
-    "07 Data/Wilder-Smith et al 1995 - CO2 Laser Incision and Thermal Damage Data.md.tmp.25088.2e9aa292171d",
-    "07 Data/Li et al 2022 - Diode vs Er-YAG vs Cold Scalpel Mice Oral Mucosa Data.md",
-    "07 Data/Li et al 2022 - Diode vs Er-YAG vs Cold Scalpel Mice Oral Mucosa Data.md.tmp.25088.e0b449bae6a6",
-    "02 Literature/Diode laser excision of chondroid lipoma of the tongue with microscopic (conventional and confocal laser scanning) analysis.md",
+    "01 Projects/Diode Laser Biopsy.md.tmp.25088.ae5fed7a8486",
+    "01 Projects/Diode Laser Biopsy.md.tmp.25088.19a27da00719",
+    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md.tmp.25088.7d74b667b86a",
+    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md.tmp.25088.3c480c62581d",
+    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md.tmp.25088.65e8fb023e59",
+    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md.tmp.25088.aa50f62505ca",
+    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md.tmp.25088.b0b585ecd06d",
+    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md.tmp.25088.b8be841056be",
+    "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md.tmp.25088.60623eccafaa",
+    "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md.tmp.25088.6362db49a951",
+    "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md.tmp.25088.bdb02b846b83",
+    "99 Templates/Concept Note.md",
+    "99 Templates/Device Note.md",
+    "99 Templates/Evidence Note.md",
+    "99 Templates/Laser Operating Parameters.md",
+    "AGENTS.md",
+    "03 Concepts/Operating Parameters.md",
+    "02 Literature/10.1007/s10103-021-03491-y.md",
+    "03 Concepts/Laser Presetting.md",
+    "07 Data/Capodiferro et al 2008 - Oral Laser Surgical Pathology Abstract-Level Data.md",
     "02 Literature/Oral laser surgical pathology_ a preliminary study on the clinical advantages of diode laser and on the histopathological features of specimens evaluated by conventional and confocal laser scanning microscopy.md",
+    "07 Data/Capodiferro et al 2009 - Diode Laser Chondroid Lipoma Case Report Data.md",
+    "07 Data/Wilder-Smith et al 1995 - CO2 Laser Incision and Thermal Damage Data.md",
+    "07 Data/Li et al 2022 - Diode vs Er-YAG vs Cold Scalpel Mice Oral Mucosa Data.md",
+    "02 Literature/Diode laser excision of chondroid lipoma of the tongue with microscopic (conventional and confocal laser scanning) analysis.md",
     "02 Literature/10.1016/S1079-2104(05)80300-2.md",
     "02 Literature/10.1007/s10103-022-03544-w.md",
     "03 Concepts/Glossary/Coagulation Zone.md",
@@ -221,25 +240,6 @@
     "07 Data.md",
     "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md",
     "02 Literature/CO2 and diode laser for excisional biopsies of oral mucosal lesions. A pilot study evaluating clinical and histopathological parameters.md",
-    "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md.tmp.25088.3a51a921b70b",
-    "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md.tmp.25088.9dd21756c06f",
-    "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md.tmp.25088.1f934b98bfad",
-    "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md.tmp.25088.41f7523b43f4",
-    "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md.tmp.25088.36f1d3240fb4",
-    "01 Projects/Diode Laser Biopsy.md.tmp.25088.b2b492e2bd69",
-    "01 Projects/Diode Laser Biopsy.md.tmp.25088.d21e2f28e70c",
-    "01 Projects/Diode Laser Biopsy.md.tmp.25088.c53dff4a3f4d",
-    "07 Data/Suter et al 2010 - CO2 vs Diode Laser Biopsy Thermal Damage Data (Abstract-Level).md",
-    "07 Data/Palaia et al 2021 - 445 nm Diode Laser In Vivo Biopsy Thermal Effect Data.md",
-    "07 Data/Goharkhay et al 1999 - Diode Laser Incision Depth and Collateral Damage Data.md",
-    "02 Literature/Romeo et al 2014 - Biopsy of Oral Soft Tissue Lesions by KTP and Diode Laser.md",
-    "02 Literature/Phenomenon of laser power loss during curettage of infected periodontal pockets.md",
-    "02 Literature/Fahlstedt et al 2021 - Dental Implant Surface Temperatures.md",
-    "02 Literature/Biopsy of Different Oral Soft Tissues Lesions by KTP and Diode Laser_ Histological Evaluation - Romeo - 2014 - The Scientific World Journal - Wiley Online Library.md",
-    "02 Literature/Azevedo et al 2016 - Surgical Margins by Different Laser Wavelengths in Tongue Tissue.md",
-    "02 Literature/Angiero et al 2011 - Diode Laser Applied to Oral Soft Tissue Lesions.md",
-    "02 Literature/10.2334/josnusd.20-0665.md",
-    "02 Literature/10.1002/(SICI)1096-9101(1999)25_5_401__AID-LSM6_3.0.CO;2-U.md",
-    "06 Synthesis/Contradictions in Diode Laser Biopsy Evidence.md"
+    "07 Data/Suter et al 2010 - CO2 vs Diode Laser Biopsy Thermal Damage Data (Abstract-Level).md"
   ]
 }

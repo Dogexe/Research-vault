@@ -14,6 +14,7 @@
 - FACT: Azevedo et al. 2016 (980 nm diode, ex vivo porcine tongue) measured margin thermal-damage extent (ETTD) of 456.15 μm (3.5 W PW) and 626.82 μm (3.5 W Boost PW), with 80% of diode incisions scored "irregular" at both settings — an order of magnitude consistent with, though not directly comparable to (different species, wavelength, power), Angiero et al.'s and Romeo et al.'s human margin-damage figures. [[07 Data/Azevedo et al 2016 - Diode Laser Thermal Damage and Carbonization Data]]
 - FACT: Gambino et al. 2026 (n=30, 980 nm diode 2 W CW, standardized 5 mm circumferential margin) measured margin thermal damage of 288.9 μm (epithelium) and 430.3 μm (connective tissue), with laser-treated tissue significantly thicker than healthy control tissue (epithelium p=0.021, lamina propria p=0.034) — the vault's only source with a genuine untreated-tissue control group for margin comparison, and the only source using a standardized (rather than surgeon-judged) margin width. [[07 Data/Gambino et al 2026 - Diode Laser OCT and Histologic Thermal Damage Data]]
 - FACT (reused from [[04 Evidence/Tip Initiation and Fiber Condition - Supporting Evidence]]): Gutiérrez-Corrales et al. explicitly conclude that, in their in vitro porcine tissue model, an 810 nm diode laser at 0.5–2 W was the wavelength/power combination least likely to cause thermal damage to peri-incisional margins for oral soft-tissue biopsy. [[07 Data/Gutierrez-Corrales et al 2020 - Diode Wavelength Operating Parameters]]
+- SUPPORTING (n=1 case report, genuine outlier): Capodiferro et al. 2009 (880 nm diode, 2.5 W CW, 300 μm fiber, real human excisional biopsy of a tongue lipoma) found *no* margin thermal alteration at all — "no alteration related to thermal effects such as separations or volumetric changes" — confirmed by both conventional H&E and confocal autofluorescence microscopy in central and peripheral specimen areas. This is the only source in this vault's margin evidence reporting a complete absence of measurable margin thermal change; as a single case it cannot be generalized or pooled with the four sub-millimeter-damage sources above. [[07 Data/Capodiferro et al 2009 - Diode Laser Chondroid Lipoma Case Report Data]]
 
 ## Conflicting findings
 
@@ -33,7 +34,7 @@
 
 - Concepts: [[03 Concepts/Glossary/Specimen Margin]], [[03 Concepts/Glossary/Thermal Damage]], [[03 Concepts/Glossary/Diagnostic Quality]]
 - Evidence: [[04 Evidence/Tip Initiation and Fiber Condition - Supporting Evidence]], [[04 Evidence/Thermal Artifact]], [[04 Evidence/Biopsy Specimen Quality]]
-- Data: [[07 Data/Angiero et al 2011 - Diode Laser Biopsy Specimen Size and Diagnostic Yield]], [[07 Data/Romeo et al 2014 - Diode and KTP Laser Biopsy Margin Data]], [[07 Data/Azevedo et al 2016 - Diode Laser Thermal Damage and Carbonization Data]], [[07 Data/Gambino et al 2026 - Diode Laser OCT and Histologic Thermal Damage Data]]
+- Data: [[07 Data/Angiero et al 2011 - Diode Laser Biopsy Specimen Size and Diagnostic Yield]], [[07 Data/Romeo et al 2014 - Diode and KTP Laser Biopsy Margin Data]], [[07 Data/Azevedo et al 2016 - Diode Laser Thermal Damage and Carbonization Data]], [[07 Data/Gambino et al 2026 - Diode Laser OCT and Histologic Thermal Damage Data]], [[07 Data/Capodiferro et al 2009 - Diode Laser Chondroid Lipoma Case Report Data]]
 - Project: [[01 Projects/Diode Laser Biopsy]]
 
 ## สรุปภาษาไทย
@@ -44,3 +45,4 @@
 - Azevedo et al. วัด ETTD 456–627 ไมโครเมตรในแบบจำลองลิ้นหมู
 - Gambino et al. เป็นแหล่งข้อมูลเดียวที่มีกลุ่มควบคุมเนื้อเยื่อปกติจริง พบว่าเนื้อเยื่อที่ผ่านเลเซอร์หนากว่ากลุ่มควบคุมอย่างมีนัยสำคัญ แต่ยังวินิจฉัยได้ 100% ที่ขอบตัดมาตรฐาน 5 มม. ซึ่งตรงกับคำแนะนำของ Angiero et al. โดยอิสระจากกัน
 - ยังไม่มีแหล่งข้อมูลใดเชื่อมโยงค่ากำลังที่วัดได้จริงกับสภาพขอบชิ้นเนื้อ
+- เพิ่มเติม (อัปเดตนี้): Capodiferro et al. 2009 (รายงานผู้ป่วย 1 ราย, 880 nm, 2.5W CW) พบว่าขอบตัดไม่มีร่องรอยความเสียหายจากความร้อนเลย — เป็นข้อมูลกรณีเดียว ไม่สามารถสรุปเป็นภาพรวมได้

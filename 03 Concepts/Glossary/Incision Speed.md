@@ -12,6 +12,8 @@ Incision speed (ความเร็วในการตัด) คืออ�
 
 [[03 Concepts/Operating Parameters]] already records Al-Ani et al.'s incision-speed control as FACT. NEEDS EVIDENCE for any vault source that varies incision speed as an independent variable and measures its effect on thermal damage or specimen histologic quality — no source currently in this vault does this.
 
+A second numeric diode incision-speed value now exists: Li et al. 2022 reports a fixed "tip movement speed" of 1 mm/s for a 300 μm, 3.0 W pulsed diode laser in a mouse oral-mucosa wound model ([[07 Data/Li et al 2022 - Diode vs Er-YAG vs Cold Scalpel Mice Oral Mucosa Data]]), alongside the vault's existing Goharkhay et al. 1999 value (10 mm/s, ex vivo pig mandible, different device). Speed was held fixed in both sources, not varied as an independent variable, and the two values are not transferable to each other (different device, species, and tissue context) or to any diagnostic-biopsy source in this vault — the NEEDS EVIDENCE gap above is unchanged.
+
 ## Common confusion
 
 Incision speed is an operator/technique-dependent variable, not a device setting — it is not reported by any of this vault's power-deviation sources (Parker, Xue, Zegaib, Kim), because those studies measure static fiber-tip output rather than a moving incision.
