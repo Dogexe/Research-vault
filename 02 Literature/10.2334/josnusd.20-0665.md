@@ -12,3 +12,10 @@ zotero-key: Y2NE5J4Z
 %%zt-managed%%
 
 %%/zt-managed%%
+
+## Vault processing
+
+- Operating-parameter extraction: [[07 Data/Palaia et al 2021 - 445 nm Diode Laser In Vivo Biopsy Thermal Effect Data]]
+- Classification: real human in vivo diagnostic-biopsy pathway (n=42 excisional biopsies, 100% diagnostic yield) — a core biopsy-quality source, comparable to Angiero et al. 2011, Romeo et al. 2014, and Gambino et al. 2026.
+- Notable: 445 nm wavelength (bluer than the vault's other diode sources); reports significantly greater epithelial than connective-tissue thermal effect (opposite compartment pattern from Gambino et al. 2026's 980 nm result); contains an unresolved internal SD/mean discrepancy between its Abstract/Results text and its own Table 1 summary row.
+- See [[06 Synthesis/Diode Laser Biopsy Pre-setting Map]].
