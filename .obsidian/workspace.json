@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Literature/Angiero et al 2011 - Diode Laser Applied to Oral Soft Tissue Lesions.md",
+                "file": "01 Projects/Diode Laser Master.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Angiero et al 2011 - Diode Laser Applied to Oral Soft Tissue Lesions"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a5801497e5674397",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "51183bd9efa88d52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Concepts/Glossary/Measured Power.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Measured Power"
+              "title": "Diode Laser Master"
             }
           }
         ]
@@ -223,8 +203,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51183bd9efa88d52",
+  "active": "e29076f1deb0efc5",
   "lastOpenFiles": [
+    "02 Literature/Angiero et al 2011 - Diode Laser Applied to Oral Soft Tissue Lesions.md",
+    "02 Literature/10.1007/s10103-011-0900-7.md",
+    "03 Concepts/Glossary/Measured Power.md",
     "03 Concepts/Glossary/Power Output.md",
     "03 Concepts/Glossary/Diagnostic Quality.md",
     "01 Projects/Diode Laser Biopsy.md.tmp.33996.505ab555f8f3",
@@ -239,7 +222,6 @@
     "04 Evidence/Surgical Margins.md.tmp.33996.c9f9a0102b7d",
     "04 Evidence/Thermal Artifact.md.tmp.33996.ade8e5204407",
     "04 Evidence/Biopsy Specimen Quality.md.tmp.33996.fabd03b67fd3",
-    "02 Literature/Angiero et al 2011 - Diode Laser Applied to Oral Soft Tissue Lesions.md",
     "03 Concepts/Glossary/Carbonization.md.tmp.33996.15a84b73472c",
     "03 Concepts/Glossary/Histological Artifact.md.tmp.33996.eee8f77fcfbd",
     "03 Concepts/Glossary/Diagnostic Quality.md.tmp.33996.3fc8eb31ee57",
@@ -254,12 +236,10 @@
     "02 Literature/10.3390/photonics9040219.md",
     "02 Literature/10.3390/mi15010031.md",
     "02 Literature/10.4317/jced.52830.md",
-    "02 Literature/10.1007/s10103-011-0900-7.md",
     "02 Literature/10.4317/medoral.23317.md",
     "02 Literature/10.34172/jlms.2023.37.md",
     "02 Literature/Romeo et al 2014 - Biopsy of Oral Soft Tissue Lesions by KTP and Diode Laser.md",
     "02 Literature/Fahlstedt et al 2021 - Dental Implant Surface Temperatures.md",
-    "02 Literature/Azevedo et al 2016 - Surgical Margins by Different Laser Wavelengths in Tongue Tissue.md",
-    "07 Data/Angiero et al 2011 - Diode Laser Biopsy Specimen Size and Diagnostic Yield.md"
+    "02 Literature/Azevedo et al 2016 - Surgical Margins by Different Laser Wavelengths in Tongue Tissue.md"
   ]
 }
