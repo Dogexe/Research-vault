@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md",
+                "file": "03 Concepts/Glossary/Coagulation Zone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diode Laser Biopsy Pre-setting Map"
+              "title": "Coagulation Zone"
             }
           }
         ]
@@ -205,6 +205,12 @@
   },
   "active": "c6ffd2e55847c5c4",
   "lastOpenFiles": [
+    "03 Concepts/Glossary/Carbonization.md",
+    "00 Inbox/Shortlist - PubMed Candidates 3-7 (Adjacent, Not Core Diode-Output Evidence).md",
+    "01 Projects/Diode Laser Biopsy.md",
+    "01 Projects/Diode Laser Master.md",
+    "07 Data.md",
+    "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md",
     "02 Literature/CO2 and diode laser for excisional biopsies of oral mucosal lesions. A pilot study evaluating clinical and histopathological parameters.md",
     "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md.tmp.25088.3a51a921b70b",
     "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md.tmp.25088.9dd21756c06f",
@@ -227,18 +233,13 @@
     "02 Literature/Angiero et al 2011 - Diode Laser Applied to Oral Soft Tissue Lesions.md",
     "02 Literature/10.2334/josnusd.20-0665.md",
     "02 Literature/10.1002/(SICI)1096-9101(1999)25_5_401__AID-LSM6_3.0.CO;2-U.md",
-    "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md",
     "06 Synthesis/Contradictions in Diode Laser Biopsy Evidence.md",
     "06 Synthesis/Research Gaps in Dental Diode Laser Output.md",
     "06 Synthesis/Current Evidence on Diode Laser Power Output.md",
     "06 Synthesis/Diode Laser Biopsy Specimen Quality.md",
-    "01 Projects/Diode Laser Biopsy.md",
     "04 Evidence/Biopsy Specimen Quality.md",
     "04 Evidence/Tip Initiation and Fiber Condition - Supporting Evidence.md",
     "03 Concepts/Glossary/Diagnostic Quality.md",
-    "03 Concepts/Glossary/Histological Artifact.md",
-    "04 Evidence/Power Loss and Deviation Across Dental Diode Devices.md",
-    "01 Projects/Diode Laser Master.md",
-    "00 Inbox/Shortlist - PubMed Candidates 3-7 (Adjacent, Not Core Diode-Output Evidence).md"
+    "03 Concepts/Glossary/Histological Artifact.md"
   ]
 }
