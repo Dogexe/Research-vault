@@ -1,3 +1,5 @@
+**SUPERSEDED.** This note was created manually (via the PMC full-text API) before a Zotero-managed note existed for this source. The canonical literature note is now [[02 Literature/10.4317/jced.52830]], which also carries Table 1/2/4 cell values not captured here. Structured extraction: [[07 Data/Azevedo et al 2016 - Diode Laser Thermal Damage and Carbonization Data]]. This note is kept for history rather than deleted; do not add new links to it.
+
 # Literature Note
 
 ## Source

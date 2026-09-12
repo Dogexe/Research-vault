@@ -1,3 +1,5 @@
+**SUPERSEDED.** This note was created manually from an abstract-only extraction before a Zotero-managed note existed for this source. The canonical literature note is now [[02 Literature/10.1007/s10103-011-0900-7]] (full text retrieved), with structured extraction at [[07 Data/Angiero et al 2011 - Diode Laser Biopsy Specimen Size and Diagnostic Yield]]. This note is kept for history rather than deleted; do not add new links to it.
+
 # Literature Note
 
 ## Source

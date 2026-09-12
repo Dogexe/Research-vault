@@ -12,3 +12,9 @@ zotero-key: 464BCCSL
 %%zt-managed%%
 
 %%/zt-managed%%
+
+## Vault processing
+
+- Operating-parameter extraction: [[07 Data/Romeo et al 2014 - Diode and KTP Laser Biopsy Margin Data]]
+- Note: full text retrieved from the attached Wiley Online Library page (local Zotero cache), including per-patient data tables (Tables 1–4) not available from the PMC full-text API used in this vault's earlier pass.
+- Superseded: [[02 Literature/Romeo et al 2014 - Biopsy of Oral Soft Tissue Lesions by KTP and Diode Laser]] was created manually before this Zotero-managed note existed; it is now superseded by this note as the canonical literature note for this source.

@@ -1,3 +1,5 @@
+**SUPERSEDED.** This note was created manually (via the PMC full-text API) before a Zotero-managed note existed for this source. The canonical literature note is now [[02 Literature/Biopsy of Different Oral Soft Tissues Lesions by KTP and Diode Laser_ Histological Evaluation - Romeo - 2014 - The Scientific World Journal - Wiley Online Library]], which also carries per-patient data tables not captured here. Structured extraction: [[07 Data/Romeo et al 2014 - Diode and KTP Laser Biopsy Margin Data]]. This note is kept for history rather than deleted; do not add new links to it.
+
 # Literature Note
 
 ## Source
