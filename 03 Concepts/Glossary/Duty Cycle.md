@@ -18,7 +18,7 @@ Duty Cycle (%) = (Pulse Duration / Period) × 100 = Pulse Duration × Frequency 
 
 ## In this vault
 
-Reported explicitly in [[07 Data/Xue et al 2022 - Two Semiconductor Lasers Power Output]] (50% for all three devices) and [[07 Data/Romanos et al 2022 - Initiated vs Non-Initiated Diode Laser Penetration Depth]] (50%, chopped-pulse mode). [[07 Data/Mazzoni et al 2026 - Neonatal Frenulum Laser Parameters]] reports pulse duration (0.05 ms) and frequency (20 Hz) — from which a duty cycle of 0.1% could be calculated — but does not itself report a duty cycle value, and this vault does not assert one on the source's behalf; see [[03 Concepts/Glossary/Average Power]] for the resulting arithmetic tension with the source's separately reported average/peak power values. [[07 Data/Al-Ani et al 2023 - Dual-Wavelength Diode Operating Parameters]] and [[07 Data/Gutierrez-Corrales et al 2020 - Diode Wavelength Operating Parameters]] do not report duty cycle for their diode systems (recorded as UNKNOWN).
+Reported explicitly in [[07 Data/Xue et al 2022 - Two Semiconductor Lasers Power Output]] (50% for all three devices) and [[07 Data/Romanos et al 2022 - Initiated vs Non-Initiated Diode Laser Penetration Depth]] (50%, chopped-pulse mode). [[07 Data/Mazzoni et al 2026 - Neonatal Frenulum Laser Parameters]] reports pulse duration (0.05 ms) and frequency (20 Hz) — from which a duty cycle of 0.1% could be calculated — but does not itself report a duty cycle value, and this vault does not assert one on the source's behalf; see [[Average Power]] for the resulting arithmetic tension with the source's separately reported average/peak power values. [[07 Data/Al-Ani et al 2023 - Dual-Wavelength Diode Operating Parameters]] and [[07 Data/Gutierrez-Corrales et al 2020 - Diode Wavelength Operating Parameters]] do not report duty cycle for their diode systems (recorded as UNKNOWN).
 
 ## Common confusion
 
@@ -34,5 +34,5 @@ The concept is standardized in ISO 11145 (*Optics and photonics — Lasers and l
 
 - [[03 Concepts/Glossary/Pulse Duration]]
 - [[03 Concepts/Glossary/Frequency]]
-- [[03 Concepts/Glossary/Average Power]]
+- [[Average Power]]
 - [[03 Concepts/Glossary/Peak Power]]

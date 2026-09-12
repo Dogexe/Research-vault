@@ -14,7 +14,7 @@ Most of the vault's core dental sources use CW mode for at least part of their p
 
 ## Common confusion
 
-Do not assume "power" reported for a CW source is directly comparable in magnitude to "power" reported for a pulsed source without checking whether the pulsed value is peak, average, or per-pulse — see [[03 Concepts/Glossary/Average Power]] and [[03 Concepts/Glossary/Peak Power]].
+Do not assume "power" reported for a CW source is directly comparable in magnitude to "power" reported for a pulsed source without checking whether the pulsed value is peak, average, or per-pulse — see [[Average Power]] and [[03 Concepts/Glossary/Peak Power]].
 
 ## Source basis
 
@@ -25,6 +25,6 @@ Continuous wave (CW) is defined in ANSI Z136.1 (American National Standard for S
 ## Related
 
 - [[03 Concepts/Glossary/Pulsed Mode]]
-- [[03 Concepts/Glossary/Average Power]]
+- [[Average Power]]
 - [[03 Concepts/Glossary/Peak Power]]
 - [[03 Concepts/Glossary/Duty Cycle]]

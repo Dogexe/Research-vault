@@ -31,6 +31,6 @@ The underlying physical quantity, radiant power (W), is standardized in ISO 1114
 - [[03 Concepts/Glossary/Set Power]]
 - [[03 Concepts/Glossary/Measured Power]]
 - [[03 Concepts/Glossary/Delivered Power]]
-- [[03 Concepts/Glossary/Average Power]]
+- [[Average Power]]
 - [[03 Concepts/Glossary/Peak Power]]
 - [[03 Concepts/Power Output]] (vault concept note, evidence-grounded)

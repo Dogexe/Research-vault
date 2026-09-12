@@ -32,7 +32,7 @@ Peak power is a standard pulsed-laser radiometric quantity defined in ISO 11145 
 
 ## Related
 
-- [[03 Concepts/Glossary/Average Power]]
+- [[Average Power]]
 - [[03 Concepts/Glossary/Duty Cycle]]
 - [[03 Concepts/Glossary/Pulsed Mode]]
 - [[03 Concepts/Glossary/Pulse Duration]]

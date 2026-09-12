@@ -33,4 +33,4 @@ The underlying radiometric quantity is standardized as "radiant exposure" (J/cmÂ
 ## Related
 
 - [[03 Concepts/Glossary/Irradiance]]
-- [[03 Concepts/Glossary/Average Power]]
+- [[Average Power]]

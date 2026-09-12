@@ -4,7 +4,7 @@ A technical glossary of standard laser/biomedical terms used across this vault's
 
 ## Terms (alphabetical)
 
-- [[03 Concepts/Glossary/Average Power]]
+- [[Average Power]]
 - [[03 Concepts/Glossary/Contact Mode]]
 - [[03 Concepts/Glossary/Continuous Wave]]
 - [[03 Concepts/Glossary/Delivered Power]]
