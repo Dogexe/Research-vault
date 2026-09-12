@@ -34,6 +34,7 @@ The first two links are covered by this vault's existing core evidence ([[04 Evi
 - [[04 Evidence/Thermal Artifact]] — PARTIAL EVIDENCE (Angiero et al. 2011, Azevedo et al. 2016, Gambino et al. 2026 processed: direct dental-diode thermal-damage/carbonization measurements)
 - [[04 Evidence/Surgical Margins]] — PARTIAL EVIDENCE (Angiero et al. 2011, Romeo et al. 2014, Azevedo et al. 2016, Gambino et al. 2026 all processed)
 - [[04 Evidence/Power Output and Tissue Effect]] — still NEEDS EVIDENCE (the central bridge node); all four processed papers report set power only, reinforcing rather than closing this gap
+- [[06 Synthesis/Diode Laser Biopsy Specimen Quality]] — PROVISIONAL synthesis of the four processed biopsy sources; confirmed Capodiferro et al. 2008 still has no full-text literature note in `02 Literature/` and was not processed in this pass
 - Reused background (already in vault, not created by this task): [[04 Evidence/Tip Initiation and Fiber Condition - Supporting Evidence]] — contains Gutiérrez-Corrales et al. 2020's explicit conclusion that an 810 nm diode laser at 0.5–2 W was the wavelength/power combination least likely to cause thermal damage to peri-incisional margins "for oral soft-tissue biopsy."
 
 ## Processed papers
