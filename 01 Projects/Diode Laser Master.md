@@ -2,9 +2,19 @@
 
 Main hub for research on dental diode lasers, laser presetting, power output, power losses, and operating parameters.
 
+## Logic chain
+
+Device preset → actual delivered output → operating parameters → tissue interaction → biopsy specimen quality
+
+This vault's existing power-output/power-loss evidence (below) covers the first two links. The tissue-interaction and biopsy-specimen-quality links are tracked in the companion project [[01 Projects/Diode Laser Biopsy]], which does not duplicate or alter this note's existing content.
+
 ## Workflow
 
 Source → extracted data → claim → evidence → synthesis
+
+## Related projects
+
+- [[01 Projects/Diode Laser Biopsy]] — biopsy specimen-quality extension of this hub's research
 
 ## Literature
 
