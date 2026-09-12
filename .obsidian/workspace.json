@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Concepts/Glossary/Diagnostic Quality.md",
+                "file": "04 Evidence/Biopsy Specimen Quality.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diagnostic Quality"
+              "title": "Biopsy Specimen Quality"
             }
           }
         ]
@@ -205,11 +205,13 @@
   },
   "active": "c6ffd2e55847c5c4",
   "lastOpenFiles": [
+    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md",
+    "06 Synthesis/Current Evidence on Diode Laser Power Output.md",
+    "06 Synthesis/Research Gaps in Dental Diode Laser Output.md",
+    "04 Evidence/Tip Initiation and Fiber Condition - Supporting Evidence.md",
+    "03 Concepts/Glossary/Diagnostic Quality.md",
     "03 Concepts/Glossary/Histological Artifact.md",
     "04 Evidence/Biopsy Specimen Quality.md",
-    "06 Synthesis/Current Evidence on Diode Laser Power Output.md",
-    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md",
-    "06 Synthesis/Research Gaps in Dental Diode Laser Output.md",
     "01 Projects/Diode Laser Biopsy.md",
     "04 Evidence/Power Loss and Deviation Across Dental Diode Devices.md",
     "01 Projects/Diode Laser Master.md",
@@ -232,14 +234,12 @@
     "02 Literature/10.1007/s10103-011-0900-7.md",
     "03 Concepts/Glossary/Measured Power.md",
     "03 Concepts/Glossary/Power Output.md",
-    "03 Concepts/Glossary/Diagnostic Quality.md",
     "03 Concepts/Glossary/Thermal Damage.md",
     "03 Concepts/Glossary/Carbonization.md",
     "03 Concepts/Glossary/Coagulation Zone.md",
     "04 Evidence/Surgical Margins.md",
     "07 Data/Gambino et al 2026 - Diode Laser OCT and Histologic Thermal Damage Data.md",
     "03 Concepts/Operating Parameters.md",
-    "02 Literature/Biopsy of Different Oral Soft Tissues Lesions by KTP and Diode Laser_ Histological Evaluation - Romeo - 2014 - The Scientific World Journal - Wiley Online Library.md",
-    "02 Literature/10.1007/s10103-021-03491-y.md"
+    "02 Literature/Biopsy of Different Oral Soft Tissues Lesions by KTP and Diode Laser_ Histological Evaluation - Romeo - 2014 - The Scientific World Journal - Wiley Online Library.md"
   ]
 }
