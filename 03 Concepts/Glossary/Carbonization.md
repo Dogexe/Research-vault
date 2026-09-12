@@ -10,7 +10,7 @@ Carbonization (การไหม้เป็นถ่าน) คือการ
 
 ## In this vault
 
-NEEDS EVIDENCE for a dental-diode source pairing measured/delivered power with a carbonization score at the specimen margin; Azevedo et al. above is an identified, unprocessed candidate (see [[01 Projects/Diode Laser Biopsy]]). A related but distinct vault concept is fiber-tip [[03 Concepts/Glossary/Initiated Tip]] preparation, which deliberately produces a carbonized layer at the *fiber tip itself* (not the specimen) to increase absorption — the two uses of "carbonization" (tip preparation vs. specimen artifact) should not be conflated.
+Azevedo et al. 2016 is now processed ([[07 Data/Azevedo et al 2016 - Diode Laser Thermal Damage and Carbonization Data]]): across all instruments tested (including a 980 nm diode), the study found a significant correlation between thermal-damage extent (ETTD) and macroscopic carbonization degree (r = 0.789, p = 0.01). The diode laser's own numeric carbonization-degree score was not reproduced in the retrieved full text (only the pooled correlation and qualitative statements were available), so it is recorded as UNKNOWN rather than inferred. NEEDS EVIDENCE remains for a dental-diode source pairing measured/delivered (calibrated) power with a carbonization score at the specimen margin. A related but distinct vault concept is fiber-tip [[03 Concepts/Glossary/Initiated Tip]] preparation, which deliberately produces a carbonized layer at the *fiber tip itself* (not the specimen) to increase absorption — the two uses of "carbonization" (tip preparation vs. specimen artifact) should not be conflated.
 
 ## Common confusion
 

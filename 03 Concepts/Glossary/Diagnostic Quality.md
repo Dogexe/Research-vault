@@ -10,7 +10,7 @@ Diagnostic quality (คุณภาพในการวินิจฉัย) �
 
 ## In this vault
 
-NEEDS EVIDENCE — no vault source currently links a calibrated/measured dental diode power value directly to a diagnostic-yield outcome. Both sources above are identified, unprocessed candidates that report specimen-size-dependent diagnostic-yield results in apparently different directions (Angiero et al.: diagnosis fails below ~3 mm; Gambino et al.: diagnosis preserved at a standardized 5 mm margin) and should be read together as scoping the same underlying variable (specimen size relative to thermal-alteration depth), not averaged or treated as conflicting. See [[01 Projects/Diode Laser Biopsy]].
+Angiero et al. 2011 is now processed ([[07 Data/Angiero et al 2011 - Diode Laser Biopsy Specimen Size and Diagnostic Yield]]): diagnosis was "not achievable" in 46.15% of 808 nm diode-excised specimens smaller than 3 mm (n=608 total cases), versus no significant diagnostic issue reported for specimens over 3 mm. Romeo et al. 2014 is also now processed ([[07 Data/Romeo et al 2014 - Diode and KTP Laser Biopsy Margin Data]]): a certainty diagnosis was achieved in 17/17 (100%) diode/KTP-excised specimens (lesion size 0.5–1 cm, i.e., 5–10 mm — above Angiero et al.'s 3 mm failure threshold). These two processed sources are consistent with specimen size relative to thermal-alteration depth being the operative variable, rather than a contradiction between them. Gambino et al. 2026 remains an unprocessed candidate reporting a similar pattern at a standardized 5 mm margin — see [[01 Projects/Diode Laser Biopsy]]. NEEDS EVIDENCE remains for linking a calibrated/measured (as opposed to set) dental diode power value directly to diagnostic-yield outcome.
 
 ## Common confusion
 

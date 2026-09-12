@@ -10,7 +10,7 @@ Specimen margin (ขอบชิ้นเนื้อ) คือขอบรอ�
 
 ## In this vault
 
-NEEDS EVIDENCE — no vault source yet quantifies specimen-margin condition against a calibrated/measured dental diode output value; both sources above are identified, unprocessed candidates (see [[01 Projects/Diode Laser Biopsy]]). [[04 Evidence/Tip Initiation and Fiber Condition - Supporting Evidence]] documents Gutiérrez-Corrales et al.'s related but non-biopsy-specific finding that thermal-damage/necrosis area at peri-incisional margins increased with power (0.5→2.0 W) regardless of wavelength, in an in vitro porcine model — not a diagnostic-biopsy outcome.
+Both sources above are now processed: [[07 Data/Angiero et al 2011 - Diode Laser Biopsy Specimen Size and Diagnostic Yield]] (n=608, 808 nm diode, 1.6–2.7 W CW) and [[07 Data/Romeo et al 2014 - Diode and KTP Laser Biopsy Margin Data]] (n=17, 808 nm diode 2 W CW vs. 532 nm KTP 1.5 W PW, margin damage 0.149–0.473 mm by lesion type). [[07 Data/Azevedo et al 2016 - Diode Laser Thermal Damage and Carbonization Data]] adds an ex vivo margin-damage measurement (ETTD 456.15–626.82 μm for a 980 nm diode) but is not a diagnostic-biopsy specimen. NEEDS EVIDENCE remains for quantifying specimen-margin condition against a calibrated/measured (as opposed to set) dental diode output value. [[04 Evidence/Tip Initiation and Fiber Condition - Supporting Evidence]] separately documents Gutiérrez-Corrales et al.'s related finding that thermal-damage/necrosis area at peri-incisional margins increased with set power (0.5→2.0 W) regardless of wavelength, in an in vitro porcine model.
 
 ## Common confusion
 

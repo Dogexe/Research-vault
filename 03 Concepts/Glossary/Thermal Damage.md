@@ -10,7 +10,7 @@ Thermal damage (ความเสียหายจากความร้อ�
 
 ## In this vault
 
-Existing background evidence [[04 Evidence/Tip Initiation and Fiber Condition - Supporting Evidence]] already documents thermal-damage-adjacent findings from Gutiérrez-Corrales et al. (histologic thermal-damage area and necrosis area, 0.5–2.0 W, six wavelengths) and Romanos et al. (histologic penetration depth of thermal effect, 445/970 nm, 2 W) — but neither source is dental-diode biopsy-specimen-quality evidence measured against a calibrated/verified delivered-power value. See [[04 Evidence/Thermal Artifact]] for the biopsy-specific placeholder. NEEDS EVIDENCE for a dental-diode source that pairs a calibrated measured-output value with a quantified thermal-damage-zone histology outcome.
+Existing background evidence [[04 Evidence/Tip Initiation and Fiber Condition - Supporting Evidence]] already documents thermal-damage-adjacent findings from Gutiérrez-Corrales et al. (histologic thermal-damage area and necrosis area, 0.5–2.0 W, six wavelengths) and Romanos et al. (histologic penetration depth of thermal effect, 445/970 nm, 2 W). Azevedo et al. 2016 (now processed — [[07 Data/Azevedo et al 2016 - Diode Laser Thermal Damage and Carbonization Data]]) directly measured Extent of Thermal Tissue Damage (ETTD) for a 980 nm diode laser in ex vivo porcine tongue: 456.15 μm at 3.5 W PW and 626.82 μm at 3.5 W Boost PW. None of these sources pairs the thermal-damage measurement with a calibrated/verified delivered-power value — all use set/console power. See [[04 Evidence/Thermal Artifact]]. NEEDS EVIDENCE for a dental-diode source that pairs a calibrated measured-output value with a quantified thermal-damage-zone histology outcome.
 
 ## Common confusion
 

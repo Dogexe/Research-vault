@@ -10,7 +10,7 @@ Histological artifact (สิ่งแปลกปลอมทางจุลพ
 
 ## In this vault
 
-NEEDS EVIDENCE — no vault source yet separates laser-induced artifact from standard histologic-processing artifact using a controlled comparison specific to dental diode devices. Romeo et al. above is an identified but unprocessed candidate; see [[01 Projects/Diode Laser Biopsy]] for the full candidate list and processing status.
+Romeo et al. above is now processed ([[07 Data/Romeo et al 2014 - Diode and KTP Laser Biopsy Margin Data]]): the source states that many artifacts observed on its 17 diode/KTP-excised specimens were attributable to standard tissue fixation/sectioning/staining procedures rather than to the laser itself — a direct, if qualitative, source-level statement distinguishing processing artifact from laser-induced thermal artifact. No vault source yet quantifies the two separately with a controlled comparison (e.g., laser vs. scalpel specimens processed identically) specific to dental diode devices; this remains NEEDS EVIDENCE.
 
 ## Common confusion
 
