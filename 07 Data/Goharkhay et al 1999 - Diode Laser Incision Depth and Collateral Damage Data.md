@@ -1,3 +1,32 @@
+---
+classification: "SUPPORTING TECHNICAL"
+oral_tissue: true
+ex_vivo: true
+human_tissue: false
+diode_laser: true
+wavelength_nm: 810
+set_power_w: null
+measured_power: true
+measured_power_w: [0.5, 4.5]
+power_meter: "wattmeter (brand unspecified)"
+measurement_location: "fiber outflow"
+incision_speed_reported: true
+speed_mm_s: 10
+speed_control: measured
+cw_pw: "CW+PW"
+fiber_diameter_um: [200, 400]
+tip_initiation: null
+contact_mode: null
+histology: true
+thermal_damage: true
+margin_quality: null
+tissue_architecture: null
+diagnostic_outcome: false
+biopsy_oriented: false
+full_text: true
+needs_verification: false
+---
+
 # Laser Operating Parameters
 
 Record values exactly as reported. Use `UNKNOWN` when a value is not reported; do not infer missing parameters.

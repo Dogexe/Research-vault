@@ -1,3 +1,32 @@
+---
+classification: "CORE BIOPSY"
+oral_tissue: true
+ex_vivo: false
+human_tissue: true
+diode_laser: true
+wavelength_nm: 445
+set_power_w: 2.5
+measured_power: false
+measured_power_w: null
+power_meter: null
+measurement_location: null
+incision_speed_reported: false
+speed_mm_s: null
+speed_control: unknown
+cw_pw: "CW"
+fiber_diameter_um: 320
+tip_initiation: null
+contact_mode: null
+histology: true
+thermal_damage: true
+margin_quality: null
+tissue_architecture: null
+diagnostic_outcome: true
+biopsy_oriented: true
+full_text: true
+needs_verification: true
+---
+
 # Laser Operating Parameters
 
 Record values exactly as reported. Use `UNKNOWN` when a value is not reported; do not infer missing parameters.

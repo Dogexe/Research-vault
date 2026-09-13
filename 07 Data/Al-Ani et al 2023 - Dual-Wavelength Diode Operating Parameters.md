@@ -1,3 +1,32 @@
+---
+classification: "SUPPORTING TECHNICAL"
+oral_tissue: true
+ex_vivo: true
+human_tissue: false
+diode_laser: true
+wavelength_nm: [810, 980]
+set_power_w: [1.5, 2.5]
+measured_power: false
+measured_power_w: null
+power_meter: "PINTUDY"
+measurement_location: null
+incision_speed_reported: true
+speed_mm_s: 0.75
+speed_control: clinician-controlled
+cw_pw: "CW"
+fiber_diameter_um: 400
+tip_initiation: "initiated"
+contact_mode: "contact"
+histology: false
+thermal_damage: true
+margin_quality: null
+tissue_architecture: null
+diagnostic_outcome: false
+biopsy_oriented: false
+full_text: true
+needs_verification: false
+---
+
 # Laser Operating Parameters
 
 Record values exactly as reported. Use `UNKNOWN` when a value is not reported; do not infer missing parameters.

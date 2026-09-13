@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Evidence/Output Accuracy and Repeatability - Supporting Evidence.md",
+                "file": "07 Data/Hanke et al 2021 - Eight-Wavelength Diode Cut Efficiency Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Output Accuracy and Repeatability - Supporting Evidence"
+              "title": "Hanke et al 2021 - Eight-Wavelength Diode Cut Efficiency Data"
             }
           }
         ]
@@ -229,10 +229,23 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "e29076f1deb0efc5",
+  "active": "c6ffd2e55847c5c4",
   "lastOpenFiles": [
-    "04 Evidence/Biopsy Specimen Quality.md",
+    "00 Inbox/Shortlist - PubMed Candidates 3-7 (Adjacent, Not Core Diode-Output Evidence).md",
+    "99 Templates/Study Metadata Schema.md",
+    "99 Templates/Study Metadata Schema.md.tmp.36408.52860a2fcde5",
+    "06 Synthesis/Study Dashboard.md",
+    "06 Synthesis/Study Dashboard.md.tmp.36408.4c3dfac99b3e",
+    "07 Data/Merigo et al 2012 - Five-Wavelength Ex Vivo Thermal and Histologic Comparison Data.md.tmp.36408.187286ed3088",
+    "07 Data/Spille et al 2026 - Diode Laser Learning-Curve and Target-Based Accuracy Data.md.tmp.36408.230519fd788b",
+    "07 Data/Shnawa et al 2025 - Diode Laser vs Scalpel Oral Fibroma Excision Data.md.tmp.36408.9f2f16261584",
+    "07 Data/Angiero et al 2011 - Diode Laser Biopsy Specimen Size and Diagnostic Yield.md.tmp.36408.bb81f19033bb",
+    "07 Data/Pergolini et al 2025 - Dual-Wavelength Diode Laser Ex Vivo Thermal Damage Data.md.tmp.36408.0c2659e1af67",
+    "07 Data/Gundlapalle et al 2022 - Diode Laser CW vs PW Biopsy Margin Data.md.tmp.36408.a36ea9aba769",
+    "07 Data/Palaia et al 2021 - 445 nm Diode Laser In Vivo Biopsy Thermal Effect Data.md.tmp.36408.5de3a2d782e1",
+    "07 Data/Al-Ani et al 2024 - Dual-Wavelength Diode vs Er,Cr YSGG Biopsy Margin Histology Data.md.tmp.36408.df467891fe23",
     "04 Evidence/Output Accuracy and Repeatability - Supporting Evidence.md",
+    "04 Evidence/Biopsy Specimen Quality.md",
     "04 Evidence/Power Loss and Deviation Across Dental Diode Devices.md",
     "04 Evidence/Set Power vs Measured Output.md",
     "04 Evidence/Surgical Margins.md",
@@ -244,14 +257,6 @@
     "07 Data/Strakas et al 2023 - 940nm Diode Cutting Efficiency and Thermal Damage Data.md",
     "01 Projects/Diode Laser Biopsy.md",
     "01 Projects/Diode Laser Master.md",
-    "04 Evidence/Biopsy Specimen Quality.md.tmp.36408.eab3f52fa132",
-    "04 Evidence/Surgical Margins.md.tmp.36408.5edac52cef69",
-    "04 Evidence/Thermal Artifact.md.tmp.36408.8c802570a4a1",
-    "04 Evidence/Power Output and Tissue Effect.md.tmp.36408.031b749954cd",
-    "06 Synthesis/Novelty Check - Prior Systematic Review.md.tmp.36408.60c7763ab716",
-    "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md.tmp.36408.631db21dee04",
-    "06 Synthesis/Novelty Matrix - Diode Laser Biopsy.md.tmp.36408.ee2df22cca0d",
-    "01 Projects/Diode Laser Biopsy.md.tmp.36408.5a99310983c6",
     "06 Synthesis/Contradictions in Diode Laser Biopsy Evidence.md",
     "06 Synthesis/Current Evidence on Diode Laser Power Output.md",
     "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md",
@@ -260,12 +265,7 @@
     "06 Synthesis/Research Gaps in Dental Diode Laser Output.md",
     "07 Data/Gutierrez-Corrales et al 2020 - Diode Wavelength Operating Parameters.md",
     "07 Data/Xue et al 2022 - Two Semiconductor Lasers Power Output.md",
-    "01 Projects/Diode Laser Biopsy.md.tmp.36408.a9ce08d1d6fa",
-    "06 Synthesis/Novelty Matrix - Diode Laser Biopsy.md.tmp.36408.471e5ac94e47",
     "07 Data/Lu et al 2026 - Dual-Wavelength 980-1470 nm Liver Cutting Parameters Data (Abstract-Level).md",
-    "02 Literature/Cutting Liver Tissue with a Novel 980/Lu 2026 - Dual-Wavelength Liver Cutting Parameters.md",
-    "07 Data/Isola et al 2018 - Diode Laser Pyogenic Granuloma Excision Speed Data.md",
-    "02 Literature/10.1007/s10103-021-03491-y_QFwgHj.md",
-    "07 Data/Parker et al 2022 - Delivery Power Losses and Operating Parameters.md"
+    "02 Literature/Cutting Liver Tissue with a Novel 980/Lu 2026 - Dual-Wavelength Liver Cutting Parameters.md"
   ]
 }
