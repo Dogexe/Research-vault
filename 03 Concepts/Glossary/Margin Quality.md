@@ -1,5 +1,5 @@
 ---
-aliases: [Margin Readability]
+aliases: [Margin Readability, Margin Interpretability]
 category: histopathology-biopsy
 unit:
 symbol:

@@ -11,10 +11,14 @@
             "id": "c6ffd2e55847c5c4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "90 Agent/Processing Logs/Diode Laser Biopsy - Processing Log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diode Laser Biopsy - Processing Log"
             }
           }
         ]
@@ -228,17 +232,27 @@
   },
   "active": "c6ffd2e55847c5c4",
   "lastOpenFiles": [
+    "07 Data/Isola et al 2018 - Diode Laser Pyogenic Granuloma Excision Speed Data.md.tmp.4056.548e1894a70e",
+    "07 Data/Gambino et al 2026 - Diode Laser OCT and Histologic Thermal Damage Data.md.tmp.4056.a94be406a903",
+    "07 Data/Gundlapalle et al 2022 - Diode Laser CW vs PW Biopsy Margin Data.md.tmp.4056.715c52442030",
+    "07 Data/Gundlapalle et al 2022 - Diode Laser CW vs PW Biopsy Margin Data.md.tmp.4056.3665df165e80",
+    "07 Data/Angiero et al 2011 - Diode Laser Biopsy Specimen Size and Diagnostic Yield.md.tmp.4056.da9f49e65486",
+    "07 Data/Romanos et al 2022 - Initiated vs Non-Initiated Diode Laser Penetration Depth.md.tmp.4056.862bb5f98242",
+    "07 Data/Romanos et al 2013 - Diode Laser Soft-Tissue Surgery Review Data.md.tmp.4056.6e5812105523",
+    "07 Data/Romanos et al 2013 - Diode Laser Soft-Tissue Surgery Review Data.md.tmp.4056.4b697015cac4",
+    "07 Data/Romanos et al 2013 - Diode Laser Soft-Tissue Surgery Review Data.md.tmp.4056.b6ac8b062a95",
+    "07 Data/Romanos et al 2013 - Diode Laser Soft-Tissue Surgery Review Data.md.tmp.4056.300a86faaf65",
+    "07 Data/Romanos et al 2013 - Diode Laser Soft-Tissue Surgery Review Data.md.tmp.4056.f80de8d50e77",
+    "03 Concepts/Glossary/Artifact Grading.md",
+    "03 Concepts/Glossary/Temperature Rise.md",
+    "03 Concepts/Glossary/Hot-tip Effect.md",
+    "03 Concepts/Glossary/Incision Depth.md",
+    "03 Concepts/Glossary/Cutting Efficiency.md",
+    "03 Concepts/Glossary/Diagnostic Quality.md",
+    "03 Concepts/Glossary/Output Stability.md",
+    "03 Concepts/Glossary/Measurement Location.md",
+    "03 Concepts/Glossary/Calibration.md",
     "03 Concepts/Glossary/Power Meter.md",
-    "03 Concepts/Glossary/Power Meter.md.tmp.4056.4c215d493138",
-    "07 Data/Shnawa et al 2025 - Diode Laser vs Scalpel Oral Fibroma Excision Data.md.tmp.4056.b58f104cf44d",
-    "07 Data/Shnawa et al 2025 - Diode Laser vs Scalpel Oral Fibroma Excision Data.md.tmp.4056.80f4eaea4535",
-    "07 Data/Spille et al 2026 - Diode Laser Learning-Curve and Target-Based Accuracy Data.md.tmp.4056.98662735ac1a",
-    "07 Data/Spille et al 2026 - Diode Laser Learning-Curve and Target-Based Accuracy Data.md.tmp.4056.3ba65c0e4ee6",
-    "07 Data/Wilder-Smith et al 1995 - CO2 Laser Incision and Thermal Damage Data.md.tmp.4056.c1d731216971",
-    "07 Data/Wilder-Smith et al 1995 - CO2 Laser Incision and Thermal Damage Data.md.tmp.4056.1463627b63dd",
-    "07 Data/Suter et al 2010 - CO2 vs Diode Laser Biopsy Thermal Damage Data (Abstract-Level).md.tmp.4056.8947753fe79e",
-    "07 Data/Romanos et al 2013 - Diode Laser Soft-Tissue Surgery Review Data.md.tmp.4056.0ff863125a0a",
-    "07 Data/Romanos et al 2022 - Initiated vs Non-Initiated Diode Laser Penetration Depth.md.tmp.4056.fe688e3663c1",
     "99 Templates/Evidence Note.md",
     "99 Templates/Glossary Term Template.md",
     "03 Concepts/Glossary/Glossary Index.md",
@@ -253,16 +267,6 @@
     "03 Concepts/Glossary/Biopsy Specimen Quality.md",
     "03 Concepts/Glossary/Tissue Architecture Preservation.md",
     "03 Concepts/Glossary/Thermal Damage.md",
-    "03 Concepts/Glossary/Specimen Margin.md",
-    "03 Concepts/Glossary/Scattering.md",
-    "03 Concepts/Glossary/Reflection.md",
-    "03 Concepts/Glossary/Pulsed Mode.md",
-    "03 Concepts/Glossary/Procedure Time.md",
-    "03 Concepts/Glossary/Power Output.md",
-    "03 Concepts/Glossary/Diagnostic Quality.md",
-    "03 Concepts/Glossary/Energy.md",
-    "03 Concepts/Glossary/Energy per Unit Length.md",
-    "03 Concepts/Glossary/Excision Time.md",
-    "03 Concepts/Glossary/Exposure Time.md"
+    "03 Concepts/Glossary/Specimen Margin.md"
   ]
 }

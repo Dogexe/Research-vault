@@ -63,8 +63,8 @@ Scope note: this is a three-arm human clinical comparison (scalpel vs. diode las
 | Excision/incision protocol | Both incisional and excisional biopsies performed depending on clinical diagnosis; tissue taken large enough to include normal and suspicious tissue | — | Methodology | FACT |
 | Specimen size | UNKNOWN — no specimen diameter/size value or distribution reported | — | — | UNKNOWN |
 | Measurement method — thermal damage | Width of necrotic border at the specimen periphery, measured on laser-cut tissue sections using Quick Capture Pro 6.0 software | — | Methodology; Results | FACT |
-| Measurement method — slide quality | Quality of slide at periphery and center graded microscopically by a pathologist: 1 = good, 2 = average, 3 = poor, 5 = non-diagnostic (the source's own scale omits a "4" grade; preserved as reported) | — | Methodology | FACT |
-| Calibration method | UNKNOWN | — | — | UNKNOWN |
+| Measurement method — slide quality | Quality of slide at periphery and center [[03 Concepts/Glossary/Artifact Grading\|graded]] microscopically by a pathologist: 1 = good, 2 = average, 3 = poor, 5 = non-diagnostic (the source's own scale omits a "4" grade; preserved as reported) | — | Methodology | FACT |
+| [[03 Concepts/Glossary/Calibration\|Calibration]] method | UNKNOWN | — | — | UNKNOWN |
 | Power loss / deviation | UNKNOWN / not applicable | — | — | UNKNOWN |
 | Thermal damage (necrotic border width) — CW | Mean 279.84 | μm | Results | FACT |
 | Thermal damage (necrotic border width) — PW | Mean 208.766 | μm | Results | FACT |
@@ -74,7 +74,7 @@ Scope note: this is a three-arm human clinical comparison (scalpel vs. diode las
 | Slide quality, laser vs. scalpel | Scalpel slide quality (periphery and center) was better than laser overall — no thermal damage in the scalpel arm | — | Results; Discussion | FACT |
 | Coagulation zone | Not scored or measured as an isolated variable; the Discussion describes coagulation only as a general laser-tissue physics mechanism (collagen shrinkage sealing vessels), not a measured finding of this study's own specimens | — | Discussion | FACT (mechanism description, not a study finding) |
 | Carbonization | Listed as an observed artifact (Figure 5 caption: "Carbonization"), not scored numerically or separated by CW/PW arm | — | Results (figure) | FACT (qualitative) |
-| Histologic artifacts reported | Tissue necrosis, fibrous degeneration, hyperchromatism, nuclear elongation, intercellular spacing, loss of cellular morphology, intercellular edema, hyalinization, shedding of keratin, vacuolation, epithelium separation from connective tissue | — | Results | FACT |
+| [[03 Concepts/Glossary/Histological Artifact\|Histologic artifacts]] reported | Tissue necrosis, fibrous degeneration, hyperchromatism, nuclear elongation, intercellular spacing, loss of cellular morphology, intercellular edema, hyalinization, shedding of keratin, vacuolation, epithelium separation from connective tissue | — | Results | FACT |
 | Procedure time — CW vs. PW | CW: mean 15.467 ± 4.549 min; PW: mean 22.000 ± 3.927 min; PW took significantly longer (p=0.000). This is total procedure time (includes anesthesia/positioning), not a pure incision/exposure time. | min | Results | FACT |
 | Sample | 60 patients total; 30 scalpel, 30 diode laser (15 CW at 3W, 15 PW at 3W); Department of Oral Medicine | — | Methodology | FACT |
 

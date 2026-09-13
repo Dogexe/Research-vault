@@ -1,5 +1,5 @@
 ---
-aliases: [Cutting Speed]
+aliases: [Cutting Speed, Advancement Speed]
 category: laser-operation
 unit: mm/s
 symbol: v
@@ -22,6 +22,10 @@ Incision speed (ความเร็วในการตัด) คืออ�
 [[03 Concepts/Operating Parameters]] already records Al-Ani et al.'s incision-speed control as FACT. NEEDS EVIDENCE for any vault source that varies incision speed as an independent variable and measures its effect on thermal damage or specimen histologic quality — no source currently in this vault does this.
 
 A second numeric diode incision-speed value now exists: Li et al. 2022 reports a fixed "tip movement speed" of 1 mm/s for a 300 μm, 3.0 W pulsed diode laser in a mouse oral-mucosa wound model ([[07 Data/Li et al 2022 - Diode vs Er-YAG vs Cold Scalpel Mice Oral Mucosa Data]]), alongside the vault's existing Goharkhay et al. 1999 value (10 mm/s, ex vivo pig mandible, different device). Speed was held fixed in both sources, not varied as an independent variable, and the two values are not transferable to each other (different device, species, and tissue context) or to any diagnostic-biopsy source in this vault — the NEEDS EVIDENCE gap above is unchanged.
+
+## Advancement speed as an alias
+
+[[07 Data/Romanos et al 2013 - Diode Laser Soft-Tissue Surgery Review Data|Romanos et al. 2013]]'s own extraction table row is literally labeled "Incision/advancement speed" for its 5-point tested sweep (12.5, 6.0, 3.0, 1.0, 0.0 mm/s); [[07 Data/Lu et al 2026 - Dual-Wavelength 980-1470 nm Liver Cutting Parameters Data (Abstract-Level)|Lu et al. 2026]] (non-oral, cited here only for the terminology) similarly reports a fixed "fiber advancement speed." This vault treats "advancement speed" as the same concept as incision speed, not a distinct one — both describe the fiber tip's rate of travel through tissue.
 
 ## Common confusion
 

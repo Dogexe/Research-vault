@@ -1,5 +1,5 @@
 ---
-aliases: [Diagnostic Outcome]
+aliases: [Diagnostic Outcome, Diagnostic Readability]
 category: histopathology-biopsy
 unit:
 symbol:
@@ -24,6 +24,8 @@ Three sources are now processed with a real diagnostic-yield outcome. Angiero et
 ## Common confusion
 
 Diagnostic quality is an outcome (can the pathologist diagnose it), distinct from [[Thermal Damage]] or [[Histological Artifact]], which are mechanisms/findings that may or may not be severe enough to compromise diagnostic quality in a given specimen.
+
+**Diagnostic quality vs. specimen adequacy.** This vault does not treat "diagnostic quality" (whether artifact/thermal alteration compromises interpretability) and "specimen adequacy" (whether enough tissue was excised at all) as the same question, even though the same source can address both. Angiero et al. 2011's central finding is size-graded adequacy: 63.63% of 2 mm specimens were unreadable, 37.71% of 3 mm, and specimens ≥4 mm were 100% diagnosable — a finding about sufficient tissue *amount*, not about artifact severity at a fixed size. This vault does not create a separate "Specimen Adequacy" canonical note for this distinction, since no source currently scores adequacy independently of diagnosability itself, but the two questions should not be collapsed when reading a source's stated recommendation (see [[Specimen Margin]] for the size thresholds themselves).
 
 ## Source basis
 

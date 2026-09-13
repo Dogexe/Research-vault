@@ -61,7 +61,7 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 | Excision margin | Circumferential safety margin of 5 mm from clinically healthy tissue | mm | §2.2 | FACT |
 | Measurement method — histology | Thermal alteration measured in microns from the surgical margin toward histologically readable tissue by a blinded pathologist using digital analysis software on H&E-stained sections (×100 magnification); defined as the mean maximum unreadable area in epithelial and connective-tissue compartments; connective-tissue alteration characterized by basophilic changes consistent with hemocoagulative phenomena | — | §2.5 | FACT |
 | Measurement method — OCT | Ex vivo spectral-domain OCT (Telesto 220, Thorlabs Inc.), 1300 nm central wavelength, 5.5 μm axial / 13 μm lateral resolution, 10×10 mm scan area, ~3.5 mm max imaging depth; peripheral (surgical margin) and central (unaffected reference) scans per specimen, spatially co-registered to histology via India-ink marking | — | §2.4 | FACT |
-| Calibration method | UNKNOWN — no laser power-meter calibration protocol reported (OCT system specifications are reported; laser output calibration is not) | — | — | UNKNOWN |
+| [[03 Concepts/Glossary/Calibration\|Calibration]] method | UNKNOWN — no laser power-meter calibration protocol reported (OCT system specifications are reported; laser output calibration is not) | — | — | UNKNOWN |
 | Power loss / deviation | UNKNOWN / not applicable | — | — | UNKNOWN |
 | Diagnostic yield | Definitive histopathological diagnosis obtained in all 30/30 cases (100%); laser-induced thermal effects did not impair diagnosis in any specimen | — | §3.4 | FACT |
 | Histologic thermal damage — epithelium | Mean 288.9 | μm | §3.4 | FACT |

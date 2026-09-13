@@ -27,6 +27,10 @@ Device/console-level and technique-level parameters as reported and extracted in
 - [[03 Concepts/Glossary/Measured Power]]
 - [[03 Concepts/Glossary/Delivered Power]]
 - [[03 Concepts/Glossary/Power Loss]]
+- [[03 Concepts/Glossary/Power Meter]]
+- [[03 Concepts/Glossary/Calibration]]
+- [[03 Concepts/Glossary/Measurement Location]]
+- [[03 Concepts/Glossary/Output Stability]]
 - [[03 Concepts/Glossary/Power Output]]
 - [[03 Concepts/Glossary/Average Power]]
 - [[03 Concepts/Glossary/Peak Power]]
@@ -49,6 +53,7 @@ Delivery geometry — how energy actually reaches the tissue surface.
 - [[03 Concepts/Glossary/Non-contact Mode]]
 - [[03 Concepts/Glossary/Initiated Tip]]
 - [[03 Concepts/Glossary/Non-initiated Tip]]
+- [[03 Concepts/Glossary/Hot-tip Effect]]
 - [[03 Concepts/Glossary/Beam Delivery Geometry]]
 
 (See also [[03 Concepts/Glossary/Spot Size]] in Section 1 — not duplicated here.)
@@ -68,7 +73,10 @@ Physical/optical mechanisms by which laser energy is absorbed and produces tissu
 - [[03 Concepts/Glossary/Vaporization]]
 - [[03 Concepts/Glossary/Ablation]]
 - [[03 Concepts/Glossary/Carbonization]]
-- [[03 Concepts/Glossary/Thermal Damage]] (includes thermal artifact / thermal-affected zone / TIZ)
+- [[03 Concepts/Glossary/Temperature Rise]]
+- [[03 Concepts/Glossary/Thermal Damage]] (includes thermal artifact / thermal-affected zone / TIZ / lateral, vertical, horizontal subtypes / collagen denaturation)
+- [[03 Concepts/Glossary/Incision Depth]] (includes cutting depth)
+- [[03 Concepts/Glossary/Cutting Efficiency]]
 
 ## 5. Histopathology / Biopsy Quality
 
@@ -82,6 +90,7 @@ Specimen-level histopathologic outcomes — this project's primary endpoint doma
 - [[03 Concepts/Glossary/Diagnostic Quality]] (includes diagnostic outcome)
 - [[03 Concepts/Glossary/Biopsy-oriented]]
 - [[03 Concepts/Glossary/Biopsy Specimen Quality]] (composite project outcome concept)
+- [[03 Concepts/Glossary/Artifact Grading]]
 
 ## Canonical terminology
 

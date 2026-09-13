@@ -46,7 +46,7 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 | Manufacturer | A.R.C. Laser GmbH, Nuremberg, Germany (all six systems) | — | Material and Methods | FACT |
 | Wavelength | 445, 532 (KTP), 810, 980, 1064, 1470 | nm | Abstract; Material and Methods | FACT |
 | Set power | 0.5, 1.0, 1.5, 2.0 (each wavelength tested across this range in 0.5 W increments) | W | Abstract; Material and Methods | FACT |
-| Measured output power (independent, reported value) | UNKNOWN — the source states output power was measured at the fiber tip with a power meter before each incision, but reports no numeric measured-output or deviation value; the measurement is described only as a quality-control step ("to ensure all the incisions were set with equal parameters") | — | Material and Methods (Laser incisions) | UNKNOWN (value) / FACT (that a fiber-tip measurement was performed) |
+| Measured output power (independent, reported value) | UNKNOWN — the source states output power was measured at the [[03 Concepts/Glossary/Measurement Location\|fiber tip]] with a [[03 Concepts/Glossary/Power Meter\|power meter]] before each incision, but reports no numeric measured-output or deviation value; the measurement is described only as a quality-control step ("to ensure all the incisions were set with equal parameters") | — | Material and Methods (Laser incisions) | UNKNOWN (value) / FACT (that a fiber-tip measurement was performed) |
 | Average power | Same as set power (CW mode; no distinct average-power field reported) | W | Material and Methods | FACT |
 | Peak power | UNKNOWN | — | — | UNKNOWN |
 | Operating mode | Continuous wave (CW), all six wavelengths | — | Material and Methods | FACT |
@@ -59,7 +59,7 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 | Contact mode | UNKNOWN — not explicitly stated as contact or non-contact in the reported methods text | — | — | UNKNOWN |
 | Exposure duration | UNKNOWN as a fixed time value (incisions were made as controlled cuts across the paramarginal/pocket sites; no exposure-duration figure in seconds is given in the extracted text) | — | — | UNKNOWN |
 | Measurement method | Fiber cleaned and output power measured at the fiber tip with a power meter before each incision, to standardize parameters across incisions | — | Material and Methods (Laser incisions) | FACT |
-| Calibration method | UNKNOWN — power meter brand/model and calibration protocol are not reported | — | — | UNKNOWN |
+| Calibration method | UNKNOWN — power meter brand/model and [[03 Concepts/Glossary/Calibration\|calibration]] protocol are not reported | — | — | UNKNOWN |
 | Power loss / deviation | UNKNOWN — not quantified; the fiber-tip measurement is described only as a setup-equalization step, with no set-vs-measured numeric comparison published | — | — | UNKNOWN |
 | Sample | 24 porcine mandible specimens (40×30 mm, first/second molar region); 4 images per laser×power combination; 16 images per laser wavelength (periodontal pocket and oral mucosa sites combined) | — | Material and Methods | FACT |
 

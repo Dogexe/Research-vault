@@ -59,7 +59,7 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 | Contact mode | UNKNOWN — not explicitly stated as contact or non-contact | — | — | UNKNOWN |
 | Exposure duration | UNKNOWN as a per-incision time value; anesthesia protocol reported (topical or transmucosal local; 56.08% no anesthetic, 21.55% topical, 22.37% local) | — | Materials and methods | FACT (anesthesia only) / UNKNOWN (exposure time) |
 | Measurement method | Histologic thermal-damage width measured as the distance from the specimen border to the end of visible thermal denaturation, at 100× magnification, on H&E-stained 4–5 μm sections; two pathologists evaluated separately, reaching agreement | — | Histopathology | FACT |
-| Calibration method | UNKNOWN | — | — | UNKNOWN |
+| [[03 Concepts/Glossary/Calibration\|Calibration]] method | UNKNOWN | — | — | UNKNOWN |
 | Power loss / deviation | UNKNOWN / not applicable | — | — | UNKNOWN |
 | Extent of thermal damage (width of modified tissue) | Range 260.7–321.4, mean 282.8 | μm | Results | FACT |
 | Diagnostic yield — specimens 2 mm | 29/46 unreadable (63.63%) | % | Table 5 | FACT |

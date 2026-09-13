@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [Thermal Confinement]
 category: tissue-interaction
 unit: s
 symbol: τ_r
@@ -17,6 +17,9 @@ s (order-of-magnitude concept only; not computed for any vault study).
 
 ## In this project
 This concept helps explain, in general terms, why exposure time/incision speed (which governs local exposure duration) can influence the width of the thermal-affected zone independent of power — but this vault does not calculate a thermal relaxation time for oral soft tissue or any studied wavelength; no source reviewed reports one.
+
+## Note on the "thermal confinement" alias
+"Thermal confinement" is a standard term in the broader laser-tissue-interaction literature for the same selective-photothermolysis principle described above (an exposure shorter than the thermal relaxation time confines heat to the target volume). No vault source currently uses this exact phrase; it is aliased here because it is the same concept, not a distinct one, so it maps here rather than needing a separate note if encountered in future literature.
 
 ## Common pitfalls
 Do not treat thermal relaxation time as a fixed, universal number — it depends on the size and thermal properties of the heated volume, which differ by spot size, tissue type, and depth. Do not infer a thermal relaxation time from this vault's reported thermal-damage widths.
