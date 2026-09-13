@@ -1,3 +1,12 @@
+---
+aliases: [Duty Factor]
+category: laser-operation
+unit: "%"
+symbol: D
+equation: "D (%) = Pulse Duration × Frequency × 100"
+related_terms: [Pulse Duration, Frequency, Average Power]
+---
+
 # Duty Cycle
 
 ## Definition

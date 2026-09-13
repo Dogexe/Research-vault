@@ -1,3 +1,12 @@
+---
+aliases: [Energy Density, Radiant Exposure]
+category: fundamental-physics
+unit: J/cm²
+symbol: H
+equation: H = Q / A = I × t
+related_terms: [Irradiance, Exposure Time, Energy]
+---
+
 # Fluence
 
 ## Definition

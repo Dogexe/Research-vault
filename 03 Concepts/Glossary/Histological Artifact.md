@@ -1,3 +1,12 @@
+---
+aliases: [Histopathologic Artifact]
+category: histopathology-biopsy
+unit:
+symbol:
+equation:
+related_terms: [Thermal Damage, Diagnostic Quality, Specimen Margin]
+---
+
 # Histological Artifact
 
 ## Definition

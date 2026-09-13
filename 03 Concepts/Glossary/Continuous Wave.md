@@ -1,3 +1,12 @@
+---
+aliases: [CW]
+category: laser-operation
+unit:
+symbol:
+equation:
+related_terms: [Pulsed Mode, Average Power, Peak Power]
+---
+
 # Continuous Wave
 
 ## Definition

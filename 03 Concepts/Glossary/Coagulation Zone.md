@@ -1,3 +1,12 @@
+---
+aliases: [Coagulation]
+category: tissue-interaction
+unit:
+symbol:
+equation:
+related_terms: [Thermal Damage, Carbonization, Photothermal Interaction]
+---
+
 # Coagulation Zone
 
 ## Definition

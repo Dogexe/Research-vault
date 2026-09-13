@@ -1,3 +1,12 @@
+---
+aliases: []
+category: tissue-interaction
+unit:
+symbol:
+equation:
+related_terms: [Thermal Damage, Coagulation Zone, Vaporization, Ablation]
+---
+
 # Carbonization
 
 ## Definition

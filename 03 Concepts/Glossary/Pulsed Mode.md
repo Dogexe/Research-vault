@@ -1,3 +1,12 @@
+---
+aliases: [Pulsed Wave, PW]
+category: laser-operation
+unit:
+symbol:
+equation:
+related_terms: [Continuous Wave, Pulse Duration, Frequency, Duty Cycle]
+---
+
 # Pulsed Mode
 
 ## Definition

@@ -1,3 +1,12 @@
+---
+aliases: [Cutting Speed]
+category: laser-operation
+unit: mm/s
+symbol: v
+equation:
+related_terms: [Procedure Time, Excision Time, Power-to-Speed Relationship, Energy per Unit Length]
+---
+
 # Incision Speed
 
 ## Definition
@@ -24,8 +33,15 @@ Incision speed is an operator/technique-dependent variable, not a device setting
 
 A technique parameter, not itself a radiometric quantity — unlike [[03 Concepts/Glossary/Irradiance]] or [[03 Concepts/Glossary/Fluence]], it has no ISO/ANSI radiometric definition, though it modulates the effective dose delivered per tissue location.
 
+## Incision speed vs. procedure/excision time
+
+Incision speed (mm/s, the fiber tip's rate of advancement through tissue) must not be confused with, or derived from, [[03 Concepts/Glossary/Procedure Time]] or [[03 Concepts/Glossary/Excision Time]] — total elapsed durations that include non-cutting time (positioning, hemostasis, multiple passes, pauses). Per the Study Metadata Schema's `incision_speed_reported`/`speed_mm_s` fields, this vault records a numeric speed only when the source itself states it as a value; dividing incision length by procedure/excision time to back-calculate a speed is explicitly disallowed (see [[99 Templates/Study Metadata Schema]] and AGENTS.md).
+
 ## Related
 
 - [[03 Concepts/Operating Parameters]]
 - [[03 Concepts/Glossary/Fluence]]
 - [[Thermal Damage]]
+- [[03 Concepts/Glossary/Procedure Time]]
+- [[03 Concepts/Glossary/Excision Time]]
+- [[03 Concepts/Glossary/Power-to-Speed Relationship]]

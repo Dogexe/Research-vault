@@ -1,3 +1,12 @@
+---
+aliases: []
+category: laser-operation
+unit: "%"
+symbol:
+equation: "% loss = (Set Power − Measured Power) / Set Power × 100"
+related_terms: [Set Power, Measured Power, Delivered Power]
+---
+
 # Power Loss
 
 ## Definition

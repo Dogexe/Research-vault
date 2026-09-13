@@ -1,3 +1,12 @@
+---
+aliases: [Power Density]
+category: fundamental-physics
+unit: W/cm²
+symbol: I
+equation: I = P / A
+related_terms: [Fluence, Spot Size, Power]
+---
+
 # Irradiance
 
 ## Definition

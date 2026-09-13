@@ -1,3 +1,12 @@
+---
+aliases: []
+category: laser-operation
+unit: W
+symbol: P_peak
+equation: P_peak = P_avg / Duty Cycle
+related_terms: [Average Power, Duty Cycle, Pulsed Mode]
+---
+
 # Peak Power
 
 ## Definition

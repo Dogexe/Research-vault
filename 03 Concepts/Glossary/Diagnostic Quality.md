@@ -1,3 +1,12 @@
+---
+aliases: [Diagnostic Outcome]
+category: histopathology-biopsy
+unit:
+symbol:
+equation:
+related_terms: [Specimen Margin, Biopsy Specimen Quality, Biopsy-oriented]
+---
+
 # Diagnostic Quality
 
 ## Definition

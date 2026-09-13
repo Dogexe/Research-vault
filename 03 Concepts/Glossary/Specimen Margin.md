@@ -1,3 +1,12 @@
+---
+aliases: []
+category: histopathology-biopsy
+unit:
+symbol:
+equation:
+related_terms: [Margin Quality, Diagnostic Quality, Histological Artifact]
+---
+
 # Specimen Margin
 
 ## Definition

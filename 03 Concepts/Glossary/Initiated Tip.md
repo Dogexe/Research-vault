@@ -1,3 +1,12 @@
+---
+aliases: []
+category: beam-delivery
+unit:
+symbol:
+equation:
+related_terms: [Non-initiated Tip, Contact Mode, Beam Delivery Geometry]
+---
+
 # Initiated Tip
 
 ## Definition

@@ -1,3 +1,12 @@
+---
+aliases: [Thermal Artifact, Thermal-Affected Zone, Total Interaction Zone, TIZ]
+category: tissue-interaction
+unit: μm (typical)
+symbol:
+equation:
+related_terms: [Coagulation Zone, Carbonization, Margin Quality, Tissue Architecture Preservation]
+---
+
 # Thermal Damage
 
 ## Definition

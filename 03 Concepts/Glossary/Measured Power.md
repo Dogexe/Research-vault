@@ -1,3 +1,12 @@
+---
+aliases: [Measured Delivered Power]
+category: laser-operation
+unit: W
+symbol:
+equation:
+related_terms: [Set Power, Delivered Power, Power Loss]
+---
+
 # Measured Power
 
 ## Definition
@@ -25,6 +34,16 @@ Measured power is not always lower than set power — Kim et al. 2020's K2 mobil
 **Classification:** FIELD-USAGE TERM
 
 ISO 11145 and ANSI Z136.1 define the underlying physical quantity "power," but neither standard names "measured power" as a term distinct from a device's displayed value. The set-vs-measured distinction used in this note is an operational/methodological convention from the device-testing and clinical laser literature (see In this vault above, e.g. Kim et al. 2020, Parker et al. 2022), not a term defined by a formal vocabulary standard.
+
+## Schema field mapping (Study Metadata Schema v1.1)
+
+This vault's `07 Data/` extraction schema splits "measured power" into three separate fields that must not be collapsed into one glossary meaning (see [[99 Templates/Study Metadata Schema]]):
+
+- `measured_power` (boolean/`null`) — was output independently measured at all, regardless of whether a number was tabulated?
+- `measured_power_value_reported` (boolean/`null`) — did the source additionally report the actual numerical measured value, distinct from set power?
+- `measured_power_w` (number/list/`null`) — that explicit measured value in watts; populated only when `measured_power_value_reported` is `true`.
+
+A study can have `measured_power: true` with `measured_power_value_reported: false` and `measured_power_w: null` — e.g. Hanke et al. 2021 and Strakas et al. 2023, which verify output with a calibrated meter before every incision but only report a QC pass/fail deviation threshold, not a tabulated wattage. This is not a gap in extraction; it reflects what the source itself reported.
 
 ## Related
 

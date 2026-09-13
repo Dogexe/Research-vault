@@ -1,3 +1,12 @@
+---
+aliases: [Pulse Repetition Rate, Pulse Repetition Frequency, PRF]
+category: laser-operation
+unit: Hz
+symbol: f
+equation: f = 1 / T
+related_terms: [Pulse Duration, Duty Cycle, Optical Frequency]
+---
+
 # Frequency
 
 ## Definition

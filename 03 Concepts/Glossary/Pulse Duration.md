@@ -1,3 +1,12 @@
+---
+aliases: [Pulse Width]
+category: laser-operation
+unit: μs / ms / s
+symbol: τ
+equation:
+related_terms: [Frequency, Duty Cycle, Peak Power]
+---
+
 # Pulse Duration
 
 ## Definition

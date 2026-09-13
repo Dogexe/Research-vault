@@ -1,3 +1,12 @@
+---
+aliases: []
+category: beam-delivery
+unit: μm
+symbol:
+equation:
+related_terms: [Spot Size, Irradiance, Beam Delivery Geometry]
+---
+
 # Fiber Diameter
 
 ## Definition

@@ -11,14 +11,10 @@
             "id": "c6ffd2e55847c5c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 Synthesis/Novelty Matrix - Diode Laser Biopsy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Novelty Matrix - Diode Laser Biopsy"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -231,26 +227,30 @@
   },
   "active": "c6ffd2e55847c5c4",
   "lastOpenFiles": [
+    "03 Concepts/Glossary/Incision Speed.md.tmp.4056.5a9c0dea9d44",
+    "03 Concepts/Glossary/Measured Power.md.tmp.4056.4388f23e6525",
+    "03 Concepts/Glossary/Carbonization.md.tmp.4056.41a6506976a5",
+    "03 Concepts/Glossary/Incision Speed.md.tmp.4056.ef567c6ca6a1",
+    "03 Concepts/Glossary/Coagulation Zone.md.tmp.4056.1b414ce70e02",
+    "03 Concepts/Glossary/Histological Artifact.md.tmp.4056.4e6027250af9",
+    "03 Concepts/Glossary/Diagnostic Quality.md.tmp.4056.7618bfc43503",
+    "03 Concepts/Glossary/Specimen Margin.md.tmp.4056.670cd94608f8",
+    "03 Concepts/Glossary/Thermal Damage.md.tmp.4056.588117d3434d",
+    "03 Concepts/Glossary/Power Output.md.tmp.4056.1724b19d2bee",
+    "03 Concepts/Glossary/Peak Power.md.tmp.4056.57f3372f2efb",
+    "99 Templates/Glossary Term Template.md",
+    "02 Literature/10.1002/jbio.70218_FhmoQx.md",
+    "zotero_notes/e70218 jbio.202500590_okBaVh.md",
+    "06 Synthesis/Novelty Matrix - Diode Laser Biopsy.md",
     "06 Synthesis/Research Gaps in Dental Diode Laser Output.md",
     "06 Synthesis/Study Dashboard.md",
-    "06 Synthesis/Novelty Matrix - Diode Laser Biopsy.md",
     "90 Agent/Search Reports/Novelty Verification - Measured Power and Incision Speed/Novelty Verification Report.md",
     "07 Data/Isola et al 2018 - Diode Laser Pyogenic Granuloma Excision Speed Data.md",
     "02 Literature/10.1097/SCS.0000000000004734.md",
     "06 Synthesis/Diode Laser Biopsy Specimen Quality.md",
     "07 Data/Prado et al 2022 - Micro vs Super Pulsed Diode Laser Ex Vivo Thermal Damage Data.md",
     "02 Literature/10.1002/cre2.670.md",
-    "07 Data/Prado et al 2022 - Micro vs Super Pulsed Diode Laser Ex Vivo Thermal Damage Data.md.tmp.36408.db6358542544",
     "02 Literature/Lasers in Oral Surgery and Dentistry.md",
-    "06 Synthesis/Study Dashboard.md.tmp.36408.c6ff7661eedc",
-    "06 Synthesis/Study Dashboard.md.tmp.36408.6d7d6056a7c8",
-    "validation_report.txt",
-    "07 Data/Wilder-Smith et al 1995 - CO2 Laser Incision and Thermal Damage Data.md.tmp.36408.66eeff19b2ee",
-    "06 Synthesis/Study Dashboard.md.tmp.36408.5bff5e41431d",
-    "99 Templates/Study Metadata Schema.md.tmp.36408.9c3dc78759bc",
-    "99 Templates/Study Metadata Schema.md.tmp.36408.5b6d87050680",
-    "07 Data/Romanos et al 2013 - Diode Laser Soft-Tissue Surgery Review Data.md.tmp.36408.576bd073e57a",
-    "07 Data/Romanos et al 2013 - Diode Laser Soft-Tissue Surgery Review Data.md.tmp.36408.a6b1f428b43f",
     "02 Literature/Research and Innovation in Orofacial Laserology.md",
     "07 Data/Capodiferro et al 2008 - Oral Laser Surgical Pathology Abstract-Level Data.md",
     "07 Data/Azevedo et al 2016 - Diode Laser Thermal Damage and Carbonization Data.md",
@@ -262,10 +262,6 @@
     "07 Data/Strakas et al 2023 - 940nm Diode Cutting Efficiency and Thermal Damage Data.md",
     "07 Data/Pergolini et al 2025 - Dual-Wavelength Diode Laser Ex Vivo Thermal Damage Data.md",
     "07 Data/Merigo et al 2012 - Five-Wavelength Ex Vivo Thermal and Histologic Comparison Data.md",
-    "07 Data/Hanke et al 2021 - Eight-Wavelength Diode Cut Efficiency Data.md",
-    "00 Inbox/Shortlist - PubMed Candidates 3-7 (Adjacent, Not Core Diode-Output Evidence).md",
-    "99 Templates/Study Metadata Schema.md",
-    "04 Evidence/Output Accuracy and Repeatability - Supporting Evidence.md",
-    "04 Evidence/Biopsy Specimen Quality.md"
+    "07 Data/Hanke et al 2021 - Eight-Wavelength Diode Cut Efficiency Data.md"
   ]
 }

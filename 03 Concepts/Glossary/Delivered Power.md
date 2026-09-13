@@ -1,3 +1,12 @@
+---
+aliases: []
+category: laser-operation
+unit: W
+symbol:
+equation:
+related_terms: [Set Power, Measured Power, Power Loss]
+---
+
 # Delivered Power
 
 ## Definition

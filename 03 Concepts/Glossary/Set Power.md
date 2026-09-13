@@ -1,3 +1,12 @@
+---
+aliases: [Preset, Panel Setting, Displayed Power]
+category: laser-operation
+unit: W
+symbol:
+equation:
+related_terms: [Measured Power, Delivered Power, Power Loss]
+---
+
 # Set Power
 
 ## Definition

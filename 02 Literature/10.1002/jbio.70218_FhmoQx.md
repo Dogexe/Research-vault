@@ -12,7 +12,7 @@ zotero-key: IFNBSGSPg6669922
 %%zt-managed%%
 ## Notes
 
-- [[zotero_notes/e70218 jbio.202500590_okBaVh|e70218 jbio.202500590]]
+
 %%/zt-managed%%
 
 ## Vault processing
