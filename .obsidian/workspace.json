@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 Templates/Laser Operating Parameters.md",
+                "file": "06 Synthesis/Novelty Check - Prior Systematic Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laser Operating Parameters"
+              "title": "Novelty Check - Prior Systematic Review"
             }
           }
         ]
@@ -205,6 +205,13 @@
   },
   "active": "c6ffd2e55847c5c4",
   "lastOpenFiles": [
+    "02 Literature/10.1007/s10103-023-03923-x.md",
+    "01 Projects/Diode Laser Biopsy.md.tmp.36408.a7049cc583d0",
+    "06 Synthesis/Novelty Check - Prior Systematic Review.md",
+    "06 Synthesis/Novelty Check - Prior Systematic Review.md.tmp.36408.1c0da74cea8d",
+    "07 Data/Lopes-Santos et al 2023 - High-Power Laser Oral Biopsy Histology Systematic Review Data.md",
+    "07 Data/Lopes-Santos et al 2023 - High-Power Laser Oral Biopsy Histology Systematic Review Data.md.tmp.36408.31bfc55534d2",
+    "99 Templates/Laser Operating Parameters.md",
     "05 Devices/Device Index.md.tmp.25088.bc1de41048fa",
     "05 Devices/Device Index.md",
     "05 Devices/Device Index.md.tmp.25088.bf416f7db691",
@@ -219,13 +226,9 @@
     "05 Devices/K2 Mobile.md",
     "05 Devices/K2 Mobile.md.tmp.25088.f3d03bfc4209",
     "05 Devices/Zolar Plus.md",
-    "05 Devices/Zolar Plus.md.tmp.25088.a1a08707bf1c",
     "05 Devices/Wiser 3.md",
-    "05 Devices/Wiser 3.md.tmp.25088.0dff07c3d971",
     "05 Devices/Raffaello.md",
-    "05 Devices/Raffaello.md.tmp.25088.c725725d0804",
     "05 Devices/Picasso.md",
-    "05 Devices/Picasso.md.tmp.25088.52e7323dcd7e",
     "05 Devices/SIROLaser Blue.md",
     "05 Devices/Gemini Evo.md",
     "05 Devices/Dentek LD 15.md",
@@ -236,10 +239,6 @@
     "05 Devices/A.R.C. Laser FOX IV (445 nm).md",
     "05 Devices/Quicklase 12W Dual 4.md",
     "99 Templates/Concept Note.md",
-    "99 Templates/Device Note.md",
-    "99 Templates/Evidence Note.md",
-    "99 Templates/Laser Operating Parameters.md",
-    "AGENTS.md",
-    "03 Concepts/Operating Parameters.md"
+    "99 Templates/Device Note.md"
   ]
 }
