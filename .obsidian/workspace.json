@@ -11,10 +11,14 @@
             "id": "c6ffd2e55847c5c4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "02 Literature/Lasers in Oral Surgery and Dentistry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lasers in Oral Surgery and Dentistry"
             }
           }
         ]
@@ -227,17 +231,19 @@
   },
   "active": "c6ffd2e55847c5c4",
   "lastOpenFiles": [
+    "06 Synthesis/Study Dashboard.md.tmp.36408.c6ff7661eedc",
+    "06 Synthesis/Study Dashboard.md.tmp.36408.6d7d6056a7c8",
     "validation_report.txt",
+    "07 Data/Wilder-Smith et al 1995 - CO2 Laser Incision and Thermal Damage Data.md.tmp.36408.66eeff19b2ee",
+    "06 Synthesis/Study Dashboard.md.tmp.36408.5bff5e41431d",
+    "99 Templates/Study Metadata Schema.md.tmp.36408.9c3dc78759bc",
+    "99 Templates/Study Metadata Schema.md.tmp.36408.5b6d87050680",
+    "07 Data/Romanos et al 2013 - Diode Laser Soft-Tissue Surgery Review Data.md.tmp.36408.576bd073e57a",
+    "07 Data/Romanos et al 2013 - Diode Laser Soft-Tissue Surgery Review Data.md.tmp.36408.a6b1f428b43f",
+    "02 Literature/Research and Innovation in Orofacial Laserology.md",
+    "02 Literature/Lasers in Oral Surgery and Dentistry.md",
     "07 Data/Romanos et al 2013 - Diode Laser Soft-Tissue Surgery Review Data.md.tmp.36408.650364d4db0c",
     "07 Data/Wilder-Smith et al 1995 - CO2 Laser Incision and Thermal Damage Data.md.tmp.36408.ce6e579d136b",
-    "07 Data/Kim et al 2020 - Set vs Actual Power Across Three Dental Diode Lasers.md.tmp.36408.c249a14acbca",
-    "07 Data/Suter et al 2010 - CO2 vs Diode Laser Biopsy Thermal Damage Data (Abstract-Level).md.tmp.36408.aa9f879824df",
-    "07 Data/Isola et al 2018 - Diode Laser Pyogenic Granuloma Excision Speed Data.md.tmp.36408.50308e92cb78",
-    "07 Data/Romanos et al 2013 - Diode Laser Soft-Tissue Surgery Review Data.md.tmp.36408.8a559f57b82d",
-    "07 Data/Gutierrez-Corrales et al 2020 - Diode Wavelength Operating Parameters.md.tmp.36408.1f05a0e69ed5",
-    "07 Data/Wilder-Smith et al 1995 - CO2 Laser Incision and Thermal Damage Data.md.tmp.36408.9b622d0241af",
-    "07 Data/Kim et al 2020 - Set vs Actual Power Across Three Dental Diode Lasers.md.tmp.36408.5862bb9060af",
-    "07 Data/Romanos et al 2022 - Initiated vs Non-Initiated Diode Laser Penetration Depth.md.tmp.36408.1a2cd1abafa9",
     "07 Data/Capodiferro et al 2008 - Oral Laser Surgical Pathology Abstract-Level Data.md",
     "07 Data/Azevedo et al 2016 - Diode Laser Thermal Damage and Carbonization Data.md",
     "07 Data/Angiero et al 2011 - Diode Laser Biopsy Specimen Size and Diagnostic Yield.md",
@@ -260,8 +266,6 @@
     "05 Devices/A.R.C. Laser FOX (810 nm).md",
     "06 Synthesis/Novelty Matrix - Diode Laser Biopsy.md",
     "01 Projects/Diode Laser Biopsy.md",
-    "01 Projects/Diode Laser Master.md",
-    "06 Synthesis/Contradictions in Diode Laser Biopsy Evidence.md",
-    "06 Synthesis/Current Evidence on Diode Laser Power Output.md"
+    "01 Projects/Diode Laser Master.md"
   ]
 }

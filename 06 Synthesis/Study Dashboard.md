@@ -39,10 +39,11 @@ SORT file.name ASC
 
 ## B. Closest methodological precedents
 
-Studies that independently measured delivered power (whether or not a distinct value was tabulated), or reported a numeric incision speed — the two axes this vault treats as the strongest technical prior art regardless of whether the study was biopsy-oriented.
+Studies that independently measured delivered power (whether or not a distinct value was tabulated), or reported a numeric incision speed — the two axes this vault treats as the strongest technical prior art regardless of whether the study was biopsy-oriented. Restricted to diode-laser, non-BACKGROUND rows (v1.1) — a non-diode comparator or a review/perspective source is not diode-laser technical prior art, even when it independently measures power or reports a speed sweep; see [[99 Templates/Study Metadata Schema]].
 
 ```dataview
 TABLE
+diode_laser,
 measured_power,
 measured_power_value_reported,
 measured_power_w,
@@ -52,13 +53,13 @@ histology,
 oral_tissue,
 biopsy_oriented
 FROM "07 Data"
-WHERE measured_power = true OR incision_speed_reported = true
+WHERE (measured_power = true OR incision_speed_reported = true) AND diode_laser = true AND classification != "BACKGROUND"
 SORT file.name ASC
 ```
 
 ## C. Measured-power + speed + histology overlap — POTENTIAL NOVELTY, REQUIRES SYSTEMATIC VERIFICATION
 
-Studies satisfying all three of: `measured_power = true`, `incision_speed_reported = true`, `histology = true`. **This table is expected to be non-empty** — Hanke et al. 2021 and Strakas et al. 2023 already satisfy this combination, and hiding that would misrepresent the evidence base. The point of this table is not whether the three-way intersection is empty; it is which of the *additional* columns are `false`/`null` across the rows that do satisfy it.
+Studies satisfying all three of: `measured_power = true`, `incision_speed_reported = true`, `histology = true`, restricted to diode-laser, non-BACKGROUND rows (v1.1, same reasoning as Table B). **This table is expected to be non-empty** — Hanke et al. 2021 and Strakas et al. 2023 already satisfy this combination, and hiding that would misrepresent the evidence base. The point of this table is not whether the three-way intersection is empty; it is which of the *additional* columns are `false`/`null` across the rows that do satisfy it.
 
 ```dataview
 TABLE
@@ -70,20 +71,24 @@ tissue_architecture,
 diagnostic_outcome,
 measured_power_value_reported
 FROM "07 Data"
-WHERE measured_power = true AND incision_speed_reported = true AND histology = true
+WHERE measured_power = true AND incision_speed_reported = true AND histology = true AND diode_laser = true AND classification != "BACKGROUND"
 SORT file.name ASC
 ```
 
 **Reading this table:** existing diode-laser studies already demonstrate independently measured output, a reported incision speed, and histologic tissue-effect assessment. What none of the rows above also carry is `biopsy_oriented: true` — none excise a real lesion or assess biopsy-oriented specimen-quality outcomes (margin readability, tissue-architecture preservation, diagnostic outcome). The remaining potential gap is applying this measurement rigor to biopsy-oriented histopathologic specimen-quality outcomes in an ex vivo oral soft-tissue model — not the absence of measured power, not the absence of a reported speed, and not the absence of histology individually. This is **not** a claim that no such study exists anywhere, and **not** a "first ever" claim — see [[06 Synthesis/Novelty Matrix - Diode Laser Biopsy]] for the full prose analysis this table summarizes.
 
-## Validation note (schema v1 freeze)
+## Validation note (schema v1.1 maintenance patch)
 
-All 12 tagged notes were re-validated after the schema v1 audit: YAML parses cleanly on every note, no boolean is stored as a string, no controlled-vocabulary field holds a value outside its allowed list, and no impossible combination exists (e.g. `measured_power_value_reported: true` with `measured_power` not `true`, or a populated `speed_mm_s` with `incision_speed_reported: false`). Two corrections came out of this audit:
+A 10-note stress-test batch (Isola 2018, Romeo 2014, Gambino 2026, Li 2022, Romanos 2022, Suter 2010, Kim 2020, Wilder-Smith 1995, Gutiérrez-Corrales 2020, Romanos 2013) surfaced two schema/dashboard defects, now fixed as v1.1:
 
-- **Merigo et al. 2012** — `measured_power` was `false`, contradicting the note's own prose, which states the diode arm was independently checked with a power meter (pooled across 5 device types, not diode-isolated). Corrected to `true`, with `measured_power_value_reported: false` added — the same pattern as Hanke/Strakas. This moved Merigo into Table B.
-- **Goharkhay et al. 1999** — `speed_control` was `measured`; per the schema's now-documented precedence rule (motion-generation mechanism takes priority over a separate verification detail), corrected to `mechanized` — the source's motorized handpiece generated the motion, and the stopwatch timing is a verification detail, not the primary classification.
+- **`speed_mm_s` couldn't represent a multi-point tested sweep.** Romanos et al. 2013 reports a 5-point tested incision-speed sweep (12.5, 6.0, 3.0, 1.0, 0.0 mm/s) via a programmable translation stage, but the field's v1 type was "number or `null`" only. Widened to "number, list, or `null`," matching its sibling numeric fields (`wavelength_nm`, `set_power_w`, `measured_power_w`, `fiber_diameter_um`). Romanos 2013 now carries `speed_mm_s: [12.5, 6.0, 3.0, 1.0, 0.0]` instead of `null`.
+- **Tables B and C could silently admit a non-diode or review-tier row.** Wilder-Smith et al. 1995 (three CO2 lasers, `diode_laser: false`) appeared in Table B purely because it independently measures power — not diode-laser prior art. Both tables now add `diode_laser = true AND classification != "BACKGROUND"`. Confirmed: Wilder-Smith 1995 and Romanos et al. 2013 (a BACKGROUND-tier CE review) no longer appear in either table; Hanke 2021, Strakas 2023, and Goharkhay 1999 remain in Table C; Kim et al. 2020 (SUPPORTING TECHNICAL, diode, no biological tissue) correctly remains in Table B — lack of tissue is not grounds to exclude a genuine power-measurement methodological precedent, and is not addressed by this patch (see [[99 Templates/Study Metadata Schema]] for the deferred non-tissue boundary case).
 
-Current membership: **Table A** 4 rows, **Table B** 6 rows (Al-Ani 2023, Al-Ani 2024, Goharkhay 1999, Hanke 2021, Merigo 2012, Strakas 2023), **Table C** 3 rows (Goharkhay 1999, Hanke 2021, Strakas 2023) — unchanged by the Merigo correction, since Merigo has no reported incision speed. Schema is frozen at v1 pending wider rollout — see [[99 Templates/Study Metadata Schema]].
+Table A is untouched (already scoped by `classification = "CORE BIOPSY"`, no diode/BACKGROUND ambiguity applies there).
+
+All 22 tagged notes re-validated after this patch: YAML parses cleanly on every note, no boolean stored as a string, no controlled-vocabulary field outside its allowed list, `speed_mm_s` values valid under the widened v1.1 type, and no impossible combination (e.g. `measured_power_value_reported: true` with `measured_power` not `true`, or a populated `speed_mm_s` with `incision_speed_reported: false`).
+
+**Membership before → after this patch:** Table A unchanged at 8 rows. **Table B: 12 → 10** (both Wilder-Smith 1995 and Romanos et al. 2013 removed — Wilder-Smith via `diode_laser = true`, Romanos 2013 via `classification != "BACKGROUND"`; both had qualified for B under v1 via `incision_speed_reported`/`measured_power`, despite neither being diode-technical prior art). **Table C: 3 → 3, unchanged** (Goharkhay 1999, Hanke 2021, Strakas 2023) — neither Wilder-Smith nor Romanos 2013 had ever qualified for C (both lack the full three-way `measured_power AND incision_speed_reported AND histology` combination). Schema frozen at v1.1 pending the next rollout batch — see [[99 Templates/Study Metadata Schema]].
 
 ## Related
 
