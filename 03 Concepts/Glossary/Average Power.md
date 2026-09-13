@@ -3,7 +3,7 @@ aliases: []
 category: laser-operation
 unit: W
 symbol: P_avg
-equation: P_avg = P_peak × Duty Cycle (CW: P_avg = P_set)
+equation: P_avg = P_peak × Duty Cycle (CW: P_avg = P_set).
 related_terms: [Peak Power, Duty Cycle, Continuous Wave, Pulsed Mode]
 ---
 

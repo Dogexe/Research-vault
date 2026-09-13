@@ -146,6 +146,30 @@ Never infer missing values.
 
 
 
+\## Glossary Terminology
+
+
+
+Before extracting or synthesizing new literature:
+
+
+
+\- consult `03 Concepts/Glossary/Glossary Index.md`
+
+\- use canonical glossary terms for normalized interpretation
+
+\- preserve the source's exact terminology in prose
+
+\- do not invent mappings
+
+\- flag new or ambiguous concepts for glossary review
+
+
+
+See `03 Concepts/Glossary/Glossary Index.md` for the full terminology policy — do not duplicate it here.
+
+
+
 \## Evidence Workflow
 
 

@@ -83,6 +83,22 @@ Specimen-level histopathologic outcomes — this project's primary endpoint doma
 - [[03 Concepts/Glossary/Biopsy-oriented]]
 - [[03 Concepts/Glossary/Biopsy Specimen Quality]] (composite project outcome concept)
 
+## Canonical terminology
+
+This glossary is the preferred vocabulary layer for the vault: when writing or updating metadata, evidence synthesis, or project-level notes, prefer the canonical term listed here over a scattered mix of synonyms. This does **not** mean rewriting evidence — a source's original wording must still be preserved in extraction prose (per AGENTS.md). Normalization exists so that different sources' terminology can be compared consistently at the synthesis/metadata layer, not to overwrite what a source actually said.
+
+## Usage rules
+
+- Preserve the source's original wording in extraction prose.
+- When a source uses a synonym or alternate phrasing, map it to the canonical glossary term where appropriate.
+- Prefer canonical glossary terms in metadata, evidence synthesis, and project-level writing.
+- Use Obsidian wikilinks to canonical glossary notes when they improve navigation or disambiguation.
+- Do not force a mapping if the source uses a term in a materially different technical sense.
+- If a genuinely distinct concept appears that is not covered by the glossary, flag it for glossary review before creating a new note.
+- Do not create duplicate synonym notes; add aliases to the canonical glossary note instead.
+- Foundational equations in glossary notes are conceptual aids only and must not be used to infer or back-calculate unreported study parameters.
+- When terminology is ambiguous, preserve the original source wording and record the ambiguity rather than normalizing aggressively.
+
 ## Key distinctions to check when reading a new source
 
 These pairs are easy to conflate; each is addressed explicitly in the relevant notes' "Common pitfalls"/"Common confusion" sections:

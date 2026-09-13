@@ -1,5 +1,7 @@
 # Study Metadata Schema
 
+**Terminology cross-reference:** terminology normalization for extraction/synthesis prose should follow [[03 Concepts/Glossary/Glossary Index]]. That does not apply here — schema field meanings, allowed values, and boolean/null semantics are defined solely by this document, and a glossary alias must never be used to reinterpret a field's meaning or value.
+
 **Status: v1.1, frozen pending the next rollout batch.** v1 was stress-tested on a 10-note batch (see [[06 Synthesis/Study Dashboard]] validation notes); this maintenance patch fixes the two demonstrated defects that batch surfaced — `speed_mm_s` couldn't represent a multi-point tested sweep, and Tables B/C could silently admit a non-diode or review-tier row. No fields were added and no field's meaning changed; only `speed_mm_s`'s allowed type widened (see below) and the two Dataview queries gained filters. Do not add new fields, change controlled-vocabulary lists, or mass-tag additional `07 Data/` notes without revisiting this document first — this file is the single source of truth for the schema, and a form, script, or additional tagging pass that drifts from it is a bug, not a variant.
 
 Canonical YAML frontmatter schema for study extraction notes in `07 Data/`. This documents the fields applied to the first 12 priority notes (see [[06 Synthesis/Study Dashboard]]) and is the field plan for a future Modal Forms form — no form is built yet, this is the specification a form would be built against.
