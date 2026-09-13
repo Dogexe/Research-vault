@@ -76,6 +76,15 @@ SORT file.name ASC
 
 **Reading this table:** existing diode-laser studies already demonstrate independently measured output, a reported incision speed, and histologic tissue-effect assessment. What none of the rows above also carry is `biopsy_oriented: true` — none excise a real lesion or assess biopsy-oriented specimen-quality outcomes (margin readability, tissue-architecture preservation, diagnostic outcome). The remaining potential gap is applying this measurement rigor to biopsy-oriented histopathologic specimen-quality outcomes in an ex vivo oral soft-tissue model — not the absence of measured power, not the absence of a reported speed, and not the absence of histology individually. This is **not** a claim that no such study exists anywhere, and **not** a "first ever" claim — see [[06 Synthesis/Novelty Matrix - Diode Laser Biopsy]] for the full prose analysis this table summarizes.
 
+## Validation note (schema v1 freeze)
+
+All 12 tagged notes were re-validated after the schema v1 audit: YAML parses cleanly on every note, no boolean is stored as a string, no controlled-vocabulary field holds a value outside its allowed list, and no impossible combination exists (e.g. `measured_power_value_reported: true` with `measured_power` not `true`, or a populated `speed_mm_s` with `incision_speed_reported: false`). Two corrections came out of this audit:
+
+- **Merigo et al. 2012** — `measured_power` was `false`, contradicting the note's own prose, which states the diode arm was independently checked with a power meter (pooled across 5 device types, not diode-isolated). Corrected to `true`, with `measured_power_value_reported: false` added — the same pattern as Hanke/Strakas. This moved Merigo into Table B.
+- **Goharkhay et al. 1999** — `speed_control` was `measured`; per the schema's now-documented precedence rule (motion-generation mechanism takes priority over a separate verification detail), corrected to `mechanized` — the source's motorized handpiece generated the motion, and the stopwatch timing is a verification detail, not the primary classification.
+
+Current membership: **Table A** 4 rows, **Table B** 6 rows (Al-Ani 2023, Al-Ani 2024, Goharkhay 1999, Hanke 2021, Merigo 2012, Strakas 2023), **Table C** 3 rows (Goharkhay 1999, Hanke 2021, Strakas 2023) — unchanged by the Merigo correction, since Merigo has no reported incision speed. Schema is frozen at v1 pending wider rollout — see [[99 Templates/Study Metadata Schema]].
+
 ## Related
 
 - [[99 Templates/Study Metadata Schema]] — field definitions and allowed values

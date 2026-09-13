@@ -6,7 +6,8 @@ human_tissue: false
 diode_laser: true
 wavelength_nm: 808
 set_power_w: [3, 5]
-measured_power: false
+measured_power: true
+measured_power_value_reported: false
 measured_power_w: null
 power_meter: "Nova II (Ophir)"
 measurement_location: null
@@ -89,3 +90,4 @@ This is a five-wavelength ex vivo bench comparison (CO2, KTP, Er:YAG, Nd:YAG, an
 - FACT: The source's own Discussion cites a different Romanos-authored source (Geminiani, Caton, Romanos 2011, its own reference 17: "Temperature change during non-contact diode laser irradiation of implant surfaces," *Lasers Med Sci*) as support for its statement that "Nd:YAG and diode lasers must be used with special care because of the higher penetration depth and the possible damage to the bone." This is Merigo et al.'s own citation of a separate 2011 Romanos-coauthored paper on implant-surface temperature (not itself processed in this vault pass) — it must not be conflated with [[02 Literature/Diode Laser Soft-Tissue Surgery_ Advancements Aimed at Consistent Cutting, Improved Clinical Outcomes|Romanos 2013 (Compendium)]], the single-author review processed separately in this same batch, nor with [[07 Data/Romanos et al 2022 - Initiated vs Non-Initiated Diode Laser Penetration Depth|Romanos et al. 2022]] already in this vault. All three "Romanos" sources are distinct and are not treated as interchangeable.
 - FACT: This source's incision-quality scoring system (0–16, two blind examiners, ≥12 "good," 8–12 "mean," <8 "poor") is a different scale from this vault's other margin/quality metrics (μm thermal-damage width, pathologist-graded 1–5 slide quality in Gundlapalle et al.) and is not directly poolable with them.
 - Classification for this vault: **SUPPORTING** dental/soft-tissue-diode evidence — a real diode-laser arm (GaAlAs 808 nm, 3/5 W CW, 320 μm fiber, contact mode) with genuinely measured (though pooled, not diode-isolated) power-loss verification and quantified thermal/quality-score data, but ex vivo bovine tongue with no lesion and no diagnosis rendered, so it is not a core diagnostic-biopsy-pathway row. Relevant to [[04 Evidence/Power Output and Tissue Effect]] (partial, pooled power-loss data point), [[04 Evidence/Thermal Artifact]], and [[06 Synthesis/Diode Laser Biopsy Pre-setting Map]] (excision-time and thermal-rise data, not incision speed).
+- METADATA CONVENTION: `measured_power: true` — the diode arm was independently checked with a calibrated power meter (Nova II, Ophir) before the protocol, per this vault's own prose above; `measured_power_value_reported: false` and `measured_power_w: null` because the resulting 18–25% loss figure is pooled across all 5 device types, not broken out for the diode specifically. This mirrors the Hanke et al. 2021 / Strakas et al. 2023 pattern — independent measurement occurred, but no diode-isolated numerical value is tabulated (see [[99 Templates/Study Metadata Schema]]).

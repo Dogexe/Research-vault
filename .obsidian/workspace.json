@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 Data/Pergolini et al 2025 - Dual-Wavelength Diode Laser Ex Vivo Thermal Damage Data.md",
+                "file": "07 Data/Wilder-Smith et al 1995 - CO2 Laser Incision and Thermal Damage Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pergolini et al 2025 - Dual-Wavelength Diode Laser Ex Vivo Thermal Damage Data"
+              "title": "Wilder-Smith et al 1995 - CO2 Laser Incision and Thermal Damage Data"
             }
           }
         ]
@@ -231,18 +231,22 @@
   },
   "active": "c6ffd2e55847c5c4",
   "lastOpenFiles": [
+    "validation_report.txt",
+    "99 Templates/Study Metadata Schema.md.tmp.36408.05db92a0c047",
+    "99 Templates/Study Metadata Schema.md.tmp.36408.55ed4cb9d257",
+    "99 Templates/Study Metadata Schema.md.tmp.36408.fc81f9f46f88",
+    "99 Templates/Study Metadata Schema.md.tmp.36408.27db009ea87c",
+    "07 Data/Goharkhay et al 1999 - Diode Laser Incision Depth and Collateral Damage Data.md.tmp.36408.e03c244992dd",
+    "07 Data/Merigo et al 2012 - Five-Wavelength Ex Vivo Thermal and Histologic Comparison Data.md.tmp.36408.51ac32441cb7",
+    "07 Data/Spille et al 2026 - Diode Laser Learning-Curve and Target-Based Accuracy Data.md.tmp.36408.5b0cce566028",
+    "07 Data/Shnawa et al 2025 - Diode Laser vs Scalpel Oral Fibroma Excision Data.md.tmp.36408.eddd7207cf36",
+    "07 Data/Pergolini et al 2025 - Dual-Wavelength Diode Laser Ex Vivo Thermal Damage Data.md.tmp.36408.5ac61242df1e",
+    "07 Data/Palaia et al 2021 - 445 nm Diode Laser In Vivo Biopsy Thermal Effect Data.md.tmp.36408.eb3d97d75e11",
+    "07 Data/Xue et al 2022 - Two Semiconductor Lasers Power Output.md",
+    "07 Data/Strakas et al 2023 - 940nm Diode Cutting Efficiency and Thermal Damage Data.md",
+    "07 Data/Pergolini et al 2025 - Dual-Wavelength Diode Laser Ex Vivo Thermal Damage Data.md",
     "07 Data/Merigo et al 2012 - Five-Wavelength Ex Vivo Thermal and Histologic Comparison Data.md",
     "07 Data/Hanke et al 2021 - Eight-Wavelength Diode Cut Efficiency Data.md",
-    "06 Synthesis/Study Dashboard.md.tmp.36408.8407f641b307",
-    "99 Templates/Study Metadata Schema.md.tmp.36408.c0d772910a9a",
-    "99 Templates/Study Metadata Schema.md.tmp.36408.8a70f4f4eafa",
-    "99 Templates/Study Metadata Schema.md.tmp.36408.efb897208c5f",
-    "07 Data/Al-Ani et al 2024 - Dual-Wavelength Diode vs Er,Cr YSGG Biopsy Margin Histology Data.md.tmp.36408.e1a6ce0c4b43",
-    "07 Data/Al-Ani et al 2023 - Dual-Wavelength Diode Operating Parameters.md.tmp.36408.aa52fa59b816",
-    "07 Data/Al-Ani et al 2024 - Dual-Wavelength Diode vs Er,Cr YSGG Biopsy Margin Histology Data.md.tmp.36408.cdaf3c7c1812",
-    "07 Data/Al-Ani et al 2023 - Dual-Wavelength Diode Operating Parameters.md.tmp.36408.25f6ab8b3bb5",
-    "07 Data/Goharkhay et al 1999 - Diode Laser Incision Depth and Collateral Damage Data.md.tmp.36408.b7b00cbeeb5a",
-    "07 Data/Strakas et al 2023 - 940nm Diode Cutting Efficiency and Thermal Damage Data.md.tmp.36408.f9e86955a693",
     "00 Inbox/Shortlist - PubMed Candidates 3-7 (Adjacent, Not Core Diode-Output Evidence).md",
     "99 Templates/Study Metadata Schema.md",
     "06 Synthesis/Study Dashboard.md",
@@ -255,7 +259,6 @@
     "07 Data/Al-Ani et al 2023 - Dual-Wavelength Diode Operating Parameters.md",
     "05 Devices/A.R.C. Laser FOX (810 nm).md",
     "06 Synthesis/Novelty Matrix - Diode Laser Biopsy.md",
-    "07 Data/Strakas et al 2023 - 940nm Diode Cutting Efficiency and Thermal Damage Data.md",
     "01 Projects/Diode Laser Biopsy.md",
     "01 Projects/Diode Laser Master.md",
     "06 Synthesis/Contradictions in Diode Laser Biopsy Evidence.md",
@@ -263,9 +266,6 @@
     "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md",
     "06 Synthesis/Diode Laser Biopsy Specimen Quality.md",
     "06 Synthesis/Novelty Check - Prior Systematic Review.md",
-    "06 Synthesis/Research Gaps in Dental Diode Laser Output.md",
-    "07 Data/Gutierrez-Corrales et al 2020 - Diode Wavelength Operating Parameters.md",
-    "07 Data/Xue et al 2022 - Two Semiconductor Lasers Power Output.md",
-    "07 Data/Lu et al 2026 - Dual-Wavelength 980-1470 nm Liver Cutting Parameters Data (Abstract-Level).md"
+    "06 Synthesis/Research Gaps in Dental Diode Laser Output.md"
   ]
 }

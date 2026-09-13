@@ -13,7 +13,7 @@ power_meter: "wattmeter (brand unspecified)"
 measurement_location: "fiber outflow"
 incision_speed_reported: true
 speed_mm_s: 10
-speed_control: measured
+speed_control: mechanized
 cw_pw: "CW+PW"
 fiber_diameter_um: [200, 400]
 tip_initiation: null
@@ -87,3 +87,4 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 - HYPOTHESIS: UNKNOWN — no formal hypothesis beyond the study's own stated aim.
 - Limitations (source-stated and vault-noted): ex vivo pig mandible tissue, not human oral mucosa and not a lesion; no diagnostic outcome is measured at all, so this source cannot contribute to the diagnostic-yield or margin-readability questions in [[04 Evidence/Biopsy Specimen Quality]]; tip-initiation status and contact/non-contact mode are not reported; wattmeter calibration protocol is not described beyond "measured directly... with a wattmeter."
 - Classification for this vault: supporting, non-diagnostic ex vivo evidence for the power/mode → thermal-damage-width relationship, for incision speed, and for the distinction between set and measured power. Relevant to [[04 Evidence/Power Output and Tissue Effect]], [[04 Evidence/Thermal Artifact]], and [[06 Synthesis/Diode Laser Biopsy Pre-setting Map]].
+- METADATA CONVENTION: `speed_control: mechanized` — the source describes both a motorized generation mechanism (handpiece attached to a motorized device) and an independent verification detail (timed with a stopwatch). Per schema precedence, the field records how motion was generated; the stopwatch-verification detail is preserved here in prose rather than promoted to a separate value (see [[99 Templates/Study Metadata Schema]]).

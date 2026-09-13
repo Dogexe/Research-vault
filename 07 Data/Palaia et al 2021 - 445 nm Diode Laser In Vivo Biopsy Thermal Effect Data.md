@@ -7,6 +7,7 @@ diode_laser: true
 wavelength_nm: 445
 set_power_w: 2.5
 measured_power: false
+measured_power_value_reported: false
 measured_power_w: null
 power_meter: null
 measurement_location: null

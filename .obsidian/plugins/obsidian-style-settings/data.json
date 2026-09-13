@@ -6,7 +6,6 @@
   "blue-topaz-theme@@background-settings-workplace-background-image": false,
   "blue-topaz-theme@@background-image-settings-switch": false,
   "blue-topaz-theme@@toggle-nonoverlapping-bg": false,
-  "blue-topaz-theme@@left-ribbon-style": "default-left-ribbon-style",
   "blue-topaz-theme@@search-bar-style-option": "default-search-bar",
   "blue-topaz-theme@@bt-status-on": false,
   "blue-topaz-theme@@scrollbar-style-option": "default-scrollbar",
@@ -40,5 +39,6 @@
   "ITS@@hide-titlebar-tab": true,
   "ITS@@hide-tab-outline": true,
   "ITS@@hide-note-title": true,
-  "ITS@@hide-note-title-icons": true
+  "ITS@@hide-note-title-icons": true,
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-default"
 }
