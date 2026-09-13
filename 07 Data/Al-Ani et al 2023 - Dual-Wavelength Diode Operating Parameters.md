@@ -7,12 +7,13 @@ diode_laser: true
 wavelength_nm: [810, 980]
 set_power_w: [1.5, 2.5]
 measured_power: false
+measured_power_value_reported: false
 measured_power_w: null
 power_meter: "PINTUDY"
 measurement_location: null
 incision_speed_reported: true
 speed_mm_s: 0.75
-speed_control: clinician-controlled
+speed_control: unknown
 cw_pw: "CW"
 fiber_diameter_um: 400
 tip_initiation: "initiated"
@@ -71,3 +72,4 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 - FACT: The power meter (PINTUDY) served only to standardize the *set* power via the fiber-optic cut; the study provides no independent measured-output value distinct from the set value, and therefore contributes no power-loss or set-vs-measured deviation data.
 - HYPOTHESIS: UNKNOWN — no hypothesis regarding power accuracy is proposed; the study's hypothesis concerns comparative thermal safety between the two laser types.
 - Classification for this vault: supporting/background evidence for operating parameters and tip-initiation protocol; **not** direct measured-output evidence (no power loss/deviation reported).
+- METADATA CONVENTION: this vault's structured schema records `speed_control: unknown` for this study. A numeric incision speed (0.75 mm/s) is explicitly reported, but the mechanism used to control or verify that speed is not described — the source does not state whether it was mechanized, clinician-executed, or otherwise. Per schema convention, `speed_control` is not upgraded to `clinician-controlled` or `mechanized` without explicit source support (see [[99 Templates/Study Metadata Schema]]).

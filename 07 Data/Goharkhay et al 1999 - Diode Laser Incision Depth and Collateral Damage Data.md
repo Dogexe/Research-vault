@@ -7,6 +7,7 @@ diode_laser: true
 wavelength_nm: 810
 set_power_w: null
 measured_power: true
+measured_power_value_reported: true
 measured_power_w: [0.5, 4.5]
 power_meter: "wattmeter (brand unspecified)"
 measurement_location: "fiber outflow"

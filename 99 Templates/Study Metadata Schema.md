@@ -8,6 +8,22 @@ Rules that apply to every field:
 - Numeric fields contain numbers only. A single reported value is a plain number (`2.5`). A tested range is a two-element list of `[min, max]` (`[0.5, 4]`). A discrete list only where the source itself enumerates fixed variants (`fiber_diameter_um: [200, 400]` for two named fiber sizes).
 - `null` means not reported / not applicable / unknown. Never infer or estimate a value to fill a field — this mirrors the vault-wide rule that `UNKNOWN` is preserved, not guessed.
 - Never infer `measured_power_w` from `set_power_w`, and never infer `speed_mm_s` from procedure duration ÷ distance unless the source itself states the speed as a value (see AGENTS.md).
+- Never infer a numerical measured-power value from a tolerance/deviation threshold (e.g. "±5% deviation triggers fiber-tip replacement"), a set/console value, or a manufacturer specification. A threshold or QC gate is evidence that measurement occurred, not evidence of what the measured number was.
+
+### `measured_power` vs. `measured_power_value_reported` vs. `measured_power_w`
+
+These are three separate questions and must not be collapsed into one:
+
+- **`measured_power`** — *Was output independently measured at all?* `true` if the source describes an independent instrument (power meter) verifying actual delivered output, regardless of whether a specific number is tabulated.
+- **`measured_power_value_reported`** — *Did the source report the actual numerical measured output?* `true` only if an explicit measured wattage (or range of measured wattages) is given as a value, separate from the set/console power.
+- **`measured_power_w`** — *The explicit measured value in watts, if reported.* Populated only when `measured_power_value_reported` is `true`; otherwise `null`.
+
+| `measured_power` | `measured_power_value_reported` | `measured_power_w` | Meaning | Example |
+|---|---|---|---|---|
+| `true` | `false` | `null` | Independently measured (e.g. calibrated power meter checked before every incision), but no distinct numerical measured value is tabulated — only a QC pass/fail or deviation threshold. | Hanke et al. 2021, Strakas et al. 2023 |
+| `true` | `true` | numeric | Independently measured, and the actual measured wattage(s) are reported as a value. | Goharkhay et al. 1999 (`measured_power_w: [0.5, 4.5]`, measured at fiber outflow) |
+| `false` | `false` | `null` | No independent measurement reported — set/console power only. | Palaia et al. 2021, Gundlapalle et al. 2022 |
+| `null` | `null` | `null` | Unclear / not enough information to determine whether independent measurement occurred. | (use only when the source text itself is ambiguous, not as a default) |
 
 ## Fields
 
@@ -20,13 +36,14 @@ Rules that apply to every field:
 | `diode_laser` | boolean | `true` / `false` | Whether a diode laser arm is present in the study (even if compared against a non-diode laser). |
 | `wavelength_nm` | number or list | e.g. `445`, `[810, 980]` | Wavelength(s) of the diode arm only. Dual-wavelength devices use a two-element list. |
 | `set_power_w` | number or list | e.g. `2.5`, `[1, 6]` | Console/dial power setting(s) tested. A tested range is `[min, max]`. Never equated with measured output. |
-| `measured_power` | boolean | `true` / `false` | `true` only if the source reports an independently instrument-verified output value distinct from the set/console value. A per-incision QC check that is never itself tabulated as a number is recorded as `false` (see `needs_verification`). |
-| `measured_power_w` | number or list or `null` | e.g. `[0.5, 4.5]` | The independently measured value itself. `null` whenever `measured_power` is `false`. |
+| `measured_power` | boolean or `null` | `true` / `false` / `null` | Whether output was independently measured at all (e.g. a calibrated power meter checked delivered output), regardless of whether a distinct numerical value was tabulated. `null` only if the source text is genuinely ambiguous on whether measurement occurred. |
+| `measured_power_value_reported` | boolean or `null` | `true` / `false` / `null` | Whether the source reports the actual numerical measured-output value (not just that measurement occurred). `false` when independent measurement is confirmed but only a QC pass/fail or deviation threshold is given, with no distinct wattage tabulated. See the worked comparison below. |
+| `measured_power_w` | number or list or `null` | e.g. `[0.5, 4.5]` | The explicit measured value itself, in watts. Populated only when `measured_power_value_reported` is `true`; otherwise `null`. |
 | `power_meter` | string or `null` | free text | Instrument/brand used for power verification, if named. |
 | `measurement_location` | string or `null` | free text | Where the measurement was taken (e.g. "distal end of fiber", "fiber outflow"). `null` if not stated or if the meter was used only to set (not verify) power. |
 | `incision_speed_reported` | boolean | `true` / `false` | `true` only if the source itself states a numeric incision/cutting speed (mm/s). Never derived by this vault from incision length ÷ procedure time. |
 | `speed_mm_s` | number or `null` | e.g. `2` | The reported speed value. `null` whenever `incision_speed_reported` is `false`. |
-| `speed_control` | string (controlled) | `mechanized`, `clinician-controlled`, `measured`, `descriptive`, `unknown` | How the speed value was produced: `mechanized` = driven by a programmed/motorized device; `clinician-controlled` = a fixed manual target executed by an operator; `measured` = independently timed/instrumented verification; `descriptive` = qualitative only; `unknown` = not stated. |
+| `speed_control` | string (controlled) | `mechanized`, `clinician-controlled`, `measured`, `descriptive`, `unknown` | How the speed value was produced: `mechanized` = driven by a programmed/motorized device (explicitly described as such); `clinician-controlled` = the source explicitly states a manual operator executed/held the target speed; `measured` = independently timed/instrumented verification; `descriptive` = qualitative only; `unknown` = not stated. **Default to `unknown` whenever a numeric speed is reported but the source does not explicitly describe the control/verification mechanism.** A reported numeric speed alone is never sufficient to infer `mechanized` or `clinician-controlled` — e.g. Al-Ani et al. 2023/2024 report 0.75 mm/s but do not describe how it was controlled or verified, so `speed_control: unknown` even though `incision_speed_reported: true`. |
 | `cw_pw` | string | `CW`, `PW`, `CW+PW` | Operating mode(s) tested for the diode arm. |
 | `fiber_diameter_um` | number or list or `null` | e.g. `320`, `[200, 400]` | Fiber core/outer diameter(s) tested. |
 | `tip_initiation` | string or `null` | `initiated`, `non-initiated`, `both`, `null` | Whether the fiber tip was pre-charred/initiated before use. |

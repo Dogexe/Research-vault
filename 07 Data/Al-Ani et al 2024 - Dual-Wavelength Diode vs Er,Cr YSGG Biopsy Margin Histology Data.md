@@ -7,12 +7,13 @@ diode_laser: true
 wavelength_nm: [810, 980]
 set_power_w: [1.5, 2.5]
 measured_power: false
+measured_power_value_reported: false
 measured_power_w: null
 power_meter: "PINTUDY"
 measurement_location: null
 incision_speed_reported: true
 speed_mm_s: 0.75
-speed_control: clinician-controlled
+speed_control: unknown
 cw_pw: "CW"
 fiber_diameter_um: 400
 tip_initiation: "initiated"
@@ -81,6 +82,7 @@ The companion-study relationship should still be recorded as a separate fact: th
 - FACT: This is a substantially more rigorous histologic outcome design than [[07 Data/Isola et al 2018 - Diode Laser Pyogenic Granuloma Excision Speed Data|Isola et al. 2018]] — quantified ordinal damage scores plus a numeric thermal-damage-extent measurement (μm) — but it is an ex vivo animal (sheep tongue) model with no diagnostic pathway, unlike Isola et al. 2018's human in vivo diagnostic biopsies.
 - HYPOTHESIS: UNKNOWN — no explicit null hypothesis is stated beyond the general aim of determining "the most effective and safest laser system at the histopathological level."
 - Classification for this vault: CORE source for the incision-speed + histologic-damage axis of the novelty chain (dental/oral-relevant ex vivo tissue); confirmed **not** usable for the independently-measured-power or diagnostic-biopsy-outcome axes.
+- METADATA CONVENTION: this vault's structured schema records `speed_control: unknown` for this study. The extraction table above already hedges the "manual, clinician-executed" language as an interpretation, not a confirmed fact; per schema convention, `speed_control` is not upgraded to `clinician-controlled` without the source itself explicitly describing the control/verification mechanism (see [[99 Templates/Study Metadata Schema]]).
 
 ## สรุปภาษาไทย
 

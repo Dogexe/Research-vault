@@ -6,7 +6,8 @@ human_tissue: false
 diode_laser: true
 wavelength_nm: [405, 445, 514, 532, 810, 980, 1064, 1470]
 set_power_w: [0.5, 4]
-measured_power: false
+measured_power: true
+measured_power_value_reported: false
 measured_power_w: null
 power_meter: "LabMax Top (Coherent) + PM10 detector"
 measurement_location: "distal end of fiber"
@@ -24,7 +25,7 @@ tissue_architecture: null
 diagnostic_outcome: false
 biopsy_oriented: false
 full_text: true
-needs_verification: true
+needs_verification: false
 ---
 
 # Laser Operating Parameters
