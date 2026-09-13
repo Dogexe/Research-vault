@@ -4,7 +4,7 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 
 ## Source
 
-- Literature note: [[02 Literature/Study on Optimal Optical Parameters for Cutting Liver Tissue with a Novel 980/1470 nm Dual-Wavelength Semiconductor Laser - Yiwen Lu, Gaoqi Liu, Kuiyuan Chai, Zien Xu, Mohan Lu, Linxin Shen, Meng Zhao, Le Jiang, Rongqian Wu, Lihui Pang, Yi Lyu, Rongfeng Wang, 2026]]
+- Literature note: [[02 Literature/Study on Optimal Optical Parameters for Cutting Liver Tissue with a Novel 980/Lu 2026 - Dual-Wavelength Liver Cutting Parameters
 - Source link: https://doi.org/10.1177/25785478261465277
 - Source locator: Abstract, author list, and metadata retrieved from the local Zotero cache (`.zotero-ft-cache`, zotero-key GSFKUYYQg6669922), which mirrors the publisher's (Sage) public abstract page. Lu Y, Liu G, Chai K, Xu Z, Lu M, Shen L, Zhao M, Jiang L, Wu R, Pang L, Lyu Y, Wang R. "Study on Optimal Optical Parameters for Cutting Liver Tissue with a Novel 980/1470 nm Dual-Wavelength Semiconductor Laser." *Photobiomodulation, Photomedicine, and Laser Surgery.* First published online 30 Jun 2026; Volume 44, Issue 8, pp. 483–493. PubMed ID 42380070. **Full text is not accessible — the article is behind a subscription paywall (Sage Journals "Restricted access"), and no PDF is cached in this vault's local Zotero library.** All values below are drawn from the structured public abstract only; no Methods, Results, or Discussion body text, tables, or figures were available for extraction.
 
