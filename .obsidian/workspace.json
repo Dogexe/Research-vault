@@ -11,14 +11,10 @@
             "id": "c6ffd2e55847c5c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Concepts/Glossary/Average Power.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Average Power"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -83,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 263.8999938964844
   },
   "right": {
     "id": "04e4905b0899b4ed",
@@ -231,15 +227,27 @@
   },
   "active": "c6ffd2e55847c5c4",
   "lastOpenFiles": [
+    "07 Data/Shnawa et al 2025 - Diode Laser vs Scalpel Oral Fibroma Excision Data.md.tmp.4056.b58f104cf44d",
+    "07 Data/Shnawa et al 2025 - Diode Laser vs Scalpel Oral Fibroma Excision Data.md.tmp.4056.80f4eaea4535",
+    "07 Data/Spille et al 2026 - Diode Laser Learning-Curve and Target-Based Accuracy Data.md.tmp.4056.98662735ac1a",
+    "07 Data/Spille et al 2026 - Diode Laser Learning-Curve and Target-Based Accuracy Data.md.tmp.4056.3ba65c0e4ee6",
+    "07 Data/Wilder-Smith et al 1995 - CO2 Laser Incision and Thermal Damage Data.md.tmp.4056.c1d731216971",
+    "07 Data/Wilder-Smith et al 1995 - CO2 Laser Incision and Thermal Damage Data.md.tmp.4056.1463627b63dd",
+    "07 Data/Suter et al 2010 - CO2 vs Diode Laser Biopsy Thermal Damage Data (Abstract-Level).md.tmp.4056.8947753fe79e",
+    "07 Data/Romanos et al 2013 - Diode Laser Soft-Tissue Surgery Review Data.md.tmp.4056.0ff863125a0a",
+    "07 Data/Romanos et al 2022 - Initiated vs Non-Initiated Diode Laser Penetration Depth.md.tmp.4056.fe688e3663c1",
+    "07 Data/Romanos et al 2022 - Initiated vs Non-Initiated Diode Laser Penetration Depth.md.tmp.4056.0e32c2483631",
+    "07 Data/Li et al 2022 - Diode vs Er-YAG vs Cold Scalpel Mice Oral Mucosa Data.md.tmp.4056.f18b8e012128",
+    "99 Templates/Evidence Note.md",
+    "99 Templates/Glossary Term Template.md",
+    "03 Concepts/Glossary/Glossary Index.md",
+    "03 Concepts/Glossary/Vaporization.md",
+    "03 Concepts/Glossary/Photon Energy.md",
+    "03 Concepts/Glossary/Average Power.md",
     "03 Concepts/Glossary/Absorption.md",
     "03 Concepts/Glossary/Non-contact Mode.md",
-    "AGENTS.md.tmp.4056.7fde35e888ea",
-    "99 Templates/Study Metadata Schema.md.tmp.4056.ae09635e3d1b",
-    "99 Templates/Glossary Term Template.md.tmp.4056.1164bc77ed2d",
-    "03 Concepts/Glossary/Glossary Index.md.tmp.4056.b562fe38309a",
     "03 Concepts/Glossary/Set Power.md",
     "03 Concepts/Glossary/Thermal Relaxation Time.md",
-    "03 Concepts/Glossary/Average Power.md",
     "03 Concepts/Glossary/Beam Delivery Geometry.md",
     "03 Concepts/Glossary/Biopsy Specimen Quality.md",
     "03 Concepts/Glossary/Tissue Architecture Preservation.md",
@@ -254,18 +262,6 @@
     "03 Concepts/Glossary/Energy.md",
     "03 Concepts/Glossary/Energy per Unit Length.md",
     "03 Concepts/Glossary/Excision Time.md",
-    "03 Concepts/Glossary/Exposure Time.md",
-    "03 Concepts/Glossary/Ablation.md",
-    "03 Concepts/Glossary/Chromophore.md",
-    "03 Concepts/Glossary/Biopsy-oriented.md",
-    "03 Concepts/Glossary/Power.md",
-    "03 Concepts/Glossary/Glossary Index.md.tmp.4056.90c2fa1f8f15",
-    "03 Concepts/Glossary/Power-to-Speed Relationship.md",
-    "03 Concepts/Glossary/Power-to-Speed Relationship.md.tmp.4056.e5fbf6a8bb6c",
-    "03 Concepts/Glossary/Excision Time.md.tmp.4056.c3b65c2bd57f",
-    "03 Concepts/Glossary/Biopsy Specimen Quality.md.tmp.4056.0d5e502667a2",
-    "03 Concepts/Glossary/Biopsy-oriented.md.tmp.4056.438b33d59446",
-    "03 Concepts/Glossary/Tissue Architecture Preservation.md.tmp.4056.281119e25813",
-    "03 Concepts/Glossary/Margin Quality.md"
+    "03 Concepts/Glossary/Exposure Time.md"
   ]
 }
