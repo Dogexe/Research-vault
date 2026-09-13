@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Projects/Diode Laser Biopsy.md",
+                "file": "06 Synthesis/Novelty Matrix - Diode Laser Biopsy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diode Laser Biopsy"
+              "title": "Novelty Matrix - Diode Laser Biopsy"
             }
           }
         ]
@@ -231,8 +231,10 @@
   },
   "active": "c6ffd2e55847c5c4",
   "lastOpenFiles": [
-    "01 Projects/Diode Laser Master.md",
+    "07 Data/Hanke et al 2021 - Eight-Wavelength Diode Cut Efficiency Data.md",
+    "07 Data/Strakas et al 2023 - 940nm Diode Cutting Efficiency and Thermal Damage Data.md",
     "01 Projects/Diode Laser Biopsy.md",
+    "01 Projects/Diode Laser Master.md",
     "04 Evidence/Biopsy Specimen Quality.md.tmp.36408.eab3f52fa132",
     "04 Evidence/Surgical Margins.md.tmp.36408.5edac52cef69",
     "04 Evidence/Thermal Artifact.md.tmp.36408.8c802570a4a1",
@@ -248,10 +250,8 @@
     "06 Synthesis/Novelty Check - Prior Systematic Review.md",
     "06 Synthesis/Novelty Matrix - Diode Laser Biopsy.md",
     "06 Synthesis/Research Gaps in Dental Diode Laser Output.md",
-    "07 Data/Strakas et al 2023 - 940nm Diode Cutting Efficiency and Thermal Damage Data.md",
     "07 Data/Gutierrez-Corrales et al 2020 - Diode Wavelength Operating Parameters.md",
     "07 Data/Xue et al 2022 - Two Semiconductor Lasers Power Output.md",
-    "07 Data/Hanke et al 2021 - Eight-Wavelength Diode Cut Efficiency Data.md",
     "01 Projects/Diode Laser Biopsy.md.tmp.36408.a9ce08d1d6fa",
     "06 Synthesis/Novelty Matrix - Diode Laser Biopsy.md.tmp.36408.471e5ac94e47",
     "07 Data/Lu et al 2026 - Dual-Wavelength 980-1470 nm Liver Cutting Parameters Data (Abstract-Level).md",
