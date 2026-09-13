@@ -55,12 +55,12 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 | Duty cycle | N/A (CW) | — | — | N/A |
 | Fiber diameter | 300 | μm | Materials and methods | FACT |
 | Tip type | UNKNOWN (fiber-optic tip, no model/type name given beyond "300-micron fiber optic tip") | — | — | UNKNOWN |
-| Tip initiation status | Initiated — "the fiber tip was initiated by gently pressing it against articulating paper to enhance energy absorption and heat retention," stated by the source to optimize cutting efficiency, minimize lateral thermal damage, and improve beam precision | — | Materials and methods | FACT |
+| Tip initiation status | Initiated — "the fiber tip was initiated by gently pressing it against articulating paper to enhance energy absorption and heat retention," stated by the source to optimize [[03 Concepts/Glossary/Cutting Efficiency\|cutting efficiency]], minimize [[03 Concepts/Glossary/Thermal Damage\|lateral thermal damage]], and improve beam precision | — | Materials and methods | FACT |
 | Contact mode | Contact | — | Materials and methods | FACT |
 | Exposure duration | UNKNOWN as a per-incision value; not reported at all (unlike some other vault sources, no total procedure-time figure is given either) | — | — | UNKNOWN |
 | Thermal-management protocol (non-outcome, procedural) | High-volume evacuation of vapor plume; continuous sweeping motion with minimal contact pressure; intermittent cold saline irrigation; fiber tip regularly cleaned "to avoid carbonization and excessive tissue charring" | — | Materials and methods | FACT (protocol description, not a measured outcome) |
 | Measurement method — histology | H&E, paraffin-embedded, light microscopy (Olympus CX21) at 4×/10×/40×, 5MP CMOS camera; qualified pathologist | — | Histopathological examination | FACT |
-| Calibration method | UNKNOWN | — | — | UNKNOWN |
+| [[03 Concepts/Glossary/Calibration\|Calibration]] method | UNKNOWN | — | — | UNKNOWN |
 | Power loss / deviation | UNKNOWN / not applicable | — | — | UNKNOWN |
 | Thermal damage (quantified) | UNKNOWN — no μm-scale thermal-damage-zone or margin-alteration measurement reported for either group. | — | — | UNKNOWN |
 | Thermal damage (qualitative) | "Ballooning degeneration" observed in laser-treated specimens (highlighted in Fig. 4), attributed to thermal effects of the laser; overall tissue architecture nonetheless described as clearer/more intact than the scalpel group, attributed by the source to reduced bleeding rather than absence of thermal effect. | — | Results — "Histopathological assessment" | FACT (qualitative) |

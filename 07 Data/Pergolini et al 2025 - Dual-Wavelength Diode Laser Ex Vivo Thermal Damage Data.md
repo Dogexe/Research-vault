@@ -79,7 +79,7 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 | Recommended perilesional margin | At least 2 mm in both CW and PW, "especially in excisional biopsies of lesions suspected of malignancy"; 2 W CW identified as showing the least thermal damage | mm | Conclusions | FACT |
 | Carbonization | Listed among observed histologic artifacts; not scored numerically or isolated as its own measured variable | — | Results | FACT (qualitative) |
 | Coagulation zone | Not scored or measured as an isolated variable in this source | — | — | UNKNOWN |
-| Histologic artifacts reported | Epithelial detachment, loss of epithelial/subepithelial cellular adhesion, epithelial erosion, epithelial spongiosis, carbonization, vacuolization | — | Results | FACT |
+| [[03 Concepts/Glossary/Histological Artifact\|Histologic artifacts]] reported | Epithelial detachment, loss of epithelial/subepithelial cellular adhesion, epithelial erosion, epithelial spongiosis, carbonization, vacuolization | — | Results | FACT |
 | Sample | 36 porcine lingual mucosa samples from 6 tongues (deceased <24 h); 6 groups of 6 (2/3/4 W × CW/PW) | — | Materials and Methods | FACT |
 
 ## Notes

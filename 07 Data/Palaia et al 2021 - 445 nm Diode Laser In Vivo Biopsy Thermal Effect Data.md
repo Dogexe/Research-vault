@@ -65,7 +65,7 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 | Specimen margin | UNKNOWN — no numeric margin/specimen-size value reported for the excisions performed in this study (a ≥0.5 mm additional margin is recommended in the Discussion for future suspicious-lesion cases, not the margin actually used here) | — | — | UNKNOWN (as used) / FACT (as a stated future recommendation only) |
 | Tissue model | In vivo human oral soft tissue, real excisional biopsies of clinically benign lesions | — | Materials and Methods | FACT |
 | Measurement method | Thermal alteration extent quantified separately for epithelium and connective tissue on H&E-stained sections (×100 magnification) using ImageScope software; mean and SD compared by Student's t-test | — | Materials and Methods | FACT |
-| Calibration method | UNKNOWN — no laser power-meter calibration protocol reported | — | — | UNKNOWN |
+| [[03 Concepts/Glossary/Calibration\|Calibration]] method | UNKNOWN — no laser power-meter calibration protocol reported | — | — | UNKNOWN |
 | Diagnostic yield | Definitive histological diagnosis obtained in all 42/42 (100%) excisional specimens (40 patients, 2 with two lesions each) | — | Results | FACT |
 | Thermal-effect-evaluable specimens | 38 of 42 (4 specimens excluded from thermal-effect measurement only, due to incorrect orientation after processing — diagnosis was still obtained in all 42) | — | Results | FACT |
 | Epithelial thermal effect, mean | 507.07 (Abstract) / 507.08 (Table 1 summary row) | μm | Abstract; Table 1 | FACT — two figures given by the source itself (507.07 vs. 507.08), preserved as reported, not reconciled |

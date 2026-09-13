@@ -4,7 +4,7 @@ category: laser-operation
 unit: "%"
 symbol:
 equation: "% loss = (Set Power − Measured Power) / Set Power × 100"
-related_terms: [Set Power, Measured Power, Delivered Power]
+related_terms: [Set Power, Measured Power, Delivered Power, Calibration, Output Stability]
 ---
 
 # Power Loss
@@ -31,7 +31,7 @@ Directly the subject of [[04 Evidence/Power Loss and Deviation Across Dental Dio
 
 ## Common confusion
 
-Do not confuse "power loss" (the set-vs-measured/delivered discrepancy meant in this vault) with optical "insertion loss" or "transmission loss" (a physical property of a fiber/component itself, typically dB, independent of any specific laser's set-point). Also distinguish a single-measurement calibration discrepancy from a repeated-use/degradation phenomenon — this vault's sources mix both without always labeling which they mean; see [[06 Synthesis/Research Gaps in Dental Diode Laser Output]].
+Do not confuse "power loss" (the set-vs-measured/delivered discrepancy meant in this vault) with optical "insertion loss" or "transmission loss" (a physical property of a fiber/component itself, typically dB, independent of any specific laser's set-point) — this vault does not maintain a separate canonical note for that fiber-optic sense, since no vault source measures it directly; see [[03 Concepts/Glossary/Transmission]]'s "Common pitfalls" for the same distinction from the tissue-optics side. Also distinguish a single-measurement discrepancy from a repeated-use/degradation phenomenon — the former is addressed by [[03 Concepts/Glossary/Calibration]] (was the instrument itself ever checked?), the latter by [[03 Concepts/Glossary/Output Stability]] (does the reading hold steady across repeated use?) — this vault's sources mix both without always labeling which they mean; see [[06 Synthesis/Research Gaps in Dental Diode Laser Output]].
 
 ## Source basis
 

@@ -67,7 +67,7 @@ According to PubMed, the following is drawn from: Suter VGA, Altermatt HJ, Sendi
 | Specimen margin / size | UNKNOWN | — | — | UNKNOWN |
 | Tissue model | In vivo human, randomized pilot trial (real excisional biopsies) | — | Abstract | FACT |
 | Measurement method | Thermal damage zone assessed both in μm and via an unnamed "histopathological index" score; exact histologic technique (staining, magnification, blinding) UNKNOWN from the abstract | — | Abstract | FACT (that both a μm and an index measure were used) / UNKNOWN (technique detail) |
-| Calibration method | UNKNOWN | — | — | UNKNOWN |
+| [[03 Concepts/Glossary/Calibration\|Calibration]] method | UNKNOWN | — | — | UNKNOWN |
 | Thermal damage zone — CO2 (both settings) vs. diode | Significantly smaller with the CO2 laser for both settings tested, compared to the diode laser, "regarding values in μm or histopathological index scores" — exact numeric values not given in the abstract | — | Abstract | FACT (direction and significance) / UNKNOWN (exact magnitude) |
 | Diagnostic yield | UNKNOWN — not addressed in the abstract; the study's stated focus is thermal-damage-zone extent and peri-operative complications, not diagnostic readability or yield | — | — | UNKNOWN |
 | Coagulation zone | UNKNOWN — not mentioned in the abstract | — | — | UNKNOWN |
