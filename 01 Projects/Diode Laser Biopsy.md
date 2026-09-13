@@ -67,6 +67,7 @@ See [[06 Synthesis/Research Gaps in Dental Diode Laser Output]] and the processi
 - [[06 Synthesis/Contradictions in Diode Laser Biopsy Evidence]] — the conflicts above, in full.
 - [[06 Synthesis/Research Gaps in Dental Diode Laser Output]] — gap analysis for the underlying power-output evidence.
 - [[06 Synthesis/Novelty Check - Prior Systematic Review]] — cross-check against Lopes-Santos et al. 2023 (prior systematic review); current label: **POTENTIAL NOVELTY — REQUIRES SYSTEMATIC VERIFICATION** for the integrated chain (set power → independently measured delivered power → controlled/measured incision speed → histologic thermal effect → histopathologic specimen quality). Review silence alone is not treated as proof of novelty.
+- [[06 Synthesis/Novelty Matrix - Diode Laser Biopsy]] (2026-09-13) — full-text cross-tabulation of the four closest-prior-art candidates (Hanke 2021, Strakas 2023, Isola 2018, Al-Ani 2024) against this vault's strongest existing sources. Label unchanged (**POTENTIAL NOVELTY — REQUIRES SYSTEMATIC VERIFICATION**), but narrowed: Hanke 2021 and Strakas 2023 show a more rigorous per-incision power-verification protocol than previously catalogued in this vault, closing measured-power + speed + histology together — but neither is a biopsy/diagnostic study.
 
 ## Immediate next steps
 
