@@ -3,5 +3,11 @@
   "obsidian-git",
   "obsidian-excalidraw-plugin",
   "editing-toolbar",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "templater-obsidian",
+  "dataview",
+  "quickadd",
+  "obsidian-icon-folder",
+  "realclaudian",
+  "modalforms"
 ]

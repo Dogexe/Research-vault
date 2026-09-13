@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md",
+                "file": "06 Synthesis/Contradictions in Diode Laser Biopsy Evidence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diode Laser Biopsy Pre-setting Map"
+              "title": "Contradictions in Diode Laser Biopsy Evidence"
             }
           }
         ]
@@ -201,14 +201,17 @@
       "bases:Create new base": false,
       "zotlit:Open Zotero annotations": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "realclaudian:Open Claudian": false,
+      "modalforms:Edit forms": false
     }
   },
   "active": "c6ffd2e55847c5c4",
   "lastOpenFiles": [
     "06 Synthesis/Current Evidence on Diode Laser Power Output.md",
-    "06 Synthesis/Contradictions in Diode Laser Biopsy Evidence.md",
     "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md",
+    "06 Synthesis/Contradictions in Diode Laser Biopsy Evidence.md",
     "06 Synthesis/Diode Laser Biopsy Specimen Quality.md",
     "06 Synthesis/Novelty Check - Prior Systematic Review.md",
     "06 Synthesis/Novelty Matrix - Diode Laser Biopsy.md",
