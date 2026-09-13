@@ -2,6 +2,8 @@
 
 **Status: PARTIAL EVIDENCE.** Three processed vault sources (Angiero, Azevedo, Gambino) now directly measure dental-diode thermal artifact extent; Gambino et al. additionally pairs it with a diagnostic outcome in the same specimens.
 
+**Role (2026-09-13 reframing): SPECIMEN-QUALITY OUTCOME.** Thermal artifact is one of this project's primary ex vivo specimen-quality endpoints (see [[01 Projects/Diode Laser Biopsy#Primary experimental outcomes]]), not the whole of specimen quality by itself. Angiero/Gambino's diagnostic-outcome pairing is CLINICAL RELEVANCE context, not this project's own experimental design.
+
 ## Claim
 
 - Claim: Dental diode lasers (808–980 nm) produce a measurable thermal-artifact zone at the incision margin, on the order of 150–630 μm across the processed sources, whose extent does not correlate simply with carbonization severity within one device's own settings even though it does across instrument types pooled. One processed source (Gambino et al.) shows this artifact can be statistically significant relative to untreated tissue while still not impairing diagnosis.

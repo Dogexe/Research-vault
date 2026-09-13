@@ -2,6 +2,8 @@
 
 **Status: PARTIAL EVIDENCE.** Three of this vault's processed sources now measure an actual diagnostic-yield outcome in real human diode-laser oral biopsy specimens, all mutually consistent. The central power-to-diagnosis link (below) remains NEEDS EVIDENCE.
 
+**Role (2026-09-13 reframing): CLINICAL RELEVANCE / OUTCOME CONTEXT.** This note is entirely about clinical diagnostic-yield outcomes, which [[01 Projects/Diode Laser Biopsy]] now treats as background context rather than its primary experimental endpoint. It stays useful for showing which specimen-quality thresholds (e.g. ≥4–5 mm margin) matter clinically — the project's own ex vivo primary endpoints are tracked in [[04 Evidence/Thermal Artifact]] and [[04 Evidence/Surgical Margins]] instead.
+
 ## Claim
 
 - Claim: Diode-laser-excised oral soft-tissue specimens can achieve full histopathologic diagnostic yield when specimen size or excision margin is adequate relative to the thermal-alteration zone; diagnostic failure is reported specifically in small specimens. No source ties this to a calibrated, independently measured power value — all three sources use set power only.

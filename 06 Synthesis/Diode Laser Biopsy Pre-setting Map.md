@@ -4,6 +4,14 @@
 
 **No "optimal setting" is claimed anywhere in this note.** Per vault instruction, only "evidence-supported range" is used, and only where the evidence directly supports it — see [[#9. Whether any evidence-supported pre-setting range can currently be proposed]].
 
+**Framing note (2026-09-13), following [[01 Projects/Diode Laser Biopsy]]'s reframing to an ex vivo experimental study:** the sources below fall into three distinct roles that this note does not pool into one number:
+
+- **CLINICAL** — human in vivo diagnostic-biopsy sources (Angiero, Romeo, Gambino, Gundlapalle, Palaia, Suter, Shnawa, Capodiferro). Their set-power ranges describe what clinicians used in real patients, not experimentally measured delivered power.
+- **EX VIVO EXPERIMENTAL** — non-diagnostic ex vivo/animal sources (Azevedo, Pergolini, Goharkhay, Li, Al-Ani 2023/2024, Merigo, Spille). These are the tissue-model precedents closest to this project's own design.
+- **TECHNICAL/MEASURED-OUTPUT** — sources whose main contribution is a measurement-design precedent rather than a biopsy or lesion outcome (Wilder-Smith 1995, CO2; Hanke 2021 and Strakas 2023, diode — see [[01 Projects/Diode Laser Biopsy#Hanke and Strakas as direct prior art]]).
+
+A clinical set-power range (e.g. the 1.6–2.7 W CW band in §9 below) is **not experimentally equivalent to a measured-delivered-power range** — no clinical source in this table independently verifies output. Where an ex vivo measured-output study (Hanke 2021, Strakas 2023) exists, it may provide better methodological guidance for this project's experimental design than direct transfer from the clinical literature, even though its outcome framework is not yet biopsy-oriented. Clinical figures below remain useful as outcome context (what specimen quality mattered for diagnosis), not as this project's own experimental target range.
+
 ## Study-level mapping table
 
 | Study | Device | Wavelength | Set/preset power | CW/PW | Pulse duration | Frequency | Duty cycle | Fiber diameter | Initiated/non-initiated tip | Contact/non-contact | Incision speed | Specimen size | Thermal damage | Carbonization | Coagulation zone | Margin readability | Diagnostic quality | Measured/delivered power available? |

@@ -2,6 +2,8 @@
 
 **PLACEHOLDER — NEEDS EVIDENCE.** This note is the vault's central bridge node between its existing power-output/power-loss evidence and the biopsy-specimen-quality question in [[01 Projects/Diode Laser Biopsy]]. It is created because a real, partial evidentiary basis already exists in the vault (below), not as an empty stub.
 
+**Role (2026-09-13 reframing): EXPERIMENTAL MECHANISM.** This note tracks the first link of the project's ex vivo chain (set power → measured delivered power) and where it does/does not connect to a tissue-effect outcome. Its clinical-source rows (Angiero, Romeo, Azevedo, Gambino) are secondary CLINICAL RELEVANCE context here, since none independently measures power.
+
 ## Claim
 
 - Claim: NEEDS EVIDENCE. No source currently in this vault pairs a calibrated, independently measured dental diode laser power output with a histologically assessed tissue effect (thermal damage, coagulation, carbonization) or a biopsy diagnostic outcome, in the same study.

@@ -2,6 +2,8 @@
 
 **Status: PARTIAL EVIDENCE.** Four processed sources (Angiero, Romeo, Azevedo, Gambino) each directly measure specimen-margin condition for a dental diode laser.
 
+**Role (2026-09-13 reframing): SPECIMEN-QUALITY OUTCOME.** Margin condition/readability is one of this project's primary ex vivo specimen-quality endpoints. The human in vivo sources here (Angiero, Romeo, Gambino) remain CLINICAL RELEVANCE context — they show what margin condition mattered for diagnosis, not an ex vivo experimental match.
+
 ## Claim
 
 - Claim: Specimen-margin thermal alteration in diode-laser-excised oral soft tissue is measurable (sub-millimeter to low-millimeter range across processed sources) and is associated with specimen size/margin width relative to that alteration zone; no source ties a calibrated, independently measured dental diode power value to margin histologic condition.
