@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 Data/Hanke et al 2021 - Eight-Wavelength Diode Cut Efficiency Data.md",
+                "file": "07 Data/Pergolini et al 2025 - Dual-Wavelength Diode Laser Ex Vivo Thermal Damage Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hanke et al 2021 - Eight-Wavelength Diode Cut Efficiency Data"
+              "title": "Pergolini et al 2025 - Dual-Wavelength Diode Laser Ex Vivo Thermal Damage Data"
             }
           }
         ]
@@ -229,8 +229,10 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "e29076f1deb0efc5",
+  "active": "c6ffd2e55847c5c4",
   "lastOpenFiles": [
+    "07 Data/Merigo et al 2012 - Five-Wavelength Ex Vivo Thermal and Histologic Comparison Data.md",
+    "07 Data/Hanke et al 2021 - Eight-Wavelength Diode Cut Efficiency Data.md",
     "06 Synthesis/Study Dashboard.md.tmp.36408.8407f641b307",
     "99 Templates/Study Metadata Schema.md.tmp.36408.c0d772910a9a",
     "99 Templates/Study Metadata Schema.md.tmp.36408.8a70f4f4eafa",
@@ -241,7 +243,6 @@
     "07 Data/Al-Ani et al 2023 - Dual-Wavelength Diode Operating Parameters.md.tmp.36408.25f6ab8b3bb5",
     "07 Data/Goharkhay et al 1999 - Diode Laser Incision Depth and Collateral Damage Data.md.tmp.36408.b7b00cbeeb5a",
     "07 Data/Strakas et al 2023 - 940nm Diode Cutting Efficiency and Thermal Damage Data.md.tmp.36408.f9e86955a693",
-    "07 Data/Strakas et al 2023 - 940nm Diode Cutting Efficiency and Thermal Damage Data.md.tmp.36408.7f197dce4e94",
     "00 Inbox/Shortlist - PubMed Candidates 3-7 (Adjacent, Not Core Diode-Output Evidence).md",
     "99 Templates/Study Metadata Schema.md",
     "06 Synthesis/Study Dashboard.md",
@@ -254,7 +255,6 @@
     "07 Data/Al-Ani et al 2023 - Dual-Wavelength Diode Operating Parameters.md",
     "05 Devices/A.R.C. Laser FOX (810 nm).md",
     "06 Synthesis/Novelty Matrix - Diode Laser Biopsy.md",
-    "07 Data/Hanke et al 2021 - Eight-Wavelength Diode Cut Efficiency Data.md",
     "07 Data/Strakas et al 2023 - 940nm Diode Cutting Efficiency and Thermal Damage Data.md",
     "01 Projects/Diode Laser Biopsy.md",
     "01 Projects/Diode Laser Master.md",
