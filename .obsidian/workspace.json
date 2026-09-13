@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Synthesis/Contradictions in Diode Laser Biopsy Evidence.md",
+                "file": "01 Projects/Diode Laser Biopsy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contradictions in Diode Laser Biopsy Evidence"
+              "title": "Diode Laser Biopsy"
             }
           }
         ]
@@ -181,9 +181,31 @@
               "icon": "highlighter",
               "title": "Zotero annotations"
             }
+          },
+          {
+            "id": "3859cdbb789fca40",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1789306753921-i4dun6p",
+                      "conversationId": null,
+                      "draftModel": "sonnet"
+                    }
+                  ],
+                  "activeTabId": "tab-1789306753921-i4dun6p"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -209,9 +231,9 @@
   },
   "active": "c6ffd2e55847c5c4",
   "lastOpenFiles": [
+    "06 Synthesis/Contradictions in Diode Laser Biopsy Evidence.md",
     "06 Synthesis/Current Evidence on Diode Laser Power Output.md",
     "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md",
-    "06 Synthesis/Contradictions in Diode Laser Biopsy Evidence.md",
     "06 Synthesis/Diode Laser Biopsy Specimen Quality.md",
     "06 Synthesis/Novelty Check - Prior Systematic Review.md",
     "06 Synthesis/Novelty Matrix - Diode Laser Biopsy.md",
