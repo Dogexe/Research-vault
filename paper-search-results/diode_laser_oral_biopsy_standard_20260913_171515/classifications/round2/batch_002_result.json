@@ -1,0 +1,62 @@
+[
+  {
+    "paper_id": "doi|10.1089/pho.2007.2217",
+    "rcs": 4,
+    "reasoning": "Histopathologic evaluation of laser excision artifacts (thermal denaturation) in oral tissue, but uses CO2 laser and electrotome, not a dental diode laser.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.5005/jp-journals-10024-1933",
+    "rcs": 6,
+    "reasoning": "Ex vivo comparison of fiber-delivered laser wavelengths including diode wavelengths (808 nm) with histopathologic scoring of cut quality/thermal damage; directly relevant but multi-wavelength focus dilutes diode-specificity.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1016/j.ijom.2010.04.046",
+    "rcs": 4,
+    "reasoning": "Addresses histopathologic margin artifacts from laser excision of oral mucosa, a core outcome dimension, but the laser is CO2, not diode, and abstract is missing.",
+    "flag": "abstract_unavailable"
+  },
+  {
+    "paper_id": "doi|10.1016/j.joms.2012.01.023",
+    "rcs": 4,
+    "reasoning": "Directly compares laser operating mode (pulsed vs continuous) effects on excisional biopsy outcomes, matching the query's methodological focus, but the laser is CO2 rather than diode; abstract missing.",
+    "flag": "abstract_unavailable"
+  },
+  {
+    "paper_id": "doi|10.4103/2006-8808.73627",
+    "rcs": 3,
+    "reasoning": "General review/letter on oral biopsy technique for dermatologists; mentions laser only as one of several biopsy tools with no diode-specific parameters or histopathology data.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1016/s1079-2104(97)90253-5",
+    "rcs": 2,
+    "reasoning": "Title suggests relevance to laser biopsy artifact but gives no indication of diode laser use, delivered power, or speed; abstract absent and title too generic to confirm core relevance.",
+    "flag": "no_abstract_uncertain"
+  },
+  {
+    "paper_id": "doi|10.1186/s12903-024-04179-9",
+    "rcs": 3,
+    "reasoning": "Network meta-analysis on laser treatment of oral leukoplakia focused on recurrence/comfort outcomes, not diode lasers (Er,Cr:YSGG, CO2, Er:YAG) nor excisional biopsy power/speed parameters.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1590/1678-7757-2023-0419",
+    "rcs": 7,
+    "reasoning": "Direct hit: dual-wavelength (810/980 nm) diode laser vs Er,Cr:YSGG for oral soft-tissue incision with explicit power settings (1.5-3.5 W) and detailed histopathologic damage scoring of excisional biopsy margins.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1016/j.pdpdt.2025.104479",
+    "rcs": 2,
+    "reasoning": "Photobiomodulation therapy for oral lichen planus using molecular/immunohistochemical markers; concerns laser as a treatment modality, not diode laser biopsy incision or histopathologic verification of excised tissue.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-025-04624-3",
+    "rcs": 3,
+    "reasoning": "Broad review of laser-assisted dental treatments and minimally invasive techniques; not specific to diode laser biopsy, power, or incision parameters, and abstract is missing.",
+    "flag": "abstract_unavailable"
+  }
+]

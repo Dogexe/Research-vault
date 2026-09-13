@@ -1,0 +1,2259 @@
+{
+  "publication_year": {
+    "bins": [
+      {
+        "year": 1964,
+        "total": 1,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1965,
+        "total": 1,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1966,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1967,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1968,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1969,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1970,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1971,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1972,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1973,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1974,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1975,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1976,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1977,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1978,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1979,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1980,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1981,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1982,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1983,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1984,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1985,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1986,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1987,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1988,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1989,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1990,
+        "total": 1,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1991,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1992,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1993,
+        "total": 1,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1994,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1995,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1996,
+        "total": 1,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1997,
+        "total": 2,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1998,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 1999,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2000,
+        "total": 1,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2001,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2002,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2003,
+        "total": 1,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2004,
+        "total": 3,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2005,
+        "total": 0,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2006,
+        "total": 1,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2007,
+        "total": 1,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2008,
+        "total": 1,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2009,
+        "total": 3,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2010,
+        "total": 8,
+        "highly_relevant": 1
+      },
+      {
+        "year": 2011,
+        "total": 7,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2012,
+        "total": 6,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2013,
+        "total": 7,
+        "highly_relevant": 1
+      },
+      {
+        "year": 2014,
+        "total": 6,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2015,
+        "total": 7,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2016,
+        "total": 2,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2017,
+        "total": 4,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2018,
+        "total": 3,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2019,
+        "total": 3,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2020,
+        "total": 10,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2021,
+        "total": 5,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2022,
+        "total": 8,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2023,
+        "total": 13,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2024,
+        "total": 14,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2025,
+        "total": 17,
+        "highly_relevant": 0
+      },
+      {
+        "year": 2026,
+        "total": 50,
+        "highly_relevant": 0
+      }
+    ],
+    "year_min": 1964,
+    "year_max": 2026
+  },
+  "relevance_score": {
+    "bins": [
+      {
+        "rcs": 0,
+        "count": 28
+      },
+      {
+        "rcs": 1,
+        "count": 34
+      },
+      {
+        "rcs": 2,
+        "count": 38
+      },
+      {
+        "rcs": 3,
+        "count": 35
+      },
+      {
+        "rcs": 4,
+        "count": 29
+      },
+      {
+        "rcs": 5,
+        "count": 20
+      },
+      {
+        "rcs": 6,
+        "count": 2
+      },
+      {
+        "rcs": 7,
+        "count": 2
+      },
+      {
+        "rcs": 8,
+        "count": 0
+      },
+      {
+        "rcs": 9,
+        "count": 0
+      },
+      {
+        "rcs": 10,
+        "count": 0
+      }
+    ],
+    "mean": 2.43,
+    "ci_low": 2.19,
+    "ci_high": 2.67,
+    "n": 188
+  },
+  "discovery_curve": {
+    "points": [
+      {
+        "n": 220,
+        "y": 24
+      }
+    ],
+    "tau": 80.0,
+    "coverage_estimate": 0.936,
+    "ci_low": 0.856,
+    "ci_high": 1.0,
+    "estimated_total_relevant": 25.6,
+    "summary": "Estimated to have found about 24 relevant papers, approximately 94% of the relevant set (95% CI: 86-100%)."
+  },
+  "citation_network": {
+    "nodes": [
+      {
+        "id": "W2125792627",
+        "title": "Diode laser application in soft tissue oral surgery.",
+        "authors_short": "Ehsan Azma, Nassimeh Safavi",
+        "year": 2013,
+        "venue": "PubMed",
+        "rcs": 7,
+        "citation_count": 123,
+        "doi_url": null,
+        "is_seed": false
+      },
+      {
+        "id": "W144197388",
+        "title": "CO2 and diode laser for excisional biopsies of oral mucosal lesions. A pilot study evaluating clinical and histopathological parameters.",
+        "authors_short": "Valérie G. A. Suter et al.",
+        "year": 2010,
+        "venue": "PubMed",
+        "rcs": 7,
+        "citation_count": 41,
+        "doi_url": null,
+        "is_seed": false
+      },
+      {
+        "id": "W1900157994",
+        "title": "Removal of hyperplastic lesions of the oral cavity. A retrospective study of 128 cases.",
+        "authors_short": "Meritxell Tamarit-Borrás, Esther Delgado-Molina, Leonardo Berini-Aytés, & Cosme Gay‐Escoda",
+        "year": 2006,
+        "venue": "PubMed",
+        "rcs": 6,
+        "citation_count": 76,
+        "doi_url": null,
+        "is_seed": false
+      },
+      {
+        "id": "W2409804967",
+        "title": "Diode laser soft-tissue surgery: advancements aimed at consistent cutting, improved clinical outcomes.",
+        "authors_short": "Georgios E. Romanos",
+        "year": 2014,
+        "venue": "PubMed",
+        "rcs": 6,
+        "citation_count": 26,
+        "doi_url": null,
+        "is_seed": false
+      },
+      {
+        "id": "10.1111/prd.12080",
+        "title": "Periodontal and peri‐implant wound healing following laser therapy",
+        "authors_short": "Akira Aoki et al.",
+        "year": 2015,
+        "venue": "Periodontology 2000",
+        "rcs": 5,
+        "citation_count": 402,
+        "doi_url": "https://doi.org/10.1111/prd.12080",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-010-0770-4",
+        "title": "Nd:YAG laser versus traditional scalpel. A preliminary histological analysis of specimens from the human oral mucosa",
+        "authors_short": "Paolo Vescovi et al.",
+        "year": 2010,
+        "venue": "Lasers in Medical Science",
+        "rcs": 5,
+        "citation_count": 84,
+        "doi_url": "https://doi.org/10.1007/s10103-010-0770-4",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-011-0900-7",
+        "title": "Diode laser (808 nm) applied to oral soft tissue lesions: a retrospective study to assess histopathological diagnosis and evaluate physical damage",
+        "authors_short": "Francesca Angiero, Luisa Parma, Rolando Crippa, & Stefano Benedicenti",
+        "year": 2011,
+        "venue": "Lasers in Medical Science",
+        "rcs": 5,
+        "citation_count": 79,
+        "doi_url": "https://doi.org/10.1007/s10103-011-0900-7",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-012-1081-8",
+        "title": "Laser-assisted surgery with different wavelengths: a preliminary ex vivo study on thermal increase and histological evaluation",
+        "authors_short": "Elisabetta Merigo et al.",
+        "year": 2012,
+        "venue": "Lasers in Medical Science",
+        "rcs": 5,
+        "citation_count": 72,
+        "doi_url": "https://doi.org/10.1007/s10103-012-1081-8",
+        "is_seed": false
+      },
+      {
+        "id": "W48124687",
+        "title": "Oral soft-tissue biopsy: an overview.",
+        "authors_short": "Sylvie-Louise Avon, Hagen Klieb",
+        "year": 2012,
+        "venue": "PubMed",
+        "rcs": 5,
+        "citation_count": 58,
+        "doi_url": null,
+        "is_seed": false
+      },
+      {
+        "id": "10.1155/2014/345685",
+        "title": "Histological Ex Vivo Evaluation of Peri-Incisional Thermal Effect Created by a New-Generation CO2Superpulsed Laser",
+        "authors_short": "Gaspare Palaia et al.",
+        "year": 2014,
+        "venue": "The Scientific World JOURNAL",
+        "rcs": 5,
+        "citation_count": 23,
+        "doi_url": "https://doi.org/10.1155/2014/345685",
+        "is_seed": false
+      },
+      {
+        "id": "10.3390/app13095527",
+        "title": "Assessment of Healing after Diode Laser Gingivectomy Prior to Prosthetic Procedures",
+        "authors_short": "Rada Kazakova et al.",
+        "year": 2023,
+        "venue": "Applied Sciences",
+        "rcs": 5,
+        "citation_count": 17,
+        "doi_url": "https://doi.org/10.3390/app13095527",
+        "is_seed": false
+      },
+      {
+        "id": "10.17219/acem/104525",
+        "title": "Could the super-pulsed CO2 laser be used for oral excisional biopsies?",
+        "authors_short": "Gianluca Tenore et al.",
+        "year": 2019,
+        "venue": "Advances in Clinical and Experimental Medicine",
+        "rcs": 5,
+        "citation_count": 9,
+        "doi_url": "https://doi.org/10.17219/acem/104525",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-023-03923-x",
+        "title": "Histological implications of high-power laser use in the oral soft tissue lesions: a systematic review",
+        "authors_short": "Gabriela Lopes‐Santos, Mariela Peralta-Mamani, & Denise Tostes Oliveira",
+        "year": 2023,
+        "venue": "Lasers in Medical Science",
+        "rcs": 5,
+        "citation_count": 8,
+        "doi_url": "https://doi.org/10.1007/s10103-023-03923-x",
+        "is_seed": false
+      },
+      {
+        "id": "10.1016/j.amjoto.2022.103556",
+        "title": "Recurrence of premalignant oral cavity and oropharynx lesions after pulsed diode laser treatment",
+        "authors_short": "Emily S. Sagalow et al.",
+        "year": 2022,
+        "venue": "American Journal of Otolaryngology",
+        "rcs": 5,
+        "citation_count": 7,
+        "doi_url": "https://doi.org/10.1016/j.amjoto.2022.103556",
+        "is_seed": false
+      },
+      {
+        "id": "10.1590/1678-7757-2022-0307",
+        "title": "Injectable platelet rich fibrin effect on laser depigmented gingiva: a clinical randomized controlled split mouth trial with histological assessment",
+        "authors_short": "Suzan S. Ibrahim, Ibrahim Abu MANDIL, & Ola M. Ezzatt",
+        "year": 2024,
+        "venue": "Journal of Applied Oral Science",
+        "rcs": 5,
+        "citation_count": 5,
+        "doi_url": "https://doi.org/10.1590/1678-7757-2022-0307",
+        "is_seed": false
+      },
+      {
+        "id": "10.11604/pamj.2024.47.105.26619",
+        "title": "Diode laser surgery for the treatment of denture-induced fibrous hyperplasia: a case report",
+        "authors_short": "Er-Raji Samir, Hasnae Rokhssi, & Ennibi Oumkeltoum",
+        "year": 2024,
+        "venue": "Pan African Medical Journal",
+        "rcs": 5,
+        "citation_count": 5,
+        "doi_url": "https://doi.org/10.11604/pamj.2024.47.105.26619",
+        "is_seed": false
+      },
+      {
+        "id": "10.4067/s0718-381x2023000200136",
+        "title": "Surgical Treatment of Oral Fibrous Hyperplasia with Diode Laser: An Integrative Review",
+        "authors_short": "Ana Livia Do-Amaral, Mailon Cury Carneiro, Gustavo De Paula Almeida, & Paulo Sérgio da-Silva-Santos",
+        "year": 2023,
+        "venue": "International journal of odontostomatology",
+        "rcs": 5,
+        "citation_count": 3,
+        "doi_url": "https://doi.org/10.4067/s0718-381x2023000200136",
+        "is_seed": false
+      },
+      {
+        "id": "10.21608/ajdsm.2017.107809",
+        "title": "Clinical outcome of diode laser usage versus conventional surgical technique in management of delayed erupted tooth",
+        "authors_short": "",
+        "year": 2017,
+        "venue": "Al-Azhar Journal of Dental Science",
+        "rcs": 5,
+        "citation_count": 2,
+        "doi_url": "https://doi.org/10.21608/ajdsm.2017.107809",
+        "is_seed": false
+      },
+      {
+        "id": "10.3390/surgeries5020032",
+        "title": "Diode Laser Surgery of Peripheral Developing Odontoma in a Pediatric Patient: A Case Report with Narrative Review of the Literature",
+        "authors_short": "Marta Forte et al.",
+        "year": 2024,
+        "venue": "Surgeries",
+        "rcs": 5,
+        "citation_count": 1,
+        "doi_url": "https://doi.org/10.3390/surgeries5020032",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s41547-025-00309-w",
+        "title": "Minimally invasive excision of oral fibromas: a clinical and histological comparison between diode laser and scalpel techniques",
+        "authors_short": "Ahmed Ali Shnawa, Hanan J. Taher, & Afrah A. Khalil",
+        "year": 2025,
+        "venue": "Lasers in Dental Science",
+        "rcs": 5,
+        "citation_count": 1,
+        "doi_url": "https://doi.org/10.1007/s41547-025-00309-w",
+        "is_seed": false
+      },
+      {
+        "id": "10.1016/j.jdent.2025.105936",
+        "title": "Presenting a novel model to visualize the interaction process between blue (445 nm) and infrared laser radiation (810 nm) in oral soft tissue",
+        "authors_short": "Yannick Davide Ansorge, Matthias Frentzen, & Jörg Meister",
+        "year": 2025,
+        "venue": "Journal of Dentistry",
+        "rcs": 5,
+        "citation_count": 1,
+        "doi_url": "https://doi.org/10.1016/j.jdent.2025.105936",
+        "is_seed": false
+      },
+      {
+        "id": "10.58624/svoade.2025.06.031",
+        "title": "Management of Oral Squamous Papilloma of the Soft Palate with 450 nm Diode Laser and Adjunctive Photobiomodulation: A Case Report",
+        "authors_short": "Salvatore Luca La Terra, Francesco Buoncristiani, Gianluigi Caccianiga, & Faisal A. Alzahrani",
+        "year": 2025,
+        "venue": "SVOA Dentistry",
+        "rcs": 5,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.58624/svoade.2025.06.031",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-026-05011-2",
+        "title": "Learning curve and target-based accuracy of diode laser versus scalpel incisions in a porcine skin model: a preclinical feasibility study with undergraduate dental students.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 5,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1007/s10103-026-05011-2",
+        "is_seed": false
+      },
+      {
+        "id": "10.1177/25785478261465277",
+        "title": "Study on Optimal Optical Parameters for Cutting Liver Tissue with a Novel 980/1470 nm Dual-Wavelength Semiconductor Laser.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 5,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1177/25785478261465277",
+        "is_seed": false
+      },
+      {
+        "id": "10.1902/jop.1993.64.7.589",
+        "title": "Current Status of Lasers in Soft Tissue Dental Surgery",
+        "authors_short": "Robert Pick, Michael D. Colvard",
+        "year": 1993,
+        "venue": "Journal of Periodontology",
+        "rcs": 4,
+        "citation_count": 371,
+        "doi_url": "https://doi.org/10.1902/jop.1993.64.7.589",
+        "is_seed": false
+      },
+      {
+        "id": "W2168158098",
+        "title": "Treatment of oral mucocele-scalpel versus CO2 laser.",
+        "authors_short": "José Yagüe-García, Antonio-Jesús España-Tost, Leonardo Berini‐Aytés, & Cosme Gay‐Escoda",
+        "year": 2009,
+        "venue": "PubMed",
+        "rcs": 4,
+        "citation_count": 106,
+        "doi_url": null,
+        "is_seed": false
+      },
+      {
+        "id": "10.1016/s1079-2104(96)80302-7",
+        "title": "Effects of an erbium, chromium: yttrium, scandium, gallium, garnet laser on mucocutanous soft tissues",
+        "authors_short": "Ioana Rizoiu, Lewis R. Eversole, & Andrew I. Kimmel",
+        "year": 1996,
+        "venue": "Oral Surgery Oral Medicine Oral Pathology Oral Radiology and Endodontology",
+        "rcs": 4,
+        "citation_count": 104,
+        "doi_url": "https://doi.org/10.1016/s1079-2104(96)80302-7",
+        "is_seed": false
+      },
+      {
+        "id": "W2224978662",
+        "title": "An overview of laser wavelengths used in dentistry.",
+        "authors_short": "Coluzzi Dj",
+        "year": 2000,
+        "venue": "PubMed",
+        "rcs": 4,
+        "citation_count": 80,
+        "doi_url": null,
+        "is_seed": false
+      },
+      {
+        "id": "10.1016/0030-4220(90)90397-b",
+        "title": "Histologic evaluation of the width of soft tissue necrosis adjacent to carbon dioxide laser incisions",
+        "authors_short": "M. Anthony Pogrel, K. J. McCracken, & T. E. Daniels",
+        "year": 1990,
+        "venue": "Oral Surgery Oral Medicine Oral Pathology",
+        "rcs": 4,
+        "citation_count": 66,
+        "doi_url": "https://doi.org/10.1016/0030-4220(90)90397-b",
+        "is_seed": false
+      },
+      {
+        "id": "10.3390/photonics10060650",
+        "title": "Therapeutic and Adverse Effects of Lasers in Dentistry: A Systematic Review",
+        "authors_short": "Giuseppina Malcangi et al.",
+        "year": 2023,
+        "venue": "Photonics",
+        "rcs": 4,
+        "citation_count": 59,
+        "doi_url": "https://doi.org/10.3390/photonics10060650",
+        "is_seed": false
+      },
+      {
+        "id": "10.1016/s1079-2104(97)90308-5",
+        "title": "Laser artifacts and diagnostic biopsy",
+        "authors_short": "Lewis R. Eversole",
+        "year": 1997,
+        "venue": "Oral Surgery Oral Medicine Oral Pathology Oral Radiology and Endodontology",
+        "rcs": 4,
+        "citation_count": 37,
+        "doi_url": "https://doi.org/10.1016/s1079-2104(97)90308-5",
+        "is_seed": false
+      },
+      {
+        "id": "10.1089/pho.2007.2217",
+        "title": "Histological Evaluation of Artifacts in Tongue Tissue Produced by the CO 2 Laser and the Electrotome",
+        "authors_short": "Kousuke Matsumoto et al.",
+        "year": 2008,
+        "venue": "Photomedicine and Laser Surgery",
+        "rcs": 4,
+        "citation_count": 36,
+        "doi_url": "https://doi.org/10.1089/pho.2007.2217",
+        "is_seed": false
+      },
+      {
+        "id": "10.4317/medoral.17428",
+        "title": "Low energy KTP laser in oral soft tissue surgery: A 52 patients clinical study",
+        "authors_short": "Carlo Fornaini et al.",
+        "year": 2011,
+        "venue": "Medicina oral, patología oral y cirugía bucal",
+        "rcs": 4,
+        "citation_count": 35,
+        "doi_url": "https://doi.org/10.4317/medoral.17428",
+        "is_seed": false
+      },
+      {
+        "id": "10.1016/j.ijom.2010.04.046",
+        "title": "Pseudodysplastic epithelial artefacts associated with oral mucosa CO2 laser excision: an assessment of margin status",
+        "authors_short": "J. Seoane et al.",
+        "year": 2010,
+        "venue": "International Journal of Oral and Maxillofacial Surgery",
+        "rcs": 4,
+        "citation_count": 28,
+        "doi_url": "https://doi.org/10.1016/j.ijom.2010.04.046",
+        "is_seed": false
+      },
+      {
+        "id": "W2414349246",
+        "title": "An overview of lasers in dentistry.",
+        "authors_short": "Robert A. Convissar, Ellen E Goldstein",
+        "year": 2004,
+        "venue": "PubMed",
+        "rcs": 4,
+        "citation_count": 15,
+        "doi_url": null,
+        "is_seed": false
+      },
+      {
+        "id": "10.1016/j.joms.2012.01.023",
+        "title": "Does a Pulsed Mode Offer Advantages Over a Continuous Wave Mode for Excisional Biopsies Performed Using a Carbon Dioxide Laser?",
+        "authors_short": "Valérie G. A. Suter et al.",
+        "year": 2012,
+        "venue": "Journal of Oral and Maxillofacial Surgery",
+        "rcs": 4,
+        "citation_count": 14,
+        "doi_url": "https://doi.org/10.1016/j.joms.2012.01.023",
+        "is_seed": false
+      },
+      {
+        "id": "10.1002/lsm.22244",
+        "title": "Pulsed versus continuous wave CO2 laser excisions of 100 oral fibrous hyperplasias: A randomized controlled clinical and histopathological study",
+        "authors_short": "Valérie G. A. Suter et al.",
+        "year": 2014,
+        "venue": "Lasers in Surgery and Medicine",
+        "rcs": 4,
+        "citation_count": 13,
+        "doi_url": "https://doi.org/10.1002/lsm.22244",
+        "is_seed": false
+      },
+      {
+        "id": "10.3390/app132212327",
+        "title": "Oral Cavity Mucocele and Different Surgical Treatment Strategies: Is Laser Excision Effective? A Scoping Review",
+        "authors_short": "Andrea Scribante et al.",
+        "year": 2023,
+        "venue": "Applied Sciences",
+        "rcs": 4,
+        "citation_count": 8,
+        "doi_url": "https://doi.org/10.3390/app132212327",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-012-1126-z",
+        "title": "A high-throughput comparative characterization of laser-induced soft tissue damage using 3D digital microscopy",
+        "authors_short": "Debobrato Das, Stephanie Reed, Perry R. Klokkevold, & Benjamin M. Wu",
+        "year": 2012,
+        "venue": "Lasers in Medical Science",
+        "rcs": 4,
+        "citation_count": 7,
+        "doi_url": "https://doi.org/10.1007/s10103-012-1126-z",
+        "is_seed": false
+      },
+      {
+        "id": "10.3390/healthcare8030267",
+        "title": "A Single Case Report of Granular Cell Tumor of the Tongue Successfully Treated through 445 nm Diode Laser",
+        "authors_short": "Maria Vittoria Viani et al.",
+        "year": 2020,
+        "venue": "Healthcare",
+        "rcs": 4,
+        "citation_count": 6,
+        "doi_url": "https://doi.org/10.3390/healthcare8030267",
+        "is_seed": false
+      },
+      {
+        "id": "10.3390/jcm12206567",
+        "title": "Efficacy and Risks of Different Treatments for Oral Hyperpigmentation: A Systematic Review and Network Meta-Analysis",
+        "authors_short": "Ahoud Jazzar, Hebah AlDehlawi",
+        "year": 2023,
+        "venue": "Journal of Clinical Medicine",
+        "rcs": 4,
+        "citation_count": 6,
+        "doi_url": "https://doi.org/10.3390/jcm12206567",
+        "is_seed": false
+      },
+      {
+        "id": "10.1155/2020/8883156",
+        "title": "The Integration of a Dual‐Wavelength Super Pulsed Diode Laser for Consistent Tissue Ablation in the Esthetic Zone: A Case Series",
+        "authors_short": "Nur Hafizah Kamar Affendi et al.",
+        "year": 2020,
+        "venue": "Case Reports in Dentistry",
+        "rcs": 4,
+        "citation_count": 6,
+        "doi_url": "https://doi.org/10.1155/2020/8883156",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-023-03831-0",
+        "title": "Comparative study of soft tissue surgery by visible and infrared laser radiation",
+        "authors_short": "Andrey Khlopkov, Ilia D. Samoilov, & Ksenia V. Shatilova",
+        "year": 2023,
+        "venue": "Lasers in Medical Science",
+        "rcs": 4,
+        "citation_count": 4,
+        "doi_url": "https://doi.org/10.1007/s10103-023-03831-0",
+        "is_seed": false
+      },
+      {
+        "id": "10.7759/cureus.63342",
+        "title": "Pediatric Oral Mucocele Management: A Case Series Investigating Different Treatment Approaches",
+        "authors_short": "Divya Mukundan, Rajasekar Ramesh",
+        "year": 2024,
+        "venue": "Cureus",
+        "rcs": 4,
+        "citation_count": 3,
+        "doi_url": "https://doi.org/10.7759/cureus.63342",
+        "is_seed": false
+      },
+      {
+        "id": "10.3390/biomedicines12102300",
+        "title": "Histological Improvement and Cytokine Levels Reduction in Patients with Oral Lichen Planus after Photobiomodulation Therapy",
+        "authors_short": "Maria Zaharieva Mutafchieva, Milena Draganova-Filipova, & Georgi Tomov",
+        "year": 2024,
+        "venue": "Biomedicines",
+        "rcs": 4,
+        "citation_count": 3,
+        "doi_url": "https://doi.org/10.3390/biomedicines12102300",
+        "is_seed": false
+      },
+      {
+        "id": "10.32628/ijsrst52310612",
+        "title": "LASER in Oral and Maxillofacial Surgery- Review of literature",
+        "authors_short": "J Nazar, Nibin T N",
+        "year": 2023,
+        "venue": "International Journal of Scientific Research in Science and Technology",
+        "rcs": 4,
+        "citation_count": 2,
+        "doi_url": "https://doi.org/10.32628/ijsrst52310612",
+        "is_seed": false
+      },
+      {
+        "id": "10.34172/joddd.40905",
+        "title": "Evaluation of the efficacy of Er,Cr:YSGG laser in Treating oral benign soft tissue lesions",
+        "authors_short": "Zainab Fadhil Odah, Hanan J. Taher, & Ammar Saleh Al-Alawi",
+        "year": 2024,
+        "venue": "Journal of Dental Research Dental Clinics Dental Prospects",
+        "rcs": 4,
+        "citation_count": 2,
+        "doi_url": "https://doi.org/10.34172/joddd.40905",
+        "is_seed": false
+      },
+      {
+        "id": "10.1016/j.jdent.2025.106202",
+        "title": "Artificial intelligence for laser-assisted oral surgery: A narrative review of current trends and future perspectives",
+        "authors_short": "Gowri Sivaramakrishnan, Kannan Sridharan",
+        "year": 2025,
+        "venue": "Journal of Dentistry",
+        "rcs": 4,
+        "citation_count": 2,
+        "doi_url": "https://doi.org/10.1016/j.jdent.2025.106202",
+        "is_seed": false
+      },
+      {
+        "id": "W2901135310",
+        "title": "Er:YAG laser in dentistry. Patients’ experiences and clinical applicability",
+        "authors_short": "Roxana Sarmadi",
+        "year": 2018,
+        "venue": "Gothenburg University Publications Electronic Archive (Gothenburg University)",
+        "rcs": 4,
+        "citation_count": 0,
+        "doi_url": null,
+        "is_seed": false
+      },
+      {
+        "id": "10.18203/2394-6040.ijcmph20263229",
+        "title": "Toward evidence-based laser dentistry: wavelength selection, parameter standardization and clinical outcomes",
+        "authors_short": "Almiqdad Dashti et al.",
+        "year": 2026,
+        "venue": "International Journal of Community Medicine and Public Health",
+        "rcs": 4,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.18203/2394-6040.ijcmph20263229",
+        "is_seed": false
+      },
+      {
+        "id": "10.1111/scd.70224",
+        "title": "High-Power Surgical Laser for Treatment of Oral Manifestations of Mucopolysaccharidosis VI: A Case Report.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 4,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1111/scd.70224",
+        "is_seed": false
+      },
+      {
+        "id": "10.3290/j.qi.b7041768",
+        "title": "The use of diode laser and scalpel blade in stage-two dental implant surgery: a comparative study.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 4,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.3290/j.qi.b7041768",
+        "is_seed": false
+      },
+      {
+        "id": "10.14476/jomp.2025.50.4.139",
+        "title": "Management of Oral Leukoplakia Using Diode Laser Ablation: A Case Report",
+        "authors_short": "So-Ra Kim, O. J. Kim, & Yeong-Gwan Im",
+        "year": 2025,
+        "venue": "Journal of Oral Medicine and Pain",
+        "rcs": 4,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.14476/jomp.2025.50.4.139",
+        "is_seed": false
+      },
+      {
+        "id": "10.1111/j.1532-950x.2007.00234.x",
+        "title": "Histologic Comparison of Canine Skin Biopsies Collected Using Monopolar Electrosurgery, CO2 Laser, Radiowave Radiosurgery, Skin Biopsy Punch, and Scalpel",
+        "authors_short": "Edward Brown Silverman et al.",
+        "year": 2007,
+        "venue": "Veterinary Surgery",
+        "rcs": 3,
+        "citation_count": 89,
+        "doi_url": "https://doi.org/10.1111/j.1532-950x.2007.00234.x",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-013-1336-z",
+        "title": "Effects of laser irradiation at different wavelengths (660, 810, 980, and 1,064 nm) on mucositis in an animal model of wound healing",
+        "authors_short": "Aslihan Usumez et al.",
+        "year": 2013,
+        "venue": "Lasers in Medical Science",
+        "rcs": 3,
+        "citation_count": 84,
+        "doi_url": "https://doi.org/10.1007/s10103-013-1336-z",
+        "is_seed": false
+      },
+      {
+        "id": "10.1902/jop.2015.150212",
+        "title": "Effectiveness of Laser Application for Periodontal Surgical Therapy: Systematic Review and Meta‐Analysis",
+        "authors_short": "Shabnam Behdin et al.",
+        "year": 2015,
+        "venue": "Journal of Periodontology",
+        "rcs": 3,
+        "citation_count": 74,
+        "doi_url": "https://doi.org/10.1902/jop.2015.150212",
+        "is_seed": false
+      },
+      {
+        "id": "10.1590/1807-3107bor-2021.vol35.0099",
+        "title": "LASER in periodontal treatment: is it an effective treatment or science fiction?",
+        "authors_short": "Letícia Helena Theodoro, Rosemary Adriana Chiérici Marcantonio, Mark Wainwright, & Valdir Gouveia Garcia",
+        "year": 2021,
+        "venue": "Brazilian Oral Research",
+        "rcs": 3,
+        "citation_count": 73,
+        "doi_url": "https://doi.org/10.1590/1807-3107bor-2021.vol35.0099",
+        "is_seed": false
+      },
+      {
+        "id": "10.1089/1549541041438678",
+        "title": "Morphological, Histochemical, and Immunocytochemical Study of CO 2 and Er:YAG Laser Effect on Oral Soft Tissues",
+        "authors_short": "Davide Zaffe et al.",
+        "year": 2004,
+        "venue": "Photomedicine and Laser Surgery",
+        "rcs": 3,
+        "citation_count": 51,
+        "doi_url": "https://doi.org/10.1089/1549541041438678",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-010-0756-2",
+        "title": "Effects of KTP laser on oral soft tissues. An in vitro study",
+        "authors_short": "Umberto Romeo et al.",
+        "year": 2010,
+        "venue": "Lasers in Medical Science",
+        "rcs": 3,
+        "citation_count": 42,
+        "doi_url": "https://doi.org/10.1007/s10103-010-0756-2",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-011-0969-z",
+        "title": "Histological in vitro evaluation of the effects of Er:YAG laser on oral soft tissues",
+        "authors_short": "Umberto Romeo et al.",
+        "year": 2011,
+        "venue": "Lasers in Medical Science",
+        "rcs": 3,
+        "citation_count": 41,
+        "doi_url": "https://doi.org/10.1007/s10103-011-0969-z",
+        "is_seed": false
+      },
+      {
+        "id": "10.1902/jop.2015.140580",
+        "title": "Light‐Emitting Diode Irradiation Promotes Donor Site Wound Healing of the Free Gingival Graft",
+        "authors_short": "Chen‐Ying Wang et al.",
+        "year": 2015,
+        "venue": "Journal of Periodontology",
+        "rcs": 3,
+        "citation_count": 30,
+        "doi_url": "https://doi.org/10.1902/jop.2015.140580",
+        "is_seed": false
+      },
+      {
+        "id": "10.1016/j.cden.2022.02.004",
+        "title": "Laser-Assisted Gingivectomy to Treat Gummy Smile",
+        "authors_short": "Saverio Capodiferro, Rada Kazakova",
+        "year": 2022,
+        "venue": "Dental Clinics of North America",
+        "rcs": 3,
+        "citation_count": 16,
+        "doi_url": "https://doi.org/10.1016/j.cden.2022.02.004",
+        "is_seed": false
+      },
+      {
+        "id": "10.34172/jlms.2023.44",
+        "title": "Evaluation of the Effectiveness of the Carbon Dioxide (CO2) Laser in Minor Oral Surgery: A Systematic Review",
+        "authors_short": "Mohammad Asnaashari, Mohammadreza Behnam Roudsari, & Maryam Sadat Shirmardi",
+        "year": 2023,
+        "venue": "Journal of lasers in medical sciences",
+        "rcs": 3,
+        "citation_count": 15,
+        "doi_url": "https://doi.org/10.34172/jlms.2023.44",
+        "is_seed": false
+      },
+      {
+        "id": "10.4103/jispcd.jispcd_241_20",
+        "title": "Applications of lasers in refractory periodontitis: A narrative review",
+        "authors_short": "Sudhir Varma et al.",
+        "year": 2020,
+        "venue": "Journal of International Society of Preventive and Community Dentistry",
+        "rcs": 3,
+        "citation_count": 15,
+        "doi_url": "https://doi.org/10.4103/jispcd.jispcd_241_20",
+        "is_seed": false
+      },
+      {
+        "id": "10.1186/s12903-024-04179-9",
+        "title": "Laser therapy decreases oral leukoplakia recurrence and boosts patient comfort: a network meta-analysis and systematic review",
+        "authors_short": "Rui Luo et al.",
+        "year": 2024,
+        "venue": "BMC Oral Health",
+        "rcs": 3,
+        "citation_count": 11,
+        "doi_url": "https://doi.org/10.1186/s12903-024-04179-9",
+        "is_seed": false
+      },
+      {
+        "id": "10.1016/j.wjorl.2020.09.001",
+        "title": "Phonosurgery: A review of current methodologies",
+        "authors_short": "Christopher Ulmschneider, Jeffrey H. Baker, Ian Vize, & Jack J. Jiang",
+        "year": 2020,
+        "venue": "World Journal of Otorhinolaryngology - Head and Neck Surgery",
+        "rcs": 3,
+        "citation_count": 10,
+        "doi_url": "https://doi.org/10.1016/j.wjorl.2020.09.001",
+        "is_seed": false
+      },
+      {
+        "id": "10.14419/ijdr.v2i1.1720",
+        "title": "Soft tissue applications of lasers: A review",
+        "authors_short": "Rajat Bhandari et al.",
+        "year": 2013,
+        "venue": "International Journal of Dental Research",
+        "rcs": 3,
+        "citation_count": 9,
+        "doi_url": "https://doi.org/10.14419/ijdr.v2i1.1720",
+        "is_seed": false
+      },
+      {
+        "id": "10.4103/2006-8808.73627",
+        "title": "Oral biopsy: A dental gawk",
+        "authors_short": "Rajiv Saini, Santosh Saini, & Sugandha Sharma",
+        "year": 2010,
+        "venue": "Journal of Surgical Technique and Case Report",
+        "rcs": 3,
+        "citation_count": 8,
+        "doi_url": "https://doi.org/10.4103/2006-8808.73627",
+        "is_seed": false
+      },
+      {
+        "id": "10.1002/lary.28518",
+        "title": "Optimizing Settings for Office‐Based Endoscopic CO2 Laser Surgery Using an Experimental Vocal Cord Model",
+        "authors_short": "Anouk S. Schimberg et al.",
+        "year": 2020,
+        "venue": "The Laryngoscope",
+        "rcs": 3,
+        "citation_count": 7,
+        "doi_url": "https://doi.org/10.1002/lary.28518",
+        "is_seed": false
+      },
+      {
+        "id": "10.3390/ma13235340",
+        "title": "Assessment of Effects of Laser Light Combining Three Wavelengths (450, 520 and 640 nm) on Temperature Increase and Depth of Tissue Lesions in an Ex Vivo Study",
+        "authors_short": "Kamil Jurczyszyn et al.",
+        "year": 2020,
+        "venue": "Materials",
+        "rcs": 3,
+        "citation_count": 7,
+        "doi_url": "https://doi.org/10.3390/ma13235340",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-025-04624-3",
+        "title": "A comprehensive review on advancements in laser-assisted dental treatments: focus on minimally invasive techniques and clinical outcomes",
+        "authors_short": "Sirus Safaee et al.",
+        "year": 2025,
+        "venue": "Lasers in Medical Science",
+        "rcs": 3,
+        "citation_count": 6,
+        "doi_url": "https://doi.org/10.1007/s10103-025-04624-3",
+        "is_seed": false
+      },
+      {
+        "id": "10.34172/jlms.2022.22",
+        "title": "Laser-Assisted Lip Repositioning Surgery: A Modification to The Conventional Technique",
+        "authors_short": "Pilar Rocío Blanco Flórez, Jessica Alvis Guzmán, & Jennifer Orozco Páez",
+        "year": 2022,
+        "venue": "Journal of lasers in medical sciences",
+        "rcs": 3,
+        "citation_count": 6,
+        "doi_url": "https://doi.org/10.34172/jlms.2022.22",
+        "is_seed": false
+      },
+      {
+        "id": "10.1186/s40902-025-00475-8",
+        "title": "Comparison between the surgical scalpel and carbon dioxide laser in managing excessive gingival display using lip repositioning technique: a randomized controlled clinical study",
+        "authors_short": "Sara Alkari, Omar Hamadah, & Steven Parker",
+        "year": 2025,
+        "venue": "Maxillofacial Plastic and Reconstructive Surgery",
+        "rcs": 3,
+        "citation_count": 4,
+        "doi_url": "https://doi.org/10.1186/s40902-025-00475-8",
+        "is_seed": false
+      },
+      {
+        "id": "10.4081/ltj.2024.393",
+        "title": "Pre-prosthetic atraumatic laser-assisted mandibular rehabilitation: Er,Cr:YSGG 2780 nm for alveoloplasty and mucocele removal. A case report",
+        "authors_short": "Nourhan S. Emam, Ahmed Abdelhamid, Lucette Segaan, & Mohamed Moataz Khamis",
+        "year": 2024,
+        "venue": "LASER THERAPY",
+        "rcs": 3,
+        "citation_count": 1,
+        "doi_url": "https://doi.org/10.4081/ltj.2024.393",
+        "is_seed": false
+      },
+      {
+        "id": "10.1016/j.jvoice.2023.12.020",
+        "title": "Injuries of Different Surgical Instruments on the Vocal Folds of Dogs",
+        "authors_short": "Jiangping Song et al.",
+        "year": 2024,
+        "venue": "Journal of Voice",
+        "rcs": 3,
+        "citation_count": 1,
+        "doi_url": "https://doi.org/10.1016/j.jvoice.2023.12.020",
+        "is_seed": false
+      },
+      {
+        "id": "10.5772/intechopen.1016842",
+        "title": "Optical Coherence Tomography in Dentistry: Diagnostic Applications for Materials, Hard and Soft Tissues",
+        "authors_short": "Ruxandra Elena Luca, Carmen Darinca Todea, & Adrian Bradu\nand Adrian Gh Podoleanu",
+        "year": 2026,
+        "venue": "IntechOpen eBooks",
+        "rcs": 3,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.5772/intechopen.1016842",
+        "is_seed": false
+      },
+      {
+        "id": "10.26599/oshm.2026.9610053",
+        "title": "Er:YAG laser in oral medicine: mechanisms, efficacy, and future perspectives",
+        "authors_short": "Shaorong Li, Jiaqi An, Li Y, & C L Zhang",
+        "year": 2026,
+        "venue": "Oral Science and Homeostatic Medicine",
+        "rcs": 3,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.26599/oshm.2026.9610053",
+        "is_seed": false
+      },
+      {
+        "id": "10.21608/jlsa.2025.372983.1032",
+        "title": "Corneal Ablation by 266-nm and 193-nm Lasers: A Comprehensive Chemical Analysis Study Assisted with Machine Learning",
+        "authors_short": "Ibrahim Abdelhalim et al.",
+        "year": 2025,
+        "venue": "Journal of Laser Science and Applications",
+        "rcs": 3,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.21608/jlsa.2025.372983.1032",
+        "is_seed": false
+      },
+      {
+        "id": "10.4081/ltj.2023.393",
+        "title": "Pre-prosthetic atraumatic laser-assisted mandibular rehabilitation: Er,Cr:YSGG 2780 nm for alveoloplasty and mucocele removal. A case report",
+        "authors_short": "Nourhan S. Emam, Ahmed Abdelhamid, Lucette Segaan, & Mohamed Moataz Khamis",
+        "year": 2024,
+        "venue": "LASER THERAPY",
+        "rcs": 3,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.4081/ltj.2023.393",
+        "is_seed": false
+      },
+      {
+        "id": "10.1089/photob.2019.29013.abstracts",
+        "title": "Abstracts from the 7 th Congress of the World Federation for Laser in Dentistry European Division June 20–22, 2019 Parma, Italy",
+        "authors_short": "Mohsen Ahmed et al.",
+        "year": 2019,
+        "venue": "Photobiomodulation Photomedicine and Laser Surgery",
+        "rcs": 3,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1089/photob.2019.29013.abstracts",
+        "is_seed": false
+      },
+      {
+        "id": "10.3791/72646",
+        "title": "Thulium, Erbium, and Diode Lasers for Intracanal Decontamination: Anti-Enterococcus faecalis Activity and Thermal Safety Ex Vivo.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 3,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.3791/72646",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-026-04998-y",
+        "title": "Analysis of failure factors in vital pulp therapy and construction of a \"three-circle intersection\" framework: a retrospective study of 103 cases.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 3,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1007/s10103-026-04998-y",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10006-026-01618-5",
+        "title": "Needle-based level II temporomandibular joint arthroscopy under local anesthesia.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 3,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1007/s10006-026-01618-5",
+        "is_seed": false
+      },
+      {
+        "id": "10.24875/bmhim.25000104",
+        "title": "Comprehensive safety assessment of diode laser circumcision in children: a retrospective cohort study.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 3,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.24875/bmhim.25000104",
+        "is_seed": false
+      },
+      {
+        "id": "10.1038/s41598-026-62428-z",
+        "title": "Effect of 810-nm diode laser photobiomodulation on the reversal of maxillary and mandibular soft tissue local anaesthesia in children: a randomized split-mouth clinical trial.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 3,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1038/s41598-026-62428-z",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s00520-026-10970-x",
+        "title": "Photobiomodulation to prevent oral mucositis and physical function impairments after hematopoietic cell transplantation: POMFITT randomized trial.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 3,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1007/s00520-026-10970-x",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-026-04938-w",
+        "title": "In vitro effect of simultaneous irradiation of 635 and 980 nm lasers on proliferation of periodontal ligament mesenchymal cells and their differentiation to osteoblasts.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 3,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1007/s10103-026-04938-w",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s41547-026-00350-3",
+        "title": "Minimally invasive laser treatment of reactive oral mucosal lesions: a case series",
+        "authors_short": "Anitha Reddy Rangasamudram et al.",
+        "year": 2026,
+        "venue": "Lasers in Dental Science",
+        "rcs": 3,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1007/s41547-026-00350-3",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-009-0687-y",
+        "title": "Surgical approach with Er:YAG laser on osteonecrosis of the jaws (ONJ) in patients under bisphosphonate therapy (BPT)",
+        "authors_short": "Paolo Vescovi et al.",
+        "year": 2009,
+        "venue": "Lasers in Medical Science",
+        "rcs": 2,
+        "citation_count": 123,
+        "doi_url": "https://doi.org/10.1007/s10103-009-0687-y",
+        "is_seed": false
+      },
+      {
+        "id": "10.1016/0030-4220(65)90351-8",
+        "title": "The effects of laser radiation on teeth, dental pulp, and oral mucosa of experimental animals",
+        "authors_short": "Richard G. Taylor, Gerald Shklar, & Fred W. Roeber",
+        "year": 1965,
+        "venue": "Oral Surgery Oral Medicine Oral Pathology",
+        "rcs": 2,
+        "citation_count": 88,
+        "doi_url": "https://doi.org/10.1016/0030-4220(65)90351-8",
+        "is_seed": false
+      },
+      {
+        "id": "10.34133/cbsystems.0062",
+        "title": "The State-of-the-Art and Perspectives of Laser Ablation for Tumor Treatment",
+        "authors_short": "Yingwei Fan et al.",
+        "year": 2023,
+        "venue": "Cyborg and Bionic Systems",
+        "rcs": 2,
+        "citation_count": 63,
+        "doi_url": "https://doi.org/10.34133/cbsystems.0062",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-004-0303-0",
+        "title": "External temperature during KTP-Nd:YAG laser irradiation in root canals: an in vitro study",
+        "authors_short": "Samir Nammour et al.",
+        "year": 2004,
+        "venue": "Lasers in Medical Science",
+        "rcs": 2,
+        "citation_count": 53,
+        "doi_url": "https://doi.org/10.1007/s10103-004-0303-0",
+        "is_seed": false
+      },
+      {
+        "id": "10.2334/josnusd.57.277",
+        "title": "The use of lasers for direct pulp capping",
+        "authors_short": "Takashi Komabayashi, Arata Ebihara, & Akira Aoki",
+        "year": 2015,
+        "venue": "Journal of Oral Science",
+        "rcs": 2,
+        "citation_count": 29,
+        "doi_url": "https://doi.org/10.2334/josnusd.57.277",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-009-0738-4",
+        "title": "Non-surgical periodontal therapy assisted by potassium–titanyl–phosphate laser: a pilot study",
+        "authors_short": "Umberto Romeo et al.",
+        "year": 2009,
+        "venue": "Lasers in Medical Science",
+        "rcs": 2,
+        "citation_count": 29,
+        "doi_url": "https://doi.org/10.1007/s10103-009-0738-4",
+        "is_seed": false
+      },
+      {
+        "id": "10.1038/s41598-021-99709-8",
+        "title": "Thermal effect of a 445 nm diode laser on five dental implant systems: an in vitro study",
+        "authors_short": "Herbert Deppe et al.",
+        "year": 2021,
+        "venue": "Scientific Reports",
+        "rcs": 2,
+        "citation_count": 24,
+        "doi_url": "https://doi.org/10.1038/s41598-021-99709-8",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-015-1727-4",
+        "title": "Assessment of the effect of laser irradiations at different wavelengths (660, 810, 980, and 1064 nm) on autophagy in a rat model of mucositis",
+        "authors_short": "Mehmet Bostancıklıoğlu et al.",
+        "year": 2015,
+        "venue": "Lasers in Medical Science",
+        "rcs": 2,
+        "citation_count": 19,
+        "doi_url": "https://doi.org/10.1007/s10103-015-1727-4",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-010-0849-y",
+        "title": "Different air-water spray regulations affect the healing of Er,Cr:YSGG laser incisions",
+        "authors_short": "Felipe Fornias Sperandio et al.",
+        "year": 2010,
+        "venue": "Lasers in Medical Science",
+        "rcs": 2,
+        "citation_count": 15,
+        "doi_url": "https://doi.org/10.1007/s10103-010-0849-y",
+        "is_seed": false
+      },
+      {
+        "id": "10.4236/ojst.2022.1210027",
+        "title": "Laser and Its Application in Periodontology: A Review of Literature",
+        "authors_short": "Mahmoud Abu-Ta’a, Rawia Karameh",
+        "year": 2022,
+        "venue": "Open Journal of Stomatology",
+        "rcs": 2,
+        "citation_count": 14,
+        "doi_url": "https://doi.org/10.4236/ojst.2022.1210027",
+        "is_seed": false
+      },
+      {
+        "id": "10.1016/j.bjoms.2011.09.006",
+        "title": "Er,CR:YSGG lasers induce fewer dysplastic-like epithelial artefacts than CO2 lasers: an in vivo experimental study on oral mucosa",
+        "authors_short": "A. González-Mosquera et al.",
+        "year": 2011,
+        "venue": "British Journal of Oral and Maxillofacial Surgery",
+        "rcs": 2,
+        "citation_count": 13,
+        "doi_url": "https://doi.org/10.1016/j.bjoms.2011.09.006",
+        "is_seed": false
+      },
+      {
+        "id": "10.3390/dj9060066",
+        "title": "Uncovering and Autonomous Eruption of Palatally Impacted Canines—A Case Report",
+        "authors_short": "Alessandra Impellizzeri et al.",
+        "year": 2021,
+        "venue": "Dentistry Journal",
+        "rcs": 2,
+        "citation_count": 11,
+        "doi_url": "https://doi.org/10.3390/dj9060066",
+        "is_seed": false
+      },
+      {
+        "id": "10.1016/s1079-2104(97)90253-5",
+        "title": "Laser biopsy artifact",
+        "authors_short": "Robert A. Convissar",
+        "year": 1997,
+        "venue": "Oral Surgery Oral Medicine Oral Pathology Oral Radiology and Endodontology",
+        "rcs": 2,
+        "citation_count": 10,
+        "doi_url": "https://doi.org/10.1016/s1079-2104(97)90253-5",
+        "is_seed": false
+      },
+      {
+        "id": "10.1016/j.pdpdt.2025.104479",
+        "title": "Molecular evidence for the efficacy of PBM therapy in the treatment of oral lichen planus",
+        "authors_short": "Maria Zaharieva Mutafchieva et al.",
+        "year": 2025,
+        "venue": "Photodiagnosis and Photodynamic Therapy",
+        "rcs": 2,
+        "citation_count": 7,
+        "doi_url": "https://doi.org/10.1016/j.pdpdt.2025.104479",
+        "is_seed": false
+      },
+      {
+        "id": "10.3389/fneur.2023.1271655",
+        "title": "Unraveling the parameters and biological mechanisms of CO2 laser therapy for acute pain relief",
+        "authors_short": "Xianggang Wang et al.",
+        "year": 2023,
+        "venue": "Frontiers in Neurology",
+        "rcs": 2,
+        "citation_count": 5,
+        "doi_url": "https://doi.org/10.3389/fneur.2023.1271655",
+        "is_seed": false
+      },
+      {
+        "id": "10.17615/mh46-z448",
+        "title": "The use of lasers for direct pulp capping",
+        "authors_short": "A. Ebihara, T. Komabayashi, & A. Aoki",
+        "year": 2022,
+        "venue": "Carolina Digital Repository (University of North Carolina at Chapel Hill)",
+        "rcs": 2,
+        "citation_count": 3,
+        "doi_url": "https://doi.org/10.17615/mh46-z448",
+        "is_seed": false
+      },
+      {
+        "id": "10.7759/cureus.67252",
+        "title": "A Novel Blue Light Laser (445 nm) in Non-surgical Treatment of Chronic Periodontitis: A Clinical and Microbiological Study",
+        "authors_short": "Indira Mujić Jahić et al.",
+        "year": 2024,
+        "venue": "Cureus",
+        "rcs": 2,
+        "citation_count": 2,
+        "doi_url": "https://doi.org/10.7759/cureus.67252",
+        "is_seed": false
+      },
+      {
+        "id": "10.1002/lsm.21127",
+        "title": "American Society for Laser Medicine And Surgery Abstracts",
+        "authors_short": "",
+        "year": 2011,
+        "venue": "Lasers in Surgery and Medicine",
+        "rcs": 2,
+        "citation_count": 1,
+        "doi_url": "https://doi.org/10.1002/lsm.21127",
+        "is_seed": false
+      },
+      {
+        "id": "10.2478/rjr-2025-0003",
+        "title": "The Blue Light LASER technology: a new progress in ENT surgery",
+        "authors_short": "Sandra-Maria Palaghia, Şt Georgescu, & Codruţ Sarafoleanu",
+        "year": 2025,
+        "venue": "Romanian Journal of Rhinology",
+        "rcs": 2,
+        "citation_count": 1,
+        "doi_url": "https://doi.org/10.2478/rjr-2025-0003",
+        "is_seed": false
+      },
+      {
+        "id": "10.3390/cancers18132088",
+        "title": "Current Trends in Diagnosis and Early Monitoring of Oral Cavity Cancer: Techniques and Biomarkers",
+        "authors_short": "Karolina Maria Marczuk et al.",
+        "year": 2026,
+        "venue": "Cancers",
+        "rcs": 2,
+        "citation_count": 1,
+        "doi_url": "https://doi.org/10.3390/cancers18132088",
+        "is_seed": false
+      },
+      {
+        "id": "10.3389/fvets.2026.1870940",
+        "title": "Effect of fluorescence biomodulation as an adjunct to standard wound management in open wounds in dogs and cats: a prospective, randomised, within-wound controlled clinical trial",
+        "authors_short": "María Jiménez Lázaro et al.",
+        "year": 2026,
+        "venue": "Frontiers in Veterinary Science",
+        "rcs": 2,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.3389/fvets.2026.1870940",
+        "is_seed": false
+      },
+      {
+        "id": "10.11606/t.25.2020.tde-25102021-180447",
+        "title": "Use of photobiomodulation therapy associated with bovine bone matrix and heterologous fibrin biopolymer in the process of bone defect reconstruction",
+        "authors_short": "Marcelie Priscila de Oliveira Rosso",
+        "year": 2020,
+        "venue": null,
+        "rcs": 2,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.11606/t.25.2020.tde-25102021-180447",
+        "is_seed": false
+      },
+      {
+        "id": "10.5984/jjpnsoclaserdent.27.104",
+        "title": "POSTER SESSIONS",
+        "authors_short": "",
+        "year": 2016,
+        "venue": "Journal of Japanese Society for Laser Dentistry",
+        "rcs": 2,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.5984/jjpnsoclaserdent.27.104",
+        "is_seed": false
+      },
+      {
+        "id": "W2957280254",
+        "title": "SALIVARY PROTEOME ANALYSIS BY 2D-PAGE AND SELDI-TOF/MS TO SEARCH POTENTIAL BIOMARKERS OF ORAL SQUAMOUS CELL CARCINOMA",
+        "authors_short": "Fatima Ardito et al.",
+        "year": 2014,
+        "venue": "Nova Science Publishers (Nova Science Publishers, Inc.)",
+        "rcs": 2,
+        "citation_count": 0,
+        "doi_url": null,
+        "is_seed": false
+      },
+      {
+        "id": "10.1002/lsm.22023",
+        "title": "American Society for Laser Medicine and Surgery Abstracts",
+        "authors_short": "Piazza C., Del Bon F., & PERETTI, GIORGIO",
+        "year": 2012,
+        "venue": "Lasers in Surgery and Medicine",
+        "rcs": 2,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1002/lsm.22023",
+        "is_seed": false
+      },
+      {
+        "id": "W1589833989",
+        "title": "ND: YAG Laser in the therapy of hypersensitivity teeth",
+        "authors_short": "Ivona Kovacevska, Cena Dimova, & Z Georgiev",
+        "year": 2013,
+        "venue": "Goce Delchev University Repository (Goce Delčev University of Štip)",
+        "rcs": 2,
+        "citation_count": 0,
+        "doi_url": null,
+        "is_seed": false
+      },
+      {
+        "id": "10.3760/cma.j.cn112137-20260312-00689",
+        "title": "[Clinical efficacy and safety of a modified transurethral diode laser four-troughs vaporesection in treating benign prostatic hyperplasia].",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 2,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.3760/cma.j.cn112137-20260312-00689",
+        "is_seed": false
+      },
+      {
+        "id": "pmid:42699822",
+        "title": "Endoscopic diode laser lysis of dorsal acquired glottic web and custom-made Silastic keel placement in a dog.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 2,
+        "citation_count": 0,
+        "doi_url": null,
+        "is_seed": false
+      },
+      {
+        "id": "10.1186/s12903-026-09504-y",
+        "title": "Effect of diode laser on micro-tensile bond strength of hybrid ceramic restorations to dentin using one-step and two-step self-etch adhesives: in vitro study.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 2,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1186/s12903-026-09504-y",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-026-04984-4",
+        "title": "Antibacterial effect of chamomile extract irrigant activated with diode laser against Enterococcus faecalis.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 2,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1007/s10103-026-04984-4",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-026-04971-9",
+        "title": "Laser-induced modulation of root dentin surface for growth factor release and enhanced stem cell response.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 2,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1007/s10103-026-04971-9",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-026-04958-6",
+        "title": "Pulsed Nd:YAG versus continuous-wave laser photobiomodulation for orthodontic pain: a split-mouth RCT.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 2,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1007/s10103-026-04958-6",
+        "is_seed": false
+      },
+      {
+        "id": "pmid:42494346",
+        "title": "[Experimental study on antibacterial effect of semiconductor laser combined with 5.25%NaClO and 17%EDTA on lateral root canals infected by Enterococcus faecalis].",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 2,
+        "citation_count": 0,
+        "doi_url": null,
+        "is_seed": false
+      },
+      {
+        "id": "10.1186/s12903-026-09172-y",
+        "title": "Effect of photobiomodulation therapy on wound healing and post-extraction pain management of primary molars: a randomized controlled clinical trial.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 2,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1186/s12903-026-09172-y",
+        "is_seed": false
+      },
+      {
+        "id": "10.5935/0004-2749.2025-0043",
+        "title": "Evaluation of diode laser cyclophotocoagulation efficiency in refractory glaucoma and determination of structural changes using ultrasound biomicroscopy.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 2,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.5935/0004-2749.2025-0043",
+        "is_seed": false
+      },
+      {
+        "id": "10.1177/25785478261465521",
+        "title": "Photobiomodulation Therapy for Symptom Management in Essential Palatal Myoclonus: Two Case Studies with Long-Term Follow-Up Two Cases: 7-Year/2-Month Follow-Up.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 2,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1177/25785478261465521",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-026-04925-1",
+        "title": "Effect of 940 nm diode laser adjunct to mechanical debridement on S100A8 levels and clinical parameters in peri-implantitis treatment.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 2,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1007/s10103-026-04925-1",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-025-04419-6",
+        "title": "Comparison of the effect of the pulsed Er: YAG laser and topical corticosteroid on erosive oral lichen planus: a randomized clinical controlled trial",
+        "authors_short": "Zhiyuan Liu, Lin Wang, Song Ren, & JG Sun",
+        "year": 2025,
+        "venue": "Lasers in Medical Science",
+        "rcs": 2,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1007/s10103-025-04419-6",
+        "is_seed": false
+      },
+      {
+        "id": "10.1038/203417a0",
+        "title": "Impact of the Laser on Dental Caries",
+        "authors_short": "Leon Goldman, Peter Hornby, Robert G. Meyer, & Bernard S. Goldman",
+        "year": 1964,
+        "venue": "Nature",
+        "rcs": 1,
+        "citation_count": 282,
+        "doi_url": "https://doi.org/10.1038/203417a0",
+        "is_seed": false
+      },
+      {
+        "id": "10.1117/1.jbo.22.12.121715",
+        "title": "Clinical translation of handheld optical coherence tomography: practical considerations and recent advancements",
+        "authors_short": "Guillermo L. Monroy, Jungeun Won",
+        "year": 2017,
+        "venue": "Journal of Biomedical Optics",
+        "rcs": 1,
+        "citation_count": 73,
+        "doi_url": "https://doi.org/10.1117/1.jbo.22.12.121715",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s00784-020-03584-y",
+        "title": "Efficacy of laser monotherapy or non-surgical mechanical instrumentation in the management of untreated periodontitis patients. A systematic review and meta-analysis",
+        "authors_short": "Zhikai Lin et al.",
+        "year": 2020,
+        "venue": "Clinical Oral Investigations",
+        "rcs": 1,
+        "citation_count": 30,
+        "doi_url": "https://doi.org/10.1007/s00784-020-03584-y",
+        "is_seed": false
+      },
+      {
+        "id": "10.3390/dj7040099",
+        "title": "Q-Switch Nd:YAG Laser-Assisted Decontamination of Implant Surface",
+        "authors_short": "Mélanie Namour et al.",
+        "year": 2019,
+        "venue": "Dentistry Journal",
+        "rcs": 1,
+        "citation_count": 22,
+        "doi_url": "https://doi.org/10.3390/dj7040099",
+        "is_seed": false
+      },
+      {
+        "id": "10.1016/j.pdpdt.2020.101952",
+        "title": "The effect of laser-activated bleaching with 445 nm and 915 nm diode lasers on enamel micro-hardness; an in vitro study",
+        "authors_short": "Sogol Saberi et al.",
+        "year": 2020,
+        "venue": "Photodiagnosis and Photodynamic Therapy",
+        "rcs": 1,
+        "citation_count": 20,
+        "doi_url": "https://doi.org/10.1016/j.pdpdt.2020.101952",
+        "is_seed": false
+      },
+      {
+        "id": "10.3390/ijms232415732",
+        "title": "The In Vitro Effect of Laser Irradiation (Er:YAG and CO2) and Chemical Reagents (Hydrogen Peroxide, Sodium Hypochlorite, Chlorhexidine, or Sodium Fluoride) Alone or in Combination on Reducing Root Caries Bacteria",
+        "authors_short": "Nitya G. Reddy et al.",
+        "year": 2022,
+        "venue": "International Journal of Molecular Sciences",
+        "rcs": 1,
+        "citation_count": 19,
+        "doi_url": "https://doi.org/10.3390/ijms232415732",
+        "is_seed": false
+      },
+      {
+        "id": "10.1111/odi.14851",
+        "title": "Optical coherence tomography: Promising imaging technique for the diagnosis of oral mucosal diseases",
+        "authors_short": "X. Chen, Gang Zhou, & Jing Zhang",
+        "year": 2024,
+        "venue": "Oral Diseases",
+        "rcs": 1,
+        "citation_count": 13,
+        "doi_url": "https://doi.org/10.1111/odi.14851",
+        "is_seed": false
+      },
+      {
+        "id": "10.1002/lsm.22127",
+        "title": "American Society for Laser Medicine and Surgery Abstracts",
+        "authors_short": "",
+        "year": 2013,
+        "venue": "Lasers in Surgery and Medicine",
+        "rcs": 1,
+        "citation_count": 6,
+        "doi_url": "https://doi.org/10.1002/lsm.22127",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s00784-025-06365-7",
+        "title": "Efficacy of different gingival graft de-epithelialization methods: A parallel-group randomized clinical trial",
+        "authors_short": "Furkan Din et al.",
+        "year": 2025,
+        "venue": "Clinical Oral Investigations",
+        "rcs": 1,
+        "citation_count": 3,
+        "doi_url": "https://doi.org/10.1007/s00784-025-06365-7",
+        "is_seed": false
+      },
+      {
+        "id": "10.1002/lsm.22229",
+        "title": "American Society for Laser Medicine and Surgery Abstracts",
+        "authors_short": "",
+        "year": 2014,
+        "venue": "Lasers in Surgery and Medicine",
+        "rcs": 1,
+        "citation_count": 2,
+        "doi_url": "https://doi.org/10.1002/lsm.22229",
+        "is_seed": false
+      },
+      {
+        "id": "10.1002/lsm.22351",
+        "title": "American Society for Laser Medicine and Surgery Abstracts",
+        "authors_short": "",
+        "year": 2015,
+        "venue": "Lasers in Surgery and Medicine",
+        "rcs": 1,
+        "citation_count": 1,
+        "doi_url": "https://doi.org/10.1002/lsm.22351",
+        "is_seed": false
+      },
+      {
+        "id": "W2481756244",
+        "title": "Methods of Deciduous Dental Pulp Research",
+        "authors_short": "Z Georgiev et al.",
+        "year": 2013,
+        "venue": "Goce Delchev University Repository (Goce Delčev University of Štip)",
+        "rcs": 1,
+        "citation_count": 1,
+        "doi_url": null,
+        "is_seed": false
+      },
+      {
+        "id": "10.19256/abstract.silo.2025",
+        "title": "Abstract 11° Congresso Nazionale Società Italiana Laser in Odontostomatologia",
+        "authors_short": "AA VV AA VV",
+        "year": 2025,
+        "venue": "Dental Cadmos",
+        "rcs": 1,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.19256/abstract.silo.2025",
+        "is_seed": false
+      },
+      {
+        "id": "10.37897/rjs.2025.2.3",
+        "title": "The effect of Indian Qost (Costus speciosus) on the healing of oral incision in rabbits",
+        "authors_short": "Asmaa Al-Douri, Khawla Mohemad Salih, & Omer M. Sultan",
+        "year": 2025,
+        "venue": "Romanian Journal of Stomatology",
+        "rcs": 1,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.37897/rjs.2025.2.3",
+        "is_seed": false
+      },
+      {
+        "id": "W7204064516",
+        "title": "New Insights in the Diagnosis and Treatment of Head and Neck Cancer",
+        "authors_short": "Georgios Giourgos",
+        "year": 2026,
+        "venue": "Directory of Open access Books (OAPEN Foundation)",
+        "rcs": 1,
+        "citation_count": 0,
+        "doi_url": null,
+        "is_seed": false
+      },
+      {
+        "id": "10.19256/abstract.onj.01.2024",
+        "title": "Description of MRONJ case series (at least 10 cases)/ Descrizione di casistiche di ONJ (almeno 10 casi)",
+        "authors_short": "AA VV AA VV",
+        "year": 2024,
+        "venue": "Dental Cadmos",
+        "rcs": 1,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.19256/abstract.onj.01.2024",
+        "is_seed": false
+      },
+      {
+        "id": "10.19256/abstract.cduo.09.2022",
+        "title": "Digital dentistry/Odontoiatria digitale",
+        "authors_short": "AA VV AA VV",
+        "year": 2022,
+        "venue": "Dental Cadmos",
+        "rcs": 1,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.19256/abstract.cduo.09.2022",
+        "is_seed": false
+      },
+      {
+        "id": "10.1089/pho.2016.29006.abstracts",
+        "title": "Abstracts and Talks from the World Federation for Laser Dentistry–Asia Pacific Division Laser Symposium in Conjunction with the 55 th Iranian Dental Association (IDA) CongressMay 12–15, 2015,Tehran, Iran",
+        "authors_short": "The present study investigated the effect of different surface treatments on shear bond strength (SBS) of resin cement to zirconia.",
+        "year": 2017,
+        "venue": "Photomedicine and Laser Surgery",
+        "rcs": 1,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1089/pho.2016.29006.abstracts",
+        "is_seed": false
+      },
+      {
+        "id": "10.1111/idj.12266",
+        "title": "Wednesday, 7 September 2016 - AWDC 2016 – ABSTRACT BOOK - FREE COMMUNICATION SESSIONS 01–18 POSTER SESSIONS 01–20",
+        "authors_short": "FDI World Dental Federation",
+        "year": 2016,
+        "venue": "International Dental Journal",
+        "rcs": 1,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1111/idj.12266",
+        "is_seed": false
+      },
+      {
+        "id": "10.5978/islsm.19.185",
+        "title": "PROGRAM & ABSTRACTS",
+        "authors_short": "",
+        "year": 2010,
+        "venue": "LASER THERAPY",
+        "rcs": 1,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.5978/islsm.19.185",
+        "is_seed": false
+      },
+      {
+        "id": "10.47391/jpma.30221",
+        "title": "Effectiveness and safety of triple-diode laser with or without adjunctive topical eflornithine in female hirsutism.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 1,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.47391/jpma.30221",
+        "is_seed": false
+      },
+      {
+        "id": "10.32604/cju.2026.070096",
+        "title": "Evaluating surgical smoke in laser-assisted laparoscopic partial nephrectomy with a novel handle: anin Vitrostudy.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 1,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.32604/cju.2026.070096",
+        "is_seed": false
+      },
+      {
+        "id": "10.1007/s10103-026-04981-7",
+        "title": "Comparison of tooth surface roughness after bleaching with conventional and different light-activated methods.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 1,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1007/s10103-026-04981-7",
+        "is_seed": false
+      },
+      {
+        "id": "10.1038/s41598-026-65462-z",
+        "title": "Evaluation of different internal bleaching methods after application of two bioceramic formulations in revascularization treatment: an in vitro study.",
+        "authors_short": "",
+        "year": 2026,
+        "venue": null,
+        "rcs": 1,
+        "citation_count": 0,
+        "doi_url": "https://doi.org/10.1038/s41598-026-65462-z",
+        "is_seed": false
+      }
+    ],
+    "edges": [],
+    "node_count": 150,
+    "edge_count": 0
+  },
+  "theme_treemap": {
+    "themes": [
+      {
+        "name": "Medicine",
+        "value": 117,
+        "paper_ids": [
+          "10.1590/1807-3107bor-2021.vol35.0099",
+          "10.1117/1.jbo.22.12.121715",
+          "10.34133/cbsystems.0062",
+          "10.3390/photonics10060650",
+          "10.2334/josnusd.57.277",
+          "10.1155/2014/345685",
+          "10.3390/medicina57050497",
+          "10.3390/app13095527",
+          "10.1016/j.cden.2022.02.004",
+          "10.34172/jlms.2023.44",
+          "10.4236/ojst.2022.1210027",
+          "10.1111/odi.14851",
+          "10.1590/1678-7757-2022-0307",
+          "10.19256/abstract.cduo.02.2022",
+          "10.1186/s40902-025-00475-8",
+          "10.5772/66008",
+          "10.7759/cureus.63342",
+          "10.17615/mh46-z448",
+          "10.32628/ijsrst52310612",
+          "10.21608/ajdsm.2017.107809"
+        ]
+      },
+      {
+        "name": "Laser Applications In Dentistry And Medicine",
+        "value": 83,
+        "paper_ids": [
+          "10.1590/1807-3107bor-2021.vol35.0099",
+          "10.3390/photonics10060650",
+          "10.2334/josnusd.57.277",
+          "10.1155/2014/345685",
+          "10.3390/app13095527",
+          "10.1016/j.cden.2022.02.004",
+          "10.34172/jlms.2023.44",
+          "10.4236/ojst.2022.1210027",
+          "10.1590/1678-7757-2022-0307",
+          "10.1186/s40902-025-00475-8",
+          "10.32628/ijsrst52310612",
+          "10.26599/oshm.2026.9610053",
+          "10.4081/ltj.2023.393",
+          "10.1089/photob.2019.29013.abstracts",
+          "W2901135310",
+          "10.3389/fvets.2026.1870940",
+          "10.11606/t.25.2020.tde-25102021-180447",
+          "10.1089/pho.2016.29006.abstracts",
+          "10.5984/jjpnsoclaserdent.27.104",
+          "W1589833989"
+        ]
+      },
+      {
+        "name": "Laser",
+        "value": 76,
+        "paper_ids": [
+          "10.1590/1807-3107bor-2021.vol35.0099",
+          "10.34133/cbsystems.0062",
+          "10.3390/photonics10060650",
+          "10.2334/josnusd.57.277",
+          "10.1155/2014/345685",
+          "10.4236/ojst.2022.1210027",
+          "10.1186/s40902-025-00475-8",
+          "10.17615/mh46-z448",
+          "10.32628/ijsrst52310612",
+          "10.21608/ajdsm.2017.107809",
+          "10.1002/lsm.22229",
+          "10.1002/lsm.22351",
+          "10.26599/oshm.2026.9610053",
+          "10.19256/abstract.silo.2025",
+          "10.21608/jlsa.2025.372983.1032",
+          "W2901135310",
+          "10.1002/lsm.22127",
+          "10.1002/lsm.21127",
+          "10.1002/lsm.22023",
+          "W1589833989"
+        ]
+      },
+      {
+        "name": "Dentistry",
+        "value": 56,
+        "paper_ids": [
+          "10.1590/1807-3107bor-2021.vol35.0099",
+          "10.3390/photonics10060650",
+          "10.2334/josnusd.57.277",
+          "10.3390/medicina57050497",
+          "10.3390/app13095527",
+          "10.1016/j.cden.2022.02.004",
+          "10.34172/jlms.2023.44",
+          "10.4236/ojst.2022.1210027",
+          "10.1590/1678-7757-2022-0307",
+          "10.19256/abstract.cduo.02.2022",
+          "10.1186/s40902-025-00475-8",
+          "10.17615/mh46-z448",
+          "10.32628/ijsrst52310612",
+          "10.21608/ajdsm.2017.107809",
+          "10.4081/ltj.2023.393",
+          "10.1089/photob.2019.29013.abstracts",
+          "W2901135310",
+          "W2481756244",
+          "10.19256/abstract.cduo.09.2022",
+          "10.1089/pho.2016.29006.abstracts"
+        ]
+      },
+      {
+        "name": "Surgery",
+        "value": 46,
+        "paper_ids": [
+          "10.3390/photonics10060650",
+          "10.3390/app13095527",
+          "10.1016/j.cden.2022.02.004",
+          "10.34172/jlms.2023.44",
+          "10.1590/1678-7757-2022-0307",
+          "10.19256/abstract.cduo.02.2022",
+          "10.1186/s40902-025-00475-8",
+          "10.5772/66008",
+          "10.7759/cureus.63342",
+          "10.37897/rjs.2025.2.3",
+          "10.4081/ltj.2023.393",
+          "W1551935427",
+          "W3083385263",
+          "10.3390/healthcare8030267",
+          "10.4067/s0718-381x2023000200136",
+          "10.14419/ijdr.v2i1.1720",
+          "10.1016/j.wjorl.2020.09.001",
+          "10.1902/jop.1993.64.7.589",
+          "10.1016/s1079-2104(96)80302-7",
+          "10.1007/s10103-010-0756-2"
+        ]
+      },
+      {
+        "name": "Optics",
+        "value": 39,
+        "paper_ids": [
+          "10.3390/photonics10060650",
+          "10.17615/mh46-z448",
+          "10.32628/ijsrst52310612",
+          "10.21608/ajdsm.2017.107809",
+          "10.1002/lsm.22229",
+          "10.1002/lsm.22351",
+          "10.21608/jlsa.2025.372983.1032",
+          "W2901135310",
+          "10.1002/lsm.22127",
+          "10.1002/lsm.22023",
+          "W1589833989",
+          "10.17219/acem/104525",
+          "10.1002/lary.28518",
+          "10.11606/t.85.2021.tde-08092021-150518",
+          "10.1902/jop.1993.64.7.589",
+          "10.1089/pho.2007.2217",
+          "10.1016/j.joms.2012.01.023",
+          "10.1016/s1079-2104(97)90253-5",
+          "10.2478/rjr-2025-0003",
+          "10.1007/s41547-025-00309-w"
+        ]
+      },
+      {
+        "name": "Materials Science",
+        "value": 30,
+        "paper_ids": [
+          "10.3390/photonics10060650",
+          "10.2334/josnusd.57.277",
+          "10.1155/2014/345685",
+          "10.17615/mh46-z448",
+          "10.21608/ajdsm.2017.107809",
+          "10.21608/jlsa.2025.372983.1032",
+          "10.5984/jjpnsoclaserdent.27.104",
+          "W154787600",
+          "W2278247839",
+          "10.17219/acem/104525",
+          "10.1002/lary.28518",
+          "10.11606/t.85.2021.tde-08092021-150518",
+          "10.1016/s1079-2104(96)80302-7",
+          "10.1007/s10103-011-0900-7",
+          "10.1016/0030-4220(90)90397-b",
+          "10.2478/rjr-2025-0003",
+          "10.1038/203417a0",
+          "10.1007/s10103-012-1081-8",
+          "10.1016/0030-4220(65)90351-8",
+          "10.1007/s10103-004-0303-0"
+        ]
+      },
+      {
+        "name": "Dermatologic Treatments And Research",
+        "value": 28,
+        "paper_ids": [
+          "10.1155/2014/345685",
+          "10.3390/app13095527",
+          "10.1590/1678-7757-2022-0307",
+          "10.32628/ijsrst52310612",
+          "10.3389/fvets.2026.1870940",
+          "10.17219/acem/104525",
+          "10.34172/joddd.40905",
+          "10.1016/j.wjorl.2020.09.001",
+          "10.11606/t.85.2021.tde-08092021-150518",
+          "10.1902/jop.1993.64.7.589",
+          "10.1016/s1079-2104(96)80302-7",
+          "10.1007/s10103-010-0756-2",
+          "10.1016/0030-4220(90)90397-b",
+          "10.1089/pho.2007.2217",
+          "10.1016/j.joms.2012.01.023",
+          "W2125792627",
+          "W2409804967",
+          "10.3390/jcm12206567",
+          "10.1155/2020/8883156",
+          "10.34172/jlms.2022.22"
+        ]
+      }
+    ],
+    "total_papers": 188
+  }
+}

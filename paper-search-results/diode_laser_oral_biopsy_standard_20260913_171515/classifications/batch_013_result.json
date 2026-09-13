@@ -1,0 +1,62 @@
+[
+  {
+    "paper_id": "doi|10.1121/10.0044374",
+    "rcs": 0,
+    "reasoning": "Diode laser used as a photoacoustic light source for RBC osmotic fragility testing; unrelated to oral tissue, biopsy, or surgical incision parameters.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.5935/0004-2749.2025-0043",
+    "rcs": 2,
+    "reasoning": "Diode laser cyclophotocoagulation for refractory glaucoma; same laser technology but different domain (ophthalmic ciliary body ablation), not oral soft tissue or biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1038/s41598-026-62428-z",
+    "rcs": 3,
+    "reasoning": "810-nm diode laser used in a pediatric dental RCT, but for photobiomodulation reversal of anesthesia, not incisional biopsy or histopathology; related domain, different application.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1093/jambio/lxag164",
+    "rcs": 0,
+    "reasoning": "Tunable diode laser absorption spectroscopy for antimicrobial susceptibility testing; 'diode laser' here is a spectroscopic sensor, unrelated to surgical/oral applications.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.36849/jdd.9190",
+    "rcs": 1,
+    "reasoning": "1927 nm diode laser for cosmetic infraorbital hyperpigmentation in skin of color; dermatologic, non-oral, non-incisional application.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s00520-026-10970-x",
+    "rcs": 3,
+    "reasoning": "InGaAlP diode laser used for photobiomodulation to prevent oral mucositis post-HCT; oral cavity and diode laser but PBM/prevention trial, not biopsy incision or histopathology.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1177/25785478261465521",
+    "rcs": 2,
+    "reasoning": "Near-infrared diode laser PBMT case reports for palatal myoclonus; oral-region application but neuromodulation, not tissue biopsy or incision parameters.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-026-04938-w",
+    "rcs": 3,
+    "reasoning": "In vitro photobiomodulation of periodontal ligament cells with 635/980 nm diode lasers affecting proliferation/differentiation; dental cell biology, not surgical biopsy or incision performance.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1177/25785478261465277",
+    "rcs": 5,
+    "reasoning": "In vivo study directly quantifying diode laser power, speed, and mode against cutting/coagulation/thermal-damage depth with histology, closely mirroring the query's operating-parameter and histopathologic focus, but on liver tissue, not oral soft tissue biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1167/tvst.15.6.35",
+    "rcs": 1,
+    "reasoning": "Transscleral diode laser retinal coagulation with power/temperature control; laser dosimetry parallels exist but tissue (sclera/retina) and application (coagulation, not biopsy) are unrelated to oral soft-tissue biopsy.",
+    "flag": null
+  }
+]

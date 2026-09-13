@@ -1,0 +1,62 @@
+[
+  {
+    "paper_id": "doi|10.1016/j.jvoice.2023.12.020",
+    "rcs": 3,
+    "reasoning": "Compares laser, electrosurgery, RFA, and steel knife on canine vocal folds with histological thermal-damage assessment, but the tissue site is laryngeal (not oral cavity) and the laser is not a dental diode laser or biopsy tool.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.34119/bjhrv6n6-248",
+    "rcs": 1,
+    "reasoning": "Case report of excisional biopsy for a traumatic fibroma in oral mucosa, but no laser (diode or otherwise) is used or mentioned anywhere in the abstract.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1111/prd.12080",
+    "rcs": 5,
+    "reasoning": "Broad review of laser therapy (including diode lasers) in periodontal/peri-implant soft-tissue management and wound healing, but not focused on biopsy technique, delivered power, or incision speed.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1038/203417a0",
+    "rcs": 1,
+    "reasoning": "1964 paper on laser effects on dental caries (hard tissue), unrelated to oral soft-tissue biopsy; no abstract available so title is the only signal and it points to a different application entirely.",
+    "flag": "no_abstract_uncertain"
+  },
+  {
+    "paper_id": "pmid|25606331",
+    "rcs": 7,
+    "reasoning": "Direct hit: describes 810-980 nm diode laser use in oral soft-tissue surgery including excisional biopsy of pyogenic granuloma and gingival pigmentation, with safety/outcome discussion; core reference candidate.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-013-1336-z",
+    "rcs": 3,
+    "reasoning": "Title indicates wavelength-dependent laser effects (660-1064 nm) on mucositis wound healing in an animal model, which is tangential (biostimulation, not excisional biopsy); no abstract to confirm parameter/histology relevance.",
+    "flag": "no_abstract_uncertain"
+  },
+  {
+    "paper_id": "doi|10.4103/1305-7456.110174",
+    "rcs": 7,
+    "reasoning": "Direct hit: clinical study of 810-nm diode laser for excision/treatment of benign oral soft-tissue lesions (frenulum, epulis, pyogenic granuloma) with healing-time outcomes; strong candidate reference.",
+    "flag": null
+  },
+  {
+    "paper_id": "pmid|11048269",
+    "rcs": 4,
+    "reasoning": "General overview of dental laser wavelengths and tissue interactions to guide clinician selection, relevant background but not diode-specific and lacks power/incision-speed or biopsy histopathology data.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1902/jop.2015.150212",
+    "rcs": 3,
+    "reasoning": "Systematic review/meta-analysis of lasers in periodontal surgical therapy focused on probing depth and attachment-level outcomes, not diode laser soft-tissue biopsy or its operating parameters.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-012-1081-8",
+    "rcs": 5,
+    "reasoning": "Title indicates ex vivo comparison of laser wavelengths (likely including diode) with thermal-increase measurement and histological evaluation, closely aligned with the query's parameter/histopathology focus, but abstract is unavailable to confirm details.",
+    "flag": "no_abstract_uncertain"
+  }
+]

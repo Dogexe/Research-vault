@@ -1,0 +1,62 @@
+[
+  {
+    "paper_id": "doi|10.1016/j.jdent.2025.105936",
+    "rcs": 5,
+    "reasoning": "Directly studies 810 nm diode (and 445 nm) laser power/exposure-time parameters and thermal effects on oral mucosa, but uses a gelatine tissue model, not a real biopsy specimen, and reports no histopathologic outcome.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-025-04419-6",
+    "rcs": 2,
+    "reasoning": "Er:YAG laser (not diode) used to treat erosive oral lichen planus vs. corticosteroid; a therapeutic RCT, not a biopsy/incision or operating-parameter study.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.14476/jomp.2025.50.4.139",
+    "rcs": 4,
+    "reasoning": "Diode laser ablation of oral leukoplakia is on-topic (diode, oral soft tissue) but is an ablation case report rather than a biopsy/incision-parameter study; abstract missing limits confidence.",
+    "flag": "no_abstract_uncertain"
+  },
+  {
+    "paper_id": "doi|10.1007/s41547-026-00350-3",
+    "rcs": 3,
+    "reasoning": "Case series on laser treatment of reactive oral mucosal lesions, laser type unspecified in title and abstract unavailable, so diode-specific relevance and operating parameters cannot be confirmed.",
+    "flag": "no_abstract_uncertain"
+  },
+  {
+    "paper_id": "doi|10.1007/s00405-026-10576-3",
+    "rcs": 1,
+    "reasoning": "445 nm laser overlaps a wavelength of interest but the application is surgery for chronic otitis media (ear), an unrelated anatomical site and clinical question with no abstract to confirm otherwise.",
+    "flag": "off_topic_despite_keywords"
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-009-0687-y",
+    "rcs": 2,
+    "reasoning": "Er:YAG laser (not diode) surgical management of bisphosphonate-related osteonecrosis of the jaw; different laser type and different clinical subarea from oral soft-tissue biopsy.",
+    "flag": "no_abstract_uncertain"
+  },
+  {
+    "paper_id": "pmid|15735548",
+    "rcs": 6,
+    "reasoning": "Retrospective study of 128 oral epulis excisions comparing CO2, Er:YAG, diode laser, and scalpel with histological follow-up on relapse/malignancy, directly relevant to laser-modality comparison and histopathologic outcomes though diode is only one of several devices compared.",
+    "flag": null
+  },
+  {
+    "paper_id": "pmid|19415059",
+    "rcs": 4,
+    "reasoning": "Compares scalpel vs. CO2 laser (not diode) for oral mucocele excision with histologic diagnosis and recurrence data; relevant methodology but wrong laser modality for the core diode query.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1111/j.1532-950x.2007.00234.x",
+    "rcs": 3,
+    "reasoning": "Compares biopsy techniques (including CO2 laser, not diode) by histologic thermal-damage margin in canine skin, not oral mucosa; conceptually related to laser-biopsy histopathology quality but wrong tissue, species, and laser type.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1089/pho.2008.2353",
+    "rcs": 6,
+    "reasoning": "RCT comparing conventional surgery vs. CO2 laser (not diode) for intraoral soft-tissue excisional biopsies, explicitly evaluating collateral thermal damage effect on histopathologic diagnosis, closely parallel in design/outcomes to the query though the laser is CO2 rather than diode.",
+    "flag": null
+  }
+]

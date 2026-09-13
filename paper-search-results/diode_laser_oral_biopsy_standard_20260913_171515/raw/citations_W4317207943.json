@@ -1,0 +1,4902 @@
+{
+  "references": [
+    {
+      "doi": "10.1046/j.1445-2197.2003.02748.x",
+      "arxiv_id": null,
+      "openalex_id": "W2017044005",
+      "ss_paper_id": null,
+      "pmid": "12956787",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Methodological index for non\u2010randomized studies ( MINORS ): development and validation of a new instrument",
+      "abstract": "BACKGROUND: Because of specific methodological difficulties in conducting randomized trials, surgical research remains dependent predominantly on observational or non-randomized studies. Few validated instruments are available to determine the methodological quality of such studies either from the reader's perspective or for the purpose of meta-analysis. The aim of the present study was to develop and validate such an instrument. METHODS: After an initial conceptualization phase of a methodological index for non-randomized studies (MINORS), a list of 12 potential items was sent to 100 experts from different surgical specialties for evaluation and was also assessed by 10 clinical methodologists. Subsequent testing involved the assessment of inter-reviewer agreement, test-retest reliability at 2 months, internal consistency reliability and external validity. RESULTS: The final version of MINORS contained 12 items, the first eight being specifically for non-comparative studies. Reliability was established on the basis of good inter-reviewer agreement, high test-retest reliability by the kappa-coefficient and good internal consistency by a high Cronbach's alpha-coefficient. External validity was established in terms of the ability of MINORS to identify excellent trials. CONCLUSIONS: MINORS is a valid instrument designed to assess the methodological quality of non-randomized surgical studies, whether comparative or non-comparative. The next step will be to determine its external validity when used in a large number of studies and to compare it with other existing instruments.",
+      "authors": [
+        {
+          "name": "K. Slim",
+          "orcid": "https://orcid.org/0000-0002-1527-4691",
+          "affiliation": "Centre Hospitalier Universitaire de Clermont-Ferrand",
+          "country": "FR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Emile Nini",
+          "orcid": null,
+          "affiliation": "Hotel Dieu Hospital",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Damien Forestier",
+          "orcid": null,
+          "affiliation": "Hotel Dieu Hospital",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Fabrice Kwiatkowski",
+          "orcid": "https://orcid.org/0000-0002-4041-3999",
+          "affiliation": "Centre Jean Perrin",
+          "country": "FR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yves Pan\u00eds",
+          "orcid": "https://orcid.org/0000-0001-9553-9727",
+          "affiliation": "H\u00f4pital Lariboisi\u00e8re",
+          "country": "FR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "J Chipponi",
+          "orcid": null,
+          "affiliation": "Hotel Dieu Hospital",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2003,
+      "venue": "ANZ Journal of Surgery",
+      "issn": "1445-1433",
+      "type": "article",
+      "citation_count": 7614,
+      "referenced_works_count": 15,
+      "fwci": 5.4472,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10206",
+          "name": "Meta-analysis and systematic reviews",
+          "score": 0.7257999777793884
+        },
+        {
+          "id": "T13309",
+          "name": "Reliability and Agreement in Measurement",
+          "score": 0.10610000044107437
+        },
+        {
+          "id": "T11700",
+          "name": "Hemodynamic Monitoring and Therapy",
+          "score": 0.010700000450015068
+        }
+      ],
+      "keywords": [
+        "Reliability (semiconductor)",
+        "Randomized controlled trial",
+        "Medicine",
+        "Observational study",
+        "Conceptualization",
+        "Internal validity",
+        "External validity",
+        "Cronbach's alpha",
+        "Test (biology)",
+        "Quality (philosophy)"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "score": 0.5199999809265137,
+          "display_name": "Quality Education"
+        }
+      ],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1046/j.1445-2197.2003.02748.x",
+      "openalex_url": "https://openalex.org/W2017044005",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1186/1471-2288-14-43",
+      "arxiv_id": null,
+      "openalex_id": "W2058571677",
+      "ss_paper_id": null,
+      "pmid": "24667063",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "SYRCLE\u2019s risk of bias tool for animal studies",
+      "abstract": "BACKGROUND: Systematic Reviews (SRs) of experimental animal studies are not yet common practice, but awareness of the merits of conducting such SRs is steadily increasing. As animal intervention studies differ from randomized clinical trials (RCT) in many aspects, the methodology for SRs of clinical trials needs to be adapted and optimized for animal intervention studies. The Cochrane Collaboration developed a Risk of Bias (RoB) tool to establish consistency and avoid discrepancies in assessing the methodological quality of RCTs. A similar initiative is warranted in the field of animal experimentation. METHODS: We provide an RoB tool for animal intervention studies (SYRCLE's RoB tool). This tool is based on the Cochrane RoB tool and has been adjusted for aspects of bias that play a specific role in animal intervention studies. To enhance transparency and applicability, we formulated signalling questions to facilitate judgment. RESULTS: The resulting RoB tool for animal studies contains 10 entries. These entries are related to selection bias, performance bias, detection bias, attrition bias, reporting bias and other biases. Half these items are in agreement with the items in the Cochrane RoB tool. Most of the variations between the two tools are due to differences in design between RCTs and animal studies. Shortcomings in, or unfamiliarity with, specific aspects of experimental design of animal studies compared to clinical studies also play a role. CONCLUSIONS: SYRCLE's RoB tool is an adapted version of the Cochrane RoB tool. Widespread adoption and implementation of this tool will facilitate and improve critical appraisal of evidence from animal studies. This may subsequently enhance the efficiency of translating animal research into clinical practice and increase awareness of the necessity of improving the methodological quality of animal studies.",
+      "authors": [
+        {
+          "name": "Carlijn R. Hooijmans",
+          "orcid": "https://orcid.org/0000-0001-6435-5714",
+          "affiliation": "Radboud University Nijmegen",
+          "country": "NL",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Maroeska M. Rovers",
+          "orcid": "https://orcid.org/0000-0002-3095-170X",
+          "affiliation": "Radboud University Nijmegen",
+          "country": "NL",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Rob BM de Vries",
+          "orcid": null,
+          "affiliation": "Radboud University Nijmegen",
+          "country": "NL",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Marlies Leenaars",
+          "orcid": "https://orcid.org/0000-0002-9855-708X",
+          "affiliation": "Radboud University Nijmegen",
+          "country": "NL",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Merel Ritskes\u2010Hoitinga",
+          "orcid": "https://orcid.org/0000-0001-5315-284X",
+          "affiliation": "Radboud University Nijmegen",
+          "country": "NL",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Miranda Langendam",
+          "orcid": "https://orcid.org/0000-0001-9038-3209",
+          "affiliation": "Amsterdam UMC Location University of Amsterdam",
+          "country": "NL",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2014,
+      "venue": "BMC Medical Research Methodology",
+      "issn": "1471-2288",
+      "type": "article",
+      "citation_count": 4320,
+      "referenced_works_count": 43,
+      "fwci": 60.1337,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T12281",
+          "name": "Animal testing and alternatives",
+          "score": 0.9397000074386597
+        },
+        {
+          "id": "T10206",
+          "name": "Meta-analysis and systematic reviews",
+          "score": 0.037300001829862595
+        },
+        {
+          "id": "T14072",
+          "name": "Immunotoxicology and immune responses",
+          "score": 0.0066999997943639755
+        }
+      ],
+      "keywords": [
+        "Critical appraisal",
+        "Publication bias",
+        "Animal testing",
+        "Medicine",
+        "Meta-analysis",
+        "Intervention (counseling)",
+        "Systematic review",
+        "Consistency (knowledge bases)",
+        "MEDLINE",
+        "Randomized controlled trial"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1186/1471-2288-14-43",
+      "openalex_url": "https://openalex.org/W2058571677",
+      "pdf_url": "https://bmcmedresmethodol.biomedcentral.com/counter/pdf/10.1186/1471-2288-14-43",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://bmcmedresmethodol.biomedcentral.com/counter/pdf/10.1186/1471-2288-14-43",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/4230647",
+        "http://hdl.handle.net/2066/133880"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1902/jop.1993.64.7.589",
+      "arxiv_id": null,
+      "openalex_id": "W2160831086",
+      "ss_paper_id": null,
+      "pmid": "8366410",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Current Status of Lasers in Soft Tissue Dental Surgery",
+      "abstract": "The aims of this paper are to briefly describe laser physics, the types of lasers currently available for use on soft tissues focusing primarily on CO2 and Nd:YAG laser energies, the histological effects of lasers on oral tissues, laser safety, the clinical applications of lasers on oral soft tissues, and future directions. Of the two types of lasers currently available for dental applications, both the CO2 and Nd:YAG lasers can be used for frenectomies, ablation of lesions, incisional and excisional biopsies, gingivectomies, gingivoplasties, soft tissue tuberosity reductions, operculum removal, coagulation of graft donor sites, and certain crown lengthening procedures. The advantages of lasers include a relatively bloodless surgical and post-surgical course, minimal swelling and scarring, coagulation, vaporization, and cutting, minimal or no suturing, reduction in surgical time, and, in a majority of cases, much less or no post-surgical pain. CO2 lasers, compared to Nd:YAG are faster for most procedures, with less depth of tissue penetration and a well-documented history. There have been recent reports on the use of the Nd:YAG laser for periodontal scaling, gingival curettage, and root desensitization, but further research needs to be conducted. Both the CO2 and the Nd:YAG laser have limited use in conventional flap therapy.",
+      "authors": [
+        {
+          "name": "Robert Pick",
+          "orcid": null,
+          "affiliation": "Northwestern University",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Michael D. Colvard",
+          "orcid": null,
+          "affiliation": "Loyola University Chicago",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 1993,
+      "venue": "Journal of Periodontology",
+      "issn": "0022-3492",
+      "type": "article",
+      "citation_count": 371,
+      "referenced_works_count": 36,
+      "fwci": 3.5576,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9994999766349792
+        },
+        {
+          "id": "T12625",
+          "name": "Sympathectomy and Hyperhidrosis Treatments",
+          "score": 0.9728999733924866
+        },
+        {
+          "id": "T11172",
+          "name": "Dermatologic Treatments and Research",
+          "score": 0.9660999774932861
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Dentistry",
+        "Soft tissue",
+        "Laser",
+        "Orthodontics",
+        "Surgery",
+        "Optics",
+        "Physics"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.4399999976158142,
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1902/jop.1993.64.7.589",
+      "openalex_url": "https://openalex.org/W2160831086",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1016/s1079-2104(96)80302-7",
+      "arxiv_id": null,
+      "openalex_id": "W2075106605",
+      "ss_paper_id": null,
+      "pmid": "8899775",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Effects of an erbium, chromium: yttrium, scandium, gallium, garnet laser on mucocutanous soft tissues",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Ioana Rizoiu",
+          "orcid": null,
+          "affiliation": "Center for Innovative Public Health Research",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Lewis R. Eversole",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Andrew I. Kimmel",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 1996,
+      "venue": "Oral Surgery Oral Medicine Oral Pathology Oral Radiology and Endodontology",
+      "issn": "1079-2104",
+      "type": "article",
+      "citation_count": 104,
+      "referenced_works_count": 32,
+      "fwci": 1.2707,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.4311999976634979
+        },
+        {
+          "id": "T11172",
+          "name": "Dermatologic Treatments and Research",
+          "score": 0.20999999344348907
+        },
+        {
+          "id": "T10771",
+          "name": "Wound Healing and Treatments",
+          "score": 0.06859999895095825
+        }
+      ],
+      "keywords": [
+        "Laser",
+        "Soft tissue",
+        "Scandium",
+        "Medicine",
+        "Yttrium",
+        "Surgery",
+        "Materials science",
+        "Surgical wound",
+        "Erbium",
+        "Biomedical engineering"
+      ],
+      "sdgs": [],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/s1079-2104(96)80302-7",
+      "openalex_url": "https://openalex.org/W2075106605",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.4317/medoral.15.e912",
+      "arxiv_id": null,
+      "openalex_id": "W2143436678",
+      "ss_paper_id": null,
+      "pmid": "20526250",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Histologic evaluation of thermal damage produced on soft tissues by CO2, Er,Cr:YSGG and diode lasers",
+      "abstract": "OBJECTIVE: The aim of this in vitro experimental study was to perform histological evaluation of the thermal effect produced on soft tissue irradiated with CO2, Er,Cr:YSGG or diode lasers. STUDY DESIGN: Porcine oral mucosa samples were irradiated with Er,Cr:YSGG laser at 1 W with and without water / air spray, at 2 W with and without water / air spray, and at 4 W with water / air spray, with CO2 laser at 1 W, 2 W, 10 W, 20 W continuous mode and 20 W pulsed mode and diode laser at 2 W, 5 W, and 10 W pulsed mode. The thermal effect was evaluated measuring the width of damaged tissue adjacent to the incision, stained positively for hyalinized tissue with Hematoxylin-Eosin and Masson Trichrome stains. Besides, histological changes in the irradiated tissue were described using subjective grading scales. RESULTS: The evaluated lasers developed a wide range of thermal damage with significant differences between groups. The samples with lowest thermal effect were those irradiated with Er,Cr:YSGG laser using water / air spray, followed by CO2 and diode lasers. CONCLUSIONS: Emission parameters of each laser system may influence the thermal damage inflicted on the soft tissue, however, the wave length of each laser determines the absorption rate characteristics of every tissue and the thermal effect.",
+      "authors": [
+        {
+          "name": "I\u00f1aki Cercadillo-Ibarguren",
+          "orcid": null,
+          "affiliation": "Institut d'Investigaci\u00f3 Biom\u00e9dica de Bellvitge",
+          "country": "ES",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Antonio Jes\u00fas Espa\u00f1a-Tost",
+          "orcid": null,
+          "affiliation": "Institut d'Investigaci\u00f3 Biom\u00e9dica de Bellvitge",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Josep Arnabat\u2010Dom\u00ednguez",
+          "orcid": "https://orcid.org/0000-0003-1653-8043",
+          "affiliation": "Institut d'Investigaci\u00f3 Biom\u00e9dica de Bellvitge",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Eduard Valmaseda\u2010Castell\u00f3n",
+          "orcid": "https://orcid.org/0000-0001-9669-3187",
+          "affiliation": "Institut d'Investigaci\u00f3 Biom\u00e9dica de Bellvitge",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Leonardo Berini\u2010Ayt\u00e9s",
+          "orcid": null,
+          "affiliation": "Institut d'Investigaci\u00f3 Biom\u00e9dica de Bellvitge",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Cosme Gay\u2010Escoda",
+          "orcid": "https://orcid.org/0000-0002-6812-024X",
+          "affiliation": "Institut d'Investigaci\u00f3 Biom\u00e9dica de Bellvitge",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2010,
+      "venue": "Medicina oral, patolog\u00eda oral y cirug\u00eda bucal",
+      "issn": "1698-4447",
+      "type": "article",
+      "citation_count": 97,
+      "referenced_works_count": 24,
+      "fwci": 3.9882,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9657999873161316
+        },
+        {
+          "id": "T11172",
+          "name": "Dermatologic Treatments and Research",
+          "score": 0.025599999353289604
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.001500000013038516
+        }
+      ],
+      "keywords": [
+        "Laser",
+        "Irradiation",
+        "Materials science",
+        "Diode",
+        "Soft tissue",
+        "Optics",
+        "Biomedical engineering",
+        "Optoelectronics",
+        "Pathology",
+        "Medicine"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7400000095367432,
+          "display_name": "Clean water and sanitation"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.4317/medoral.15.e912",
+      "openalex_url": "https://openalex.org/W2143436678",
+      "pdf_url": "https://doi.org/10.4317/medoral.15.e912",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.4317/medoral.15.e912",
+        "http://hdl.handle.net/10550/60231"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1007/s10103-010-0770-4",
+      "arxiv_id": null,
+      "openalex_id": "W2083801390",
+      "ss_paper_id": null,
+      "pmid": "20393771",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Nd:YAG laser versus traditional scalpel. A preliminary histological analysis of specimens from the human oral mucosa",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Paolo Vescovi",
+          "orcid": null,
+          "affiliation": "University of Parma",
+          "country": "IT",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Luigi Corcione",
+          "orcid": "https://orcid.org/0000-0001-5709-7278",
+          "affiliation": "Ospedale di Parma",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Marco Meleti",
+          "orcid": "https://orcid.org/0000-0002-9111-3224",
+          "affiliation": "University of Parma",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Elisabetta Merigo",
+          "orcid": "https://orcid.org/0000-0002-7437-8511",
+          "affiliation": "University of Parma",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Carlo Fornaini",
+          "orcid": "https://orcid.org/0000-0001-7566-060X",
+          "affiliation": "University of Parma",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Maddalena Manfredi",
+          "orcid": "https://orcid.org/0000-0001-7827-806X",
+          "affiliation": "University of Parma",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mauro Bonanini",
+          "orcid": null,
+          "affiliation": "University of Parma",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Paolo Govoni",
+          "orcid": "https://orcid.org/0000-0002-7596-6251",
+          "affiliation": "University of Parma",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jean\u2010Paul Rocca",
+          "orcid": "https://orcid.org/0000-0002-8551-5649",
+          "affiliation": "H\u00f4pital Saint Roch",
+          "country": "FR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Samir Nammour",
+          "orcid": "https://orcid.org/0000-0003-0321-9764",
+          "affiliation": "University of Li\u00e8ge",
+          "country": "BE",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2010,
+      "venue": "Lasers in Medical Science",
+      "issn": "0268-8921",
+      "type": "article",
+      "citation_count": 84,
+      "referenced_works_count": 24,
+      "fwci": 2.5779,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9991000294685364
+        },
+        {
+          "id": "T11787",
+          "name": "Oral and Maxillofacial Pathology",
+          "score": 0.9617999792098999
+        }
+      ],
+      "keywords": [
+        "Oral mucosa",
+        "Mouth mucosa",
+        "Medicine",
+        "Pathology",
+        "Dentistry"
+      ],
+      "sdgs": [],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1007/s10103-010-0770-4",
+      "openalex_url": "https://openalex.org/W2083801390",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1007/s10103-011-0900-7",
+      "arxiv_id": null,
+      "openalex_id": "W2055995683",
+      "ss_paper_id": null,
+      "pmid": "21387158",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Diode laser (808 nm) applied to oral soft tissue lesions: a retrospective study to assess histopathological diagnosis and evaluate physical damage",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Francesca Angiero",
+          "orcid": "https://orcid.org/0000-0002-8829-5602",
+          "affiliation": "University of Milano-Bicocca",
+          "country": "IT",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Luisa Parma",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Rolando Crippa",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Stefano Benedicenti",
+          "orcid": "https://orcid.org/0000-0003-1302-3079",
+          "affiliation": "University of Genoa",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2011,
+      "venue": "Lasers in Medical Science",
+      "issn": "0268-8921",
+      "type": "article",
+      "citation_count": 79,
+      "referenced_works_count": 23,
+      "fwci": 3.0644,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11787",
+          "name": "Oral and Maxillofacial Pathology",
+          "score": 0.9988999962806702
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9980999827384949
+        },
+        {
+          "id": "T11035",
+          "name": "Salivary Gland Tumors Diagnosis and Treatment",
+          "score": 0.9941999912261963
+        }
+      ],
+      "keywords": [
+        "Soft tissue",
+        "Tongue",
+        "Medicine",
+        "Pathology",
+        "Cheek",
+        "Laser",
+        "Connective tissue",
+        "Stromal cell",
+        "Buccal administration",
+        "Materials science"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.4000000059604645,
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1007/s10103-011-0900-7",
+      "openalex_url": "https://openalex.org/W2055995683",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": null,
+      "arxiv_id": null,
+      "openalex_id": "W48124687",
+      "ss_paper_id": null,
+      "pmid": "22889502",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Oral soft-tissue biopsy: an overview.",
+      "abstract": "Proper management of an oral mucosal lesion begins with diagnosis, and the gold standard for diagnosing disease, oral or otherwise, is tissue biopsy. The oral environment, which is moist and confined, poses challenges for collecting a viable tissue sample that will be suitable for diagnosis. These challenges are further compounded by the myriad of biopsy techniques and devices now available. In addition, certain oral subsites are subject to diagnostic pitfalls that necessitate modifications of technique. This article provides an overview of the oral soft-tissue biopsy and highlights some potential pitfalls.",
+      "authors": [
+        {
+          "name": "Sylvie-Louise Avon",
+          "orcid": null,
+          "affiliation": "Sunnybrook Health Science Centre",
+          "country": "CA",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hagen Klieb",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2012,
+      "venue": "PubMed",
+      "issn": null,
+      "type": "article",
+      "citation_count": 58,
+      "referenced_works_count": 7,
+      "fwci": 1.2767,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11452",
+          "name": "Oral Health Pathology and Treatment",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T11787",
+          "name": "Oral and Maxillofacial Pathology",
+          "score": 0.9994999766349792
+        },
+        {
+          "id": "T13768",
+          "name": "Oral and gingival health research",
+          "score": 0.9987999796867371
+        }
+      ],
+      "keywords": [
+        "Biopsy",
+        "Soft tissue",
+        "Gold standard (test)",
+        "Medicine",
+        "Tissue sample",
+        "Radiology",
+        "Pathology",
+        "Biomedical engineering"
+      ],
+      "sdgs": [],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": null,
+      "openalex_url": "https://openalex.org/W48124687",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1007/s10103-010-0756-2",
+      "arxiv_id": null,
+      "openalex_id": "W1971404320",
+      "ss_paper_id": null,
+      "pmid": "20162316",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Effects of KTP laser on oral soft tissues. An in vitro study",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Umberto Romeo",
+          "orcid": "https://orcid.org/0000-0003-2439-2187",
+          "affiliation": "Policlinico Umberto I",
+          "country": "IT",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Gaspare Palaia",
+          "orcid": "https://orcid.org/0000-0001-8509-2255",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Alessandro Del Vecchio",
+          "orcid": "https://orcid.org/0000-0002-9278-8872",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gianluca Tenore",
+          "orcid": "https://orcid.org/0000-0001-9963-8052",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gianluca Gambarini",
+          "orcid": null,
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Norbert Gutknecht",
+          "orcid": "https://orcid.org/0000-0001-7299-7856",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Massimo De Luca",
+          "orcid": null,
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2010,
+      "venue": "Lasers in Medical Science",
+      "issn": "0268-8921",
+      "type": "article",
+      "citation_count": 42,
+      "referenced_works_count": 19,
+      "fwci": 3.0787,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9998000264167786
+        },
+        {
+          "id": "T11172",
+          "name": "Dermatologic Treatments and Research",
+          "score": 0.9952999949455261
+        },
+        {
+          "id": "T11787",
+          "name": "Oral and Maxillofacial Pathology",
+          "score": 0.9916999936103821
+        }
+      ],
+      "keywords": [
+        "Biopsy",
+        "Medicine",
+        "Soft tissue",
+        "Lesion",
+        "Laser",
+        "Cadaver",
+        "Pathology",
+        "Surgery",
+        "Potassium titanyl phosphate",
+        "Biomedical engineering"
+      ],
+      "sdgs": [],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1007/s10103-010-0756-2",
+      "openalex_url": "https://openalex.org/W1971404320",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1007/s10103-011-0969-z",
+      "arxiv_id": null,
+      "openalex_id": "W2070006080",
+      "ss_paper_id": null,
+      "pmid": "21796423",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Histological in vitro evaluation of the effects of Er:YAG laser on oral soft tissues",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Umberto Romeo",
+          "orcid": "https://orcid.org/0000-0003-2439-2187",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Fabrizio Libotte",
+          "orcid": null,
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gaspare Palaia",
+          "orcid": "https://orcid.org/0000-0001-8509-2255",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Alessandro Del Vecchio",
+          "orcid": "https://orcid.org/0000-0002-9278-8872",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gianluca Tenore",
+          "orcid": "https://orcid.org/0000-0001-9963-8052",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Paolo Visca",
+          "orcid": "https://orcid.org/0000-0001-8484-6991",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Samir Nammour",
+          "orcid": "https://orcid.org/0000-0003-0321-9764",
+          "affiliation": "University of Li\u00e8ge",
+          "country": "BE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Antonella Polimeni",
+          "orcid": "https://orcid.org/0000-0002-2679-7607",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2011,
+      "venue": "Lasers in Medical Science",
+      "issn": "0268-8921",
+      "type": "article",
+      "citation_count": 41,
+      "referenced_works_count": 20,
+      "fwci": 2.1833,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 1.0
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.9916999936103821
+        },
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.9828000068664551
+        }
+      ],
+      "keywords": [
+        "Laser",
+        "Biopsy",
+        "Medicine",
+        "Soft tissue",
+        "Tongue",
+        "Oral mucosa",
+        "Er:YAG laser",
+        "Laser surgery",
+        "Pathology",
+        "Histology"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.6899999976158142,
+          "display_name": "Clean water and sanitation"
+        }
+      ],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1007/s10103-011-0969-z",
+      "openalex_url": "https://openalex.org/W2070006080",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1016/0030-4220(90)90397-b",
+      "arxiv_id": null,
+      "openalex_id": "W2029719247",
+      "ss_paper_id": null,
+      "pmid": "2234875",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Histologic evaluation of the width of soft tissue necrosis adjacent to carbon dioxide laser incisions",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "M. Anthony Pogrel",
+          "orcid": "https://orcid.org/0000-0002-4304-5917",
+          "affiliation": "University of California, San Francisco",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "K. J. McCracken",
+          "orcid": null,
+          "affiliation": "University of California, San Francisco",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "T. E. Daniels",
+          "orcid": null,
+          "affiliation": "University of California, San Francisco",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 1990,
+      "venue": "Oral Surgery Oral Medicine Oral Pathology",
+      "issn": "0030-4220",
+      "type": "article",
+      "citation_count": 66,
+      "referenced_works_count": 22,
+      "fwci": 1.4137,
+      "cited_by_percentile_year": 98,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T11172",
+          "name": "Dermatologic Treatments and Research",
+          "score": 0.9922000169754028
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.9757000207901001
+        }
+      ],
+      "keywords": [
+        "Connective tissue",
+        "Necrosis",
+        "Carbon dioxide laser",
+        "Muscle tissue",
+        "Pathology",
+        "Biopsy",
+        "Epithelium",
+        "Tissue necrosis",
+        "Materials science",
+        "Soft tissue"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.6600000262260437,
+          "display_name": "Clean water and sanitation"
+        }
+      ],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/0030-4220(90)90397-b",
+      "openalex_url": "https://openalex.org/W2029719247",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1155/2014/761704",
+      "arxiv_id": null,
+      "openalex_id": "W1975188668",
+      "ss_paper_id": null,
+      "pmid": "25405233",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Biopsy of Different Oral Soft Tissues Lesions by KTP and Diode Laser: Histological Evaluation",
+      "abstract": "INTRODUCTION: Oral biopsy aims to obtain clear and safe diagnosis; it can be performed by scalpel or laser. The controversy in this latter application is the thermal alteration due to tissue heating. The aim of this study is the histological evaluation of margins of \"in vivo\" biopsies collected by diode and KTP lasers. MATERIAL AND METHODS: 17 oral benign lesions biopsies were made by diode 808 nm (SOL, DenMatItalia, Italy) and KTP 532 nm (SmartLite, DEKA, Italy). Samples were observed at OM LEICA DM 2000; margin alterations were evaluated through Leica Application Suite 3.4. RESULTS: Epithelial and connective damages were assessed for each pathology with an average of 0.245 mm and a standard deviation of \u00b1 0.162 mm in mucoceles, 0.382 mm \u00b1 0.149 mm in fibromas, 0.336 mm \u00b1 0.106 mm in hyperkeratosis, 0.473 mm \u00b1 0.105 mm in squamous hyperplasia, 0.182 mm in giant cell granuloma, and 0.149 mm in melanotic macula. DISCUSSION: The histologic aspect of lesions influenced the response to laser, whereas the greater inflammation and cellularity were linked with the higher thermal signs. Many artifacts were also associated to histologic procedures. CONCLUSION: Both tested lasers permitted sure histologic diagnosis. However, it is suggested to enlarge biopsies of about 0.5 mm, to avoid thermal alterations, especially in inflammatory lesions like oral lichen planus.",
+      "authors": [
+        {
+          "name": "Umberto Romeo",
+          "orcid": "https://orcid.org/0000-0003-2439-2187",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "C. Russo",
+          "orcid": null,
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gaspare Palaia",
+          "orcid": "https://orcid.org/0000-0001-8509-2255",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Rossella Lo Giudice",
+          "orcid": null,
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Alessandro Del Vecchio",
+          "orcid": "https://orcid.org/0000-0002-9278-8872",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Paolo Visca",
+          "orcid": "https://orcid.org/0000-0001-8484-6991",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Guido Migliau",
+          "orcid": null,
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Alberto De Biase",
+          "orcid": "https://orcid.org/0000-0002-8475-463X",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2014,
+      "venue": "The Scientific World JOURNAL",
+      "issn": "1537-744X",
+      "type": "article",
+      "citation_count": 37,
+      "referenced_works_count": 18,
+      "fwci": 1.7262,
+      "cited_by_percentile_year": 98,
+      "topics": [
+        {
+          "id": "T11452",
+          "name": "Oral Health Pathology and Treatment",
+          "score": 0.7008000016212463
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.18140000104904175
+        },
+        {
+          "id": "T11787",
+          "name": "Oral and Maxillofacial Pathology",
+          "score": 0.02710000053048134
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Biopsy",
+        "Oral lichen planus",
+        "Pathology",
+        "Pyogenic granuloma",
+        "Histology",
+        "Hyperkeratosis",
+        "Oral and maxillofacial pathology",
+        "Connective tissue",
+        "Hyperplasia"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1155/2014/761704",
+      "openalex_url": "https://openalex.org/W1975188668",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/2014/761704",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/2014/761704",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/4227390",
+        "http://hdl.handle.net/11573/619379"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1089/pho.2007.2217",
+      "arxiv_id": null,
+      "openalex_id": "W2038332557",
+      "ss_paper_id": null,
+      "pmid": "19025408",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Histological Evaluation of Artifacts in Tongue Tissue Produced by the CO 2 Laser and the Electrotome",
+      "abstract": "OBJECTIVE: The purpose of this study was to investigate the clinical usefulness of laser surgery in pathologic diagnosis following excisional biopsy of human oral mucosa by CO(2) laser and electrotome. BACKGROUND DATA: When performing pathologic diagnosis and microscopic analysis of specimens excised by the CO(2) laser, there have been concerns about thermal denaturation of the excisional margin that may prevent diagnosis. MATERIALS AND METHODS: Thirty tongue tissue samples from humans that were surgically resected using a CO(2) laser (continuous wave mode for 10 cases and pulse wave mode for 10 cases) and an electrotome (10 cases) were formalin-fixed and paraffin-embedded. These preserved specimens were then cut into thick sections and subjected to hematoxylin and eosin staining followed by microscopic assessment. RESULTS: Despite the differences between the CO(2) laser and electrotome methods, similar thermal denaturation, such as carbonization, vacuolar degeneration, and elongation of nuclei, were observed at the excisional margins for both methods. Use of the CO(2) laser, particularly in pulse wave mode, reduced the amount of thermal denaturation significantly (p < 0.01) compared to the electrotome. CONCLUSION: These results indicate that the CO(2) laser is better than the electrotome as a means of making excisions for performing pathologic diagnosis.",
+      "authors": [
+        {
+          "name": "Kousuke Matsumoto",
+          "orcid": "https://orcid.org/0000-0002-0446-780X",
+          "affiliation": "Kobe University",
+          "country": "JP",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hiroaki Suzuki",
+          "orcid": "https://orcid.org/0000-0002-0069-7958",
+          "affiliation": "Kobe University",
+          "country": "JP",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yu Usami",
+          "orcid": null,
+          "affiliation": "Kobe University",
+          "country": "JP",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Maki Hattori",
+          "orcid": null,
+          "affiliation": "Kobe University",
+          "country": "JP",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Takahide Komori",
+          "orcid": null,
+          "affiliation": "Kobe University",
+          "country": "JP",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2008,
+      "venue": "Photomedicine and Laser Surgery",
+      "issn": "1549-5418",
+      "type": "article",
+      "citation_count": 36,
+      "referenced_works_count": 25,
+      "fwci": 1.6401,
+      "cited_by_percentile_year": 98,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.6171000003814697
+        },
+        {
+          "id": "T11452",
+          "name": "Oral Health Pathology and Treatment",
+          "score": 0.0794999971985817
+        },
+        {
+          "id": "T11172",
+          "name": "Dermatologic Treatments and Research",
+          "score": 0.0406000018119812
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Tongue",
+        "Biopsy",
+        "H&E stain",
+        "Pathology",
+        "Laser surgery",
+        "Laser",
+        "Staining",
+        "Optics"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.46000000834465027,
+          "display_name": "Life below water"
+        }
+      ],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1089/pho.2007.2217",
+      "openalex_url": "https://openalex.org/W2038332557",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.5005/jp-journals-10024-1933",
+      "arxiv_id": null,
+      "openalex_id": "W2546509912",
+      "ss_paper_id": null,
+      "pmid": "27794148",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "450 nm Blue Laser and Oral Surgery: Preliminary ex vivo Study",
+      "abstract": "INTRODUCTION: Dental diode lasers were started to be used at the end of the 1990s and were shown to possess several important characteristics, such as small size and low cost, as well as the advantage of optic fibers delivering system. Although only two wavelengths (810 and 980 nm) had been the most used dental diode lasers, a wavelength emitting in the blue portion of the spectrum has recently been proposed. AIM: The aim of this ex vivo study was to compare the effectiveness of five different fiber-delivered laser wavelengths (450, 532, 808, 1064, and 1340 nm) in the oral soft tissue ablation. MATERIALS AND METHODS: Specimens were surgically collected from the dorsal surface of four bovine tongues and, while deep thermal increase was measured by two thermocouples at 0.5 and 2 mm depth, surface temperature was recorded by an infrared thermometer. Subsequently, specimens were fixed in 10% buffered formalin solution, cut into slices, and embedded in paraffin blocks, and a pathologist made a morphological analysis by optic microscope assigning a score based on the quality of the cut and tissue damage. RESULTS: The analysis showed the best quality of the cut and the lowest temperature increase on the specimens obtained with the shortest laser wavelength (450 nm). CONCLUSION: Even considering this as preliminary study, the use of 450 nm blue diode laser in oral surgery may be suggested to the clinician in their daily practice. CLINICAL SIGNIFICANCE: This study opens a new perspective in oral surgery. Blue diode laser has demonstrated a good quality of the cut with a low energy causing a minimal thermal damage to the tissue, promising a better comfort to patients.",
+      "authors": [
+        {
+          "name": "Carlo Fornaini",
+          "orcid": "https://orcid.org/0000-0001-7566-060X",
+          "affiliation": "University of Parma",
+          "country": "IT",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Elisabetta Merigo",
+          "orcid": "https://orcid.org/0000-0002-7437-8511",
+          "affiliation": "Universit\u00e9 C\u00f4te d'Azur",
+          "country": "FR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jean\u2010Paul Rocca",
+          "orcid": "https://orcid.org/0000-0002-8551-5649",
+          "affiliation": "Universit\u00e9 C\u00f4te d'Azur",
+          "country": "FR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Giuseppe Lagori",
+          "orcid": null,
+          "affiliation": "Universit\u00e9 C\u00f4te d'Azur",
+          "country": "FR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "H\u00e9l\u00e8ne Raybaud",
+          "orcid": "https://orcid.org/0000-0002-8623-3416",
+          "affiliation": "Universit\u00e9 C\u00f4te d'Azur",
+          "country": "FR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Stefano Selleri",
+          "orcid": "https://orcid.org/0000-0001-8026-0846",
+          "affiliation": "University of Parma",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Annamaria Cucinotta",
+          "orcid": "https://orcid.org/0000-0003-1922-0559",
+          "affiliation": "University of Parma",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2016,
+      "venue": "The Journal of Contemporary Dental Practice",
+      "issn": "1526-3711",
+      "type": "article",
+      "citation_count": 32,
+      "referenced_works_count": 40,
+      "fwci": 1.8532,
+      "cited_by_percentile_year": 98,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9606000185012817
+        },
+        {
+          "id": "T10957",
+          "name": "Photodynamic Therapy Research Studies",
+          "score": 0.00989999994635582
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.004600000102072954
+        }
+      ],
+      "keywords": [
+        "Laser",
+        "Materials science",
+        "Ex vivo",
+        "Thermometer",
+        "Diode",
+        "Wavelength",
+        "Biomedical engineering",
+        "Ablation",
+        "Optical fiber",
+        "Oral surgery"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.49000000953674316,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.5005/jp-journals-10024-1933",
+      "openalex_url": "https://openalex.org/W2546509912",
+      "pdf_url": "https://doi.org/10.5005/jp-journals-10024-1933",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.5005/jp-journals-10024-1933"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.4317/jced.52830",
+      "arxiv_id": null,
+      "openalex_id": "W2473598415",
+      "ss_paper_id": null,
+      "pmid": "27703606",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "In vitro histological evaluation of the surgical margins made by different laser wavelengths in tongue tissues",
+      "abstract": "Background: Lasers have become standard tools for the surgical treatment of oral lesions.The purpose of this study is to determine the surgical margins and histologically evaluate the tissue thermal effects induced by different types of surgical instruments.Material and Methods: Cuts were made in pork tongues' mucosa with different lasers (Er:YAG at 2W with and without air / water spray and at 4W with and without air / water spray; CO 2 at 3.5W and 7W in pulsed mode and at 7W in continuous mode; the diode laser at 3.5W and boost 3.5W in pulsed mode; Nd:YAG at 6W, 40Hz and electroscalpel at 5W and conventional scalpel as control.Macroscopic and microscopic morphological changes were evaluated.Results: The results of this study showed that the surgical instruments that caused greater tissue damage extension were: the Nd:YAG laser (670.68\u03bcm), the diode 3.5W and boost PW (626.82\u03bcm), the CO 2 7W CW (571.18\u03bcm), the CO 2 at 7W PW (485.45\u03bcm), the diode 3.5W PW (456.15\u03bcm), the electroscalpel (409.57\u03bcm) and lastly the CO 2 laser 3.5W PW (306.19\u03bcm) and Er:YAG (74.66\u03bcm) laser, regardless of power, mode or air / water spray used.An association between the Tissue Damage Extension and the Degree of Carbonization (r = 0.789; P = 0.01), and an association between the Tissue Damage Extension and Regularity of the Incision were found (r = -, 299; P = 0.01).Conclusions: The results of this study suggest that lasers can be used in soft tissues biopsies of the oral cavity, enabling a correct histopathological analysis, as long as the biological effects of each laser type are considered.The Er:YAG laser revealed its potential for biopsies of the oral mucosa ensuring a successful histological evaluation and the CO 2 laser at 3,5W in pulsed mode presented itself as the best choice for surgeries with hemostasis.",
+      "authors": [
+        {
+          "name": "AS Azevedo",
+          "orcid": null,
+          "affiliation": "Hospital de S\u00e3o Jo\u00e3o",
+          "country": "PT",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Lu\u0131\u0301s Monteiro",
+          "orcid": "https://orcid.org/0000-0002-8938-1297",
+          "affiliation": "Hospital de S\u00e3o Jo\u00e3o",
+          "country": "PT",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Fernando Ferreira",
+          "orcid": "https://orcid.org/0000-0001-5765-576X",
+          "affiliation": "University of Parma",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Leonor Delgado",
+          "orcid": "https://orcid.org/0000-0002-4405-0240",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Fernanda Garces",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "SN Carreira",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "M Martins",
+          "orcid": "https://orcid.org/0000-0003-2850-2558",
+          "affiliation": "Hospital de S\u00e3o Jo\u00e3o",
+          "country": "PT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "J. A. Su\u00e1rez-Quintanilla",
+          "orcid": null,
+          "affiliation": "Universidade de Santiago de Compostela",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2016,
+      "venue": "Journal of Clinical and Experimental Dentistry",
+      "issn": "1989-5488",
+      "type": "article",
+      "citation_count": 27,
+      "referenced_works_count": 32,
+      "fwci": 2.118,
+      "cited_by_percentile_year": 98,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 1.0
+        },
+        {
+          "id": "T11172",
+          "name": "Dermatologic Treatments and Research",
+          "score": 0.9836000204086304
+        },
+        {
+          "id": "T13543",
+          "name": "Oropharyngeal Anatomy and Pathologies",
+          "score": 0.9689000248908997
+        }
+      ],
+      "keywords": [
+        "Laser",
+        "Materials science",
+        "Diode",
+        "Soft tissue",
+        "Biomedical engineering",
+        "Tongue",
+        "Oral cavity",
+        "Optics",
+        "Medicine",
+        "Optoelectronics"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.6499999761581421,
+          "display_name": "Clean water and sanitation"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.4317/jced.52830",
+      "openalex_url": "https://openalex.org/W2473598415",
+      "pdf_url": "https://doi.org/10.4317/jced.52830",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.4317/jced.52830",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/5045685",
+        "http://hdl.handle.net/10550/57529"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1016/j.ijom.2010.04.046",
+      "arxiv_id": null,
+      "openalex_id": "W2045247718",
+      "ss_paper_id": null,
+      "pmid": "20627661",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Pseudodysplastic epithelial artefacts associated with oral mucosa CO2 laser excision: an assessment of margin status",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "J. Seoane",
+          "orcid": null,
+          "affiliation": "Universidade de Santiago de Compostela",
+          "country": "ES",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "T.G. Caballero",
+          "orcid": null,
+          "affiliation": "Universidade de Santiago de Compostela",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jos\u00e9 Manuel Aguirre Ur\u00edzar",
+          "orcid": "https://orcid.org/0000-0001-7822-0968",
+          "affiliation": "University of the Basque Country",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "M. Almagro",
+          "orcid": null,
+          "affiliation": "Universidade da Coru\u00f1a",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "A.G. Mosquera",
+          "orcid": null,
+          "affiliation": "Universidade de Santiago de Compostela",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "P. Varela\u2010Centelles",
+          "orcid": "https://orcid.org/0000-0001-7911-5190",
+          "affiliation": "Universidade de Santiago de Compostela",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2010,
+      "venue": "International Journal of Oral and Maxillofacial Surgery",
+      "issn": "0901-5027",
+      "type": "article",
+      "citation_count": 28,
+      "referenced_works_count": 33,
+      "fwci": 1.6996,
+      "cited_by_percentile_year": 97,
+      "topics": [
+        {
+          "id": "T11452",
+          "name": "Oral Health Pathology and Treatment",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T11868",
+          "name": "Cancer and Skin Lesions",
+          "score": 0.9970999956130981
+        },
+        {
+          "id": "T11787",
+          "name": "Oral and Maxillofacial Pathology",
+          "score": 0.9959999918937683
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Biopsy",
+        "Laser",
+        "Basal (medicine)",
+        "Dysplasia",
+        "Atypia",
+        "Pathology",
+        "Epithelium",
+        "Nuclear atypia",
+        "Intraepithelial neoplasia"
+      ],
+      "sdgs": [],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/j.ijom.2010.04.046",
+      "openalex_url": "https://openalex.org/W2045247718",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1155/2014/345685",
+      "arxiv_id": null,
+      "openalex_id": "W2024818572",
+      "ss_paper_id": null,
+      "pmid": "24719574",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Histological Ex Vivo Evaluation of Peri-Incisional Thermal Effect Created by a New-Generation CO2Superpulsed Laser",
+      "abstract": "The purpose of this study is the evaluation of the histological effects of a new-generation superpulsed CO2 laser through an \"ex vivo\" study. A CO2 ( \u03bb = 10,600 nm) ultra-speed laser (SmartUS20D, DEKA, Florence, Italy) has been used at different parameters from 2 to 4 watt in Continuous Wave (CW) and Pulsed Wave (PW, 50 Hz) to obtain 30 samples from pig cadaver tongues. All the specimens have been subdivided into 6 groups (from A to F) and each group consisted of 5 samples. A final specimen has been taken by scalpel and used as control group. Histological analysis has been performed using an optical microscope (Leica DM 2000) at a magnification of \u00d7 40. Results showed that histological readability was optimal in all the samples. The thermal damage has been negligible in all the groups. Furthermore, the average of thermal damage was 0,095 mm in the epithelial, while it was 0.245 mm in the connective tissue. Statistical analysis using Graphpad Prism 5 software showed no significant differences among the groups. CO2 laser demonstrated a good surgical effectiveness provoking little peripheral damage onto the cut edges and allowing a safe histological diagnosis.",
+      "authors": [
+        {
+          "name": "Gaspare Palaia",
+          "orcid": "https://orcid.org/0000-0001-8509-2255",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Alessandro Del Vecchio",
+          "orcid": "https://orcid.org/0000-0002-9278-8872",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Alessandra Impellizzeri",
+          "orcid": "https://orcid.org/0000-0002-0660-4062",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gianluca Tenore",
+          "orcid": "https://orcid.org/0000-0001-9963-8052",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Paolo Visca",
+          "orcid": "https://orcid.org/0000-0001-8484-6991",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Fabrizio Libotte",
+          "orcid": null,
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "C. Russo",
+          "orcid": null,
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Umberto Romeo",
+          "orcid": "https://orcid.org/0000-0003-2439-2187",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2014,
+      "venue": "The Scientific World JOURNAL",
+      "issn": "1537-744X",
+      "type": "article",
+      "citation_count": 23,
+      "referenced_works_count": 17,
+      "fwci": 0.99,
+      "cited_by_percentile_year": 97,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9997000098228455
+        },
+        {
+          "id": "T11172",
+          "name": "Dermatologic Treatments and Research",
+          "score": 0.9584000110626221
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.9559000134468079
+        }
+      ],
+      "keywords": [
+        "Ex vivo",
+        "Magnification",
+        "Laser",
+        "Biomedical engineering",
+        "Materials science",
+        "Microscope",
+        "Medicine",
+        "Continuous wave",
+        "Cadaver",
+        "In vivo"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1155/2014/345685",
+      "openalex_url": "https://openalex.org/W2024818572",
+      "pdf_url": "https://downloads.hindawi.com/journals/tswj/2014/345685.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://downloads.hindawi.com/journals/tswj/2014/345685.pdf",
+        "https://www.hindawi.com/journals/tswj/2014/345685/",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/3956520",
+        "https://doaj.org/article/1ea023a8b6bb4d979a89d96b06d0d14f"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1016/j.joms.2012.01.023",
+      "arxiv_id": null,
+      "openalex_id": "W2050839424",
+      "ss_paper_id": null,
+      "pmid": "22542332",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Does a Pulsed Mode Offer Advantages Over a Continuous Wave Mode for Excisional Biopsies Performed Using a Carbon Dioxide Laser?",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Val\u00e9rie G. A. Suter",
+          "orcid": "https://orcid.org/0000-0003-3206-5266",
+          "affiliation": "University of Bern",
+          "country": "CH",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hans J\u00f6rg Altermatt",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Thomas Dietrich",
+          "orcid": "https://orcid.org/0000-0002-2557-7645",
+          "affiliation": "Boston University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Peter A. Reichart",
+          "orcid": null,
+          "affiliation": "University of Bern",
+          "country": "CH",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Michael M. Bornstein",
+          "orcid": "https://orcid.org/0000-0002-7773-8957",
+          "affiliation": "University of Bern",
+          "country": "CH",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2012,
+      "venue": "Journal of Oral and Maxillofacial Surgery",
+      "issn": "0278-2391",
+      "type": "article",
+      "citation_count": 14,
+      "referenced_works_count": 37,
+      "fwci": 1.3947,
+      "cited_by_percentile_year": 97,
+      "topics": [
+        {
+          "id": "T11172",
+          "name": "Dermatologic Treatments and Research",
+          "score": 0.3693000078201294
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.07999999821186066
+        },
+        {
+          "id": "T11452",
+          "name": "Oral Health Pathology and Treatment",
+          "score": 0.07680000364780426
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Carbon dioxide laser",
+        "Mode (computer interface)",
+        "Continuous wave",
+        "Laser",
+        "Carbon dioxide",
+        "Optics",
+        "Biomedical engineering",
+        "Laser surgery"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.5799999833106995,
+          "display_name": "Clean water and sanitation"
+        }
+      ],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/j.joms.2012.01.023",
+      "openalex_url": "https://openalex.org/W2050839424",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.4103/2006-8808.73627",
+      "arxiv_id": null,
+      "openalex_id": "W2105574352",
+      "ss_paper_id": null,
+      "pmid": "22091347",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Oral biopsy: A dental gawk",
+      "abstract": "Sir, Dermatologists are often confronted with neoplasms and diseases of the oral cavity. Although many may be reluctant to perform oral surgical procedures, a biopsy is often needed to establish a definitive diagnosis, and biopsy of the oral cavity is a safe and useful technique that can be easily employed by dermatologists. Biopsies should be kept superficial, and neurovascular structures must be avoided to prevent complications. The primary step in oral cancer detection and diagnosis is patient history and thorough soft-tissue examination. If a suspicious lesion is discovered, it is biopsied and a histological examination of the sample is performed. Currently, a biopsy with histopathology is considered the gold standard for diagnosis of squamous cell carcinoma. The word biopsy originates from the Greek terms bios (life) and opsis (vision): vision of life. A biopsy consists of the obtainment of tissue from a living organism with the purpose of examining it under the microscope, in order to establish a diagnosis based on the sample. [1] There are oral lesions whose diagnosis can be made relying on data gathered during the history and/or physical examination, but there are others where histopathological studies are needed to confirm the presumed clinical diagnosis. The aim of biopsy is to define a lesion on the basis of its histopathological aspect, to establish a prognosis in malignant or premalignant lesions, facilitate the prescription of specific treatment, contribute to the assessment of the efficacy of the treatment, and act as a document with medical-legal value. Thorough inspection of the oral cavity should be a part of any complete head and neck examination. Close visual inspection should be performed with adequate lighting, and each of the anatomic regions in the oral cavity should be palpated. Approximately 10% of patients who are examined have some abnormality of the oral mucosa. Some lesions can be diagnosed on the basis of the history and clinical findings alone. For other lesions, additional information may be required to properly guide any indicated therapy. Often, biopsy with ample tissue for microscopic analysis is the definitive procedure. Numerous methods can be used to collect tissue samples from the oral mucosa for histopathologic examination. Performing biopsy with a scalpel is the standard and generally produces the most satisfactory specimen. Other techniques include the use of a needle, biopsy punch, biopsy forceps, laser, or electrocautery device. Needles may be appropriate in sampling cells from mass lesions, but they are of no benefit in the evaluation of surface lesions. Electrocautery produces thermal damage and artifact, which make evaluation of the specimen difficult; therefore, electrosurgery should be avoided during oral mucosal biopsy. Electrosurgery may be of benefit for wide local excisions of known intraoral malignancies after a scalpel is used to atraumatically obtain marginal specimens for frozen sections. Oral biopsy is considered essential for the definitive diagnosis of diseases of the oral mucosa, and for the subsequent planning of appropriate treatment. Although the obtainment of biopsies is widely used in all medical fields, the practice is not so widespread in dental practice\u2013\u2013fundamentally because of a lack of awareness of the procedure among dental professionals. In this context, it must be taken into account that the early diagnosis of invasive oral malignancy may be critical for improving the patient prognosis. [1,2] When considering biopsy, a little forward planning and thought can greatly improve the diagnostic value obtained. Careful handling of the tissue and prompt appropriate fixation will enable a confident histological diagnosis to be reached. Inadequate care at any stage could result in a nondiagnostic biopsy and may necessitate the patient having a repeat procedure with its ensuing physical and psychological morbidity. [2] Lastly, the screening tool of greatest benefit is cautious oral examination and sound clinical judgment. The clinician\u2019s knowledge and training may eliminate the need for biopsy in cases where lesions are clinically definable. For entities of uncertain significance or etiology, a biopsy provides the simplest and most speedy means of obtaining the perfect diagnosis. In the concern of the patient\u2019s welfare, correct diagnosis is of extreme importance.",
+      "authors": [
+        {
+          "name": "Rajiv Saini",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Santosh Saini",
+          "orcid": null,
+          "affiliation": "Pravara Institute of Medical Sciences",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Sugandha Sharma",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2010,
+      "venue": "Journal of Surgical Technique and Case Report",
+      "issn": "0976-2825",
+      "type": "article",
+      "citation_count": 8,
+      "referenced_works_count": 2,
+      "fwci": 0.0,
+      "cited_by_percentile_year": 97,
+      "topics": [
+        {
+          "id": "T11787",
+          "name": "Oral and Maxillofacial Pathology",
+          "score": 0.9970999956130981
+        },
+        {
+          "id": "T11452",
+          "name": "Oral Health Pathology and Treatment",
+          "score": 0.9969000220298767
+        },
+        {
+          "id": "T10307",
+          "name": "Head and Neck Cancer Studies",
+          "score": 0.9684000015258789
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Dentistry"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.7200000286102295,
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.4103/2006-8808.73627",
+      "openalex_url": "https://openalex.org/W2105574352",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3214290",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/3214290"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1016/s1079-2104(97)90253-5",
+      "arxiv_id": null,
+      "openalex_id": "W2038105544",
+      "ss_paper_id": null,
+      "pmid": "9394370",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Laser biopsy artifact",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Robert A. Convissar",
+          "orcid": null,
+          "affiliation": "New York Hospital Queens",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 1997,
+      "venue": "Oral Surgery Oral Medicine Oral Pathology Oral Radiology and Endodontology",
+      "issn": "1079-2104",
+      "type": "article",
+      "citation_count": 10,
+      "referenced_works_count": 0,
+      "fwci": 0.0,
+      "cited_by_percentile_year": 94,
+      "topics": [
+        {
+          "id": "T11885",
+          "name": "MRI in cancer diagnosis",
+          "score": 0.6543999910354614
+        },
+        {
+          "id": "T11330",
+          "name": "Systemic Sclerosis and Related Diseases",
+          "score": 0.6049000024795532
+        },
+        {
+          "id": "T10285",
+          "name": "Venous Thromboembolism Diagnosis and Management",
+          "score": 0.5529000163078308
+        }
+      ],
+      "keywords": [
+        "Artifact (error)",
+        "Biopsy",
+        "Medicine",
+        "Laser",
+        "Radiology",
+        "Optics",
+        "Computer science",
+        "Artificial intelligence",
+        "Physics"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4399999976158142,
+          "display_name": "Climate action"
+        }
+      ],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/s1079-2104(97)90253-5",
+      "openalex_url": "https://openalex.org/W2038105544",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    }
+  ],
+  "cited_by": [
+    {
+      "doi": "10.1186/s12903-024-04179-9",
+      "arxiv_id": null,
+      "openalex_id": "W4394879594",
+      "ss_paper_id": null,
+      "pmid": "38632580",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Laser therapy decreases oral leukoplakia recurrence and boosts patient comfort: a network meta-analysis and systematic review",
+      "abstract": "Abstract Background Oral leukoplakia (OLK) is a prevalent precancerous lesion with limited non-pharmacological treatment options. Surgery and various lasers are the mainstay of treatment; however, their relative efficacy and optimal choice remain unclear. This first network meta-analysis compared the effects of different lasers and surgical excision on post-treatment recurrence and comfort in OLK patients. Methods We searched four databases for relevant randomized controlled trials (RCTs) up to April 2023. The primary outcome was post-treatment recurrence, and secondary outcomes included intraoperative hemorrhage and postoperative pain scores. The Cochrane Risk of Bias tool was used to assess the study quality. Meta-analysis and network meta-analysis were employed to determine efficacy and identify the optimal intervention. Results A total of 11 RCTs including 917 patients and 1138 lesions were included. Er,Cr:YSGG laser treatment showed significantly lower recurrence rates compared to CO 2 laser (OR: 0.04; 95% CI: 0.01\u20130.18), CO 2 laser with margin extension (OR: 0.06; 95% CI: 0.01\u20130.60), Er:YAG laser (OR: 0.10; 95% CI: 0.03\u20130.37), electrocautery (OR: 0.03; 95% CI: 0.00\u20130.18), and standard care (OR: 0.08; 95% CI: 0.02\u20130.33). Er,Cr:YSGG laser also ranked the best for reducing recurrence, followed by standard care and CO 2 laser combined with photodynamic therapy (PDT). Er:YAG and Er:Cr:YSGG lasers minimized bleeding and pain, respectively. None of the interventions caused severe adverse effects. Conclusion For non-homogeneous OLK, Er:YAG, Er:Cr:YSGG, and CO 2 laser combined with PDT offer promising alternatives to surgical excision, potentially reducing recurrence and improving patient comfort. Further high-quality RCTs are necessary to confirm these findings and determine the optimal laser\u2013PDT combination for OLK treatment.",
+      "authors": [
+        {
+          "name": "Rui Luo",
+          "orcid": "https://orcid.org/0000-0001-5280-0999",
+          "affiliation": "Tianjin Medical University Cancer Institute and Hospital",
+          "country": "CN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yanan Wang",
+          "orcid": "https://orcid.org/0000-0003-0350-9606",
+          "affiliation": "Tianjin Stomatological Hospital",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ruixin Li",
+          "orcid": "https://orcid.org/0000-0002-9079-1138",
+          "affiliation": "Tianjin Stomatological Hospital",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yanan Ma",
+          "orcid": "https://orcid.org/0000-0002-6711-1659",
+          "affiliation": "Weifang Medical University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Haitao Chen",
+          "orcid": "https://orcid.org/0000-0003-4898-9279",
+          "affiliation": "Tianjin Stomatological Hospital",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jian Zhang",
+          "orcid": "https://orcid.org/0000-0001-7217-0111",
+          "affiliation": "Stomatology Hospital",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Jun Shen",
+          "orcid": "https://orcid.org/0000-0003-0824-3261",
+          "affiliation": "Tianjin Medical University Cancer Institute and Hospital",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2024,
+      "venue": "BMC Oral Health",
+      "issn": "1472-6831",
+      "type": "review",
+      "citation_count": 11,
+      "referenced_works_count": 60,
+      "fwci": 1.5181,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11452",
+          "name": "Oral Health Pathology and Treatment",
+          "score": 0.7681000232696533
+        },
+        {
+          "id": "T12198",
+          "name": "Oral health in cancer treatment",
+          "score": 0.08330000191926956
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.038600001484155655
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Meta-analysis",
+        "Randomized controlled trial",
+        "Oral leukoplakia",
+        "Adverse effect",
+        "Oral and maxillofacial surgery",
+        "Surgery",
+        "Internal medicine",
+        "Leukoplakia",
+        "Cancer"
+      ],
+      "sdgs": [
+        {
+          "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1186/s12903-024-04179-9",
+      "openalex_url": "https://openalex.org/W4394879594",
+      "pdf_url": "https://bmcoralhealth.biomedcentral.com/counter/pdf/10.1186/s12903-024-04179-9",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://bmcoralhealth.biomedcentral.com/counter/pdf/10.1186/s12903-024-04179-9",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11025167/pdf/12903_2024_Article_4179.pdf"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1590/1678-7757-2023-0419",
+      "arxiv_id": null,
+      "openalex_id": "W4395465801",
+      "ss_paper_id": null,
+      "pmid": "38655987",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Histological evaluation of the surgical margins of oral soft tissue incisions using a dual-wavelength diode laser and an Er, Cr:YSGG laser; an ex vivo study",
+      "abstract": "OBJECTIVE: This study compared a dual-wavelength diode laser and an Er, Cr:YSGG laser in oral soft tissue incisions to determine the most effective and safest laser system at the histopathological level. METHODOLOGY: The (810 and 980 nm) dual-wavelength diode laser was used at 1.5 W and 2.5 W (CW) power settings, and the (2780 nm) Er, Cr:YSGG laser was used at 2.5 W and 3.5 W (PW) power settings. Both laser systems were used to incise the tissues of freshly dissected sheep tongue pieces to obtain the following histopathological criteria: epithelial tissue changes, connective tissue changes, and lateral thermal damage extent by optical microscopy. RESULTS: The epithelial and connective tissue damage scores were significantly higher in the dual-wavelength diode laser groups than in the Er, Cr:YSGG laser groups (P<0.001), and there was a significant difference between some groups. The extent of lateral thermal damage was also significantly higher in the diode laser groups than in the Er, Cr: YSGG laser groups (P<0.001), and there was a significant difference between groups. Group 2 (2.5 W) of the diode laser was the highest for all three criteria, while group 3 (2.5 W) of the Er, Cr:YSGG laser was the lowest. CONCLUSION: The Er, Cr:YSGG laser with an output power of 2.5 W is, histologically, the most effective and safest laser for oral soft tissue incision. The dual-wavelength diode laser causes more damage than the Er, Cr:YSGG laser, but it can be used with a low output power and 1 mm safety distance in excisional biopsy.",
+      "authors": [
+        {
+          "name": "Alaa Jamal Al-Ani",
+          "orcid": null,
+          "affiliation": "University of Baghdad",
+          "country": "IQ",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hanan J. Taher",
+          "orcid": "https://orcid.org/0009-0004-1184-2075",
+          "affiliation": "University of Baghdad",
+          "country": "IQ",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ammar Saleh Al-Alawi",
+          "orcid": "https://orcid.org/0009-0007-1267-6031",
+          "affiliation": "Baghdad Medical City",
+          "country": "IQ",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Applied Oral Science",
+      "issn": "1678-7757",
+      "type": "article",
+      "citation_count": 8,
+      "referenced_works_count": 33,
+      "fwci": 2.0698,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9742000102996826
+        },
+        {
+          "id": "T10957",
+          "name": "Photodynamic Therapy Research Studies",
+          "score": 0.005499999970197678
+        },
+        {
+          "id": "T11172",
+          "name": "Dermatologic Treatments and Research",
+          "score": 0.005100000184029341
+        }
+      ],
+      "keywords": [
+        "Laser",
+        "Materials science",
+        "Diode",
+        "Ex vivo",
+        "Connective tissue",
+        "Medicine",
+        "Optics",
+        "Biomedical engineering",
+        "Optoelectronics",
+        "In vivo"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1590/1678-7757-2023-0419",
+      "openalex_url": "https://openalex.org/W4395465801",
+      "pdf_url": "https://doi.org/10.1590/1678-7757-2023-0419",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.1590/1678-7757-2023-0419",
+        "https://doaj.org/article/ec80c30d233a41a09773bf48f018567f",
+        "https://www.revistas.usp.br/jaos/article/view/224183"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1016/j.pdpdt.2025.104479",
+      "arxiv_id": null,
+      "openalex_id": "W4406205455",
+      "ss_paper_id": null,
+      "pmid": "39798779",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Molecular evidence for the efficacy of PBM therapy in the treatment of oral lichen planus",
+      "abstract": "PURPOSE: Oral lichen planus (OLP) is a chronic inflammatory disease, in which T-Lymphocytes induce apoptosis of basal keratinocytes, leading to the formation of symptomatic lesions. It is assumed that blocking the cell death program and enhancing cell proliferation would be crucial to the healing process. The aim of the study was to verify the efficacy of Photobiomodulation (PBM) in OLP management, by evaluating the effects of laser irradiation on the processes of apoptosis and cell proliferation. METHODS: ), 3 times a week for one month. The size and clinical scores of the lesions and pain level were recorded and compared before and after therapy using Thongprasom sign scoring system and Visual Analogue Scale, respectively. Biopsies were taken before and after therapy and analyzed immunohistochemically for bcl-2 and Ki-67 expression. Tissue sections from 10 healthy volunteers were used as controls for the levels of these markers in normal oral mucosa. RESULTS: PBM significantly reduced patients' pain intesity and improved the clinical signs of the lesions. OLP tissue sections demonstrated lower staining for bcl-2 and Ki-67 compared to healthy controls. After therapy the expression of bcl-2 increased significantly. An enhance in Ki-67 immunoreactivity was revealed predominantly in the atrophic-erosive epithelium. CONCLUSION: PBM is an effective treatment modality for OLP patients. Erosive forms of the disease responded better to laser irradiation than keratotic subtypes. At the molecular level, PBM is likely to recover the impaired cell cycle mechanisms and keratinocyte proliferation.",
+      "authors": [
+        {
+          "name": "Maria Zaharieva Mutafchieva",
+          "orcid": "https://orcid.org/0000-0002-7035-1709",
+          "affiliation": "Medical University Plovdiv",
+          "country": "BG",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Milena Draganova-Filipova",
+          "orcid": "https://orcid.org/0000-0002-3107-0584",
+          "affiliation": "Medical University Plovdiv",
+          "country": "BG",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Plamen Zagorchev",
+          "orcid": "https://orcid.org/0000-0001-9780-0538",
+          "affiliation": "Medical University Plovdiv",
+          "country": "BG",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Reem Hanna",
+          "orcid": "https://orcid.org/0000-0003-2882-2156",
+          "affiliation": "University College Hospital",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Georgi Tomov",
+          "orcid": "https://orcid.org/0000-0002-0946-6945",
+          "affiliation": "New Bulgarian University",
+          "country": "BG",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2025,
+      "venue": "Photodiagnosis and Photodynamic Therapy",
+      "issn": "1572-1000",
+      "type": "article",
+      "citation_count": 7,
+      "referenced_works_count": 55,
+      "fwci": 4.8156,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11452",
+          "name": "Oral Health Pathology and Treatment",
+          "score": 0.9437000155448914
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.026399999856948853
+        },
+        {
+          "id": "T12198",
+          "name": "Oral health in cancer treatment",
+          "score": 0.008899999782443047
+        }
+      ],
+      "keywords": [
+        "Oral lichen planus",
+        "Dermatology",
+        "Medicine",
+        "Lichen",
+        "Biology",
+        "Botany"
+      ],
+      "sdgs": [
+        {
+          "score": 0.5600000023841858,
+          "id": "https://metadata.un.org/sdg/2",
+          "display_name": "Zero hunger"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/j.pdpdt.2025.104479",
+      "openalex_url": "https://openalex.org/W4406205455",
+      "pdf_url": "https://doi.org/10.1016/j.pdpdt.2025.104479",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.1016/j.pdpdt.2025.104479",
+        "https://doaj.org/article/3b2ec0789c31476a98765f3a769c894d"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1007/s10103-025-04624-3",
+      "arxiv_id": null,
+      "openalex_id": "W4414533334",
+      "ss_paper_id": null,
+      "pmid": "40993355",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "A comprehensive review on advancements in laser-assisted dental treatments: focus on minimally invasive techniques and clinical outcomes",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Sirus Safaee",
+          "orcid": "https://orcid.org/0000-0003-0721-125X",
+          "affiliation": "University of Nagasaki",
+          "country": "JP",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Amirhossein Moghanian",
+          "orcid": "https://orcid.org/0000-0001-9303-3351",
+          "affiliation": "Imam Khomeini International University",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Mohammad Mehrdar",
+          "orcid": null,
+          "affiliation": "Amirkabir University of Technology",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Parviz Asadi",
+          "orcid": "https://orcid.org/0000-0003-3602-4082",
+          "affiliation": "Imam Khomeini International University",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Mostafa Akbari",
+          "orcid": "https://orcid.org/0000-0002-6952-8570",
+          "affiliation": "Technical and Vocational University",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Mahyar Nesabi",
+          "orcid": null,
+          "affiliation": "Tabriz University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Mahdis Nesabi",
+          "orcid": null,
+          "affiliation": "Tabriz University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2025,
+      "venue": "Lasers in Medical Science",
+      "issn": "0268-8921",
+      "type": "article",
+      "citation_count": 6,
+      "referenced_works_count": 168,
+      "fwci": 3.8204,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 1.0
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.9890999794006348
+        },
+        {
+          "id": "T11958",
+          "name": "Dental Erosion and Treatment",
+          "score": 0.9653000235557556
+        }
+      ],
+      "keywords": [
+        "Clinical Practice",
+        "Laser",
+        "Laser therapy",
+        "Hard tissue",
+        "Broad spectrum",
+        "Dentin hypersensitivity",
+        "Precision medicine",
+        "MEDLINE"
+      ],
+      "sdgs": [],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1007/s10103-025-04624-3",
+      "openalex_url": "https://openalex.org/W4414533334",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1007/s00784-025-06365-7",
+      "arxiv_id": null,
+      "openalex_id": "W4410177383",
+      "ss_paper_id": null,
+      "pmid": "40332625",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Efficacy of different gingival graft de-epithelialization methods: A parallel-group randomized clinical trial",
+      "abstract": "OBJECTIVES: The clinical outcomes of either extra-oral (eo) or intra-oral (io) de-epithelialized connective tissue graft (DE-CTG) techniques to the recipient site have not been fully elucidated yet. There is an ongoing debate regarding the possible complications caused by incomplete elimination of the epithelial layer. The aim of this study is to compare clinical effectiveness and de-epithelialization efficacy of ioDE-CTG and eoDE-CTG in recession treatment. MATERIALS AND METHODS: Forty patients, with a single gingival recession, were treated with coronally advanced flap combined with eo- or ioDE-CTG. Data consisted of surgical chair-time, recipient site periodontal and patient-based variables. To evaluate the efficacy of de-epithelialization, histological analyses were also performed via graft imprints. RESULTS: There was no significant inter-group difference in terms of treatment outcomes. Aesthetic results were also similar for both groups. While chair-time was significantly shorter in the ioDE group, less epithelial remnants were showed with eoDE technique. CONCLUSIONS: Similar clinical outcomes were obtained with eo- and ioDE-CTG. While ioDE is less effective in removing the epithelial layer, no long-term complications due to the epithelial residues were detected. Both techniques can be recommended in recession treatment. CLINICAL RELEVANCE: This study demonstrates that extraoral and intraoral de-epithelialized connective tissue grafts in root coverage procedures led to similar clinical results without any further events. The study protocol was registered at ClinicalTrials.gov (NCT05494294).",
+      "authors": [
+        {
+          "name": "Furkan Din",
+          "orcid": null,
+          "affiliation": "Hacettepe University",
+          "country": "TR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Meltem \u00d6zdemir Kabalak",
+          "orcid": "https://orcid.org/0000-0002-5637-3362",
+          "affiliation": "Hacettepe University",
+          "country": "TR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Birtan Tolga Y\u0131lmaz",
+          "orcid": "https://orcid.org/0000-0003-4558-0611",
+          "affiliation": "Harvard University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Emre Bar\u0131\u015f",
+          "orcid": "https://orcid.org/0000-0002-0593-5396",
+          "affiliation": "Gazi University",
+          "country": "TR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hanife Avc\u0131",
+          "orcid": "https://orcid.org/0000-0002-1405-9754",
+          "affiliation": "Hacettepe University",
+          "country": "TR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Feriha \u00c7a\u011flayan",
+          "orcid": "https://orcid.org/0000-0002-4174-7309",
+          "affiliation": "Hacettepe University",
+          "country": "TR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "H\u00fcseyin Gencay Ke\u00e7eli",
+          "orcid": "https://orcid.org/0000-0001-6695-2133",
+          "affiliation": "Hacettepe University",
+          "country": "TR",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2025,
+      "venue": "Clinical Oral Investigations",
+      "issn": "1432-6981",
+      "type": "article",
+      "citation_count": 3,
+      "referenced_works_count": 41,
+      "fwci": 2.6082,
+      "cited_by_percentile_year": 98,
+      "topics": [
+        {
+          "id": "T11570",
+          "name": "Periodontal Regeneration and Treatments",
+          "score": 0.9954000115394592
+        },
+        {
+          "id": "T10257",
+          "name": "Oral microbiology and periodontitis research",
+          "score": 0.0010000000474974513
+        },
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.0007999999797903001
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Gingival recession",
+        "Connective tissue",
+        "Dentistry",
+        "Clinical trial",
+        "Clinical significance",
+        "Randomized controlled trial",
+        "Clinical efficacy",
+        "Clinical study",
+        "Significant difference"
+      ],
+      "sdgs": [
+        {
+          "score": 0.7099999785423279,
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1007/s00784-025-06365-7",
+      "openalex_url": "https://openalex.org/W4410177383",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00784-025-06365-7.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://link.springer.com/content/pdf/10.1007/s00784-025-06365-7.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12058915/pdf/784_2025_Article_6365.pdf"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.3390/dj13060265",
+      "arxiv_id": null,
+      "openalex_id": "W4411353002",
+      "ss_paper_id": null,
+      "pmid": "40559168",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Histological Evaluation of Oral Soft Tissue Biopsy by Dual-Wavelength Diode Laser: An Ex Vivo Study",
+      "abstract": "Background: Diode lasers are valuable in oral surgery due to their excellent hemostasis, minimum post-operative pain, and minimally invasive procedures. A dual-wavelength diode laser in dentistry combines two distinct wavelengths, typically 450 nm and 808 nm, to provide a versatile approach to soft tissue procedures. This ex vivo study investigated the quantity of thermal effects of a dual-wavelength diode laser on porcine lingual mucosa to determine the optimal laser parameters for oral soft tissue biopsies and to improve the reliability of histological evaluation. The presence of thermal damage in the prelesional margins may compromise the diagnostic accuracy, particularly in cases of suspected malignancy. Methods: Thirty-six porcine lingual mucosa samples were excised using a diode laser (Wiser 3, Doctor Smile) in continuous wave (CW) and pulsed wave (PW) modes at average powers of 2, 3, and 4 W. The samples, preserved in 5% buffered formalin, underwent histological evaluation to measure epithelial and connective tissue damage. Results: The study demonstrated variable thermal effects depending on the laser mode and power settings. Minimal epithelial damage (0.62 mm) was observed at 2 W CW, while maximum damage (3.12 mm) occurred at 4 W pulsed wave (PW). Connective tissue exhibited slightly greater damage than epithelial tissue, with minimal damage (0.53 mm) at 4 W CW and maximum damage (3.19 mm) at 4 W pulsed wave (PW). Statistical analyses were performed using t-tests and ANOVA and revealed significant differences in tissue damage between certain groups, highlighting the impact of laser parameters on thermal effects. Conclusions: The dual-wavelength diode laser seems to have good surgical properties and is suitable for managing complex clinical cases. Although the low power average showed minimal thermal damage, for the importance of the diagnosis of suspected lesions of malignancy, a 2 mm prelesional margin should be maintained.",
+      "authors": [
+        {
+          "name": "Daniele Pergolini",
+          "orcid": "https://orcid.org/0000-0001-8885-0496",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Alessandro Del Vecchio",
+          "orcid": "https://orcid.org/0000-0002-9278-8872",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mohamed Mohsen",
+          "orcid": "https://orcid.org/0000-0003-1431-7204",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Veronica Cerullo",
+          "orcid": null,
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Cinzia Angileri",
+          "orcid": null,
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Eduardo Troiani",
+          "orcid": null,
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Paolo Visca",
+          "orcid": "https://orcid.org/0000-0002-6128-7039",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Barbara Antoniani",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Umberto Romeo",
+          "orcid": "https://orcid.org/0000-0003-2439-2187",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Gaspare Palaia",
+          "orcid": "https://orcid.org/0000-0001-8509-2255",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2025,
+      "venue": "Dentistry Journal",
+      "issn": "2304-6767",
+      "type": "article",
+      "citation_count": 2,
+      "referenced_works_count": 25,
+      "fwci": 1.2735,
+      "cited_by_percentile_year": 98,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T11172",
+          "name": "Dermatologic Treatments and Research",
+          "score": 0.9642999768257141
+        },
+        {
+          "id": "T10852",
+          "name": "Temporomandibular Joint Disorders",
+          "score": 0.9144999980926514
+        }
+      ],
+      "keywords": [
+        "Ex vivo",
+        "Laser",
+        "Materials science",
+        "Connective tissue",
+        "Continuous wave",
+        "Soft tissue",
+        "Biomedical engineering",
+        "Diode",
+        "Biopsy",
+        "Medicine"
+      ],
+      "sdgs": [
+        {
+          "score": 0.699999988079071,
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/dj13060265",
+      "openalex_url": "https://openalex.org/W4411353002",
+      "pdf_url": "https://www.mdpi.com/2304-6767/13/6/265/pdf?version=1750054210",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2304-6767/13/6/265/pdf?version=1750054210",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/12191678",
+        "https://doaj.org/article/f41c483f4ab1442d8234df9b43a57a0f"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1016/j.jdent.2025.106202",
+      "arxiv_id": null,
+      "openalex_id": "W4415687765",
+      "ss_paper_id": null,
+      "pmid": "41175912",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Artificial intelligence for laser-assisted oral surgery: A narrative review of current trends and future perspectives",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Gowri Sivaramakrishnan",
+          "orcid": "https://orcid.org/0000-0002-5877-205X",
+          "affiliation": "Royal College of Surgeons in Ireland - Bahrain",
+          "country": "BH",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Kannan Sridharan",
+          "orcid": "https://orcid.org/0000-0003-3811-6503",
+          "affiliation": "Arabian Gulf University",
+          "country": "BH",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2025,
+      "venue": "Journal of Dentistry",
+      "issn": "0300-5712",
+      "type": "review",
+      "citation_count": 2,
+      "referenced_works_count": 101,
+      "fwci": 0.7479,
+      "cited_by_percentile_year": 98,
+      "topics": [
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.7059000134468079
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.11500000208616257
+        },
+        {
+          "id": "T12439",
+          "name": "Dental Research and COVID-19",
+          "score": 0.01759999990463257
+        }
+      ],
+      "keywords": [
+        "Narrative review",
+        "Current (fluid)",
+        "Narrative",
+        "Review article",
+        "Applications of artificial intelligence"
+      ],
+      "sdgs": [],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/j.jdent.2025.106202",
+      "openalex_url": "https://openalex.org/W4415687765",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1007/s10103-023-03923-x",
+      "arxiv_id": null,
+      "openalex_id": "W4388588737",
+      "ss_paper_id": null,
+      "pmid": "37952038",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Histological implications of high-power laser use in the oral soft tissue lesions: a systematic review",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Gabriela Lopes\u2010Santos",
+          "orcid": "https://orcid.org/0000-0001-9976-9511",
+          "affiliation": "Universidade de S\u00e3o Paulo",
+          "country": "BR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mariela Peralta-Mamani",
+          "orcid": "https://orcid.org/0000-0002-0243-9194",
+          "affiliation": "Universidade de S\u00e3o Paulo",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Denise Tostes Oliveira",
+          "orcid": "https://orcid.org/0000-0002-4628-7129",
+          "affiliation": "Universidade de S\u00e3o Paulo",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2023,
+      "venue": "Lasers in Medical Science",
+      "issn": "0268-8921",
+      "type": "review",
+      "citation_count": 8,
+      "referenced_works_count": 34,
+      "fwci": 0.5625,
+      "cited_by_percentile_year": 97,
+      "topics": [
+        {
+          "id": "T11452",
+          "name": "Oral Health Pathology and Treatment",
+          "score": 0.9990000128746033
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9990000128746033
+        },
+        {
+          "id": "T11035",
+          "name": "Salivary Gland Tumors Diagnosis and Treatment",
+          "score": 0.9970999956130981
+        }
+      ],
+      "keywords": [
+        "Soft tissue",
+        "Medicine",
+        "Grading (engineering)",
+        "Lesion",
+        "Pathology",
+        "Biopsy",
+        "Surgery",
+        "Biology"
+      ],
+      "sdgs": [
+        {
+          "score": 0.6600000262260437,
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1007/s10103-023-03923-x",
+      "openalex_url": "https://openalex.org/W4388588737",
+      "pdf_url": "https://doi.org/10.1007/s10103-023-03923-x",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.1007/s10103-023-03923-x"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.34172/jlms.2023.37",
+      "arxiv_id": null,
+      "openalex_id": "W4387659193",
+      "ss_paper_id": null,
+      "pmid": "38028884",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Analysis of the Temperature Elevation of the Dual-Wavelength Diode Laser and the Er, Cr: YSGG Laser in Oral Soft Tissue Incisions",
+      "abstract": "Introduction: Lasers are one of the most advantageous tools that have been used in a variety of medical fields. Soft tissue management is an important part of oral and maxillofacial surgery. There are different surgical procedures for management; one of them is laser surgery. The purpose of this study was to compare the dual-wavelength diode laser and the Er, Cr: YSGG laser to choose the most effective laser for a soft tissue incision in oral and maxillofacial surgery regarding temperature elevation. Methods: A dual-wavelength diode laser (810 and 980 nm) with 1.5 W and 2.5 W power outputs and an Er, Cr: YSGG (2780 nm) with 2.5 W and 3.5 W power outputs were used to make 50 incisions in six freshly dissected sheep tongues. The temperature means were measured at initial, maximum temperatures, as well as the temperature rise (difference between initial and maximum), and all were compared between the groups of soft tissue. Results: The lowest mean temperature rise was observed with a 2.5 W Er, Cr: YSGG laser, and the highest mean temperature rise was observed with a 2.5 W diode laser, and all samples from the two lasers showed a statistically significant difference (P<0.05) in the temperature rise except the 1.5 W diode, which is higher but not statistically significantly different from the 3.5 W Er, Cr: YSGG laser (P=0.100). Conclusion: The power output of 2.5 W of an Er, Cr: YSGG laser produced low levels of temperature rise compared to a diode laser and produced surgical incisions with a lower probability of heat damage to surrounding tissues.",
+      "authors": [
+        {
+          "name": "Alaa Jamal Al-Ani",
+          "orcid": null,
+          "affiliation": "University of Baghdad",
+          "country": "IQ",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ammar Saleh Al-Alawi",
+          "orcid": "https://orcid.org/0009-0007-1267-6031",
+          "affiliation": "Baghdad Medical City",
+          "country": "IQ",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hanan J. Taher",
+          "orcid": "https://orcid.org/0009-0004-1184-2075",
+          "affiliation": "University of Baghdad",
+          "country": "IQ",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2023,
+      "venue": "Journal of lasers in medical sciences",
+      "issn": "2008-9783",
+      "type": "article",
+      "citation_count": 6,
+      "referenced_works_count": 23,
+      "fwci": 0.9187,
+      "cited_by_percentile_year": 97,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9979000091552734
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.9301999807357788
+        }
+      ],
+      "keywords": [
+        "Laser",
+        "Medicine",
+        "Diode",
+        "Soft tissue",
+        "Wavelength",
+        "Significant difference",
+        "Oral surgery",
+        "Optics",
+        "Dentistry",
+        "Materials science"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.34172/jlms.2023.37",
+      "openalex_url": "https://openalex.org/W4387659193",
+      "pdf_url": "https://journals.sbmu.ac.ir/jlms/article/download/42271/32112",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://journals.sbmu.ac.ir/jlms/article/download/42271/32112",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10658115/pdf/jlms-14-e37.pdf"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.3389/fneur.2023.1271655",
+      "arxiv_id": null,
+      "openalex_id": "W4387808910",
+      "ss_paper_id": null,
+      "pmid": "37928139",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Unraveling the parameters and biological mechanisms of CO2 laser therapy for acute pain relief",
+      "abstract": "Acute pain-related pathology is a significant challenge in clinical practice, and the limitations of traditional pain-relief drugs have made it necessary to explore alternative approaches. Photobiomodulation (PBM) therapy using CO2 laser has emerged as a promising option. In this study, we aimed to identify the optimal parameters of CO2 laser irradiation for acute pain relief through in vivo and in vitro experiments. First, we validated the laser intensity used in this study through bone marrow mesenchymal stem cells (BMSCs) experiments to ensure it will not adversely affect stem cell viability and morphology. Then we conducted a detailed evaluation of the duty cycle and frequency of CO2 laser by the hot plate and formalin test. Results showed a duty cycle of 3% and a frequency of 25 kHz produced the best outcomes. Additionally, we investigated the potential mechanisms underlying the effects of CO2 laser by immunohistochemical staining, and found evidence to suggest that the opioid receptor may be involved in its analgesic effect. In conclusion, this study provides insights into the optimal parameters and underlying mechanisms of CO2 laser therapy for effective pain relief, thereby paving the way for future clinical applications.",
+      "authors": [
+        {
+          "name": "Xianggang Wang",
+          "orcid": "https://orcid.org/0000-0001-7994-7763",
+          "affiliation": "Second Affiliated Hospital of Jilin University",
+          "country": "CN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jiaqi Liu",
+          "orcid": "https://orcid.org/0000-0001-5595-5988",
+          "affiliation": "Second Affiliated Hospital of Jilin University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Zhonghan Wang",
+          "orcid": "https://orcid.org/0000-0002-1109-8571",
+          "affiliation": "Second Affiliated Hospital of Jilin University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Chunming Guo",
+          "orcid": null,
+          "affiliation": "Second Affiliated Hospital of Jilin University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hongjia Lan",
+          "orcid": null,
+          "affiliation": "Second Affiliated Hospital of Jilin University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Shibin Feng",
+          "orcid": null,
+          "affiliation": "Second Affiliated Hospital of Jilin University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "He Liu",
+          "orcid": "https://orcid.org/0000-0001-7178-0276",
+          "affiliation": "Second Affiliated Hospital of Jilin University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Xun Gao",
+          "orcid": "https://orcid.org/0000-0002-2989-0292",
+          "affiliation": "Changchun University of Science and Technology",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Dongming Zhang",
+          "orcid": "https://orcid.org/0000-0003-2016-8639",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Lintao Zhu",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hui Jin",
+          "orcid": "https://orcid.org/0000-0002-8584-782X",
+          "affiliation": "Second Affiliated Hospital of Jilin University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Jincheng Wang",
+          "orcid": "https://orcid.org/0000-0002-1217-5962",
+          "affiliation": "Second Affiliated Hospital of Jilin University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2023,
+      "venue": "Frontiers in Neurology",
+      "issn": "1664-2295",
+      "type": "article",
+      "citation_count": 5,
+      "referenced_works_count": 49,
+      "fwci": 0.7656,
+      "cited_by_percentile_year": 97,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T10196",
+          "name": "Pain Mechanisms and Treatments",
+          "score": 0.994700014591217
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.9695000052452087
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Pain relief",
+        "Acute pain",
+        "Laser therapy",
+        "Laser",
+        "Low level laser therapy",
+        "Stem cell",
+        "In vivo",
+        "Mesenchymal stem cell",
+        "Duty cycle"
+      ],
+      "sdgs": [
+        {
+          "score": 0.7300000190734863,
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3389/fneur.2023.1271655",
+      "openalex_url": "https://openalex.org/W4387808910",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fneur.2023.1271655/pdf?isPublishedV2=False",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.frontiersin.org/articles/10.3389/fneur.2023.1271655/pdf?isPublishedV2=False",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10624176/pdf/fneur-14-1271655.pdf",
+        "https://doaj.org/article/6e2b23bec94944ffae9267eafdf51669"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.3390/biomedicines12102300",
+      "arxiv_id": null,
+      "openalex_id": "W4403303337",
+      "ss_paper_id": null,
+      "pmid": "39457611",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Histological Improvement and Cytokine Levels Reduction in Patients with Oral Lichen Planus after Photobiomodulation Therapy",
+      "abstract": "Background: Oral lichen planus (OLP) is a mucocutaneous disease associated with the formation of symptomatic lesions in the mouth that are often refractory to treatment. An as-yet-unknown antigen triggers an inflammatory reaction in which various immune and non-immune cells release multiple cytokines that contribute to disease progression. The ability of photobiomodulation (PBM) to reduce the symptoms and signs of the disease has been shown, but little is known about its molecular and cellular effects. The aim of this study was to evaluate changes in pro-inflammatory cytokine levels and in histological findings in OLP patients treated with photobiomodulation therapy. Methods: Twenty OLP patients underwent PBM with diode laser (810 nm), (0.50 W, 30 s, 1.2 J/cm2), 3 times weekly for a month. Pain level and clinical scores of lesions were recorded before and after therapy. Salivary levels of IL-1\u03b2, IL-6, and TNF-\u03b1 in OLP patients were measured before and after PBM and compared with those of 10 healthy controls. Biopsies were taken at the beginning and end of treatment to assess pathomorphological changes. Results: PBM significantly reduced the level of pain and clinical scores of the lesions. Salivary levels of IL-1\u03b2, IL-6, and TNF-\u03b1 in OLP patients were significantly higher compared to those in healthy controls and decreased after therapy. 60% of the post-treatment OLP biopsies demonstrated histological improvement, characterized by inflammatory infiltrate reduction (50%), epithelial hyperplasia reduction (30%), epithelial thickening (15%), or epidermal-dermal attachment repair (5%). Conclusion: The effectiveness of PBM therapy in OLP patients was confirmed at the clinical, molecular, and histomorphological levels.",
+      "authors": [
+        {
+          "name": "Maria Zaharieva Mutafchieva",
+          "orcid": "https://orcid.org/0000-0002-7035-1709",
+          "affiliation": "Medical University Plovdiv",
+          "country": "BG",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Milena Draganova-Filipova",
+          "orcid": "https://orcid.org/0000-0002-3107-0584",
+          "affiliation": "Medical University Plovdiv",
+          "country": "BG",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Georgi Tomov",
+          "orcid": "https://orcid.org/0000-0002-0946-6945",
+          "affiliation": "New Bulgarian University",
+          "country": "BG",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2024,
+      "venue": "Biomedicines",
+      "issn": "2227-9059",
+      "type": "article",
+      "citation_count": 3,
+      "referenced_works_count": 48,
+      "fwci": 0.9089,
+      "cited_by_percentile_year": 97,
+      "topics": [
+        {
+          "id": "T11452",
+          "name": "Oral Health Pathology and Treatment",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T11787",
+          "name": "Oral and Maxillofacial Pathology",
+          "score": 0.9896000027656555
+        },
+        {
+          "id": "T11868",
+          "name": "Cancer and Skin Lesions",
+          "score": 0.9886000156402588
+        }
+      ],
+      "keywords": [
+        "Oral lichen planus",
+        "Medicine",
+        "Cytokine",
+        "Reduction (mathematics)",
+        "Pathology",
+        "Dermatology",
+        "Immunology"
+      ],
+      "sdgs": [
+        {
+          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/biomedicines12102300",
+      "openalex_url": "https://openalex.org/W4403303337",
+      "pdf_url": "https://www.mdpi.com/2227-9059/12/10/2300/pdf?version=1728557815",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2227-9059/12/10/2300/pdf?version=1728557815",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11504435/pdf/biomedicines-12-02300.pdf",
+        "https://doaj.org/article/184bd9b6ceef413e8757e5e39c147cd4"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.2478/rjr-2025-0003",
+      "arxiv_id": null,
+      "openalex_id": "W4408067548",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "The Blue Light LASER technology: a new progress in ENT surgery",
+      "abstract": "Abstract The advent of Blue LASER technology in otorhinolaryngology has transformed the management of various ear, nose and throat (ENT) disorders. Its distinct wavelength (445 nm) offers superior tissue selectivity, minimizing collateral damage and optimizing surgical outcomes compared to traditional LASERs. Blue Light LASER\u2019s ability to target haemoglobin and melanin reduces intraoperative bleeding, scarring, and thermal damage. Its precision and versatility make it a valuable tool in addressing complex ENT pathologies. However, limitations, such as shallow penetration and potential risks of thermal damage, necessitate careful application. While it requires specialized training and consideration of its limitations, its benefits in reducing complications and improving recovery times highlight its potential in modern surgical practices. The article aims to analyse the key characteristics of Blue LASER in ENT pathology, presenting also a case of a 57-year-old male with lingual tonsil hypertrophy and obstructive sleep apnea who underwent Blue LASER surgery for tongue base reduction. CONCLUSION. Blue LASER technology ushers in a new era in ENT surgery. However, a thorough evaluation of its benefits and limitations is crucial to fully harness its potential in clinical applications.",
+      "authors": [
+        {
+          "name": "Sandra-Maria Palaghia",
+          "orcid": null,
+          "affiliation": "Carol Davila University of Medicine and Pharmacy",
+          "country": "RO",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "\u015et Georgescu",
+          "orcid": null,
+          "affiliation": "Clinical Emergency Hospital Bucharest",
+          "country": "RO",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Codru\u0163 Sarafoleanu",
+          "orcid": "https://orcid.org/0000-0002-9436-7772",
+          "affiliation": "Carol Davila University of Medicine and Pharmacy",
+          "country": "RO",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2025,
+      "venue": "Romanian Journal of Rhinology",
+      "issn": "2069-6523",
+      "type": "article",
+      "citation_count": 1,
+      "referenced_works_count": 27,
+      "fwci": 0.6038,
+      "cited_by_percentile_year": 97,
+      "topics": [
+        {
+          "id": "T10234",
+          "name": "Obstructive Sleep Apnea Research",
+          "score": 0.9961000084877014
+        },
+        {
+          "id": "T11812",
+          "name": "Nasal Surgery and Airway Studies",
+          "score": 0.9715999960899353
+        },
+        {
+          "id": "T12199",
+          "name": "Vascular Anomalies and Treatments",
+          "score": 0.9366999864578247
+        }
+      ],
+      "keywords": [
+        "Blue light",
+        "Laser",
+        "Medicine",
+        "Optometry",
+        "Medical physics",
+        "Optics",
+        "General surgery",
+        "Optoelectronics",
+        "Materials science",
+        "Physics"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.2478/rjr-2025-0003",
+      "openalex_url": "https://openalex.org/W4408067548",
+      "pdf_url": "https://doi.org/10.2478/rjr-2025-0003",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.2478/rjr-2025-0003"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.34172/jlms.2023.61",
+      "arxiv_id": null,
+      "openalex_id": "W4390237646",
+      "ss_paper_id": null,
+      "pmid": "38318215",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Histologic Evaluation of Effect of Three Wavelengths of Diode Laser on Human Gingival Margins",
+      "abstract": "Introduction: Available evidence suggests that the response of the intervened tissue is directly linked to the effects generated by the cutting instrument used. To determine the histological findings in gingival tissue margins excised through gingivectomies performed using 450 nm, 940 nm, and 980 nm diode lasers. The present study aimed to determine the histological findings in gingival tissue margins excised through gingivectomies performed using 450 nm, 940 nm, and 980 nm diode lasers. Methods: Gingival tissue samples were collected from 30 patients who had undergone gingivectomy procedures. Each study group comprised 10 patients who willingly provided their samples after providing informed consent. The visualization of histological findings was facilitated through Hematoxylin-Eosin staining. Additionally, variables related to pain and hemostasis were assessed during the intraoperative period. Results: The incision quality was categorized as irregular across all three wavelengths. Histological examination of the epithelial tissue revealed the absence of carbonization and the preservation of cell morphology in over 50% of the resection margin in samples obtained with the 450 nm and 940 nm wavelengths. In the connective tissue, observations included carbonization, collagen coagulation, and basophilia, with the 980 nm wavelength demonstrating the highest percentage of samples displaying collagen coagulation in more than 50% of the resection margin. Conversely, the 450 nm wavelength exhibited the highest degree of preservation of the fibroblast structure. Conclusion: Based on a comprehensive analysis of the study results, it can be inferred that the 450nm and 940nm wavelength lasers tend to produce less thermal damage and better cell preservation when compared to the 980nm wavelength.",
+      "authors": [
+        {
+          "name": "Pilar Roc\u00edo Blanco Fl\u00f3rez",
+          "orcid": "https://orcid.org/0000-0002-1476-9692",
+          "affiliation": "PanAmerican Bioinformatics Institute",
+          "country": "CO",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Helida Helena Avenda\u00f1o Maz",
+          "orcid": null,
+          "affiliation": "Instituci\u00f3n Universitaria Colegios de Colombia",
+          "country": "CO",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Josep Arnabat Dom\u00ednguez",
+          "orcid": null,
+          "affiliation": "Universitat de Barcelona",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Antonio Jes\u00fas Espa\u00f1a Tost",
+          "orcid": null,
+          "affiliation": "Universitat de Barcelona",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jennifer Orozco P\u00e1ez",
+          "orcid": "https://orcid.org/0000-0003-4834-071X",
+          "affiliation": "Corporaci\u00f3n Universitaria Rafael Nu\u00f1ez",
+          "country": "CO",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2023,
+      "venue": "Journal of lasers in medical sciences",
+      "issn": "2008-9783",
+      "type": "article",
+      "citation_count": 2,
+      "referenced_works_count": 25,
+      "fwci": 0.3057,
+      "cited_by_percentile_year": 96,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 1.0
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.9156000018119812
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Laser",
+        "H&E stain",
+        "Pathology",
+        "Basophilia",
+        "Connective tissue",
+        "Gingivectomy",
+        "Staining",
+        "Biomedical engineering",
+        "Dentistry"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.34172/jlms.2023.61",
+      "openalex_url": "https://openalex.org/W4390237646",
+      "pdf_url": "https://journals.sbmu.ac.ir/jlms/article/download/42881/32706",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://journals.sbmu.ac.ir/jlms/article/download/42881/32706",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10843235/pdf/jlms-14-e61.pdf"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.4081/ltj.2024.393",
+      "arxiv_id": null,
+      "openalex_id": "W4394808392",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Pre-prosthetic atraumatic laser-assisted mandibular rehabilitation: Er,Cr:YSGG 2780 nm for alveoloplasty and mucocele removal. A case report",
+      "abstract": "Lasers are a popular technology in many areas of dentistry due to their low invasiveness, quick tissue response, and rapid healing time. Mucoceles develop from minor salivary glands, whereas bony exostosis is a prosthodontic challenge that prevents optimal prosthetic management. Scarring, pain, and discomfort are common drawbacks of traditional surgical approaches, which are followed by prolonged postoperative healing. Laser-assisted mandibular rehabilitation is a promising approach with predictable results. The patient complained of severe pain during denture fabrication, as well as a small, painless swelling on the inner aspect of the lower lip. The patient was able to receive the planned complete dentures after undergoing atraumatic laser-assisted removal of mucocele and bone exostosis with an Er,Cr:YSGG (Erbium, chromium-doped, yttrium, scandium, gallium, and garnet) laser treatment at 2780 nm. Both procedures were completed quickly, and there were no postoperative complications to report. Blanching overlying both lesions quickly faded after healing and was replaced by a healthy pink mucosal color; both lesions were monitored until complete healing. The Er,Cr:YSGG effectively ablated and removed both soft and hard tissue lesions with minimal bleeding and pain.",
+      "authors": [
+        {
+          "name": "Nourhan S. Emam",
+          "orcid": "https://orcid.org/0000-0002-0125-7030",
+          "affiliation": "Zagazig University",
+          "country": "EG",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Ahmed Abdelhamid",
+          "orcid": "https://orcid.org/0000-0001-7263-9055",
+          "affiliation": "Alexandria University",
+          "country": "EG",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Lucette Segaan",
+          "orcid": null,
+          "affiliation": "Alexandria University",
+          "country": "EG",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mohamed Moataz Khamis",
+          "orcid": "https://orcid.org/0000-0001-9508-8110",
+          "affiliation": "Alexandria University",
+          "country": "EG",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2024,
+      "venue": "LASER THERAPY",
+      "issn": "0898-5901",
+      "type": "article",
+      "citation_count": 1,
+      "referenced_works_count": 22,
+      "fwci": 0.2531,
+      "cited_by_percentile_year": 96,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T11787",
+          "name": "Oral and Maxillofacial Pathology",
+          "score": 0.9927999973297119
+        },
+        {
+          "id": "T13813",
+          "name": "Oral and Craniofacial Lesions",
+          "score": 0.9872000217437744
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Mucocele",
+        "Soft tissue",
+        "Dentistry",
+        "Exostosis",
+        "Surgery"
+      ],
+      "sdgs": [
+        {
+          "score": 0.7099999785423279,
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.4081/ltj.2024.393",
+      "openalex_url": "https://openalex.org/W4394808392",
+      "pdf_url": "http://dx.doi.org/10.4081/ltj.2024.393",
+      "pmc_url": null,
+      "oa_locations": [
+        "http://dx.doi.org/10.4081/ltj.2024.393"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.3390/cancers18132088",
+      "arxiv_id": null,
+      "openalex_id": "W7166457890",
+      "ss_paper_id": null,
+      "pmid": "42449634",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Current Trends in Diagnosis and Early Monitoring of Oral Cavity Cancer: Techniques and Biomarkers",
+      "abstract": "Background/Objectives: Oral cavity squamous cell carcinoma (OSCC) remains a major global health burden, with outcomes strongly dependent on stage at diagnosis. Although the oral cavity is directly accessible to clinical examination, many cases are still detected at advanced stages. This narrative review aimed to summarize current trends in OSCC diagnosis and early monitoring, with emphasis on non-invasive and minimally invasive techniques and biomarkers. Methods: A semi-systematic narrative literature search was conducted in PubMed/MEDLINE, Scopus, and Web of Science using predefined combinations of OSCC-, early-detection-, imaging-, cytology-, liquid-biopsy-, salivaomics-, artificial-intelligence-, and biosensor-related terms. English-language systematic reviews, meta-analyses, reviews of reviews, translational studies, and clinically relevant original articles were prioritized, with explicit attention to oral cavity-specific evidence and clearly identified extrapolation from broader head-and-neck or oropharyngeal cancer settings. Results: Conventional oral examination and histopathological assessment of biopsy specimens remain the diagnostic foundation. Adjunctive methods may support lesion triage, biopsy-site selection, risk stratification, and early monitoring, but cannot replace tissue diagnosis. Narrow-band imaging, optical coherence tomography, and molecular brush cytology appear particularly promising for specialist assessment and surveillance. Liquid biopsy and saliva-based biomarker platforms offer translational potential, particularly for repeatable monitoring, but clinical implementation is limited by methodological heterogeneity, pre-analytical variability, inconsistent thresholds, and insufficient external validation. Artificial intelligence and biosensor platforms remain promising but largely developmental. Conclusions: Progress in early OSCC diagnosis and monitoring will most likely depend on integrated diagnostic models combining clinical examination, adjunctive imaging, minimally invasive sampling, molecular biomarkers, and computational decision-support tools, validated in prospective multicenter studies.",
+      "authors": [
+        {
+          "name": "Karolina Maria Marczuk",
+          "orcid": "https://orcid.org/0009-0009-3570-0983",
+          "affiliation": "Wroclaw Medical University",
+          "country": "PL",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Mateusz Bartosz Mamala",
+          "orcid": "https://orcid.org/0009-0009-0172-061X",
+          "affiliation": "Wroclaw Medical University",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Alexandra Opalewski",
+          "orcid": null,
+          "affiliation": "Wroclaw Medical University",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Izabela G\u0142\u00f3wka",
+          "orcid": null,
+          "affiliation": "Wroclaw Medical University",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hanna Gerber",
+          "orcid": "https://orcid.org/0000-0002-0954-3955",
+          "affiliation": "Wroclaw Medical University",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Andrzej Jaxa-Kwiatkowski",
+          "orcid": "https://orcid.org/0000-0001-8515-3978",
+          "affiliation": "Wroclaw Medical University",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2026,
+      "venue": "Cancers",
+      "issn": "2072-6694",
+      "type": "article",
+      "citation_count": 1,
+      "referenced_works_count": 75,
+      "fwci": 8.6207,
+      "cited_by_percentile_year": 96,
+      "topics": [
+        {
+          "id": "T10307",
+          "name": "Head and Neck Cancer Studies",
+          "score": 0.7006000280380249
+        },
+        {
+          "id": "T11452",
+          "name": "Oral Health Pathology and Treatment",
+          "score": 0.12300000339746475
+        },
+        {
+          "id": "T11521",
+          "name": "Salivary Gland Disorders and Functions",
+          "score": 0.04019999876618385
+        }
+      ],
+      "keywords": [
+        "Oral cavity",
+        "Narrative review",
+        "Liquid biopsy",
+        "Biomarker",
+        "Biopsy",
+        "Clinical trial",
+        "Cancer",
+        "Review article"
+      ],
+      "sdgs": [
+        {
+          "score": 0.46208465099334717,
+          "id": "https://metadata.un.org/sdg/16",
+          "display_name": "Peace, Justice and strong institutions"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/cancers18132088",
+      "openalex_url": "https://openalex.org/W7166457890",
+      "pdf_url": "https://www.mdpi.com/2072-6694/18/13/2088/pdf?version=1782547112",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2072-6694/18/13/2088/pdf?version=1782547112",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13359598/"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1007/s41547-025-00309-w",
+      "arxiv_id": null,
+      "openalex_id": "W4413997622",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Minimally invasive excision of oral fibromas: a clinical and histological comparison between diode laser and scalpel techniques",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Ahmed Ali Shnawa",
+          "orcid": null,
+          "affiliation": "University of Baghdad",
+          "country": "IQ",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Hanan J. Taher",
+          "orcid": "https://orcid.org/0009-0004-1184-2075",
+          "affiliation": "University of Baghdad",
+          "country": "IQ",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Afrah A. Khalil",
+          "orcid": null,
+          "affiliation": "University of Anbar",
+          "country": "IQ",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2025,
+      "venue": "Lasers in Dental Science",
+      "issn": "2367-2587",
+      "type": "article",
+      "citation_count": 1,
+      "referenced_works_count": 27,
+      "fwci": 0.9941,
+      "cited_by_percentile_year": 95,
+      "topics": [
+        {
+          "id": "T11787",
+          "name": "Oral and Maxillofacial Pathology",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T10975",
+          "name": "Bone Tumor Diagnosis and Treatments",
+          "score": 0.9908999800682068
+        },
+        {
+          "id": "T13813",
+          "name": "Oral and Craniofacial Lesions",
+          "score": 0.9904999732971191
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Surgical excision",
+        "Surgery",
+        "Laser",
+        "Radiology",
+        "Optics"
+      ],
+      "sdgs": [],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1007/s41547-025-00309-w",
+      "openalex_url": "https://openalex.org/W4413997622",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.1016/j.jvoice.2023.12.020",
+      "arxiv_id": null,
+      "openalex_id": "W4391754501",
+      "ss_paper_id": null,
+      "pmid": "38350807",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Injuries of Different Surgical Instruments on the Vocal Folds of Dogs",
+      "abstract": "OBJECTIVE: laser, electrosurgical knife, plasma radiofrequency ablation, and steel knife. STUDY DESIGN: Randomized controlled study. METHODS: laser, electrosurgical knife, plasma radiofrequency ablation, steel knife, and other instruments were used to simulate the laryngeal microsurgery on experimental dogs. Both total vocal fold resection and punctate ablation were performed. On the day of surgery and 6 days later, the vocal fold tissue from the surgical site was removed for histological evaluation. The extent of vocal fold damage was assessed using the automatic digital pathological scanning system. RESULTS: We detected varying degrees of damage to the laryngeal tissues. Only the steel knife caused epidermal defects on the vocal fold tissue, while other instruments produced thermal damage of different degrees. Furthermore, the steel knife also showed better and faster healing. The plasma radiofrequency ablation was found to cause more severe thermal burns to vocal folds than other surgical instruments (P < 0.05). Six days postsurgery the inflammatory reaction from the steel knife had basically subsided, with only hyperplasia and tissue repair visible microscopically, showing the best healing degree. On the other hand, the radiofrequency ablation group showed the heaviest inflammatory reaction, indicating relatively poor prognosis (P < 0.05). CONCLUSION: laser, the electrotome and steel knife showed less damage and better healing, while the plasma radiofrequency ablation showed the most obvious thermal burns to laryngeal and vocal tissues during surgery, with relatively poor healing.",
+      "authors": [
+        {
+          "name": "Jiangping Song",
+          "orcid": "https://orcid.org/0000-0002-9488-7823",
+          "affiliation": "Ningbo University",
+          "country": "CN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Zhisen Shen",
+          "orcid": "https://orcid.org/0000-0001-6660-0488",
+          "affiliation": "Ningbo University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Yuna Zhang",
+          "orcid": "https://orcid.org/0000-0002-3417-0484",
+          "affiliation": "Ningbo University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Shanshan Gu",
+          "orcid": null,
+          "affiliation": "Ningbo University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hongxia Deng",
+          "orcid": "https://orcid.org/0000-0001-6547-8265",
+          "affiliation": "Ningbo University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Voice",
+      "issn": "0892-1997",
+      "type": "article",
+      "citation_count": 1,
+      "referenced_works_count": 45,
+      "fwci": 0.2276,
+      "cited_by_percentile_year": 94,
+      "topics": [
+        {
+          "id": "T10863",
+          "name": "Voice and Speech Disorders",
+          "score": 0.49219998717308044
+        },
+        {
+          "id": "T11728",
+          "name": "Thyroid and Parathyroid Surgery",
+          "score": 0.249099999666214
+        },
+        {
+          "id": "T11260",
+          "name": "Tracheal and airway disorders",
+          "score": 0.16859999299049377
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Vocal folds",
+        "Ablation",
+        "Thermal burn",
+        "Surgery",
+        "Radiofrequency ablation",
+        "Ablative case",
+        "Microsurgery",
+        "Laser surgery",
+        "Larynx"
+      ],
+      "sdgs": [
+        {
+          "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/j.jvoice.2023.12.020",
+      "openalex_url": "https://openalex.org/W4391754501",
+      "pdf_url": "http://www.jvoice.org/article/S0892199723004113/pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "http://www.jvoice.org/article/S0892199723004113/pdf"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.3390/surgeries5020032",
+      "arxiv_id": null,
+      "openalex_id": "W4396925133",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Diode Laser Surgery of Peripheral Developing Odontoma in a Pediatric Patient: A Case Report with Narrative Review of the Literature",
+      "abstract": "Peripheral developing odontoma is a rare odontogenic lesion that mostly occurs in children. Their clinical and radiological features generally provide clinical suspicion of a benign lesion but only a histological examination may lead to the final diagnosis. Surgical management is generally easy and resolutive, but it can become more complicated in uncooperative patients and may thus require additional procedures to perform a fit surgery. We report a case of peripheral developing odontoma of the palatal aspect of the anterior maxilla that occurred in an uncooperative child subsequently treated by diode laser surgery, highlighting the benefit of this kind of surgery in pediatric patients. Data from the literature on peripheral developing odontoma have been collected and discussed with a narrative review.",
+      "authors": [
+        {
+          "name": "Marta Forte",
+          "orcid": "https://orcid.org/0009-0009-7323-6405",
+          "affiliation": "University of Bari Aldo Moro",
+          "country": "IT",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Giuseppe Barile",
+          "orcid": "https://orcid.org/0000-0003-4027-4105",
+          "affiliation": "University of Bari Aldo Moro",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Antonio d\u2019Amati",
+          "orcid": "https://orcid.org/0000-0002-4810-1201",
+          "affiliation": "University of Bari Aldo Moro",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Giuseppe Ingravallo",
+          "orcid": "https://orcid.org/0000-0002-4792-3545",
+          "affiliation": "University of Bari Aldo Moro",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Massimo Corsalini",
+          "orcid": "https://orcid.org/0000-0002-0521-1363",
+          "affiliation": "University of Bari Aldo Moro",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Alfonso Manfuso",
+          "orcid": "https://orcid.org/0000-0002-1560-2069",
+          "affiliation": "University of Bari Aldo Moro",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gianfranco Favia",
+          "orcid": "https://orcid.org/0000-0002-6746-7241",
+          "affiliation": "University of Bari Aldo Moro",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Saverio Capodiferro",
+          "orcid": "https://orcid.org/0000-0002-9819-6229",
+          "affiliation": "University of Bari Aldo Moro",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2024,
+      "venue": "Surgeries",
+      "issn": "2673-4095",
+      "type": "review",
+      "citation_count": 1,
+      "referenced_works_count": 43,
+      "fwci": 0.1345,
+      "cited_by_percentile_year": 94,
+      "topics": [
+        {
+          "id": "T11787",
+          "name": "Oral and Maxillofacial Pathology",
+          "score": 1.0
+        },
+        {
+          "id": "T11035",
+          "name": "Salivary Gland Tumors Diagnosis and Treatment",
+          "score": 0.9973999857902527
+        },
+        {
+          "id": "T13813",
+          "name": "Oral and Craniofacial Lesions",
+          "score": 0.9940000176429749
+        }
+      ],
+      "keywords": [
+        "Narrative",
+        "Narrative review",
+        "Medicine",
+        "Psychology",
+        "Intensive care medicine",
+        "Literature",
+        "Art"
+      ],
+      "sdgs": [
+        {
+          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/17",
+          "display_name": "Partnerships for the goals"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/surgeries5020032",
+      "openalex_url": "https://openalex.org/W4396925133",
+      "pdf_url": "https://doi.org/10.3390/surgeries5020032",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.3390/surgeries5020032",
+        "https://ricerca.uniba.it/bitstream/11586/520345/1/surgeries-05-00032.pdf",
+        "https://doaj.org/article/af2a60367fc74b8a9866b98fe78cb464"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.34119/bjhrv6n6-248",
+      "arxiv_id": null,
+      "openalex_id": "W4389272044",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Diagn\u00f3stico e tratamento do fibroma traum\u00e1tico em Mucosa Jugal: relato de caso cl\u00ednico",
+      "abstract": "O fibroma traum\u00e1tico \u00e9 um processo proliferativo n\u00e3o-neopl\u00e1sico reativo do tecido conjuntivo fibroso local. A regi\u00e3o mais acometida \u00e9 a mucosa jugal, labial ou l\u00edngua, embora possa ocorrer em qualquer regi\u00e3o da boca. Dentre as causas, pode-se relacionar, principalmente, \u00e0 situa\u00e7\u00f5es traum\u00e1ticas locais. A les\u00e3o caracteriza-se por colora\u00e7\u00e3o semelhante \u00e0 mucosa adjacente, formato arredondado, de tamanho aproximado a 1,5 cent\u00edmetros, sem sintomatologia dolorosa - a menos que a superf\u00edcie esteja ulcerada. O objetivo deste artigo \u00e9 apresentar um caso de fibroma traum\u00e1tico em mulher, de 49 anos, bem como discorrer a respeito do diagn\u00f3stico e tratamento proposto. A queixa relatada pela paciente foi um aumento de volume na regi\u00e3o da bochecha, com tempo de evolu\u00e7\u00e3o de 1 ano. A paciente fazia uso de pr\u00f3tese parcial remov\u00edvel desadaptada e h\u00e1bito de \u201csugar\u201d a regi\u00e3o da mucosa adjacente \u00e0 desadapta\u00e7\u00e3o da pr\u00f3tese. O tratamento proposto foi bi\u00f3psia excisional e envio para an\u00e1lise anatomopatol\u00f3gica. Apesar de ser assintom\u00e1tica, a mastiga\u00e7\u00e3o era prejudicada e a les\u00e3o sofria mais traumas, destacando a import\u00e2ncia de uma efetiva resolu\u00e7\u00e3o cl\u00ednica para diagn\u00f3stico, tratamento, interrup\u00e7\u00e3o do agente etiol\u00f3gico, melhora na qualidade do aspecto oral e aus\u00eancia de recidivas.",
+      "authors": [
+        {
+          "name": "Eduardo Almeida De Souza",
+          "orcid": null,
+          "affiliation": "Universidade de S\u00e3o Paulo",
+          "country": "BR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Igor Anderson Ferreira Domingues",
+          "orcid": null,
+          "affiliation": "Universidade de S\u00e3o Paulo",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Paulo de Tarso Camillo de Carvalho",
+          "orcid": null,
+          "affiliation": "Universidade de S\u00e3o Paulo",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Carlos Alberto Muzilli",
+          "orcid": null,
+          "affiliation": "Universidade de S\u00e3o Paulo",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Wilson Gustavo Cral",
+          "orcid": "https://orcid.org/0000-0002-2015-4934",
+          "affiliation": "Universidade de S\u00e3o Paulo",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mariane Michels",
+          "orcid": "https://orcid.org/0000-0001-6234-0738",
+          "affiliation": "Universidade de S\u00e3o Paulo",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2023,
+      "venue": "Brazilian Journal of Health Review",
+      "issn": "2595-6825",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 12,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11787",
+          "name": "Oral and Maxillofacial Pathology",
+          "score": 0.9976000189781189
+        },
+        {
+          "id": "T11991",
+          "name": "Soft tissue tumor case studies",
+          "score": 0.9591000080108643
+        },
+        {
+          "id": "T13383",
+          "name": "Tumors and Oncological Cases",
+          "score": 0.9546999931335449
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Gynecology"
+      ],
+      "sdgs": [
+        {
+          "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.34119/bjhrv6n6-248",
+      "openalex_url": "https://openalex.org/W4389272044",
+      "pdf_url": "https://ojs.brazilianjournals.com.br/ojs/index.php/BJHR/article/download/65156/46621",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://ojs.brazilianjournals.com.br/ojs/index.php/BJHR/article/download/65156/46621"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    },
+    {
+      "doi": "10.20944/preprints202402.1690.v1",
+      "arxiv_id": null,
+      "openalex_id": "W4392770655",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Diode Laser Surgery of Peripheral Ossifying Fibroma in Children: A Case Report with Narrative Review of the Literature",
+      "abstract": "Background: Peripheral Ossifying Fibroma (POF) is a benign gingival tumor generally presenting as a slow-growing mass, usually not ulcerated, and without bleeding. Histopathological exam shows fibrous connective tissue with spots or extensive areas of intralesional calcifications, which can also be detectable on radiograms. Methods and case presentation: We present the case of a 4-year-old male with a retro-incisive swelling of the hard palate, associated with speaking and feeding difficulties. On CT scans, a small intralesional calcification was detected. After conscious sedation, the patient was subjected to diode laser excision (910 nm, 2W, CW, 300 \uf06dm fiber) with-out post-operative complications. A review was conducted by searching the words \u201cperipheral ossifying fibroma\u201d AND \u201cchildren\u201d OR \u201cinfant\u201d and including manuscripts of the last 15 years. Results: POF is an uncommon lesion of the oral mucosa and may sporadically affect the palatal mucosa in children. Considering its epidemiology and conventional clinical presentation as epu-lis, the pre-operative diagnosis may be relatively difficult. Risk factors could be represented by plaque, calculus, or trauma, all supporting a possible reactive pathogenesis, but a certain etiology is still missing. The main problem of POF is the recurrence rate, which is particularly high (8-20%), thus suggesting that a deep excision is recommended with full extension to the hard tis-sue of bone and to the adjacent periodontal ligament. Diode laser surgery may be recommended for such treatments, especially in pediatric patients, associated with intraoperative conscious se-dation. Data emerging from the relevant literature on POF management in children have been collected and discussed. Conclusions: The authors suggest the use of diode laser for the complete excision of POF, especially in less-compliant patients as children, with a low grade of comorbidi-ties and good outcomes, giving the surgeon a viable alternative to conventional surgery.",
+      "authors": [
+        {
+          "name": "Marta Forte",
+          "orcid": "https://orcid.org/0009-0009-7323-6405",
+          "affiliation": "University of Bari Aldo Moro",
+          "country": "IT",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Giuseppe Barile",
+          "orcid": "https://orcid.org/0000-0003-4027-4105",
+          "affiliation": "University of Bari Aldo Moro",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Antonio d\u2019Amati",
+          "orcid": "https://orcid.org/0000-0002-4810-1201",
+          "affiliation": "University of Bari Aldo Moro",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Giuseppe Ingravallo",
+          "orcid": "https://orcid.org/0000-0002-4792-3545",
+          "affiliation": "University of Bari Aldo Moro",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Massimo Corsalini",
+          "orcid": "https://orcid.org/0000-0002-0521-1363",
+          "affiliation": "University of Bari Aldo Moro",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Alfonso Manfuso",
+          "orcid": "https://orcid.org/0000-0002-1560-2069",
+          "affiliation": "University of Bari Aldo Moro",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gianfranco Favia",
+          "orcid": "https://orcid.org/0000-0002-6746-7241",
+          "affiliation": "University of Bari Aldo Moro",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Saverio Capodiferro",
+          "orcid": "https://orcid.org/0000-0002-9819-6229",
+          "affiliation": "University of Bari Aldo Moro",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2024,
+      "venue": "Preprints.org",
+      "issn": null,
+      "type": "preprint",
+      "citation_count": 0,
+      "referenced_works_count": 46,
+      "fwci": null,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11787",
+          "name": "Oral and Maxillofacial Pathology",
+          "score": 0.9998000264167786
+        },
+        {
+          "id": "T10975",
+          "name": "Bone Tumor Diagnosis and Treatments",
+          "score": 0.9997000098228455
+        },
+        {
+          "id": "T11991",
+          "name": "Soft tissue tumor case studies",
+          "score": 0.9986000061035156
+        }
+      ],
+      "keywords": [
+        "Narrative",
+        "Ossifying fibroma",
+        "Laser",
+        "Narrative review",
+        "Medicine",
+        "Fibroma",
+        "Surgery",
+        "Art",
+        "Anatomy",
+        "Optics"
+      ],
+      "sdgs": [
+        {
+          "score": 0.8299999833106995,
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.20944/preprints202402.1690.v1",
+      "openalex_url": "https://openalex.org/W4392770655",
+      "pdf_url": "https://www.preprints.org/manuscript/202402.1690/v1/download",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.preprints.org/manuscript/202402.1690/v1/download"
+      ],
+      "journal_metric": null,
+      "journal_rank": null,
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null
+    }
+  ]
+}

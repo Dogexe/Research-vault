@@ -1,0 +1,62 @@
+[
+  {
+    "paper_id": "doi|10.37897/rjs.2025.2.3",
+    "rcs": 1,
+    "reasoning": "Rabbit oral incision healing study but uses an herbal mouth rinse (Costus speciosus), not a laser of any kind; only 'oral incision' keyword overlaps with the query.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.21608/jlsa.2025.372983.1032",
+    "rcs": 3,
+    "reasoning": "Title concerns excimer corneal ablation (unrelated) but the abstract describes an 810 nm low-power laser on rabbit periodontal bone defects with histology; title/abstract mismatch suggests a data error, and even the abstract's content is bone regeneration, not soft-tissue biopsy.",
+    "flag": "parse_failed_uncertain"
+  },
+  {
+    "paper_id": "doi|10.4081/ltj.2023.393",
+    "rcs": 3,
+    "reasoning": "Case report of laser-assisted oral soft-tissue (mucocele) and bone removal, but uses Er,Cr:YSGG laser, not a diode laser, and gives no delivered-power/speed data or histopathology beyond visual healing.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1089/photob.2019.29013.abstracts",
+    "rcs": 3,
+    "reasoning": "Reports diode laser parameters (power, time, frequency, energy) but for photobiomodulation of MRONJ bone sequestration, not soft-tissue biopsy incision or histopathologic biopsy outcomes.",
+    "flag": null
+  },
+  {
+    "paper_id": "openalex|W2901135310",
+    "rcs": 4,
+    "reasoning": "Thesis includes an RCT of laser vs. scalpel frenectomy measuring treatment time and bleeding, methodologically close to the query, but uses Er:YAG rather than a diode laser and lacks delivered-power data.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.5772/52404",
+    "rcs": 6,
+    "reasoning": "Direct review of diode laser applications in oral and maxillofacial surgery, matching the core device and clinical domain of the query, though it lacks specific power/speed/histopathology data itself.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1002/lsm.22127",
+    "rcs": 1,
+    "reasoning": "Conference abstract on non-linear optical microscopy for imaging oral premalignant lesion biomarkers; no diode laser surgical/biopsy content despite oral-lesion overlap.",
+    "flag": null
+  },
+  {
+    "paper_id": "openalex|W1551935427",
+    "rcs": 0,
+    "reasoning": "Mesenchymal stem cell wound-healing model thesis with no laser or dental biopsy content whatsoever.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1510/icvts.2010.0000s1",
+    "rcs": 0,
+    "reasoning": "Cardiovascular surgery abstract on renal transplant patients; entirely unrelated to lasers or oral biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "openalex|W2481756244",
+    "rcs": 1,
+    "reasoning": "Study of deciduous dental pulp histology methods; only 'dental' keyword overlaps, no laser or biopsy incision content.",
+    "flag": null
+  }
+]

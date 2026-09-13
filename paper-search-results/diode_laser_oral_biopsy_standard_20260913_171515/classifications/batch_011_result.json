@@ -1,0 +1,62 @@
+[
+  {
+    "paper_id": "doi|10.32604/cju.2026.070096",
+    "rcs": 1,
+    "reasoning": "Diode laser keyword overlap only; concerns surgical smoke in laparoscopic partial nephrectomy on porcine kidney, unrelated organ and procedure.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-026-04998-y",
+    "rcs": 3,
+    "reasoning": "Dental semiconductor laser as adjunct in vital pulp therapy (hemostasis, pulp capping) rather than oral soft-tissue biopsy incision/histopathology.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-026-05011-2",
+    "rcs": 5,
+    "reasoning": "Directly compares diode laser incisions (specific W/mode/wavelength settings) versus scalpel with operative time and accuracy metrics, but on porcine skin as a training model, not oral tissue biopsy or histopathologic outcome.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1136/bcr-2025-271705",
+    "rcs": 0,
+    "reasoning": "Case report of accidental industrial diode laser eye injury (retinal maculopathy); no relation to oral biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1186/s12903-026-09504-y",
+    "rcs": 2,
+    "reasoning": "Diode laser used to enhance adhesive bond strength of ceramic restorations to dentin; restorative dentistry, not soft-tissue biopsy or incision parameters.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1021/acssensors.6c01927",
+    "rcs": 0,
+    "reasoning": "Mid-infrared quantum cascade laser sensor for wastewater pharmaceutical monitoring; entirely different laser application domain.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-026-04984-4",
+    "rcs": 2,
+    "reasoning": "Diode laser activation of an endodontic irrigant for antibacterial effect against E. faecalis; not oral soft-tissue biopsy or incision.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-026-04981-7",
+    "rcs": 1,
+    "reasoning": "Diode laser among several light sources tested for enamel surface roughness after bleaching; unrelated to soft-tissue biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s10006-026-01618-5",
+    "rcs": 3,
+    "reasoning": "450 nm diode laser used for retrodiscal soft-tissue ablation in TMJ arthroscopy with defined operating parameters, but this is joint-tissue ablation via needle arthroscopy, not oral mucosal biopsy with histopathology.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1038/s41598-026-65462-z",
+    "rcs": 1,
+    "reasoning": "Diode laser used only to activate internal bleaching gel after root canal revascularization; unrelated to oral soft-tissue biopsy.",
+    "flag": null
+  }
+]

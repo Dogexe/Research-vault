@@ -1,0 +1,32 @@
+[
+  {
+    "paper_id": "doi|10.3390/dj9060066",
+    "rcs": 2,
+    "reasoning": "Uses CO2 laser (not diode) for orthodontic-surgical exposure of impacted canines, not soft-tissue biopsy; laser-in-dentistry overlap only, wrong modality and wrong clinical question.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.3390/app132212327",
+    "rcs": 4,
+    "reasoning": "Scoping review of laser-assisted excision for oral mucocele covering general laser surgery efficacy, but not diode-specific and not framed around biopsy verification, power delivery, or histopathology as primary endpoints.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.11604/pamj.2024.47.105.26619",
+    "rcs": 5,
+    "reasoning": "Diode laser used for oral soft-tissue excision (fibrous hyperplasia) with qualitative notes on bleeding/healing, but it is a single case report lacking measured power/speed parameters or histopathologic analysis.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.4103/jisp.jisp_218_23",
+    "rcs": 7,
+    "reasoning": "Direct hit: 980nm diode laser incisions on oral soft tissue at defined power settings, histomorphometric measurement of carbonization/necrosis/incision depth-width, closely matching the query's core parameters.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.3390/ma13235340",
+    "rcs": 3,
+    "reasoning": "Ex vivo diode laser study measuring power, duty cycle, temperature, and lesion depth, but general tissue biostimulation/photonics work, not oral biopsy or histopathology, and not dental-specific.",
+    "flag": null
+  }
+]

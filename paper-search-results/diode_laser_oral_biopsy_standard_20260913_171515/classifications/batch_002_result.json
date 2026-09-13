@@ -1,0 +1,62 @@
+[
+  {
+    "paper_id": "doi|10.34172/jlms.2023.44",
+    "rcs": 3,
+    "reasoning": "Systematic review of CO2 laser (not diode) in minor oral soft-tissue surgery; different laser modality, no delivered-power/speed data or diode-specific histopathology.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.4236/ojst.2022.1210027",
+    "rcs": 2,
+    "reasoning": "General narrative review of lasers in periodontology; not diode-specific, no operating parameters or biopsy/histopathology focus.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1111/odi.14851",
+    "rcs": 1,
+    "reasoning": "Review of optical coherence tomography as a diagnostic imaging tool for oral mucosal disease; unrelated to diode laser surgical excision or operating parameters.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.34172/jlms.2023.37",
+    "rcs": 6,
+    "reasoning": "Direct hit: compares dual-wavelength (810/980nm) diode laser at measured power outputs (1.5W/2.5W) against Er,Cr:YSGG for oral soft-tissue incisions, with temperature-rise data; lacks biopsy/histopathologic outcome and is an ex vivo animal-tissue study.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1590/1678-7757-2022-0307",
+    "rcs": 5,
+    "reasoning": "RCT using diode laser gingival depigmentation with histological tissue assessment, but focus is on i-PRF healing adjunct rather than diode power/incision-speed parameters or biopsy novelty verification.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.19256/abstract.cduo.02.2022",
+    "rcs": 0,
+    "reasoning": "Conference abstract-book entry containing only Italian publisher legal/copyright boilerplate, no scientific content on lasers or oral surgery.",
+    "flag": "abstract_unavailable"
+  },
+  {
+    "paper_id": "doi|10.1186/s40902-025-00475-8",
+    "rcs": 3,
+    "reasoning": "RCT compares scalpel vs CO2 laser (not diode) for lip repositioning/gingival display surgery; different laser type and different clinical target than diode biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.5772/66008",
+    "rcs": 0,
+    "reasoning": "General dermatologic surgery textbook chapter with no dental, diode laser, or oral biopsy content.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.7759/cureus.63342",
+    "rcs": 4,
+    "reasoning": "Pediatric case series (n=3) comparing scalpel, diode laser, and electrocautery for oral mucocele excision with healing outcomes, but no delivered-power/speed data or histopathologic detail, and design is a small case series.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.17615/mh46-z448",
+    "rcs": 2,
+    "reasoning": "Review of laser use in direct pulp capping (endodontic, not soft-tissue biopsy); discusses power/wavelength generically but wrong clinical application.",
+    "flag": null
+  }
+]

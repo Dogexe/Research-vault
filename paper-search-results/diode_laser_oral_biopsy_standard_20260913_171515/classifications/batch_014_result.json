@@ -1,0 +1,32 @@
+[
+  {
+    "paper_id": "doi|10.3290/j.qi.b7041768",
+    "rcs": 4,
+    "reasoning": "Diode laser (970nm) vs scalpel for soft tissue in stage-two implant surgery, with pain/bleeding/healing outcomes, but it is tissue exposure not excisional biopsy, no delivered power/speed reported, and no histopathologic evaluation of specimen.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.12688/f1000research.173988.1",
+    "rcs": 1,
+    "reasoning": "Diode laser used for dentinal tubule occlusion in hypersensitivity management (hard tissue SEM study), unrelated to soft-tissue biopsy or incision technique.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1177/25785478261462397",
+    "rcs": 1,
+    "reasoning": "Diode laser used as photobiomodulation/laser acupuncture for nerve hypoesthesia recovery after extraction, not for soft-tissue incision or biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-026-04925-1",
+    "rcs": 2,
+    "reasoning": "940nm diode laser used as adjunct to mechanical debridement in peri-implantitis treatment; laser-tissue soft tissue interaction context but no incision/biopsy or histopathology, different sub-area.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1186/s13005-026-00632-y",
+    "rcs": 1,
+    "reasoning": "970nm diode laser used as a dentin surface pretreatment for fiber post bonding, an in-vitro endodontic/restorative study unrelated to oral soft-tissue biopsy.",
+    "flag": null
+  }
+]

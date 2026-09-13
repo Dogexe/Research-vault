@@ -1,0 +1,62 @@
+[
+  {
+    "paper_id": "doi|10.1046/j.1445-2197.2003.02748.x",
+    "rcs": 0,
+    "reasoning": "MINORS is a generic methodological quality instrument for non-randomized surgical studies; no connection to lasers, oral biopsy, or laser parameters.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1186/1471-2288-14-43",
+    "rcs": 0,
+    "reasoning": "SYRCLE's risk-of-bias tool is for animal-study systematic reviews methodology; wholly unrelated to diode lasers or oral soft-tissue biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1902/jop.1993.64.7.589",
+    "rcs": 4,
+    "reasoning": "Reviews CO2 and Nd:YAG (not diode) lasers for oral soft-tissue surgery including incisional/excisional biopsies and histologic effects; same procedure domain but wrong laser type and no delivered-power/speed data.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1016/s1079-2104(96)80302-7",
+    "rcs": 4,
+    "reasoning": "Er,Cr:YSGG (not diode) laser effects on mucocutaneous soft tissue histology; adjacent laser-tissue interaction study but different wavelength/device and no abstract to confirm biopsy/power details.",
+    "flag": "no_abstract_uncertain"
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-010-0770-4",
+    "rcs": 5,
+    "reasoning": "Nd:YAG laser vs scalpel histological comparison on human oral mucosa specimens — directly on-topic methodology (laser incision vs conventional, histopathologic outcome) but wrong laser type and no abstract.",
+    "flag": "no_abstract_uncertain"
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-011-0900-7",
+    "rcs": 5,
+    "reasoning": "Title is an almost exact match: 808nm diode laser on oral soft-tissue lesions, histopathological diagnosis and physical damage assessment; abstract missing forces cap at 5 despite apparent high core relevance.",
+    "flag": "no_abstract_uncertain"
+  },
+  {
+    "paper_id": "pmid|22889502",
+    "rcs": 5,
+    "reasoning": "General overview of oral soft-tissue biopsy technique and diagnostic pitfalls; covers the biopsy dimension of the query but has no laser-specific or delivered-power/speed content.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-010-0756-2",
+    "rcs": 3,
+    "reasoning": "In vitro KTP laser (not diode) effects on oral soft tissue; tangential laser-tissue interaction study, different device and non-clinical setting, abstract unavailable.",
+    "flag": "no_abstract_uncertain"
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-011-0969-z",
+    "rcs": 3,
+    "reasoning": "In vitro histological evaluation of Er:YAG (not diode) laser on oral soft tissue; tangential to core diode-laser biopsy query, no abstract available.",
+    "flag": "no_abstract_uncertain"
+  },
+  {
+    "paper_id": "doi|10.1016/0030-4220(90)90397-b",
+    "rcs": 4,
+    "reasoning": "Histologic evaluation of tissue necrosis width from CO2 laser incisions; relevant histopathologic-outcome methodology but different laser type and no abstract.",
+    "flag": "no_abstract_uncertain"
+  }
+]

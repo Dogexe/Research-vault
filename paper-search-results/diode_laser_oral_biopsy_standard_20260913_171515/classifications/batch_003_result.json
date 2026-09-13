@@ -1,0 +1,62 @@
+[
+  {
+    "paper_id": "doi|10.32628/ijsrst52310612",
+    "rcs": 4,
+    "reasoning": "General narrative review of lasers in oral/maxillofacial surgery; covers laser use broadly but not diode-specific power/speed parameters or biopsy histopathology outcomes.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.21608/ajdsm.2017.107809",
+    "rcs": 5,
+    "reasoning": "RCT with explicit diode laser parameters (935 nm, 1.6 W, 0.4 mm fiber) and pain/bleeding outcomes, but procedure is exposure of a delayed erupted tooth, not biopsy, and no histopathology reported.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1002/lsm.22229",
+    "rcs": 1,
+    "reasoning": "Title matches 'laser'/'oral' keywords but abstract is about multiphoton/Raman optical imaging of biomarkers in a hamster carcinogenesis model, unrelated to diode laser incision or delivered power/speed.",
+    "flag": "off_topic_despite_keywords"
+  },
+  {
+    "paper_id": "doi|10.1002/lsm.22351",
+    "rcs": 1,
+    "reasoning": "Duplicate abstract of the same non-linear optical imaging biomarker study; keyword overlap with 'laser'/'oral cavity' only, no relation to diode laser biopsy technique or parameters.",
+    "flag": "off_topic_despite_keywords"
+  },
+  {
+    "paper_id": "doi|10.5772/intechopen.1016842",
+    "rcs": 3,
+    "reasoning": "Reviews optical coherence tomography as a diagnostic imaging modality for oral hard/soft tissue; related dental-optics domain but a different sub-area (diagnosis, not diode laser surgical excision/biopsy).",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.7759/cureus.113690",
+    "rcs": 7,
+    "reasoning": "Prospective comparative study of diode laser ablation vs excision for histopathologically confirmed oral leukoplakia, reporting healing, pain, bleeding, and recurrence outcomes; direct hit on diode laser soft-tissue surgery with histopathologic correlation, though explicit power/speed settings aren't detailed in the abstract.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.62610/rjor.2026.2.18.6",
+    "rcs": 6,
+    "reasoning": "Narrative review covering diode (810-1064 nm) and other laser types for preprosthetic soft-tissue procedures, explicitly discussing laser parameter protocols and postoperative clinical outcomes; relevant but a review, not primary delivered-power/incision-speed data.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.26599/oshm.2026.9610053",
+    "rcs": 3,
+    "reasoning": "Review of Er:YAG laser applications across dental subspecialties including soft tissue resection, but wrong laser modality (erbium, not diode) and no biopsy-specific power/speed/histopathology focus.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.5327/2525-5711.501",
+    "rcs": 0,
+    "reasoning": "Case report on medication-related osteonecrosis of the jaw after tooth extraction; no diode laser, biopsy, or incision parameters involved.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.19256/abstract.silo.2025",
+    "rcs": 1,
+    "reasoning": "In vitro cytotoxicity study of a disinfectant compound for oral decontamination; 'Laser' keyword appears only via venue/session context, no actual diode laser biopsy content.",
+    "flag": "off_topic_despite_keywords"
+  }
+]

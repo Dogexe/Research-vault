@@ -1,0 +1,62 @@
+[
+  {
+    "paper_id": "doi|10.1155/2021/6658268",
+    "rcs": 7,
+    "reasoning": "Direct hit: 976nm diode laser oral soft tissue biopsy ex vivo study with explicit power (4-6W), fluence, CW/PW mode parameters and measured histological thermal damage margins.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.4317/medoral.20519",
+    "rcs": 6,
+    "reasoning": "Experimental diode laser oral surgery at different wattages vs scalpel with histopathologic outcome (re-epithelialization, pseudoepitheliomatous hyperplasia); relevant operating parameters and histology but focused on healing rather than biopsy margin diagnostic accuracy.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1155/2018/2691942",
+    "rcs": 7,
+    "reasoning": "Directly measures diode laser incision parameters (wavelength, continuous mode) against histological outcomes (carbonization depth/width, necrosis, healing) in a controlled animal model, closely matching query dimensions.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.3390/dj13060265",
+    "rcs": 7,
+    "reasoning": "Direct hit: dual-wavelength diode laser oral soft tissue biopsy ex vivo study with specific power settings (2-4W CW/PW) and quantified histological thermal damage relevant to diagnostic margin accuracy.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.3390/healthcare8030267",
+    "rcs": 4,
+    "reasoning": "Single case report of diode laser (445nm) excision of a tongue tumor; mentions laser-induced histopathological artifacts but lacks measured power/speed parameters or systematic histopathologic evaluation central to the query.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.4067/s0718-381x2023000200136",
+    "rcs": 5,
+    "reasoning": "Integrative review of diode laser treatment of oral fibrous hyperplasia reporting wavelength range and average power, but aggregates case reports/series rather than presenting original measured incision/power data or biopsy margin analysis.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.14419/ijdr.v2i1.1720",
+    "rcs": 3,
+    "reasoning": "General narrative review of soft tissue laser applications in dentistry mentioning biopsy as one of many uses; lacks specific operating parameters or histopathologic outcome data central to the query.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.3390/dj14030168",
+    "rcs": 7,
+    "reasoning": "Diode laser (980nm CW) excision of oral leukoplakia with standardized parameters, comparing thermal margin effects against histology to validate diagnostic readability, directly addressing novelty verification of biopsy outcomes.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.31900/ijl.v23i1.446",
+    "rcs": 6,
+    "reasoning": "Ex vivo histological comparison of dual-wavelength diode laser vs Er,Cr:YSGG for oral incisions with specific power settings (1.5-2.5W) and measured incision depth/morphology; diode laser is only half the comparison but data is directly on-topic.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1002/lary.28518",
+    "rcs": 3,
+    "reasoning": "Studies laser power/duration/distance settings and histological thermal damage, but uses a CO2 laser on vocal cord tissue, not a dental diode laser or oral soft tissue biopsy, so only methodologically tangential.",
+    "flag": null
+  }
+]

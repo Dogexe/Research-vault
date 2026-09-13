@@ -1,0 +1,109 @@
+{
+  "prisma_s": {
+    "1_database_information": {
+      "databases": [
+        "openalex",
+        "semantic_scholar",
+        "crossref",
+        "pubmed"
+      ],
+      "primary": "OpenAlex",
+      "note": "OpenAlex polite pool + Semantic Scholar (supplement). Audit may add PubMed/arXiv."
+    },
+    "2_multi_database_searching": {
+      "performed": true,
+      "rationale": "Multi-database search reduces single-source bias (Bramer 2018: 98.3% recall achievable with >=2 databases)."
+    },
+    "3_study_registries": {
+      "queried": false,
+      "note": "Not queried by default. Available via audit tier add-ons if user enables Cochrane/ClinicalTrials."
+    },
+    "4_online_resources_browsing": {
+      "performed": false,
+      "note": "Out of scope for this skill; pre-supplied via user citation seeds when relevant."
+    },
+    "5_citation_searching": {
+      "performed": false,
+      "method": "OpenAlex forward+backward citation chase up to configured max_hops.",
+      "max_hops": 0,
+      "seeds_count": 0
+    },
+    "6_contacts": {
+      "performed": false,
+      "note": "Skill does not contact authors; relies on published records only."
+    },
+    "7_other_methods": {
+      "performed": false,
+      "methods": []
+    },
+    "8_full_search_strategies": {
+      "queries": [],
+      "boolean_expressions": [],
+      "note": "Strategy reproducible; same boolean expressions executed against each database."
+    },
+    "9_limits_and_restrictions": {
+      "filters_applied": [],
+      "language": null,
+      "publication_type": null,
+      "note": "No restrictive filters by default; tier budget bounds the number of records returned."
+    },
+    "10_search_filters": {
+      "validated_filters_used": [],
+      "note": "No pre-validated hedges used; query plan uses LLM-decomposed terms."
+    },
+    "11_prior_work": {
+      "force_includes": [],
+      "note": "User-supplied force_include DOIs (config force_include) are merged into the result set."
+    },
+    "12_updates": {
+      "incremental_search": false,
+      "note": "Not incremental within a single run; checkpoint enables manual re-run on demand."
+    },
+    "13_dates_of_searches": {
+      "search_started_at": null,
+      "search_ended_at": "2026-09-13T17:25:48.219897",
+      "wall_clock_seconds": null
+    },
+    "14_total_records": {
+      "records_screened": 188,
+      "papers_in_kg": 220,
+      "highly_relevant_count": 2,
+      "coverage_estimate": 0.667
+    },
+    "15_deduplication": {
+      "performed": true,
+      "method": "FederatedKG dedup: DOI (Level 1) -> arXiv ID (Level 2) -> PMID/OpenAlex/SS fallback -> (normalized_title, year) (last resort). E5b guard prevents same-title-different-DOI collapse.",
+      "note": "Provenance preserved per paper in sources[]."
+    },
+    "16_record_management": {
+      "tool": "paper-search-pro/2.0",
+      "format": "JSONL append-only checkpoint + materialized JSON outputs",
+      "outputs_produced": []
+    },
+    "_meta": {
+      "search_id": "diode_laser_oral_biopsy_standard_20260913_171515",
+      "user_query": "oral soft-tissue biopsy using dental diode lasers: measured delivered power, incision speed, operating parameters, and histopathologic outcomes",
+      "tier": "standard"
+    }
+  },
+  "discovery_curve_snapshots": [
+    {
+      "timestamp": "2026-09-13T17:25:48.219897",
+      "papers_evaluated": 220,
+      "highly_relevant_count": 24,
+      "n_total_estimate": 36.0,
+      "lambda": 0.0,
+      "coverage_estimate": 0.667,
+      "ci_lower": 0.58,
+      "ci_upper": 0.784,
+      "fit_failed": true
+    }
+  ],
+  "agent_invocations": [],
+  "errors": [],
+  "stop_reason": "complete",
+  "search_id": "diode_laser_oral_biopsy_standard_20260913_171515",
+  "user_query": "oral soft-tissue biopsy using dental diode lasers: measured delivered power, incision speed, operating parameters, and histopathologic outcomes",
+  "tier": "standard",
+  "generated_at": "2026-09-13T17:28:54.045364"
+}

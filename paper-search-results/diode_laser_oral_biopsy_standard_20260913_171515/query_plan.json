@@ -1,0 +1,57 @@
+{
+  "original_query": "novelty verification for oral soft-tissue biopsy using dental diode lasers, with emphasis on measured delivered power, incision speed, operating parameters, and histopathologic outcomes",
+  "framework": "PICO",
+  "population": ["oral soft tissue lesions", "intraoral mucosa", "oral mucosal lesion"],
+  "intervention": [
+    "diode laser",
+    "dental diode laser",
+    "semiconductor laser",
+    "810 nm laser",
+    "940 nm laser",
+    "980 nm laser",
+    "soft tissue laser surgery"
+  ],
+  "comparator": [
+    "scalpel biopsy",
+    "cold knife biopsy",
+    "CO2 laser",
+    "Er:YAG laser",
+    "electrosurgery"
+  ],
+  "outcome": [
+    "histopathologic evaluation",
+    "histological artifact",
+    "thermal artifact",
+    "margin quality",
+    "diagnostic accuracy",
+    "wound healing"
+  ],
+  "additional_concept_blocks": {
+    "operating_parameters": [
+      "laser power output",
+      "delivered power",
+      "power density",
+      "irradiance",
+      "incision speed",
+      "cutting speed",
+      "pulse duration",
+      "duty cycle",
+      "continuous wave",
+      "contact mode",
+      "non-contact mode",
+      "fiber tip diameter"
+    ]
+  },
+  "search_strategies": [
+    "dental diode laser oral soft tissue biopsy histopathology",
+    "diode laser incisional excisional biopsy oral mucosa thermal artifact",
+    "laser power incision speed oral biopsy histologic margin"
+  ],
+  "year_range": {"min": 2010, "max": 2026},
+  "work_type_filter": "article",
+  "search_language": "en",
+  "ui_language": "en",
+  "medical_signal_detected": true,
+  "pubmed_enabled": true,
+  "arxiv_enabled": false
+}

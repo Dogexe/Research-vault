@@ -1,0 +1,62 @@
+[
+  {
+    "paper_id": "pmid|21038754",
+    "rcs": 7,
+    "reasoning": "Direct comparison of diode vs CO2 laser for excisional oral mucosal biopsies with explicit diode power setting (5.12W) and histopathological thermal-damage assessment; small pilot but hits all core query dimensions.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1089/1549541041438678",
+    "rcs": 3,
+    "reasoning": "Histopathologic/immunocytochemical study of oral soft-tissue laser biopsy effects, but lasers used are CO2 and Er:YAG, not diode, so it is a related methodology in a different laser sub-area.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1016/s1079-2104(97)90308-5",
+    "rcs": 4,
+    "reasoning": "Classic paper on laser-induced artifacts affecting diagnostic biopsy interpretation, conceptually core to novelty verification via histopathology, but no abstract available and laser type/diode-specificity unclear.",
+    "flag": "no_abstract_uncertain"
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-010-0849-y",
+    "rcs": 2,
+    "reasoning": "Concerns healing after Er,Cr:YSGG laser incisions, not diode lasers and not biopsy/histopathologic novelty verification; abstract unavailable limits assessment further.",
+    "flag": "no_abstract_uncertain"
+  },
+  {
+    "paper_id": "doi|10.1002/lsm.22244",
+    "rcs": 4,
+    "reasoning": "Rigorous RCT on oral fibrous hyperplasia excision reporting power, duration, thermal damage and histopathology, closely matching query dimensions methodologically, but uses CO2 laser rather than diode.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1016/j.bjoms.2011.09.006",
+    "rcs": 2,
+    "reasoning": "In vivo comparison of Er,Cr:YSGG vs CO2 laser epithelial artefacts in oral mucosa; relevant sub-area (laser biopsy artefact/histopathology) but no diode laser and abstract missing.",
+    "flag": "no_abstract_uncertain"
+  },
+  {
+    "paper_id": "doi|10.1007/s00784-020-03584-y",
+    "rcs": 1,
+    "reasoning": "Systematic review of laser monotherapy vs mechanical instrumentation for periodontitis pocket depth outcomes; unrelated to soft-tissue biopsy or diode incision parameters.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-020-03243-4",
+    "rcs": 8,
+    "reasoning": "Directly quantifies diode laser cut efficiency across power (0.5-4W), fixed cut speed (2mm/s), and wavelengths, with histologically measured cut depth/width and thermal damage on oral (gingival) soft tissue, matching essentially all core query dimensions.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.3390/ijms232415732",
+    "rcs": 1,
+    "reasoning": "In vitro antibacterial effect of Er:YAG/CO2 lasers plus chemical reagents on root caries bacteria; no diode laser, no biopsy, no histopathology relevance.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.3390/dj7040099",
+    "rcs": 1,
+    "reasoning": "Q-switch Nd:YAG laser decontamination of implant surfaces for peri-implantitis; different laser type, application, and tissue target entirely unrelated to oral soft-tissue biopsy.",
+    "flag": null
+  }
+]

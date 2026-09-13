@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-09-13T17:17:11.410675",
+  "papers_evaluated": 135,
+  "highly_relevant_count": 0,
+  "n_total_estimate": 1.0,
+  "lambda": 0.0,
+  "coverage_estimate": 0.0,
+  "ci_lower": 0.0,
+  "ci_upper": 0.0,
+  "fit_failed": true
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "paper_id": "doi|10.1016/j.jcms.2026.109849",
+    "rcs": 1,
+    "reasoning": "Photobiomodulation (GaAlAs/red diode lasers) for bone graft healing in cleft palate patients; laser used for biostimulation, not oral soft-tissue biopsy/incision. Wrong application entirely.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1111/scd.70224",
+    "rcs": 4,
+    "reasoning": "Case report using a diode laser (with scalpel) to excise hyperplastic oral gingival tissue, closest match to oral soft-tissue excision, but no measured power/speed data, no histopathology outcomes, and n=1 case report.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-026-04971-9",
+    "rcs": 2,
+    "reasoning": "Diode and Nd:YAG lasers used to condition dentin surfaces for endodontic regeneration, not for soft-tissue biopsy/incision; different sub-area (hard-tissue/dentin biology).",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1111/luts.70087",
+    "rcs": 0,
+    "reasoning": "980-nm diode laser prostate vaporization in urology; no relation to oral soft-tissue biopsy despite shared laser wavelength/technology keyword.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-026-04959-5",
+    "rcs": 1,
+    "reasoning": "Cadaveric facial skin thermal study with a cosmetic multi-wavelength diode laser device; dermatologic energy-based device research, unrelated to oral biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-026-04958-6",
+    "rcs": 2,
+    "reasoning": "Photobiomodulation (pulsed Nd:YAG vs continuous-wave diode laser) for orthodontic pain relief; diode laser mentioned only as a PBM comparator, not for soft-tissue incision/biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "pmid|42494346",
+    "rcs": 2,
+    "reasoning": "Ex vivo semiconductor (diode) laser plus NaClO/EDTA for antibacterial root canal disinfection; endodontic microbiology study, not oral soft-tissue biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.24875/bmhim.25000104",
+    "rcs": 3,
+    "reasoning": "Diode laser used for soft-tissue excision (circumcision) with operative time and complication data, methodologically adjacent but wrong anatomical site (genital, not oral) and no histopathology.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s10151-026-03375-9",
+    "rcs": 1,
+    "reasoning": "Nonablative 1470-nm diode laser therapy for fecal incontinence assessed via ultrasound; anorectal sphincter remodeling study, unrelated to oral biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1186/s12903-026-09172-y",
+    "rcs": 2,
+    "reasoning": "Diode laser photobiomodulation (not incisional) applied post-extraction for wound healing/pain in children; oral cavity and diode laser match but wrong modality (biostimulation, not biopsy excision).",
+    "flag": null
+  }
+]

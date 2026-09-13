@@ -1,0 +1,62 @@
+[
+  {
+    "paper_id": "doi|10.11606/d.23.2023.tde-13062024-195257",
+    "rcs": 7,
+    "reasoning": "Directly on-topic: oral biopsies performed with surgical laser (52.5% diode, wavelengths 808-830nm), analyzing laser parameters, thermal damage extent, and histopathologic/immunohistochemical outcomes (survivin) vs conventional scalpel biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.11606/t.85.2021.tde-08092021-150518",
+    "rcs": 0,
+    "reasoning": "Title is garbled HTML markup and the abstract is only acknowledgments text (mentions Biolase laser only in passing thanks); no usable scientific content to assess relevance.",
+    "flag": "parse_failed_uncertain"
+  },
+  {
+    "paper_id": "doi|10.58624/svoade.6.6",
+    "rcs": 0,
+    "reasoning": "This is a journal scope/description entry (SVOA Dentistry aims and scope), not a research paper; no title and no relevant content.",
+    "flag": "parse_failed_uncertain"
+  },
+  {
+    "paper_id": "doi|10.1002/9781118816219.index",
+    "rcs": 0,
+    "reasoning": "This is a book index (alphabetical term list), not a research article; title 'Index' and content confirm malformed/non-paper entry.",
+    "flag": "parse_failed_uncertain"
+  },
+  {
+    "paper_id": "openalex|W7137732249",
+    "rcs": 0,
+    "reasoning": "A general book on infrared spectroscopy applications in biotechnology (FTIR, fNIRS); no connection to dental diode lasers, oral biopsy, or histopathology.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.3791/72646",
+    "rcs": 3,
+    "reasoning": "Uses an 808nm diode laser with defined irradiation parameters and measures thermal safety, but the application is endodontic intracanal decontamination, not oral soft-tissue biopsy or histopathology.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.36740/merkur202604102",
+    "rcs": 0,
+    "reasoning": "Low-intensity 630nm laser used to enhance yogurt starter bacterial cultures; no relation to dental/oral surgery or biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.3760/cma.j.cn112137-20260312-00689",
+    "rcs": 2,
+    "reasoning": "Diode laser (1470nm) surgical technique with operative parameters (time, complications), but for transurethral prostate vaporesection, an entirely different anatomical site with no histopathology or oral biopsy relevance.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.47391/jpma.30221",
+    "rcs": 1,
+    "reasoning": "Diode laser mentioned only as a hair-removal modality for hirsutism; unrelated to oral tissue biopsy, incision parameters, or histopathology.",
+    "flag": null
+  },
+  {
+    "paper_id": "pmid|42699822",
+    "rcs": 2,
+    "reasoning": "Diode laser ablation used for a veterinary laryngeal (glottic web) surgical case; tangential same-modality laser surgery but wrong tissue/site (airway, not oral soft tissue) and a case report with no histopathologic/parameter analysis.",
+    "flag": null
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "paper_id": "doi|10.1038/s41598-021-99709-8",
+    "rcs": 2,
+    "reasoning": "445nm diode laser study, but on thermal effects to dental implant surfaces during decontamination, not oral soft-tissue biopsy or incision parameters/histopathology.",
+    "flag": "off_topic_despite_keywords"
+  },
+  {
+    "paper_id": "doi|10.1016/j.pdpdt.2020.101952",
+    "rcs": 1,
+    "reasoning": "Diode laser paper but about enamel bleaching and micro-hardness, unrelated to soft-tissue biopsy or incision/histopathology outcomes; no abstract to reconsider.",
+    "flag": "abstract_unavailable"
+  },
+  {
+    "paper_id": "doi|10.4103/jispcd.jispcd_241_20",
+    "rcs": 3,
+    "reasoning": "Narrative review of lasers in refractory periodontitis treatment; touches laser use in oral soft tissue but not biopsy technique, power/speed parameters, or histopathologic outcomes.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.3390/jcm12206567",
+    "rcs": 4,
+    "reasoning": "Network meta-analysis comparing diode/Er:YAG/Er,Cr:YSGG lasers for oral hyperpigmentation treatment (bleeding, pain, recurrence) — related laser-tissue domain but treatment of pigmentation, not diagnostic biopsy or histopathology.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1016/j.amjoto.2022.103556",
+    "rcs": 5,
+    "reasoning": "Pulsed diode laser treatment of premalignant oral/oropharyngeal lesions with recurrence outcomes — relevant to diode laser oral lesion management and pathology follow-up, but no abstract confirms biopsy/incision-parameter focus.",
+    "flag": "abstract_unavailable"
+  },
+  {
+    "paper_id": "doi|10.1155/2020/8883156",
+    "rcs": 4,
+    "reasoning": "Case series on dual-wavelength super-pulsed diode laser tissue ablation with power/wavelength parameters and healing outcomes, but esthetic gingivoplasty/gingivectomy context, not diagnostic biopsy or histopathology verification.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.34172/jlms.2022.22",
+    "rcs": 3,
+    "reasoning": "Case report using 940nm diode laser for lip repositioning (gummy smile) via mucosal peeling; soft-tissue diode laser surgery but cosmetic procedure, not biopsy/histopathology-focused.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1002/cre2.670",
+    "rcs": 7,
+    "reasoning": "Ex vivo comparison of micro/super pulsed diode lasers vs blade explicitly measuring excision time, thermal damage, and varying output power/pulse duration/duty cycle to guide excisions 'adequate for histopathological evaluation' — direct hit on query's core dimensions.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-023-03831-0",
+    "rcs": 4,
+    "reasoning": "Comparative study of soft tissue surgery using visible vs infrared laser radiation, plausibly including diode lasers, but missing abstract prevents confirming focus on incision speed/power/histopathology.",
+    "flag": "abstract_unavailable"
+  },
+  {
+    "paper_id": "doi|10.7759/cureus.67252",
+    "rcs": 2,
+    "reasoning": "445nm diode laser clinical/microbiological study for non-surgical chronic periodontitis treatment (SRP adjunct), not soft-tissue biopsy, incision parameters, or histopathology.",
+    "flag": null
+  }
+]

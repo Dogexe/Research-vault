@@ -1,0 +1,62 @@
+[
+  {
+    "paper_id": "doi|10.34172/joddd.40905",
+    "rcs": 4,
+    "reasoning": "Oral soft-tissue lesion excision with measured power output and healing outcomes, but uses Er,Cr:YSGG laser (not diode) and reports wound healing/pain scores rather than histopathologic detail.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.3390/surgeries5020032",
+    "rcs": 5,
+    "reasoning": "Diode laser oral surgery case with histological diagnosis mentioned, but a single pediatric case report/narrative review lacking measured power, speed, or operating parameter detail.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1016/j.wjorl.2020.09.001",
+    "rcs": 3,
+    "reasoning": "Review of laser vs cold-steel modalities but focused on phonosurgery (larynx), a different anatomic domain than oral soft-tissue biopsy, with no diode-specific parameters.",
+    "flag": null
+  },
+  {
+    "paper_id": "openalex|W2948892120",
+    "rcs": 7,
+    "reasoning": "Directly compares scalpel, diode, CO2, Nd:YAG, Er,Cr:YSGG incisions on oral mucosa with defined laser parameters, incision time, and histologic assessment of coagulation/depth — strong core reference despite zero citations.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s41547-026-00352-1",
+    "rcs": 6,
+    "reasoning": "High-power diode laser excisional biopsy of oral leiomyoma with explicit delivered power/energy (980nm, 2W, 605.85J) and histopathologic/immunohistochemical confirmation, but a single case report.",
+    "flag": "recent_unindexed"
+  },
+  {
+    "paper_id": "doi|10.58624/svoade.2025.06.031",
+    "rcs": 5,
+    "reasoning": "Diode laser excisional biopsy of oral squamous papilloma with histopathology confirmation, but no explicit power/wattage or incision speed reported, and it's a single case report.",
+    "flag": "recent_unindexed"
+  },
+  {
+    "paper_id": "doi|10.20944/preprints202402.1690.v1",
+    "rcs": 6,
+    "reasoning": "Diode laser excision of peripheral ossifying fibroma with stated parameters (910nm, 2W, CW, 300μm fiber) and histopathologic exam, though limited to a pediatric case report with literature review.",
+    "flag": "recent_unindexed"
+  },
+  {
+    "paper_id": "openalex|W7120854900",
+    "rcs": 7,
+    "reasoning": "Ex-vivo comparative study of micro- vs super-pulsed diode lasers measuring delivered power, duty cycle, pulse duration, excision time, and histologic thermal damage for oral biopsy specimens — near-perfect match to query dimensions.",
+    "flag": "recent_unindexed"
+  },
+  {
+    "paper_id": "doi|10.18203/2394-6040.ijcmph20263229",
+    "rcs": 4,
+    "reasoning": "Broad narrative review of laser wavelength/parameter selection across all dental specialties; touches operating parameters and outcomes but not focused on diode oral soft-tissue biopsy or histopathology.",
+    "flag": "recent_unindexed"
+  },
+  {
+    "paper_id": "doi|10.19256/abstract.cduo.02.2026",
+    "rcs": 0,
+    "reasoning": "AI-assisted CBCT segmentation of the inferior alveolar nerve versus human operators; no relation to diode lasers, biopsy, or histopathology.",
+    "flag": null
+  }
+]

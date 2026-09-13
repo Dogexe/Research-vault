@@ -1,0 +1,62 @@
+[
+  {
+    "paper_id": "doi|10.1089/pho.2016.29006.abstracts",
+    "rcs": 1,
+    "reasoning": "Abstract concerns fractional CO2 laser surface treatment for zirconia-resin bond strength, not diode laser soft-tissue biopsy or incision parameters.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1111/idj.12266",
+    "rcs": 1,
+    "reasoning": "Generic conference session listing (AWDC 2016 abstract book table of contents) with no abstract text and no topical signal on diode lasers or biopsy.",
+    "flag": "no_abstract_uncertain"
+  },
+  {
+    "paper_id": "doi|10.5984/jjpnsoclaserdent.27.104",
+    "rcs": 2,
+    "reasoning": "Examines Er,Cr:YSGG laser cavity preparation effects on rat dental pulp healing with adhesive systems; laser dentistry but wrong laser type and hard-tissue cavity context, not diode laser soft-tissue biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "openalex|W2957280254",
+    "rcs": 2,
+    "reasoning": "Salivary proteomic biomarker study for OSCC diagnosis; relevant oral pathology domain but no laser biopsy technique, power, or incision parameters involved.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1111/idj.12341",
+    "rcs": 0,
+    "reasoning": "Study of attention and stress levels in dental students; no relation to lasers, biopsy, or oral tissue outcomes.",
+    "flag": null
+  },
+  {
+    "paper_id": "openalex|W7126002065",
+    "rcs": 0,
+    "reasoning": "Endodontic root canal shaping/centering ability study of WaveOne files; unrelated to diode lasers or soft-tissue biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1002/lsm.22023",
+    "rcs": 2,
+    "reasoning": "Uses nonlinear optical/multiphoton microscopy to image biomarkers in oral premalignant lesions in a hamster model; laser-based oral tissue imaging but not diode laser incisional biopsy with power/speed parameters.",
+    "flag": null
+  },
+  {
+    "paper_id": "openalex|W154787600",
+    "rcs": 0,
+    "reasoning": "Microbial biofilm formation on dental impression/restorative materials; no laser or biopsy relevance.",
+    "flag": null
+  },
+  {
+    "paper_id": "openalex|W2278247839",
+    "rcs": 0,
+    "reasoning": "Microbial biofilm distribution on dental alloy surfaces; no laser or biopsy relevance.",
+    "flag": null
+  },
+  {
+    "paper_id": "openalex|W1589833989",
+    "rcs": 2,
+    "reasoning": "Nd:YAG laser therapy for dentin hypersensitivity; laser dentistry but different laser modality and clinical application (desensitization, not soft-tissue incisional biopsy).",
+    "flag": null
+  }
+]

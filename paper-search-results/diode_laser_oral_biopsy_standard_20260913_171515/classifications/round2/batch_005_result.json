@@ -1,0 +1,62 @@
+[
+  {
+    "paper_id": "doi|10.4317/medoral.17428",
+    "rcs": 4,
+    "reasoning": "Oral soft-tissue laser surgery with measured power (1W CW) and clinical outcomes, but uses KTP (532nm) not diode laser, so covers operating-parameter dimension while missing the core intervention.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1016/0030-4220(65)90351-8",
+    "rcs": 2,
+    "reasoning": "1965 animal study of general laser-tissue effects on oral mucosa, predates diode dental lasers and lacks any power/incision-speed or biopsy focus; abstract missing.",
+    "flag": "no_abstract_uncertain"
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-004-0303-0",
+    "rcs": 2,
+    "reasoning": "KTP-Nd:YAG temperature study in root canals (endodontics), not diode laser soft-tissue biopsy; abstract unavailable.",
+    "flag": "no_abstract_uncertain"
+  },
+  {
+    "paper_id": "doi|10.4317/medoral.17997",
+    "rcs": 0,
+    "reasoning": "About laser-sintered metal crown coping fit versus vacuum casting, a manufacturing/prosthodontics topic unrelated to soft-tissue laser biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1902/jop.2015.140580",
+    "rcs": 3,
+    "reasoning": "LED (not diode laser) phototherapy promoting gingival graft donor-site healing with histologic assessment; related domain (oral soft-tissue wound healing/histology) but wrong modality and not a biopsy/incision study.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-009-0738-4",
+    "rcs": 2,
+    "reasoning": "Pilot study of KTP laser for non-surgical periodontal scaling, not diode laser and not a soft-tissue biopsy/incision procedure; abstract unavailable.",
+    "flag": "no_abstract_uncertain"
+  },
+  {
+    "paper_id": "pmid|24571504",
+    "rcs": 6,
+    "reasoning": "Directly addresses diode laser soft-tissue surgery, cutting consistency, tissue overheating control, and clinical outcomes; a strong core reference though a narrative overview rather than a quantitative biopsy/histopathology study.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-015-1727-4",
+    "rcs": 2,
+    "reasoning": "Compares laser wavelengths (including 810/980nm diode range) on autophagy in a mucositis model, not oral soft-tissue biopsy or incision parameters despite 'biopsy' appearing only as a sampling method keyword; abstract unavailable.",
+    "flag": "no_abstract_uncertain"
+  },
+  {
+    "paper_id": "pmid|15055633",
+    "rcs": 4,
+    "reasoning": "General overview of dental laser wavelengths and procedures including diode lasers, but broad and non-empirical with no specific data on delivered power, incision speed, or histopathologic outcomes.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-012-1126-z",
+    "rcs": 4,
+    "reasoning": "Characterizes laser-induced soft-tissue damage via 3D microscopy, relevant to histopathologic-outcome assessment of laser incisions, but laser type/diode specificity and biopsy context unclear without abstract.",
+    "flag": "no_abstract_uncertain"
+  }
+]

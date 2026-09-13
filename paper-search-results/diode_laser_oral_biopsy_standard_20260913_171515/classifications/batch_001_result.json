@@ -1,0 +1,62 @@
+[
+  {
+    "paper_id": "doi|10.1590/1807-3107bor-2021.vol35.0099",
+    "rcs": 3,
+    "reasoning": "Narrative review of lasers in periodontology (diode, Er:YAG, PBM); covers dental diode laser use but focuses on periodontal treatment/scaling, not soft-tissue biopsy incision parameters or histopathologic outcomes.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1117/1.jbo.22.12.121715",
+    "rcs": 1,
+    "reasoning": "Handheld OCT imaging system review; unrelated to diode laser tissue ablation/biopsy or operating parameters. Only tangential 'clinical dental' overlap possible.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.34133/cbsystems.0062",
+    "rcs": 2,
+    "reasoning": "Reviews laser ablation for tumor treatment (oncology, robotic/image-guided), a different laser modality and clinical domain than dental diode laser oral soft-tissue biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.3390/photonics10060650",
+    "rcs": 4,
+    "reasoning": "Systematic review of therapeutic/adverse effects of dental lasers including diode, covering thermal damage to soft tissue, but broad scope across specialties rather than biopsy-specific power/speed/histopathology.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.2334/josnusd.57.277",
+    "rcs": 2,
+    "reasoning": "Review of lasers for direct pulp capping (hard tissue/pulp protection), a different application than oral soft-tissue biopsy despite shared laser-dentistry domain.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1155/2014/345685",
+    "rcs": 5,
+    "reasoning": "Ex vivo histological study of incisional thermal damage at defined power settings (2-4W) on tongue tissue, closely matching the methodology of the query, but uses a CO2 laser, not a diode laser.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.3390/medicina57050497",
+    "rcs": 0,
+    "reasoning": "Case report on endodontic management of periapical cysts; no laser or biopsy content at all.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.3390/app13095527",
+    "rcs": 5,
+    "reasoning": "Pilot clinical study of diode laser gingivectomy assessing wound healing and procedural parameters (duration, bleeding); relevant soft-tissue diode laser outcomes but not framed as biopsy or novelty verification with delivered power/speed metrics.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.4317/medoral.23317",
+    "rcs": 7,
+    "reasoning": "Direct hit: in vitro diode laser study varying wavelength and power (0.5-2W) for incisions in oral mucosa/periodontal pockets, measuring thermal damage/necrosis, explicitly concluding optimal parameters for oral soft-tissue biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1016/j.cden.2022.02.004",
+    "rcs": 3,
+    "reasoning": "General review of laser-assisted gingivectomy for gummy smile aesthetics; touches diode/surgical laser soft-tissue use but not biopsy technique, power/speed measurement, or histopathology.",
+    "flag": null
+  }
+]

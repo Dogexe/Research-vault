@@ -1,0 +1,62 @@
+[
+  {
+    "paper_id": "doi|10.1007/s00784-025-06365-7",
+    "rcs": 1,
+    "reasoning": "RCT on gingival graft de-epithelialization for recession treatment; no laser, no biopsy incision, no diode power/speed parameters. Off-topic to the query beyond generic dental/histology overlap.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1016/j.jdent.2025.106202",
+    "rcs": 4,
+    "reasoning": "Narrative review on AI for laser-assisted oral surgery; topically adjacent (laser, oral surgery) but focused on AI applications rather than delivered power/incision speed/histopathology; no abstract available.",
+    "flag": "no_abstract_uncertain"
+  },
+  {
+    "paper_id": "doi|10.1007/s10103-023-03923-x",
+    "rcs": 5,
+    "reasoning": "Systematic review on histological implications of high-power laser use in oral soft tissue lesions is directly on-topic (laser type unspecified beyond high-power, histopathology emphasis), but abstract is missing so capped.",
+    "flag": "no_abstract_uncertain"
+  },
+  {
+    "paper_id": "doi|10.3389/fneur.2023.1271655",
+    "rcs": 2,
+    "reasoning": "CO2 laser parameter optimization for acute pain relief (photobiomodulation, animal models); shares laser-parameter theme but wrong laser type, wrong tissue/indication (not oral biopsy).",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.3390/biomedicines12102300",
+    "rcs": 4,
+    "reasoning": "Uses an 810 nm diode laser with stated power/time parameters and biopsy-based histological outcomes, but as photobiomodulation therapy for oral lichen planus, not an incisional/excisional biopsy procedure.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.2478/rjr-2025-0003",
+    "rcs": 2,
+    "reasoning": "Blue Light (445 nm) laser technology for ENT surgery (tongue base reduction); different laser platform, anatomical focus, and clinical question than oral soft-tissue biopsy parameters.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.34172/jlms.2023.61",
+    "rcs": 7,
+    "reasoning": "Direct hit: compares three diode laser wavelengths (450/940/980 nm) on human gingival tissue with histologic evaluation of thermal damage, cell preservation, and intraoperative pain/hemostasis — closely matches the core query dimensions.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.4081/ltj.2024.393",
+    "rcs": 3,
+    "reasoning": "Case report using an Er,Cr:YSGG laser (not diode) for alveoloplasty and mucocele removal; relevant laser-soft-tissue theme but wrong laser type and single case-report design.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.3390/cancers18132088",
+    "rcs": 2,
+    "reasoning": "Narrative review on OSCC diagnosis/monitoring biomarkers and imaging; mentions biopsy only as the diagnostic gold standard, no laser or incision-parameter content.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1007/s41547-025-00309-w",
+    "rcs": 5,
+    "reasoning": "Title is a direct match — diode laser vs scalpel excision of oral fibromas with clinical and histological comparison — but abstract is unavailable so score is capped.",
+    "flag": "no_abstract_uncertain"
+  }
+]

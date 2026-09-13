@@ -1,0 +1,62 @@
+[
+  {
+    "paper_id": "doi|10.5978/islsm.19.185",
+    "rcs": 1,
+    "reasoning": "Conference abstract fragment about NdYAG laser in perianal surgery, not oral tissue or biopsy; only superficial laser-keyword overlap with the query.",
+    "flag": "off_topic_despite_keywords"
+  },
+  {
+    "paper_id": "doi|10.4317/medoral.15.e912",
+    "rcs": 7,
+    "reasoning": "In vitro porcine oral mucosa study directly comparing CO2, Er,Cr:YSGG and diode laser at multiple measured power settings (2W/5W/10W) with histologic thermal damage assessment; well-cited direct hit on power/histology dimensions.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.1155/2014/761704",
+    "rcs": 7,
+    "reasoning": "In vivo human oral biopsy study directly comparing diode (808nm) and KTP lasers with quantitative histologic margin/thermal damage evaluation across multiple lesion types; core reference candidate.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.4317/medoral.22819",
+    "rcs": 7,
+    "reasoning": "Large human sample (n=130) histological comparison of surgical margins from diode, CO2, Er:YAG, Nd:YAG lasers vs scalpel for oral lesion excision; directly addresses histopathologic outcomes and instrument choice.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.3390/dj11020028",
+    "rcs": 8,
+    "reasoning": "Systematic review specifically synthesizing laser thermal effects on histological evaluation of oral soft tissue biopsies, covering diode laser wavelengths/parameters; the most comprehensive/foundational reference for this exact query niche.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.2334/josnusd.20-0665",
+    "rcs": 7,
+    "reasoning": "In vivo clinical study of 445 nm diode laser excisional oral biopsies with quantified epithelial/connective thermal alteration and confirmed histological diagnosis; direct hit on query population and outcomes.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.4317/jced.52830",
+    "rcs": 7,
+    "reasoning": "Ex vivo tongue tissue study comparing surgical margins across laser types including diode at specified power (3.5W, pulsed/boost modes) with histologic tissue damage quantification; directly relevant to operating parameters and histopathology.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.3390/ijerph17082651",
+    "rcs": 7,
+    "reasoning": "In vivo human study of 445 nm diode laser oral soft tissue biopsies with histological quantification of thermal damage and confirmed diagnostic clarity; directly on core query topic though small preliminary sample.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.17219/acem/104525",
+    "rcs": 5,
+    "reasoning": "Oral excisional biopsy study with measured laser power (4.2W) and histologic thermal effect evaluation, but uses CO2 laser exclusively, not a diode laser as the query specifies.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.5978/islsm.16-or-08",
+    "rcs": 6,
+    "reasoning": "Ex vivo comparison of four diode laser wavelengths measuring incision speed, temperature rise, and histologic epithelial injury width — matches multiple query dimensions directly, but is a small preliminary study limiting it below top-tier.",
+    "flag": null
+  }
+]

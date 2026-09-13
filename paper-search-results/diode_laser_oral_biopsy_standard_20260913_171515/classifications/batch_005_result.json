@@ -1,0 +1,62 @@
+[
+  {
+    "paper_id": "doi|10.1002/lsm.21127",
+    "rcs": 2,
+    "reasoning": "Non-linear optical imaging (MPM/SHG/SRS/CARS) of biomarkers during hamster oral carcinogenesis; laser-medicine venue and oral/histopathology overlap but no diode laser incision, delivered power, or biopsy technique content.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.3389/fvets.2026.1870940",
+    "rcs": 2,
+    "reasoning": "Veterinary photobiomodulation (low-level laser) for open wound healing in dogs/cats; wrong species, wrong modality (biomodulation not incisional diode cutting), and no power/speed/biopsy outcome data.",
+    "flag": null
+  },
+  {
+    "paper_id": "openalex|W7204064516",
+    "rcs": 1,
+    "reasoning": "General multidisciplinary book overview of head and neck cancer diagnosis/treatment (surgery, oncology, immunotherapy); no mention of diode lasers, biopsy technique, or operating parameters.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.4317/medoral.1122335667805",
+    "rcs": 0,
+    "reasoning": "Conference abstract evaluating AI chatbot (ChatGPT/Gemini/Copilot) responses about Burning Mouth Syndrome; unrelated to diode lasers or biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.19256/abstract.onj.01.2024",
+    "rcs": 1,
+    "reasoning": "Title concerns MRONJ case series but the abstract field is only publisher boilerplate/privacy notice with no scientific content; not relevant to diode laser biopsy even by title.",
+    "flag": "abstract_unavailable"
+  },
+  {
+    "paper_id": "openalex|W7137494013",
+    "rcs": 0,
+    "reasoning": "Book on rhinology/sinonasal disorders; completely unrelated anatomic site and topic (no oral soft tissue, no laser biopsy).",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.2478/rjr-2023-0029",
+    "rcs": 0,
+    "reasoning": "Rhinology congress abstracts on nasal polyposis diagnosis and surgical/medical treatment; no relation to oral diode laser biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.19256/abstract.cduo.09.2022",
+    "rcs": 1,
+    "reasoning": "Title 'Digital dentistry' abstract is only publisher boilerplate/privacy notice with no actual scientific content on lasers or biopsy.",
+    "flag": "abstract_unavailable"
+  },
+  {
+    "paper_id": "openalex|W3083385263",
+    "rcs": 0,
+    "reasoning": "Dermal filler complication safety strategies using duplex ultrasound; no connection to diode lasers or oral biopsy.",
+    "flag": null
+  },
+  {
+    "paper_id": "doi|10.11606/t.25.2020.tde-25102021-180447",
+    "rcs": 2,
+    "reasoning": "Photobiomodulation therapy combined with bovine bone matrix/fibrin biopolymer for bone defect reconstruction; laser-dentistry adjacent but concerns bone regeneration, not soft-tissue incisional biopsy or delivered power/speed parameters. Abstract is a truncated non-informative fragment.",
+    "flag": "no_abstract_uncertain"
+  }
+]

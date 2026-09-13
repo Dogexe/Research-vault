@@ -1,0 +1,18 @@
+{
+  "search_id": "diode_laser_oral_biopsy_standard_20260913_171515",
+  "query": "oral soft-tissue biopsy using dental diode lasers: measured delivered power, incision speed, operating parameters, and histopathologic outcomes",
+  "tier": "standard",
+  "wall_clock_total_s": 36.4,
+  "papers_evaluated": 188,
+  "papers_in_kg": 220,
+  "highly_relevant_count": 2,
+  "closely_related_count": 22,
+  "coverage_estimate": 0.936,
+  "coverage_ci": [
+    0.856,
+    1.0
+  ],
+  "generated_at": "2026-09-13T17:28:30.636663",
+  "skill_version": "paper-search-pro/2.0",
+  "stop_reason": null
+}
