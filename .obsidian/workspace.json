@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.8999938964844
+    "width": 263.8999938964844,
+    "collapsed": true
   },
   "right": {
     "id": "04e4905b0899b4ed",
@@ -227,6 +228,8 @@
   },
   "active": "c6ffd2e55847c5c4",
   "lastOpenFiles": [
+    "03 Concepts/Glossary/Power Meter.md",
+    "03 Concepts/Glossary/Power Meter.md.tmp.4056.4c215d493138",
     "07 Data/Shnawa et al 2025 - Diode Laser vs Scalpel Oral Fibroma Excision Data.md.tmp.4056.b58f104cf44d",
     "07 Data/Shnawa et al 2025 - Diode Laser vs Scalpel Oral Fibroma Excision Data.md.tmp.4056.80f4eaea4535",
     "07 Data/Spille et al 2026 - Diode Laser Learning-Curve and Target-Based Accuracy Data.md.tmp.4056.98662735ac1a",
@@ -236,8 +239,6 @@
     "07 Data/Suter et al 2010 - CO2 vs Diode Laser Biopsy Thermal Damage Data (Abstract-Level).md.tmp.4056.8947753fe79e",
     "07 Data/Romanos et al 2013 - Diode Laser Soft-Tissue Surgery Review Data.md.tmp.4056.0ff863125a0a",
     "07 Data/Romanos et al 2022 - Initiated vs Non-Initiated Diode Laser Penetration Depth.md.tmp.4056.fe688e3663c1",
-    "07 Data/Romanos et al 2022 - Initiated vs Non-Initiated Diode Laser Penetration Depth.md.tmp.4056.0e32c2483631",
-    "07 Data/Li et al 2022 - Diode vs Er-YAG vs Cold Scalpel Mice Oral Mucosa Data.md.tmp.4056.f18b8e012128",
     "99 Templates/Evidence Note.md",
     "99 Templates/Glossary Term Template.md",
     "03 Concepts/Glossary/Glossary Index.md",
