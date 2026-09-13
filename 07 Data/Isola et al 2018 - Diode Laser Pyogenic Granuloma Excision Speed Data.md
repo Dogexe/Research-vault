@@ -1,3 +1,33 @@
+---
+classification: "CORE BIOPSY"
+oral_tissue: true
+ex_vivo: false
+human_tissue: true
+diode_laser: true
+wavelength_nm: 810
+set_power_w: null
+measured_power: false
+measured_power_value_reported: false
+measured_power_w: null
+power_meter: null
+measurement_location: null
+incision_speed_reported: true
+speed_mm_s: 0.61
+speed_control: measured
+cw_pw: "PW"
+fiber_diameter_um: null
+tip_initiation: null
+contact_mode: "contact"
+histology: true
+thermal_damage: false
+margin_quality: null
+tissue_architecture: null
+diagnostic_outcome: true
+biopsy_oriented: true
+full_text: true
+needs_verification: true
+---
+
 # Laser Operating Parameters
 
 Record values exactly as reported. Use `UNKNOWN` when a value is not reported; do not infer missing parameters.
@@ -42,6 +72,7 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 - INTERPRETATION: Of the four papers processed in this batch, Isola et al. 2018 is the closest match on the "diagnostic human biopsy + measured incision-behavior" axis specifically, while [[07 Data/Hanke et al 2021 - Eight-Wavelength Diode Cut Efficiency Data|Hanke et al. 2021]] and [[07 Data/Strakas et al 2023 - 940nm Diode Cutting Efficiency and Thermal Damage Data|Strakas et al. 2023]] are closest on the "measured power + controlled speed + histologic thermal effect" axis. No single paper in this batch unifies both axes; this paper's total absence of power data is itself the specific reason it cannot do so.
 - HYPOTHESIS: UNKNOWN — no explicit null hypothesis regarding power, speed, or diagnostic yield is stated; the study's stated aim is a general comparison of diode laser vs. cold blade for PG excision on intraoperative and patient-reported parameters.
 - Classification for this vault: PARTIAL/supporting evidence for the incision-speed and human-diagnostic-biopsy axes; **not** usable for the power-measurement axis (complete UNKNOWN).
+- METADATA CONVENTION: `classification: CORE BIOPSY` — this note's own prose above uses "PARTIAL/supporting," but that language describes the power axis specifically, not the vault's controlled classification vocabulary; a real lesion is excised and a histologic diagnosis is rendered (giant-cell epulis/PG), which satisfies the CORE BIOPSY definition regardless of the power-data gap. BOUNDARY CASE — `speed_mm_s: 0.61` and `speed_control: measured`: two non-reconcilable speed values are reported (a 2.5 mm/s visually-estimated operator target, and a separately defined 0.61 mm/s measured outcome variable, Sinc = perimeter ÷ time). The schema's `speed_mm_s` field holds one number; the source's own defined primary outcome metric (Sinc, 0.61 mm/s, timed with a chronometer) was recorded rather than the intraoperative visual target, since it is the value the source itself treats as its measured result. The 2.5 mm/s target is preserved here in prose, not dropped, but is not the populated field value — flagged `needs_verification: true` for this choice. BOUNDARY CASE — `tip_initiation: null`: the source describes a functionally equivalent "hot-tip" maintenance protocol (checked at every irradiation for a carbonized tip) rather than the vault's standard pre-treatment "initiated" event, so it does not map cleanly onto `initiated`/`non-initiated`/`both` without overstating the match; recorded as `null` rather than forced into a label the source doesn't use (see [[99 Templates/Study Metadata Schema]]).
 
 ## สรุปภาษาไทย
 

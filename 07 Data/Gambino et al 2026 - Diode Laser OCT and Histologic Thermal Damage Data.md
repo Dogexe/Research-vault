@@ -1,3 +1,33 @@
+---
+classification: "CORE BIOPSY"
+oral_tissue: true
+ex_vivo: false
+human_tissue: true
+diode_laser: true
+wavelength_nm: 980
+set_power_w: 2
+measured_power: false
+measured_power_value_reported: false
+measured_power_w: null
+power_meter: null
+measurement_location: null
+incision_speed_reported: false
+speed_mm_s: null
+speed_control: unknown
+cw_pw: "CW"
+fiber_diameter_um: 300
+tip_initiation: null
+contact_mode: "contact"
+histology: true
+thermal_damage: true
+margin_quality: "quantified (5 mm safety margin protocol; thermal alteration from margin: epithelium 288.9 um, connective tissue 430.3 um; diagnosis unimpaired in all cases)"
+tissue_architecture: "quantified (epithelium and lamina propria significantly thicker than healthy control, p=0.021/0.034, but did not impair diagnosis)"
+diagnostic_outcome: true
+biopsy_oriented: true
+full_text: true
+needs_verification: false
+---
+
 # Laser Operating Parameters
 
 Record values exactly as reported. Use `UNKNOWN` when a value is not reported; do not infer missing parameters.

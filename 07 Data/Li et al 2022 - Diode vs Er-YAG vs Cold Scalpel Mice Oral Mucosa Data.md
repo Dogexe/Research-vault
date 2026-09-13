@@ -1,3 +1,33 @@
+---
+classification: "SUPPORTING TECHNICAL"
+oral_tissue: true
+ex_vivo: false
+human_tissue: false
+diode_laser: true
+wavelength_nm: null
+set_power_w: 3
+measured_power: false
+measured_power_value_reported: false
+measured_power_w: null
+power_meter: null
+measurement_location: null
+incision_speed_reported: true
+speed_mm_s: 1
+speed_control: unknown
+cw_pw: "PW"
+fiber_diameter_um: 300
+tip_initiation: null
+contact_mode: null
+histology: true
+thermal_damage: true
+margin_quality: null
+tissue_architecture: "qualitative (incision less regular than Er:YAG; more carbonization and deeper apoptotic damage than Er:YAG)"
+diagnostic_outcome: false
+biopsy_oriented: false
+full_text: true
+needs_verification: false
+---
+
 # Laser Operating Parameters
 
 Record values exactly as reported. Use `UNKNOWN` when a value is not reported; do not infer missing parameters.

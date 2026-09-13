@@ -1,3 +1,33 @@
+---
+classification: "SUPPORTING TECHNICAL"
+oral_tissue: false
+ex_vivo: true
+human_tissue: false
+diode_laser: true
+wavelength_nm: [940, 980]
+set_power_w: [1, 3]
+measured_power: true
+measured_power_value_reported: true
+measured_power_w: [0.7628, 3.4866]
+power_meter: "NovaII (Ophir Photonics)"
+measurement_location: null
+incision_speed_reported: false
+speed_mm_s: null
+speed_control: unknown
+cw_pw: "CW"
+fiber_diameter_um: 400
+tip_initiation: null
+contact_mode: "contact"
+histology: false
+thermal_damage: false
+margin_quality: null
+tissue_architecture: null
+diagnostic_outcome: false
+biopsy_oriented: false
+full_text: true
+needs_verification: false
+---
+
 # Laser Operating Parameters
 
 Record values exactly as reported. Use `UNKNOWN` when a value is not reported; do not infer missing parameters.
@@ -43,3 +73,4 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 - INTERPRETATION: This mixed-direction pattern, observed under one shared measurement protocol and one shared fiber-tip type, indicates the direction of set-vs-measured deviation is a device-level property, not primarily an artifact of differing measurement protocols across separate studies (contrast with the cross-study comparison in [[04 Evidence/Power Loss and Deviation Across Dental Diode Devices]]).
 - FACT: The study's own focus (surface roughness/chemical composition of titanium after irradiation) does not analyze the set-vs-actual power discrepancy itself; Table 1 records it as a methods-section calibration detail rather than a study finding.
 - HYPOTHESIS: UNKNOWN — the source proposes none regarding the power discrepancy; it is reported as a measured operating condition, not investigated as a phenomenon.
+- METADATA CONVENTION / BOUNDARY CASE: this study irradiates SLA titanium implant discs, not biological tissue of any kind — there is no oral mucosa, no animal, no lesion, and no histology anywhere in this source. `oral_tissue`, `human_tissue`, `histology`, `thermal_damage`, `diagnostic_outcome`, and `biopsy_oriented` are all recorded `false` on that basis, and `margin_quality`/`tissue_architecture` as `null` (not applicable). `ex_vivo: true` is used loosely here to mean "bench/lab conditions, not a living subject" — the field's literal definition assumes a tissue sample, which this study does not have. This is the schema's first non-biological-tissue note; the tissue-oriented boolean fields read as "checked and confirmed absent" when the more precise fact is "wrong kind of study for this field to apply to." Flagged for schema v2 consideration, not resolved here (see [[99 Templates/Study Metadata Schema]]).

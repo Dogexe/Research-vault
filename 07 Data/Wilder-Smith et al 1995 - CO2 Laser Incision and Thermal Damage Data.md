@@ -1,3 +1,33 @@
+---
+classification: "BACKGROUND"
+oral_tissue: true
+ex_vivo: true
+human_tissue: false
+diode_laser: false
+wavelength_nm: null
+set_power_w: null
+measured_power: true
+measured_power_value_reported: true
+measured_power_w: [1, 4, 12]
+power_meter: "PRJ-M (Gentec)"
+measurement_location: null
+incision_speed_reported: false
+speed_mm_s: null
+speed_control: unknown
+cw_pw: "CW"
+fiber_diameter_um: null
+tip_initiation: null
+contact_mode: "non-contact"
+histology: true
+thermal_damage: true
+margin_quality: null
+tissue_architecture: null
+diagnostic_outcome: false
+biopsy_oriented: false
+full_text: true
+needs_verification: false
+---
+
 # Laser Operating Parameters
 
 Record values exactly as reported. Use `UNKNOWN` when a value is not reported; do not infer missing parameters.
@@ -54,6 +84,7 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 - FACT: Per this vault's explicit instruction, incision speed is not inferred from the reported 3 cm incision length and 4 s exposure duration, because the authors themselves do not state or compute a speed value from these figures.
 - Limitations (source-stated and vault-noted): ex vivo porcine tissue, not human; CO2 laser only, no diode comparator; nonpulsed/CW settings only, by the authors' own design choice, explicitly stated as a simplification for this first study in a planned series; thermocouple placement precision is noted by the authors themselves as imperfect; exact histologic and thermal magnitude values are presented graphically, not as text/table numbers.
 - Classification for this vault: BACKGROUND methodological evidence — non-diode, but relevant as a measurement-design precedent (independently measured power + thermal + histologic outcome, in oral mucosa) for what a closing study in [[04 Evidence/Power Output and Tissue Effect]] would need to look like. Not cited as diode-specific evidence in any CORE biopsy evidence note.
+- METADATA CONVENTION / DASHBOARD CAVEAT: `diode_laser: false` — this source uses three CO2 lasers, explicitly not diode. `measured_power: true` and `measured_power_value_reported: true` (`measured_power_w: [1, 4, 12]`, PRJ-M/Gentec meter, actual power confirmed before every incision) are genuinely and cleanly reported, but this is CO2 data, not diode-laser prior art. Because [[06 Synthesis/Study Dashboard]]'s Table B/C queries filter on `measured_power`/`incision_speed_reported`/`histology` only and do not filter on `diode_laser`, this note will appear in Table B (via `measured_power: true`) despite not being a diode source — the dashboard's own framing text describes Table B as diode-laser technical prior art, so a reader must check the `diode_laser` column (included in Table B) to see this row is the deliberate non-diode exception, not an error. Flagged here rather than silently excluded, and flagged again in this batch's report as a dashboard-query gap for the schema owner to consider (not fixed in this task, per scope: no dashboard-query edits).
 
 ## Related notes
 

@@ -1,3 +1,33 @@
+---
+classification: "CORE BIOPSY"
+oral_tissue: true
+ex_vivo: false
+human_tissue: true
+diode_laser: true
+wavelength_nm: null
+set_power_w: 5.12
+measured_power: null
+measured_power_value_reported: null
+measured_power_w: null
+power_meter: null
+measurement_location: null
+incision_speed_reported: null
+speed_mm_s: null
+speed_control: unknown
+cw_pw: "PW"
+fiber_diameter_um: null
+tip_initiation: null
+contact_mode: null
+histology: true
+thermal_damage: true
+margin_quality: null
+tissue_architecture: null
+diagnostic_outcome: null
+biopsy_oriented: true
+full_text: false
+needs_verification: true
+---
+
 # Laser Operating Parameters
 
 Record values exactly as reported. Use `UNKNOWN` when a value is not reported; do not infer missing parameters.
@@ -54,3 +84,4 @@ According to PubMed, the following is drawn from: Suter VGA, Altermatt HJ, Sendi
 - Limitations (source-stated, from the abstract): pilot scale (n=15, unevenly split across three groups); the authors' own stated conclusion calls for more study participants to resolve differences between the two CO2 settings, implying the study is likely underpowered even for its own primary comparison.
 - HYPOTHESIS: UNKNOWN — no formal hypothesis stated beyond the pilot study's own aim.
 - Classification for this vault: abstract-level-only cross-laser-type (CO2 vs. diode) thermal-damage comparison; contributes one additional, higher-power diode data point but cannot be integrated into the vault's within-diode CW-vs-PW or power-range analysis without full-text access. Relevant to [[04 Evidence/Thermal Artifact]] and [[06 Synthesis/Diode Laser Biopsy Pre-setting Map]].
+- METADATA CONVENTION — abstract-only null cascade: `measured_power`, `measured_power_value_reported`, `incision_speed_reported`, and `diagnostic_outcome` are all recorded as `null`, not `false`, per the schema's explicit abstract-only exception (see [[99 Templates/Study Metadata Schema]], "The meaning of true/false/null") — this source's abstract does not mention these properties, but with `full_text: false` there is no complete Methods/Results section to confirm the full paper is actually silent on them, so `false` would overstate what this vault can confirm. `histology`, `thermal_damage`, and `cw_pw` are populated (not null) because the abstract itself directly and explicitly states them (a μm/histopathological-index thermal-damage comparison, and "diode: pulsed mode only"). `classification: CORE BIOPSY` is retained because the abstract explicitly states "excisional biopsies of oral mucosal lesions" — a directly-reported fact, not dependent on the missing full text.
