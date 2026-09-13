@@ -5,6 +5,8 @@ collections: []
 citekey:
 zotero-key: EA2DNTW7
 ---
+> [!warning] SUPERSEDED — use [[02 Literature/10.1002/jbio.70218_FhmoQx|Use of High-Power Diode Laser in Neonatal Lingual Frenulum Release Surgery]]
+
 # Use of High-Power Diode Laser in Neonatal Lingual Frenulum Release Surgery: Clinical Approach and Assessment of Healing in a Case Series
 
 [Zotero](zotero://select/library/items/EA2DNTW7) 

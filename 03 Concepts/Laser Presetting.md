@@ -28,9 +28,9 @@
 ## Related notes
 
 - Literature: [[02 Literature/Fahlstedt et al 2021 - Dental Implant Surface Temperatures]]
-- Literature: [[02 Literature/10.1007/s10103-021-03491-y|Parker et al. 2022]] (Abstract; Materials and methods)
+- Literature: [[02 Literature/10.1007/s10103-021-03491-y_QFwgHj|Parker et al. 2022]] (Abstract; Materials and methods)
 - Literature: [[02 Literature/10.3390/photonics9040219|Xue et al. 2022]] (Materials and Methods; Tables 1–2)
-- Literature: [[02 Literature/10.1002/jbio.70218|Mazzoni et al. 2026]] (§2.4)
+- Literature: [[02 Literature/10.1002/jbio.70218_FhmoQx|Mazzoni et al. 2026]] (§2.4)
 - Literature: [[02 Literature/Phenomenon of laser power loss during curettage of infected periodontal pockets|Zegaib et al. 2011]] (Materials and Methods)
 - Data: [[07 Data/Fahlstedt et al 2021 - Laser Operating Parameters]]
 - Data: [[07 Data/Parker et al 2022 - Delivery Power Losses and Operating Parameters]]

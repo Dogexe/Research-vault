@@ -4,7 +4,7 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 
 ## Source
 
-- Literature note: [[02 Literature/10.1002/jbio.70218|Mazzoni et al. 2026]]
+- Literature note: [[02 Literature/10.1002/jbio.70218_FhmoQx|Mazzoni et al. 2026]]
 - Source link: https://doi.org/10.1002/jbio.70218
 - Source locator: §2.4; §2.6
 

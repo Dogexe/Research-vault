@@ -1,0 +1,95 @@
+# Novelty Verification — Measured Power and Incision Speed in Diode Laser Oral Biopsy Histology
+
+**Status: PROVISIONAL — targeted novelty-closing search, abstract-level review only.** This is not a full systematic search; it is a targeted attempt to find papers that could **close or weaken** the novelty chain claimed in [[01 Projects/Diode Laser Biopsy]] and [[06 Synthesis/Novelty Check - Prior Systematic Review]]:
+
+> set/preset power → independently measured delivered power → incision speed → histologic thermal effect → histopathologic/diagnostic biopsy quality
+
+Per instruction: review silence is not treated as proof of novelty; measured power is never inferred from set power; incision speed is never inferred from procedure time; non-dental studies are BACKGROUND only; exact match is explicitly distinguished from partial match throughout.
+
+## 1. Closest prior-art papers
+
+Ranked by proximity to the full novelty chain (closest first). All values below are FACT as reported in the source's own abstract (or, where noted, an existing vault extraction of the same source) unless marked otherwise. None of these has had its full text read in this session — see §7 Limitations.
+
+| # | Paper | Tissue/model | Wavelength | Set power | Measured power (independent) | Incision speed | Histology | Diagnostic biopsy outcome | Match type |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | Al-Ani, Taher, Alalawi 2024 — "Histological evaluation of the surgical margins of oral soft tissue incisions using a dual-wavelength diode laser and an Er,Cr:YSGG laser" — *J Appl Oral Sci*. [DOI](https://doi.org/10.1590/1678-7757-2023-0419) | Sheep tongue, ex vivo | Dual 810+980 nm (diode) | 1.5 W, 2.5 W CW | NO — not stated in abstract; companion paper by the same group/device (see below) explicitly used the power meter only to *set*, not independently re-verify, output | UNKNOWN in this paper's own abstract — **NEEDS VERIFICATION** against its own Methods (see note below) | YES | N/A (ex vivo, not a diagnostic biopsy) | PARTIAL |
+| 2 | Hanke, Fimmers, Frentzen, Meister 2021 — "Quantitative determination of cut efficiency during soft tissue surgery using diode lasers (400–1500 nm)" — *Lasers Med Sci*. [DOI](https://doi.org/10.1007/s10103-020-03243-4) | Porcine gingiva, ex vivo | 8 diode wavelengths incl. 445, 810 nm | 0.5–4 W CW | NO — panel setting used as-is, no independent verification reported (already flagged in this vault's own unprocessed shortlist, [[00 Inbox/Shortlist - PubMed Candidates 3-7 (Adjacent, Not Core Diode-Output Evidence)]]) | YES — 2 mm/s, fixed/mechanized | YES | NO (not a biopsy model) | PARTIAL |
+| 3 | Strakas, Dionysopoulos, Tolidis, Meister 2023 — "Evaluation of cutting efficiency and thermal damage during soft tissue surgery with 940 nm-diode laser" — *Lasers Surg Med*. [DOI](https://doi.org/10.1002/lsm.23639) | Porcine gingiva, ex vivo | 940 nm | 1–6 W CW, initiated tip | NO — assumes panel setting = delivered power (already flagged in this vault's shortlist, same file as above) | Mechanized (3-axis computer-controlled micropositioner) — numeric mm/s value NOT visible in abstract, **NEEDS VERIFICATION** | YES (histometric) | NO | PARTIAL |
+| 4 | Isola, Matarese, Cervino, et al. 2018 — "Clinical Efficacy... of Pyogenic Granuloma Excision Using Diode Laser Versus Conventional Surgical Techniques" — *J Craniofac Surg*. [DOI](https://doi.org/10.1097/scs.0000000000004734) | Human oral mucosa (pyogenic granuloma), in vivo RCT | UNKNOWN (not in abstract) | UNKNOWN (not in abstract) | NO | YES — 0.61 ± 0.29 mm/s (laser) vs. 1.47 ± 1.23 mm/s (blade), measured/timed | Histologic examination performed pre- and post-excision (qualitative, not thermal-artifact-scored) | Not explicitly reported as a diagnosis-affected/not-affected outcome | PARTIAL |
+| 5 | Palaia, Pergolini, D'Alessandro, et al. 2020 — "Histological Effects of an Innovative 445 nm Blue Laser During Oral Soft Tissue Biopsy" — *Int J Environ Res Public Health*. [DOI](https://doi.org/10.3390/ijerph17082651) | Human oral mucosa, in vivo excisional biopsies (n=10) | 445 nm | UNKNOWN in abstract | NO | NO | YES (epithelial 650.93 µm / connective 468.07 µm mean thermal damage) | YES — "a clear diagnosis was possible" in all cases | PARTIAL |
+| 6 | Priyadharshini, Gopal, Kumar, Lankupalli 2024 — "Efficacy of Diode Laser in Excisional Biopsy of Soft Tissue Lesions... and Assessment of Wound Healing" — *J Indian Acad Oral Med Radiol*. [DOI](https://doi.org/10.4103/jiaomr.jiaomr_2_23) | Human oral mucosa, in vivo excisional biopsy (n=50) | 980 nm | 3 W, pulsed, 300 µm tip | NO | NO | YES — histopathological findings recorded; 4% charring, 12% artifacts | Implied (specimens usable) but not stated as a binary diagnosis-affected outcome | PARTIAL |
+| 7 | Azimov, Roslan, Yahya, et al. 2025 — "Evaluation of cutting accuracy and thermal damage in oral soft tissue using different surgical techniques" — *Lasers Med Sci*. [DOI](https://doi.org/10.1007/s10103-025-04737-9) | Sheep oral mucosa, ex vivo | 980 nm diode (1 of 6 arms) | UNKNOWN in abstract | NO | UNKNOWN in abstract | Thermal damage % reported; unclear if by histology or surface roughness proxy — **NEEDS VERIFICATION** | NO | BACKGROUND/PARTIAL |
+
+**Note on #1 (Al-Ani et al. 2024):** the same author group (Al-Ani, Taher, Alalawi), same device (Quicklase 12W dual 4), and the same two power settings (1.5 W / 2.5 W CW) were used in a companion paper already processed in this vault, [[07 Data/Al-Ani et al 2023 - Dual-Wavelength Diode Operating Parameters]], which explicitly reports an incision speed of **0.75 mm/s** (15 mm incision / 20 s) and explicitly states the power meter (PINTUDY) was used *only to set* the fiber-cut power, with no independently reported measured-output value. It is plausible the 2024 histology paper reused the identical experimental protocol, but per instruction **incision speed and power-verification status must not be inferred by analogy from a companion paper** — this must be confirmed against Al-Ani et al. 2024's own Methods text before it can be counted as reporting speed or as lacking measured power. Flagged **NEEDS VERIFICATION**, not asserted.
+
+## 2. Any paper with measured power + histology
+
+**None found.** As in this vault's existing cross-tabulation, every candidate located in this targeted search that measures power via a power meter (Gutiérrez-Corrales et al. 2020 [[07 Data/Gutierrez-Corrales et al 2020 - Diode Wavelength Operating Parameters]], Al-Ani et al. 2023 [[07 Data/Al-Ani et al 2023 - Dual-Wavelength Diode Operating Parameters]]) uses the power meter only as a *pre-incision setup step to standardize the set value*, not as an independently reported, post-setup verified/measured output figure distinct from the panel setting. This targeted search found no exception to that pattern.
+
+## 3. Any paper with measured power + incision speed
+
+**None found.** Hanke et al. 2021 and Strakas et al. 2023 both report incision speed (or speed control via mechanization) alongside CW power settings, but both use panel/set power without independent verification. Isola et al. 2018 reports a directly measured incision speed but no power value at all in its own abstract. No paper in this search reports both an independently verified power value and a numeric incision speed together.
+
+## 4. Any paper with measured power + incision speed + oral histology
+
+**None found.**
+
+## 5. Any paper with all of the above plus diagnostic biopsy outcome
+
+**None found.**
+
+## 6. Whether the proposed novelty survives
+
+**Survives — with narrowed margins, not disproven.** This targeted 8-query search across OpenAlex, PubMed, and Crossref, plus forward-citation chasing from the four closest candidate papers (Hanke 2021, Strakas 2023, Isola 2018, Al-Ani 2024), found:
+
+- No paper that independently measures delivered diode-laser power (beyond a pre-incision setup check) and also reports either incision speed or a diagnostic oral-biopsy outcome.
+- No paper that closes any two of the four chain links (measured power, incision speed, oral histology, diagnostic outcome) simultaneously — every candidate found closes at most one novel link while remaining a set-power (not measured-power) study.
+- Two candidates (Hanke 2021, Strakas 2023) were already independently identified and shortlisted by this vault in a prior session ([[00 Inbox/Shortlist - PubMed Candidates 3-7 (Adjacent, Not Core Diode-Output Evidence)]]) but never converted into full literature notes — this search independently re-derives the same two papers via topic-specific queries, which corroborates (does not newly discover) their relevance and their "set power, not measured power" limitation.
+- One companion pair (Al-Ani et al. 2023 temperature study + Al-Ani et al. 2024 histology study, same group/device/power settings) is flagged as the single closest *candidate* for pairing incision speed with oral-tissue histology — but this rests on an unverified assumption that the 2024 paper reused the 2023 paper's protocol, and even if confirmed, it would still lack independently measured power and a human diagnostic-biopsy outcome (ex vivo sheep tongue only).
+- A second systematic review surfaced by citation-chasing (Lopes-Santos, Peralta-Mamani, Oliveira, "Histological implications of high-power laser use in the oral soft tissue lesions") turned out to be the **same DOI** ([10.1007/s10103-023-03923-x](https://doi.org/10.1007/s10103-023-03923-x)) as the review already processed in this vault as [[07 Data/Lopes-Santos et al 2023 - High-Power Laser Oral Biopsy Histology Systematic Review Data]] — not a new, independent review, and adds no new information.
+
+Net effect: the connected chain (**set power → independently measured power → incision speed → histologic effect → diagnostic biopsy quality**) remains undemonstrated by any source located in this session, consistent with the prior finding in [[06 Synthesis/Novelty Check - Prior Systematic Review]]. This conclusion is now supported by two independent search passes (the earlier general systematic-review comparison, and this targeted metrology/speed-focused search), not silence alone.
+
+## 7. Search limitations
+
+- **Semantic Scholar was not searchable this session.** All 8 queries returned HTTP 429 (rate limited) on both the first pass and a retried pass with exponential backoff; no Semantic Scholar results were obtained. OpenAlex substantially overlaps Semantic Scholar's index, partially mitigating this, but it is not a full substitute — this is a genuine coverage gap, not a "review silence" result.
+- **No full text was read for any paper in this search.** All extraction is abstract-level (via PubMed abstracts, OpenAlex `abstract_inverted_index` reconstruction, or Crossref abstract fields where present). Several fields — most importantly Al-Ani et al. 2024's incision speed and power-verification status, and Strakas et al. 2023's numeric cut speed — could exist in the Methods sections but are not visible from the abstract alone, and are explicitly flagged NEEDS VERIFICATION above rather than assumed.
+- **Crossref's relevance ranking was weak for these queries** — most of its top-10 hits per query were unrelated industrial-laser-cutting or non-oral papers; it contributed one genuinely useful new hit (Strakas et al. 2023) that was independently cross-confirmed via PubMed and OpenAlex, and otherwise added little beyond OpenAlex/PubMed.
+- **Citation chasing was forward-only and not exhaustive.** Only the "cited by" direction was walked for the four closest candidates (Hanke 2021, Strakas 2023, Isola 2018, Al-Ani 2024), each capped at 25 citing works. Backward reference lists (25–38 references per paper) were not individually walked — a full backward chase could surface older foundational metrology papers not captured by the keyword queries.
+- **Non-English literature was not searched.** No Chinese-, Portuguese-, or other non-English-language dental laser literature was queried in this pass, despite some source candidates originating from non-English-speaking author groups (e.g., Al-Ani et al., Iraq; several Brazilian and Chinese groups already in this vault).
+- **Author/paper identity was inferred, not confirmed, in one case.** "Gill, Sandhu, Sethi, Bhandari 2021" (found via OpenAlex, [DOI](https://doi.org/10.1007/s41547-021-00132-z)) is very likely the same "Gill et al. 2021" already counted as one of Lopes-Santos et al. 2023's four included diode studies (same author surname, year, and topic), but this identity was not independently confirmed against the review's own reference list in this session.
+- This search targeted the **measured-power / incision-speed** axis specifically, per the user's 8 supplied query concepts; it is not a replacement for a full systematic search and should not be read as exhaustively covering the broader diode-biopsy literature already catalogued elsewhere in this vault.
+
+## 8. Search queries and databases used
+
+**Databases:** OpenAlex (`api.openalex.org/works`, `search` parameter, 15 results/query), PubMed (via MCP `search_articles`/`get_article_metadata`), Crossref (`api.crossref.org/works`, `query` parameter, 10 results/query). Semantic Scholar was attempted but returned no results (see §7). Citation chasing used OpenAlex's `filter=cites:<id>` endpoint (forward/"cited by" direction only) on the four closest candidate papers.
+
+**Queries run (all 8, against OpenAlex + PubMed + Crossref):**
+
+1. `diode laser oral biopsy power meter histology`
+2. `diode laser oral measured output histology`
+3. `diode laser oral actual power biopsy`
+4. `diode laser oral incision speed histology`
+5. `diode laser oral cutting speed thermal damage`
+6. `diode laser biopsy calibrated power output`
+7. `diode laser soft tissue wattmeter histology`
+8. `diode laser oral tissue power measurement incision speed`
+
+PubMed's automatic term-mapping expanded several of these into broad MeSH-OR-text-word boolean strings (visible in the raw tool output), which reduced precision for queries 1, 3, 6, and 7 (each returned 0–1 raw hits); queries 2, 4, and 8 returned usable PMID sets. Query 7 returned only 1 OpenAlex result (an unrelated vein-ablation paper) — "wattmeter" is essentially absent from this literature's vocabulary, itself a weak, secondary signal (not proof) that no source in this field reports biopsy-adjacent power measurement using that specific instrument-class term.
+
+## สรุปภาษาไทย (Thai summary)
+
+- การค้นหานี้เป็นการค้นหาแบบเจาะจง (ไม่ใช่ systematic review ฉบับเต็ม) เพื่อพยายาม**ปิดหรือลดทอน**ความใหม่ (novelty) ของห่วงโซ่: กำลังที่ตั้ง → กำลังที่วัดได้จริงอย่างเป็นอิสระ → ความเร็วตัด → ผลเนื้อเยื่อจากความร้อน → คุณภาพชิ้นเนื้อเพื่อการวินิจฉัย
+- **ไม่พบ**บทความใดที่รายงานทั้งกำลังที่วัดได้จริง (ไม่ใช่แค่ค่าตั้งเครื่อง) ร่วมกับผลชิ้นเนื้อทางจุลพยาธิวิทยา, หรือร่วมกับความเร็วตัด, หรือครบทั้งห่วงโซ่
+- พบบทความใกล้เคียงที่สุด 2 คู่: (1) Hanke et al. 2021 และ Strakas et al. 2023 — ทั้งสองใช้ค่ากำลังที่ตั้งเครื่อง (ไม่ใช่ค่าที่วัดจริง) แต่มีความเร็วตัดที่ควบคุมแน่นอน และมีผลจุลพยาธิวิทยา — ทั้งสองรายการนี้เคยถูกบันทึกไว้แล้วในคลังนี้ (ยังไม่ได้แปลงเป็นบันทึกฉบับเต็ม); (2) Al-Ani et al. 2023 (วัดอุณหภูมิ) และ Al-Ani et al. 2024 (วัดผลจุลพยาธิวิทยา) — ใช้อุปกรณ์และค่ากำลังเดียวกัน อาจใช้ความเร็วตัด 0.75 มม./วินาทีเดียวกัน แต่**ยังไม่ได้ยืนยัน**จากเนื้อหาฉบับเต็มของบทความปี 2024 เอง จึงระบุเป็น NEEDS VERIFICATION ไม่ใช่ข้อสรุป
+- **ข้อจำกัดสำคัญ:** ไม่สามารถค้นหาผ่าน Semantic Scholar ได้เนื่องจากถูกจำกัดอัตราการเรียก (HTTP 429) ตลอดทั้งเซสชัน; ไม่ได้อ่านเนื้อหาฉบับเต็มของบทความใดเลย เป็นการประเมินระดับบทคัดย่อเท่านั้น
+- **สรุป:** ความใหม่ของโครงการยังคง**อยู่รอด** (survives) จากการค้นหารอบนี้ — ไม่พบบทความใดที่ปิดช่องว่างที่โครงการอ้างไว้ แต่ขอบเขตของข้อสรุปแคบลงเล็กน้อยจากผลการค้นหาที่ตรงประเด็นมากขึ้น
+
+## Related notes
+
+- [[06 Synthesis/Novelty Check - Prior Systematic Review]]
+- [[01 Projects/Diode Laser Biopsy]]
+- [[00 Inbox/Shortlist - PubMed Candidates 3-7 (Adjacent, Not Core Diode-Output Evidence)]]
+- [[07 Data/Al-Ani et al 2023 - Dual-Wavelength Diode Operating Parameters]]
+- [[07 Data/Gutierrez-Corrales et al 2020 - Diode Wavelength Operating Parameters]]
+- [[07 Data/Lopes-Santos et al 2023 - High-Power Laser Oral Biopsy Histology Systematic Review Data]]

@@ -1,6 +1,6 @@
 # Research Gaps in Dental Diode Laser Output
 
-**Status: PROVISIONAL** — built only from the current core evidence ([[04 Evidence/Set Power vs Measured Output]], [[04 Evidence/Power Loss and Deviation Across Dental Diode Devices]]) and supporting/background evidence ([[04 Evidence/Output Accuracy and Repeatability - Supporting Evidence]], [[04 Evidence/Tip Initiation and Fiber Condition - Supporting Evidence]]) in this vault, and the underlying [[07 Data]] extractions those four notes cite. It is not a systematic review of the wider literature; absence of a study in this vault is not by itself treated as proof the study doesn't exist elsewhere — each gap below states the specific basis for calling it CONFIRMED or LIKELY rather than resting on vault-absence alone.
+**Status: PROVISIONAL** — built only from the current core evidence ([[04 Evidence/Set Power vs Measured Output]], [[04 Evidence/Power Loss and Deviation Across Dental Diode Devices]]) and supporting/background evidence ([[04 Evidence/Output Accuracy and Repeatability - Supporting Evidence]], [[04 Evidence/Tip Initiation and Fiber Condition - Supporting Evidence]]) in this vault, and the underlying 07 Data extractions those four notes cite. It is not a systematic review of the wider literature; absence of a study in this vault is not by itself treated as proof the study doesn't exist elsewhere — each gap below states the specific basis for calling it CONFIRMED or LIKELY rather than resting on vault-absence alone.
 
 ## Scope
 
