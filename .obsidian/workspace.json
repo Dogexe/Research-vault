@@ -11,10 +11,14 @@
             "id": "c6ffd2e55847c5c4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01 Projects/Diode Laser Biopsy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diode Laser Biopsy"
             }
           }
         ]
@@ -227,6 +231,13 @@
   },
   "active": "c6ffd2e55847c5c4",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled.base",
+    "Untitled 1.canvas",
+    "2026-09-14.md",
+    "99 Templates/Study Metadata Schema.md.tmp.21744.d819fdf9e43d",
+    "99 Templates/Study Metadata Schema.md.tmp.21744.d36f8b960002",
+    "99 Templates/Study Metadata Schema.md.tmp.21744.9ec2cd2ad66c",
     "ยังไม่ได้ตั้งชื่อ.canvas",
     "ยังไม่ได้ตั้งชื่อ.base",
     "01 Projects/Diode Laser Biopsy.md",
@@ -237,11 +248,7 @@
     "06 Synthesis/Diode Laser Biopsy Specimen Quality.md.tmp.19148.daf79a77d968",
     "06 Synthesis/Diode Laser Biopsy Specimen Quality.md.tmp.19148.57109f5663f7",
     "06 Synthesis/Diode Laser Biopsy Specimen Quality.md.tmp.19148.106282d21de4",
-    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md.tmp.19148.a4990fbb1297",
-    "04 Evidence/Biopsy Specimen Quality.md.tmp.19148.2dd638786efb",
-    "04 Evidence/Biopsy Specimen Quality.md.tmp.19148.ead9f2941f7f",
     "07 Data/Tenore et al 2023 - Laser Thermal Effect Oral Biopsy Histology Systematic Review Data.md",
-    "07 Data/Tenore et al 2023 - Laser Thermal Effect Oral Biopsy Histology Systematic Review Data.md.tmp.19148.9963b0006e68",
     "07 Data/Vescovi et al 2010 - Nd YAG Laser vs Scalpel Specimen Size Histology Data.md",
     "07 Data/Gobbo et al 2017 - Blue vs Infrared Diode Laser Biopsy Thermal Damage Data.md",
     "07 Data/Seoane et al 2013 - Er,Cr YSGG Leukoplakia Pseudodysplastic Artifact Data.md",
@@ -261,7 +268,6 @@
     "03 Concepts/Glossary/Measurement Location.md",
     "03 Concepts/Glossary/Calibration.md",
     "03 Concepts/Glossary/Power Meter.md",
-    "99 Templates/Evidence Note.md",
-    "99 Templates/Glossary Term Template.md"
+    "99 Templates/Evidence Note.md"
   ]
 }

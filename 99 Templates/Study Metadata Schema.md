@@ -2,7 +2,9 @@
 
 **Terminology cross-reference:** terminology normalization for extraction/synthesis prose should follow [[03 Concepts/Glossary/Glossary Index]]. That does not apply here — schema field meanings, allowed values, and boolean/null semantics are defined solely by this document, and a glossary alias must never be used to reinterpret a field's meaning or value.
 
-**Status: v1.1, frozen pending the next rollout batch.** v1 was stress-tested on a 10-note batch (see [[06 Synthesis/Study Dashboard]] validation notes); this maintenance patch fixes the two demonstrated defects that batch surfaced — `speed_mm_s` couldn't represent a multi-point tested sweep, and Tables B/C could silently admit a non-diode or review-tier row. No fields were added and no field's meaning changed; only `speed_mm_s`'s allowed type widened (see below) and the two Dataview queries gained filters. Do not add new fields, change controlled-vocabulary lists, or mass-tag additional `07 Data/` notes without revisiting this document first — this file is the single source of truth for the schema, and a form, script, or additional tagging pass that drifts from it is a bug, not a variant.
+**Status: v1.2, frozen pending the next rollout batch.** v1.2 adds exactly one field, `specimen_interpretability` (see the Fields table below) — no existing field's type, allowed values, or meaning changed. The addition was driven by a Phase 6 schema design review that found repeated, real information loss: several studies (most clearly Gundlapalle et al. 2022 and Gobbo et al. 2017) report a distinct whole-specimen/slide readability or adequacy judgment — a graded slide-quality score, or a "thermal damage unmeasurable but diagnosis still possible" finding — that could not be represented cleanly by `margin_quality` (margin-condition-specific), `tissue_architecture` (artifact/architecture-specific), or `diagnostic_outcome` (a binary diagnosis-rendered fact, too coarse for a graded or qualified adequacy judgment). Do not add new fields, change controlled-vocabulary lists, or mass-tag additional `07 Data/` notes without revisiting this document first — this file is the single source of truth for the schema, and a form, script, or additional tagging pass that drifts from it is a bug, not a variant.
+
+**v1.1 (2026-09-14 maintenance patch, superseded by v1.2 above; history preserved):** v1 was stress-tested on a 10-note batch (see [[06 Synthesis/Study Dashboard]] validation notes); this patch fixed the two demonstrated defects that batch surfaced — `speed_mm_s` couldn't represent a multi-point tested sweep, and Tables B/C could silently admit a non-diode or review-tier row. No fields were added and no field's meaning changed in v1.1; only `speed_mm_s`'s allowed type widened (see below) and the two Dataview queries gained filters.
 
 Canonical YAML frontmatter schema for study extraction notes in `07 Data/`. It was first applied to a 12-note pilot batch and has since been rolled out further (23 tagged notes as of 2026-09-14 — re-verify against the repository rather than assuming this count stays fixed; see [[06 Synthesis/Study Dashboard]]) and is the field plan for a future Modal Forms form — no form is built yet, this is the specification a form would be built against.
 
@@ -67,6 +69,7 @@ These are three separate questions and must not be collapsed into one:
 | `thermal_damage` | boolean | `true` / `false` | Whether thermal damage/effect (quantified or qualitative) was reported as an outcome. |
 | `margin_quality` | string or `null` | free text | Short description of any margin-condition finding (quantified distance, or a qualitative statement). `null` if not applicable or not reported. |
 | `tissue_architecture` | string or `null` | free text | Short description of any statement about overall tissue-architecture preservation. `null` if not applicable or not reported. |
+| `specimen_interpretability` | string or `null` | free text | Free-text reporting field describing the source's own explicit judgment, grade, score, or separate statement about overall specimen/slide readability, interpretability, or histopathologic adequacy — distinct from raw thermal-damage magnitude, an artifact-severity measurement alone, margin condition alone, tissue-architecture alone, or the binary fact that a diagnosis was rendered. Populate only when the source explicitly reports interpretability/readability/adequacy as its own outcome or conclusion, beyond `diagnostic_outcome`. `null` when no such distinct construct is reported — including when only a diagnosis count, or only thermal-damage/margin/architecture findings, are given. Added in v1.2; see examples below. |
 | `diagnostic_outcome` | boolean | `true` / `false` | Whether a clinical/histopathologic diagnosis was rendered from the specimen. Expected `false` for ex vivo/bench studies — this is not a limitation, see [[06 Synthesis/Study Dashboard]] legend. |
 | `biopsy_oriented` | boolean | `true` / `false` | Whether the study excises/examines a real lesion as a biopsy specimen (as opposed to a standardized incision/block on non-lesional tissue). |
 | `full_text` | boolean | `true` / `false` | Whether the extraction was performed from the full text (vs. abstract-only). |
@@ -87,6 +90,22 @@ This audit found the single field usable for v1 as-is once this precedence order
 ### `margin_quality` and `tissue_architecture`: free text is the v1 decision, not a placeholder
 
 Both fields stay free text for schema v1. The 12 currently tagged notes already show why a controlled vocabulary would be premature: values range from a quantified µm distance (Al-Ani et al. 2024's LTDE), to a qualitative descriptive statement with no number (Shnawa et al. 2025, Spille et al. 2026), to not applicable at all (any non-biopsy ex vivo study with no lesion or margin concept). Forcing these into fixed categories now would either lose the quantified/qualitative distinction or invent categories no second study yet confirms. Revisit only once enough additional notes are tagged that real, stable category boundaries become visible from the data itself — not before.
+
+### `specimen_interpretability` (v1.2): examples and non-examples
+
+Free text, same reasoning as `margin_quality`/`tissue_architecture` above — no controlled vocabulary.
+
+Examples (source explicitly reports a distinct interpretability/readability/adequacy construct):
+
+- **Gundlapalle et al. 2022**: pathologist-graded slide quality, 1 = good to 5 = non-diagnostic, scored separately at periphery and center.
+- **Gobbo et al. 2017**: thermal damage was not measurable in some specimens, but correct histological sampling remained possible and diagnosis was not impaired.
+
+Non-examples (stays `null` — the information belongs in a different field, or there is no distinct construct beyond `diagnostic_outcome`):
+
+- A raw µm thermal-damage value alone → `margin_quality`.
+- Incision regularity alone → `tissue_architecture`.
+- An epithelial (or connective-tissue) artifact score alone → `tissue_architecture`.
+- A bare "diagnosis rendered: yes" with no separate quality or adequacy commentary → `diagnostic_outcome` alone; do not duplicate the same fact here.
 
 ## Modal Forms note
 
