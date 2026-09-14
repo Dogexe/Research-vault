@@ -400,3 +400,79 @@ What each supports: The outcome-selection hierarchy for ex vivo design, without 
 - 6.2, Gobbo interpretive limit: "though this single finding should not be read as proof that thermal damage never affects interpretability in other datasets or designs" — this review's own hedge on a single-source finding; confirm it reads as appropriately conservative rather than as an implied doubt about Gobbo's own result.
 - 6.3, converse-artifact claim: "artifact can still matter methodologically... even in a dataset where diagnosis is ultimately possible in every case" — a synthesis statement built from Monteiro's and Vescovi's own "diagnosis unimpaired" findings; confirm it doesn't overstate methodological relevance beyond what those two sources themselves conclude.
 - 6.4, size-vulnerability summary: "Specimen size can influence vulnerability to thermal-edge artifact, but the reviewed literature does not support one universal threshold" — combines three study-specific results (Angiero, Vescovi, Monteiro's null) under one general statement; reread to confirm the three remain visibly distinct rather than reading as a pooled finding.
+
+---
+
+# 1. Full Section 7 Draft
+
+## 7. Specimen Size and Diagnostic Vulnerability
+
+### 7.1 Why specimen size matters
+
+When a laser incision produces a zone of thermal alteration at the specimen edge, the proportion of the specimen this zone occupies depends not only on the extent of that alteration but also on the specimen's own dimensions. In a smaller specimen, a given width of edge alteration accounts for a larger share of the total tissue, so the central, unaltered compartment available for histopathologic assessment may be proportionally reduced relative to a larger specimen subjected to the same edge effect. This is a geometric and methodological rationale for why smaller specimens may be more vulnerable to interpretive compromise, not a universal clinical threshold derived from a measured relationship in this vault's sources. Vulnerability accordingly depends jointly on the magnitude and location of edge artifact and on specimen dimensions, and specimen size should be interpreted relative to those two factors together rather than as an independent predictor on its own.
+
+Clinical and histologic studies provide study-specific evidence for this vulnerability.
+
+### 7.2 Evidence from Angiero 2011
+
+Angiero et al. (2011), in a large retrospective clinical series (n=608) of diode laser oral biopsies, reports diagnostic limitation as a function of the specimen's own size grouping: 63.63% of specimens grouped at 2 mm were reported as diagnostically limited, falling to 37.71% at 3 mm, and to 0% at specimens of 4 mm or larger. This finding concerns diagnostic limitation specifically — whether a diagnosis could be rendered — rather than a thermal-magnitude measurement; the source does not report a corresponding thermal-damage width alongside these size categories, so this review does not conflate the two constructs. This is a clinical, real-lesion biopsy context, retrospective and single-institution, not an ex vivo mechanistic experiment with controlled laser parameters — the specimens in this series were not produced under standardized power, speed, or margin-geometry conditions. The size categories used are this study's own groupings. These category-specific percentages are interpreted only within the specimen-size groups reported by Angiero et al. and are not extrapolated beyond those observed categories. This review does not use this single series to establish a universal cutoff.
+
+A similar size-vulnerability theme appears in Vescovi, but in a different laser and study context.
+
+### 7.3 Evidence from Vescovi 2010
+
+Vescovi et al. (2010) reports that specimens smaller than 7 mm were associated with significantly greater thermal artifact than larger specimens within its own sample (p<0.0001), assessed across two Nd:YAG power/frequency settings. This study uses a non-diode laser and a different specimen-size threshold than Angiero et al., and this review does not combine the two studies' thresholds into one figure or treat the 7 mm value as directly equivalent to Angiero's 4 mm value; the studies differ in laser type, tissue and lesion context, and outcome definition. Vescovi et al.'s finding is treated here as supporting the broader concept that specimen size can modify vulnerability to thermal artifact, not as evidence of a shared or transferable numeric cutoff between the two studies.
+
+Not all studies show a corresponding relationship.
+
+### 7.4 Contrasting evidence from Monteiro 2019
+
+Monteiro et al. (2019) reports no significant correlation between specimen size and thermal-damage extension in its own sample (epithelial compartment P=0.661; connective compartment P=0.288). This null result is reported here as the source states it, not reinterpreted as proof that specimen size has no effect on vulnerability in general; a non-significant correlation within one dataset, using its own instrument mix and specimen-size range, does not extend to a general claim about size-independence across other devices or protocols. Monteiro et al. attributed the absence of a detected size relationship, at least in part, to the specimen-size range represented in their sample relative to earlier studies. The reviewed evidence suggests that specimen size may modify vulnerability in some settings, but the relationship is not uniform across studies.
+
+This heterogeneity limits any attempt to derive a universal threshold.
+
+### 7.5 Why a universal minimum size is not supported
+
+Angiero et al. and Vescovi et al. report size-related vulnerability in different laser types, tissue and lesion contexts, and specimen-size groupings, while Monteiro et al. does not reproduce a corresponding size relationship in its own sample. The studies underlying this section differ in laser system, study context, specimen-size range, and outcome definition — diagnostic limitation in Angiero et al., thermal-artifact frequency in Vescovi et al., and thermal-damage extension in Monteiro et al. are three distinct outcome constructs, not one measurement reported three times. Given these differences, the size thresholds reported are study-specific rather than directly transferable, and this review does not average them, apply a safety factor to them, or propose a new threshold of its own. The available studies support attention to specimen size as a vulnerability factor, but not a universal minimum dimension.
+
+### 7.6 Implications for ex vivo study design
+
+For an ex vivo design of the kind this review's evidence base is oriented toward, these findings translate into design considerations rather than clinical guidance. Specimen dimensions should be standardized a priori where feasible, so that size itself does not become an uncontrolled source of variation in the outcomes under study. Specimen size should be recorded and reported explicitly, rather than left implicit, given that at least two of the three sources reviewed here treat it as a variable worth measuring. Size should not be permitted to vary so widely within a single design that it comes to dominate the thermal-edge or specimen-quality outcome being measured, since a wide, uncontrolled size range would make it difficult to attribute an observed outcome to laser parameters rather than to specimen geometry. Outcome interpretation should consider specimen size alongside thermal-injury extent rather than either variable in isolation, and the design should avoid confounding size effects with the laser-parameter effects — power, speed, mode — that are this review's primary object of interest. In an ex vivo design, specimen size is therefore best treated as a controlled contextual variable rather than as a clinical cutoff.
+
+Understanding specimen vulnerability also requires returning to the physical determinants of laser–tissue interaction.
+
+(≈1,090 words)
+
+---
+
+# 2. Source-Use Audit
+
+Subsection: 7.1
+Primary studies used: None (mechanistic/geometric rationale only, not tied to a single source)
+What it supports: The geometric rationale for why smaller specimens may be proportionally more affected by a fixed edge-alteration width
+────────────────────────────────────────
+Subsection: 7.2
+Primary studies used: Angiero 2011
+What it supports: Size-graded diagnostic limitation (63.63%/37.71%/0% at 2/3/4 mm, n=608), preserved as this study's own groupings in a clinical, non-ex-vivo context
+────────────────────────────────────────
+Subsection: 7.3
+Primary studies used: Vescovi 2010
+What it supports: Smaller-specimen (<7 mm) association with greater thermal artifact (p<0.0001) in a non-diode Nd:YAG context, kept numerically separate from Angiero's threshold
+────────────────────────────────────────
+Subsection: 7.4
+Primary studies used: Monteiro 2019
+What it supports: A genuine null size-correlation finding (P=0.661 epithelial, P=0.288 connective), preserved as a counterpoint rather than reinterpreted
+────────────────────────────────────────
+Subsection: 7.5
+Primary studies used: Angiero 2011, Vescovi 2010, Monteiro 2019 (synthesis)
+What each supports: The argument that study-specific differences (laser type, outcome definition, context) preclude a universal threshold
+────────────────────────────────────────
+Subsection: 7.6
+Primary studies used: Synthesis of 7.1–7.5
+What each supports: Methodological (not clinical) design implications for standardizing and reporting specimen size in an ex vivo study
+
+# 3. Sentences flagged for human review
+
+- 7.2, dose-response caution: "this review does not treat the resulting percentages as a continuous dose-response curve extending beyond the three categories Angiero et al. themselves report" — a methodological caution added by this review; confirm it reads as a limitation on interpretation rather than as an implicit suggestion that a continuous relationship might otherwise exist.
+- 7.4, Monteiro's attributed explanation: "The source itself attributes the absence of a detected correlation to its own sample not extending to specimens as small as those examined by Angiero et al. or Vescovi et al." — this attribution should be re-verified against Monteiro et al.'s own discussion text before publication, since it characterizes the source's own stated reasoning rather than a directly quoted passage.
+- 7.5, outcome-construct-difference claim: "the studies underlying this section differ in power, incision approach, margin geometry, and how the outcome itself is defined" — a synthesis listing several dimensions of difference at once; confirm each named dimension (particularly margin geometry) is actually traceable to what each source reports, rather than assumed by analogy.
