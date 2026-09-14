@@ -1,6 +1,6 @@
 # Biopsy Specimen Quality
 
-**Status: PARTIAL EVIDENCE.** Three of this vault's processed sources now measure an actual diagnostic-yield outcome in real human diode-laser oral biopsy specimens, all mutually consistent. The central power-to-diagnosis link (below) remains NEEDS EVIDENCE.
+**Status: PARTIAL EVIDENCE.** Three of this vault's processed sources now measure an actual diagnostic-yield outcome in real human diode-laser oral biopsy specimens, all mutually consistent. The power-to-diagnosis link within this clinical-relevance evidence (below) remains NEEDS EVIDENCE — this is a gap in the clinical-context literature, not this project's own primary experimental question (see the Role note immediately below).
 
 **Role (2026-09-13 reframing): CLINICAL RELEVANCE / OUTCOME CONTEXT.** This note is entirely about clinical diagnostic-yield outcomes, which [[01 Projects/Diode Laser Biopsy]] now treats as background context rather than its primary experimental endpoint. It stays useful for showing which specimen-quality thresholds (e.g. ≥4–5 mm margin) matter clinically — the project's own ex vivo primary endpoints are tracked in [[04 Evidence/Thermal Artifact]] and [[04 Evidence/Surgical Margins]] instead.
 
