@@ -11,12 +11,14 @@
             "id": "524ffd511da98cfd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Present/Drawing 2026-09-14 17.40.52.excalidraw.md"
+                "file": "06 Synthesis/Research Gaps in Dental Diode Laser Output.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-14 17.40.52.excalidraw"
+              "icon": "lucide-file",
+              "title": "Research Gaps in Dental Diode Laser Output"
             }
           }
         ]
@@ -229,6 +231,8 @@
   },
   "active": "524ffd511da98cfd",
   "lastOpenFiles": [
+    "Present/Drawing 2026-09-14 17.40.52.excalidraw.md",
+    "ยังไม่ได้ตั้งชื่อ.canvas",
     "04 Evidence/Biopsy Specimen Quality.md",
     "06 Synthesis/Novelty Matrix - Diode Laser Biopsy.md",
     "06 Synthesis/Research Gaps in Dental Diode Laser Output.md",
@@ -244,7 +248,6 @@
     "07 Data/Tenore et al 2023 - Laser Thermal Effect Oral Biopsy Histology Systematic Review Data.md.tmp.21744.dc7851e3c694",
     "06 Synthesis/Study Dashboard.md.tmp.21744.9bbe1104afae",
     "07 Data/Al-Ani et al 2023 - Dual-Wavelength Diode Operating Parameters.md.tmp.21744.cc420c0f8aec",
-    "Present/Drawing 2026-09-14 17.40.52.excalidraw.md",
     "07 Data/Al-Ani et al 2024 - Dual-Wavelength Diode vs Er,Cr YSGG Biopsy Margin Histology Data.md.tmp.21744.c782a52a0943",
     "Untitled 1.canvas",
     "07 Data/Li et al 2022 - Diode vs Er-YAG vs Cold Scalpel Mice Oral Mucosa Data.md.tmp.21744.6673ebc8bc27",
@@ -255,7 +258,6 @@
     "Untitled.canvas",
     "CLAUDE.md",
     "2026-09-14.md",
-    "ยังไม่ได้ตั้งชื่อ.canvas",
     "03 Concepts/Glossary/Absorption.md",
     "02 Literature/10.1117/1.JBO.22.12.121602.md",
     "07 Data/Tenore et al 2023 - Laser Thermal Effect Oral Biopsy Histology Systematic Review Data.md",
@@ -266,7 +268,6 @@
     "02 Literature/10.1007/s10103-013-1266-9.md",
     "02 Literature/10.1007/s10103-010-0770-4.md",
     "02 Literature/10.4317/medoral.22819.md",
-    "02 Literature/10.3390/dj11020028.md",
-    "90 Agent/Processing Logs/Diode Laser Biopsy - Processing Log.md"
+    "02 Literature/10.3390/dj11020028.md"
   ]
 }
