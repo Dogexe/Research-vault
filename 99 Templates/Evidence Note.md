@@ -9,7 +9,7 @@
 
 ## Supporting findings
 
-- FACT: UNKNOWN — link the relevant [[07 Data note]] rather than repeating its extraction table
+- FACT: UNKNOWN — link the relevant [07 Data note]rather than repeating its extraction table
 
 ## Conflicting findings
 
