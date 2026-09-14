@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Synthesis/Literature Review - Diode Laser Biopsy.md",
+                "file": "06 Synthesis/Novelty Matrix - Diode Laser Biopsy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Literature Review - Diode Laser Biopsy"
+              "title": "Novelty Matrix - Diode Laser Biopsy"
             }
           }
         ]
@@ -231,8 +231,14 @@
   },
   "active": "524ffd511da98cfd",
   "lastOpenFiles": [
-    "Present/Drawing 2026-09-14 18.24.10.excalidraw.md",
+    "06 Synthesis/Novelty Check - Prior Systematic Review.md",
+    "06 Synthesis/Literature Review - Diode Laser Biopsy.md.tmp.14912.a796f51e96bf",
     "06 Synthesis/Literature Review - Diode Laser Biopsy.md",
+    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md",
+    "06 Synthesis/Literature Review - Diode Laser Biopsy.md.tmp.14912.de7916cfbcee",
+    "06 Synthesis/Literature Review - Diode Laser Biopsy.md.tmp.14912.d723e6cc9310",
+    "06 Synthesis/Literature Review - Diode Laser Biopsy.md.tmp.14912.d26eb7693b2e",
+    "Present/Drawing 2026-09-14 18.24.10.excalidraw.md",
     "06 Synthesis/Pasted text.txt",
     "Present/Drawing 2026-09-14 17.40.52.excalidraw.md",
     "06 Synthesis/Research Gaps in Dental Diode Laser Output.md",
@@ -241,8 +247,6 @@
     "04 Evidence/Biopsy Specimen Quality.md",
     "06 Synthesis/Novelty Matrix - Diode Laser Biopsy.md",
     "01 Projects/Diode Laser Biopsy.md",
-    "06 Synthesis/Novelty Check - Prior Systematic Review.md",
-    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md",
     "07 Data/Xue et al 2022 - Two Semiconductor Lasers Power Output.md",
     "02 Literature/10.3390/photonics9040219.md",
     "03 Concepts/Laser Presetting.md",
@@ -252,11 +256,7 @@
     "07 Data/Tenore et al 2023 - Laser Thermal Effect Oral Biopsy Histology Systematic Review Data.md.tmp.21744.dc7851e3c694",
     "06 Synthesis/Study Dashboard.md.tmp.21744.9bbe1104afae",
     "07 Data/Al-Ani et al 2023 - Dual-Wavelength Diode Operating Parameters.md.tmp.21744.cc420c0f8aec",
-    "07 Data/Al-Ani et al 2024 - Dual-Wavelength Diode vs Er,Cr YSGG Biopsy Margin Histology Data.md.tmp.21744.c782a52a0943",
     "Untitled 1.canvas",
-    "07 Data/Li et al 2022 - Diode vs Er-YAG vs Cold Scalpel Mice Oral Mucosa Data.md.tmp.21744.6673ebc8bc27",
-    "07 Data/Wilder-Smith et al 1995 - CO2 Laser Incision and Thermal Damage Data.md.tmp.21744.beb13e9116e4",
-    "07 Data/Spille et al 2026 - Diode Laser Learning-Curve and Target-Based Accuracy Data.md.tmp.21744.f52403994dfb",
     "Untitled.canvas",
     "CLAUDE.md",
     "2026-09-14.md",
@@ -268,7 +268,6 @@
     "07 Data/Seoane et al 2013 - Er,Cr YSGG Leukoplakia Pseudodysplastic Artifact Data.md",
     "07 Data/Monteiro et al 2019 - Multi-Instrument Oral Fibro-Epithelial Margin Histology Data.md",
     "02 Literature/10.1007/s10103-013-1266-9.md",
-    "02 Literature/10.1007/s10103-010-0770-4.md",
-    "02 Literature/10.4317/medoral.22819.md"
+    "02 Literature/10.1007/s10103-010-0770-4.md"
   ]
 }
