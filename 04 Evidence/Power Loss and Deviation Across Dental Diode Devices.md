@@ -13,6 +13,7 @@
 - FACT: Xue et al. reported pulsed signed mean-output deviations of +37%, +26%, and −3% for 445 nm, 970 nm, and 810 nm devices, respectively. [[07 Data/Xue et al 2022 - Two Semiconductor Lasers Power Output]]
 - FACT: Zegaib et al. reported output at the fiber tip below the 1.0 W panel reference in every measured condition: a mean 9% fibre-transmission loss before tissue contact, and progressive contact-induced loss reaching a mean 40.26% by the fourth application (study group), versus 0.14–1.58% in the non-contact control group. [[07 Data/Zegaib et al 2011 - Fiber Tip Power Loss During Periodontal Curettage]]
 - FACT: Kim et al. measured set vs. actual power for three separate dental diode devices under one shared protocol (same calibrated power meter, same fiber tip type, same three power settings) and found the deviation direction was device-dependent: K2 mobile (980 nm) measured +11.9% to +18.1% above its panel setting, while Epic 10 TM (940 nm) and Saeshin (980 nm) measured −13.9% to −27.3% below theirs. [[07 Data/Kim et al 2020 - Set vs Actual Power Across Three Dental Diode Lasers]]
+- FACT (added 2026-09-14): [[07 Data/Prado et al 2022 - Micro vs Super Pulsed Diode Laser Ex Vivo Thermal Damage Data|Prado et al. 2022]] (940 nm, micro pulsed diode, ex vivo oral tissue study, not a bench power survey) measured output below its display value at both tested settings — 1.2 W display → 1.0 W measured (≈17% below), 1.8 W display → 1.5 W measured (≈17% below) — a device not otherwise represented in this note's core evidence, and directionally consistent with the below-panel pattern from Parker et al. and Zegaib et al. rather than the mixed-direction pattern from Xue et al. and Kim et al.
 
 ## Conflicting findings
 
@@ -33,7 +34,7 @@
 ## Related notes
 
 - Concepts: [[03 Concepts/Power Loss]], [[03 Concepts/Power Output]], [[03 Concepts/Laser Presetting]], [[03 Concepts/Operating Parameters]]
-- Primary evidence: [[07 Data/Parker et al 2022 - Delivery Power Losses and Operating Parameters]], [[07 Data/Xue et al 2022 - Two Semiconductor Lasers Power Output]], [[07 Data/Zegaib et al 2011 - Fiber Tip Power Loss During Periodontal Curettage]], [[07 Data/Kim et al 2020 - Set vs Actual Power Across Three Dental Diode Lasers]]
+- Primary evidence: [[07 Data/Parker et al 2022 - Delivery Power Losses and Operating Parameters]], [[07 Data/Xue et al 2022 - Two Semiconductor Lasers Power Output]], [[07 Data/Zegaib et al 2011 - Fiber Tip Power Loss During Periodontal Curettage]], [[07 Data/Kim et al 2020 - Set vs Actual Power Across Three Dental Diode Lasers]], [[07 Data/Prado et al 2022 - Micro vs Super Pulsed Diode Laser Ex Vivo Thermal Damage Data]]
 
 ## สรุปภาษาไทย
 

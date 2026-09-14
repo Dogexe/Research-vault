@@ -10,6 +10,7 @@
 
 - Direct power-deviation evidence: [[07 Data/Parker et al 2022 - Delivery Power Losses and Operating Parameters|Parker et al. 2022]], [[07 Data/Xue et al 2022 - Two Semiconductor Lasers Power Output|Xue et al. 2022]], [[07 Data/Zegaib et al 2011 - Fiber Tip Power Loss During Periodontal Curettage|Zegaib et al. 2011]], [[07 Data/Kim et al 2020 - Set vs Actual Power Across Three Dental Diode Lasers|Kim et al. 2020]].
 - Supporting operating-parameter evidence only (neither source reports an independently measured output value distinct from its set value, so neither contributes power-deviation data): [[07 Data/Al-Ani et al 2023 - Dual-Wavelength Diode Operating Parameters|Al-Ani et al. 2023]], [[07 Data/Gutierrez-Corrales et al 2020 - Diode Wavelength Operating Parameters|Gutiérrez-Corrales et al. 2020]].
+- Additional direct power-deviation evidence (added 2026-09-14), ex vivo oral-tissue study rather than a bench power survey: [[07 Data/Prado et al 2022 - Micro vs Super Pulsed Diode Laser Ex Vivo Thermal Damage Data|Prado et al. 2022]] — reports both a display value and an independently measured value (940 nm, ~17% under-delivery at both tested settings), directionally consistent with the below-panel pattern from Parker et al. and Zegaib et al.
 
 ## 1. Current consistent findings
 

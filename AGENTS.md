@@ -182,6 +182,36 @@ Source → extracted data → claim → evidence → synthesis
 
 
 
+## Ingestion Workflow (before extraction)
+
+
+
+The actual pipeline that puts a source in front of Claude, upstream of "extracted data" above:
+
+
+
+discover/find original source → add original source to Zotero → ZotLit imports source metadata/notes/PDF into Obsidian → Claude reads/extracts → `07 Data/` → `04 Evidence/` → `06 Synthesis/`
+
+
+
+Rules:
+
+
+
+\- Do not create `07 Data/` directly from a discovered citation, search-result snippet, or random uploaded PDF unless explicitly instructed otherwise.
+
+\- Normal workflow requires the original source to enter through Zotero/ZotLit first.
+
+\- Reviews, textbooks, monographs, and secondary sources may be used for discovery, citation mining, and context.
+
+\- Primary-study metadata and evidence should come from the original primary paper whenever available.
+
+\- If only abstract-level evidence is available, preserve that limitation explicitly.
+
+\- Do not silently promote secondary-source claims into primary-study metadata.
+
+
+
 Evidence notes should record:
 
 
@@ -267,7 +297,9 @@ Before making large structural changes:
 
 
 
-\- Main research hub: `01 Projects/Diode Laser Master.md`
+\- Active canonical research project: `01 Projects/Diode Laser Biopsy.md`
+
+\- Broader technical/background hub: `01 Projects/Diode Laser Master.md`
 
 \- Note and extraction templates: `99 Templates/`
 

@@ -30,7 +30,7 @@
 - Limitations: Angiero et al. is retrospective, single-institution. Romeo et al. is a small series (n=17) with uneven diode/KTP distribution for two of six lesion types. Gambino et al. is single-center, ex vivo OCT only, and fixed both power and margin (not varied). None of the three independently verifies delivered power.
 - Uncertainty: NEEDS EVIDENCE for whether power/operating-parameter choice (as opposed to specimen size/margin) independently affects diagnostic yield — no source in this vault varies power while holding specimen size constant, or vice versa, to isolate the two variables.
 - Possible explanations for disagreement: Not applicable — no confirmed conflict between the three processed sources.
-- Research gaps: No vault source varies dental-diode power/operating parameters as an independent variable while measuring diagnostic yield at a fixed specimen size (or vice versa); this remains the central unresolved question of [[01 Projects/Diode Laser Biopsy]]. See [[04 Evidence/Power Output and Tissue Effect]] for the related power-verification gap.
+- Research gaps: No vault source varies dental-diode power/operating parameters as an independent variable while measuring diagnostic yield at a fixed specimen size (or vice versa). This is a real gap in the clinical-relevance evidence tracked by this note, but it is **not** [[01 Projects/Diode Laser Biopsy]]'s primary experimental question — that question concerns operating parameters + measured delivered power + incision speed → histopathologic specimen quality in ex vivo oral soft tissue (see [[04 Evidence/Power Output and Tissue Effect]]), with clinical diagnostic yield retained as translational/context evidence for why margin preservation and artifact matter.
 
 ## Related notes
 
@@ -42,7 +42,7 @@
 ## สรุปภาษาไทย
 
 - บันทึกนี้เป็น **หลักฐานบางส่วน (PARTIAL EVIDENCE)** โดยมีแหล่งข้อมูล 3 รายการที่ประมวลผลแล้วซึ่งวัดผลการวินิจฉัยจริงจากชิ้นเนื้อ biopsy ที่ตัดด้วยเลเซอร์ไดโอดในผู้ป่วยจริง และผลทั้งสามสอดคล้องกัน
-- Angiero et al. (n=608) พบว่าอัตราวินิจฉัยไม่ได้ขึ้นกับขนาดชิ้นเนื้อ: 2 มม. = 63.63% วินิจฉัยไม่ได้, 3 มม. = 37.71%, และ ≥4 มม. = วินิจฉัยได้ 100%
+- Angiero et al. (n=608) พบว่าอัตราวินิจฉัย**ขึ้นกับ**ขนาดชิ้นเนื้ออย่างชัดเจน: 2 มม. = 63.63% วินิจฉัยไม่ได้, 3 มม. = 37.71%, และ ≥4 มม. = วินิจฉัยได้ 100%
 - Romeo et al. (n=17, ขนาดรอยโรค 0.5–1 ซม.) วินิจฉัยได้ 100%
 - Gambino et al. (n=30, ขอบตัด 5 มม. มาตรฐาน) วินิจฉัยได้ 100% แม้พบความหนาของเนื้อเยื่อเพิ่มขึ้นอย่างมีนัยสำคัญทางสถิติเทียบกับกลุ่มควบคุม
 - ทั้งสามผลสอดคล้องกันว่าขนาดชิ้นเนื้อ/ขอบตัด (ไม่ใช่ค่ากำลัง) เป็นตัวแปรสำคัญต่อผลการวินิจฉัย แต่ยังไม่มีการทดสอบแปรค่ากำลังโดยตรง และไม่มีแหล่งใดวัดกำลังขาออกจริง
