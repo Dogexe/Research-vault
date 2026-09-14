@@ -270,3 +270,133 @@ What each supports: The design implication that exposure characterization and bi
 - 8.3, size-vulnerability synthesis: "Angiero et al. (2011) and... Vescovi et al. (2010) each treat specimen size as a vulnerability factor for diagnostic failure or artifact frequency" — this pairs two studies with different, non-equivalent size thresholds (Angiero's 4 mm diagnostic-failure threshold; Vescovi's 7 mm artifact-frequency threshold, non-diode); reread to confirm the shared framing doesn't imply a common or poolable threshold.
 - 8.4, disconnection framing: "This pattern weakens the direct linkage between actual delivered exposure and specimen-quality endpoints in the reviewed evidence, without indicating bias or invalidity in either stream individually" — this is this review's own integrative judgment across nine-plus sources rather than a finding any single source states; confirm it reads as a limitation-in-integration claim, not an implicit criticism of either stream's validity.
 - 8.5, design-value statement: "The value such a design would offer comes from linking exposure characterization to biopsy-relevant histopathologic outcomes within one controlled protocol" — a forward-looking design-rationale sentence; reread to confirm it stays a general implication rather than drifting into an implicit priority/novelty claim that belongs in Section 9.
+
+---
+
+# 1. Full Section 9 Draft
+
+## 9. Remaining Methodological Gap
+
+### 9.1 What is already established
+
+The individual methodological components this review has examined are not, on their own, unaddressed in the reviewed literature. Hanke et al. (2021), Strakas et al. (2023), and Goharkhay et al. (1999) each already combine independently measured or verified delivered power, controlled or explicitly reported incision speed, and histologic assessment of tissue effect. Prado et al. (2022) independently measures delivered power and pairs it with histologic thermal-damage outcomes, without a reported incision speed. Biopsy-oriented specimen-quality work — margin condition, artifact severity, specimen interpretability, and diagnostic relevance — is also already represented across Monteiro et al. (2019), Vescovi et al. (2010), Gobbo et al. (2017), Seoane et al. (2013), Gundlapalle et al. (2022), Angiero et al. (2011), Azevedo et al. (2016), Romeo et al. (2014), and Al-Ani et al. (2024). The individual methodological components are not novel.
+
+The unresolved issue lies in how these components are combined.
+
+### 9.2 The unresolved integration gap
+
+Within the studies identified in this review, no ex vivo oral diode-laser study was found that simultaneously combined independently measured delivered power, controlled or explicitly reported incision speed, and a biopsy-oriented histopathologic specimen-quality outcome framework. This is not a claim of absence for any one of these elements — each is separately established, as 9.1 restates — but a claim about their joint occurrence within a single study design. The gap identified here is one of integration, not absence.
+
+The measured-power/speed evidence in this vault (Hanke, Strakas, Goharkhay, and, more partially, Prado and Merigo) tends to emphasize thermal-interaction or cutting-efficiency outcomes rather than biopsy-oriented readability outcomes. The biopsy-quality evidence, conversely, tends to report richer pathology-oriented outcomes while relying on nominal set power or, at most, setup-stage power verification rather than independent re-confirmation of delivered output. Accordingly, the reviewed evidence provides limited direct integration between characterized delivered exposure and biopsy-oriented specimen-quality endpoints. This does not indicate that either stream of prior studies is methodologically inadequate for the purpose it was designed to serve; each addresses its own stated aim. It indicates only that the specific combination of exposure characterization and biopsy-oriented outcome assessment, within one ex vivo oral diode-laser design, is not represented in the evidence this review has identified.
+
+### 9.3 Why this gap matters methodologically
+
+The importance of this gap is methodological rather than merely descriptive. A console-set power value is not necessarily equivalent to the power actually delivered to tissue, and the deviation is device-dependent rather than uniform; a study relying on set power alone therefore leaves the exposure side of its own design incompletely characterized. Incision speed contributes to local exposure alongside power, so a design that measures power without reporting or controlling speed leaves the same characterization incomplete in a different respect. On the outcome side, thermal-injury magnitude, specimen interpretability, and margin condition are distinguishable constructs that can diverge within the same dataset — Gobbo et al.'s finding that unmeasurable thermal damage did not impair diagnosis is the clearest illustration. This review therefore treats thermal-injury magnitude as one component of specimen quality rather than as a complete surrogate for it. Specimen interpretability and margin condition are themselves distinct from whether a diagnosis was ultimately rendered. Linking exposure variables and biopsy-oriented pathology outcomes within one design would allow more direct interpretation of the relationship between characterized exposure and specimen quality than either evidence stream currently permits on its own; this is a methodological point about what a study design can support, not a claim about clinical or diagnostic improvement.
+
+### 9.4 Scope of the gap
+
+This gap statement is deliberately narrow, and several broader claims should not be read into it. It is not a claim that no laser-biopsy study has assessed specimen quality — the biopsy-oriented evidence stream demonstrates the opposite. It is not a claim that measured power has not been used in prior diode or oral soft-tissue research — Sections 3 and 8.1 establish that it has. It is not a claim that incision speed has not been controlled or reported previously — Sections 4 and 8.2 establish that it has, in the same three sources (Hanke, Strakas, Goharkhay) that already combine it with measured power and histology. It is, correspondingly, not a claim that measured power, speed, and histology together are a novel combination. Nor is this a systematic-review-level proof of global absence: the conclusion is bounded by the evidence identified in this review, by variation in how the reviewed sources name and operationalize related constructs, and by incomplete reporting in some primary studies — for example, several sources verify power without tabulating the measured wattage, or report speed without describing its control mechanism.
+
+### 9.5 Methodological opportunity
+
+A design responsive to this gap would integrate independently measured delivered power, controlled or explicitly reported incision speed, and relevant laser-delivery variables — emission mode, fiber geometry, and tip-initiation/contact status — with biopsy-oriented histopathologic outcomes such as thermal injury magnitude, margin/incision condition, tissue architecture where assessable, and specimen interpretability or readability. Diagnostic outcome, consistent with the scope boundary already established for a non-lesional ex vivo model, would remain contextual rather than the primary endpoint. Addressing this integration gap would allow the relationship between characterized laser exposure and biopsy-relevant histopathologic specimen quality to be examined within a single controlled experimental framework. The methodological gap provides the rationale for the design of the present study.
+
+(≈950 words)
+
+---
+
+# 2. Source-Use Audit
+
+Subsection: 9.1
+Primary studies used: Hanke 2021, Strakas 2023, Goharkhay 1999, Prado 2022, Monteiro 2019, Vescovi 2010, Gobbo 2017, Seoane 2013, Gundlapalle 2022, Angiero 2011, Azevedo 2016, Romeo 2014, Al-Ani 2024
+What each supports: Concise restatement that each individual methodological component (measured power, controlled/reported speed, biopsy-oriented specimen-quality outcomes) already has prior art, without re-detailing Section 8's evidence
+────────────────────────────────────────
+Subsection: 9.2
+Primary studies used: Synthesis of Section 8.1–8.4 (Hanke 2021, Strakas 2023, Goharkhay 1999, Prado 2022, Merigo 2012 vs. Monteiro 2019, Vescovi 2010, Gobbo 2017, Seoane 2013, Gundlapalle 2022, Angiero 2011, Azevedo 2016, Romeo 2014, Al-Ani 2024)
+What each supports: The bounded, integration-framed gap statement — no study combining all three elements identified in the reviewed evidence
+────────────────────────────────────────
+Subsection: 9.3
+Primary studies used: Synthesis of Sections 3–5 and 8.3 (Gobbo 2017 specifically, for the measurability/diagnosis divergence)
+What each supports: The methodological (not clinical) rationale for why the integration gap matters
+────────────────────────────────────────
+Subsection: 9.4
+Primary studies used: Synthesis of Sections 3, 4, 5.4, and 8.1–8.2
+What each supports: Explicit scope-limiting statements bounding the gap claim against overclaiming
+────────────────────────────────────────
+Subsection: 9.5
+Primary studies used: Synthesis of Sections 2–5 and 8.5
+What each supports: The design-opportunity bridge toward Section 10, without a first-study or uniqueness claim
+
+# 3. Sentences flagged for human review
+
+- 9.2, linkage-limitation sentence: "Between these two emphases, the reviewed evidence offers limited direct linkage between characterized delivered exposure and biopsy-oriented specimen-quality endpoints" — restates Section 8.4's own locked conclusion in new wording; confirm it doesn't extend that conclusion beyond what Section 8.4 already established.
+- 9.3, specimen-quality generalization: "thermal magnitude alone does not fully represent specimen quality" — a synthesis conclusion drawn principally from Gobbo et al.'s single-dataset measurability/diagnosis divergence; confirm it isn't read as a finding independently replicated across multiple sources.
+- 9.4, heterogeneity attribution: "the conclusion is bounded by... heterogeneity in how different sources name and operationalize related constructs" — links the gap's bounded scope back to Section 5.4's terminology-heterogeneity finding; confirm this reads as a scope limitation on this review's own claim, not as a criticism of the underlying sources' quality.
+
+---
+
+# 1. Full Section 6 Draft
+
+## 6. Biopsy Specimen Quality and Histopathologic Interpretability
+
+### 6.1 From tissue alteration to specimen quality
+
+Thermal injury magnitude, artifact morphology/severity, and margin/incision condition — the three constructs separated in Section 5 — each describe a real and measurable dimension of what a laser incision does to tissue, but none of them, individually or combined, is equivalent to whether the resulting specimen remains histopathologically usable and interpretable as a whole. A linear thermal-magnitude figure describes how far alteration extends; an ordinal artifact score describes what kind of cellular change occurred; a margin-regularity score describes the physical condition of the cut edge. Monteiro et al. (2019) and Vescovi et al. (2010) report all three of these component measures within the same design — thermal-damage extension, an epithelial/connective-tissue artifact sum-score, and an incision-regularity score — without treating any one of them, or their combination, as a stated specimen-quality verdict; the source papers report these as separate values rather than fusing them into an overall judgment. Azevedo et al. (2016) similarly reports a thermal-magnitude figure, a carbonization scale, and an incision-regularity percentage as three distinct values. Romeo et al. (2014) reports margin-distance data by lesion type without a corresponding specimen-quality or interpretability judgment. Specimen quality, as this review uses the term, is therefore broader than any single one of these measures, and this review treats specimen interpretability or readability as a distinct construct only where a source explicitly reports it as such — not as something inferable from a thermal-magnitude or margin-regularity value alone.
+
+Some studies move beyond local damage metrics and explicitly judge the specimen or slide as a whole.
+
+### 6.2 Structured assessment of slide or specimen interpretability
+
+A smaller number of sources in this vault report an explicit judgment of overall slide or specimen readability, rather than a component-level measurement. Gundlapalle et al. (2022) reports a structured ordinal slide-quality grading approach, scored separately at the specimen periphery and center on a scale running from 1 (good) to a poorer grade reported as 5 (non-diagnostic), with pulsed-wave specimens graded better than continuous-wave specimens at both locations; the source does not describe this grading system as formally validated, and this review does not characterize it as such. Gobbo et al. (2017) reports a distinct kind of finding: in 21.5% of its specimens, thermal damage was too extensive or too subtle to measure, yet the source states that correct histological sampling and diagnosis were achieved in every case. This is evidence that the measurability of one damage metric and the overall usability of a specimen are not the same construct — inability to quantify thermal damage did not, in this dataset, prevent diagnosis — though this single finding should not be read as proof that thermal damage never affects interpretability in other datasets or designs. Seoane et al. (2013) raises a different kind of interpretability concern: pseudodysplastic artifact, a thermally induced pattern of cellular and nuclear change that the source states can be mistaken for genuine epithelial dysplasia. The source's own emphasis is on the risk of confusing this artifact with a true dysplastic border, assessed via a blinded two-pathologist consensus process, rather than on a formal numeric slide-quality score. These three sources assess different forms of interpretability — a graded slide-quality instrument, a measurability-versus-diagnosability divergence, and an interpretive risk of diagnostic confusion — and should not be collapsed into one common numeric scale.
+
+Whole-specimen interpretability must also be distinguished from whether a diagnosis was ultimately rendered.
+
+### 6.3 Interpretability versus diagnostic outcome
+
+Diagnostic outcome — whether a diagnosis was ultimately rendered — is a coarser, binary or near-binary construct than specimen interpretability, and this review treats the two as distinct. Gobbo et al.'s own finding is the clearest demonstration within this vault: a specimen can remain diagnosable despite a measurement limitation severe enough that thermal damage itself could not be quantified. The converse also holds in this review's framing: artifact can still matter methodologically — for margin assessment, for architecture preservation, for a structured grading instrument like Gundlapalle's — even in a dataset where diagnosis is ultimately possible in every case, as in Monteiro et al. (2019) and Vescovi et al. (2010), both of which report diagnosis as unimpaired despite quantified thermal damage and ordinal artifact scores. Angiero et al. (2011), by contrast, reports diagnostic outcome as directly size-graded, with diagnostic failure occurring in a substantial proportion of the smallest specimens in that series — a case where diagnostic outcome itself is the reported endpoint, without an accompanying interpretability or margin score. Diagnostic outcome indicates whether a diagnosis could ultimately be rendered, whereas specimen interpretability concerns the quality and readability of the histopathologic material through which that judgment is made. This review does not treat diagnostic success as proof that artifact is clinically irrelevant, does not treat interpretability and diagnostic outcome as interchangeable, and does not treat the absence of diagnostic failure in a given study as evidence of high specimen quality by itself; diagnostic outcome is retained as clinical or contextual evidence rather than as this review's primary ex vivo specimen-quality endpoint.
+
+Interpretability is also shaped by specimen-level factors beyond laser exposure itself.
+
+### 6.4 Specimen-level factors affecting vulnerability
+
+Specimen size recurs in this vault's clinical literature as a factor associated with vulnerability to thermal-edge artifact and diagnostic limitation, independent of the exposure variables addressed in Sections 3 and 4. Angiero et al. (2011) reports diagnostic limitation as a function of specimen size within its own series, with unreadable/non-diagnostic outcomes concentrated among its smallest tested specimens and none at its largest. Vescovi et al. (2010), in a differently designed, non-diode study, reports smaller specimens as significantly more likely to show thermal artifact than larger ones within its own sample. Monteiro et al. (2019), by contrast, reports no significant correlation between specimen size and thermal-damage extension in its own dataset. These three findings are preserved here as study-specific results rather than merged into one relationship: Angiero's and Vescovi's size thresholds are not the same value, are drawn from different devices and tissue contexts, and Monteiro's null finding is a genuine result from a third, separate sample rather than a contradiction to be resolved. Specimen size can influence vulnerability to thermal-edge artifact, but the reviewed literature does not support one universal threshold, and this review does not derive or recommend a clinical cutoff from these sources.
+
+This reinforces why specimen-quality outcomes should be interpreted in relation to both laser exposure and specimen context.
+
+### 6.5 Implications for outcome selection in ex vivo studies
+
+Taken together, Sections 5 and 6 point toward a defensible hierarchy of outcome types for an ex vivo oral soft-tissue design, ordered from most directly measurable to most clinically contingent: objective thermal-injury magnitude, structured artifact-severity scoring, margin or incision condition, specimen interpretability or readability where it can be explicitly assessed, and diagnostic outcome treated as contextual rather than primary. An ex vivo design of the kind this review's evidence base draws on can assess histologic damage magnitude, artifact severity, tissue-architecture preservation, margin condition, and, where a structured instrument is used, specimen interpretability. It cannot directly establish clinical diagnostic yield, recurrence, healing, or other patient-level outcomes, since these depend on a real lesion and a living patient that a non-lesional ex vivo model does not include. Outcome selection for such a design should preserve the construct separation established across Section 5 and this section, rather than collapsing thermal magnitude, artifact severity, margin condition, and interpretability into a single composite score; no such composite is proposed here, and none of the reviewed sources defines one.
+
+Specimen-level vulnerability, particularly specimen size, therefore warrants separate consideration.
+
+(≈1,290 words)
+
+---
+
+# 2. Source-Use Audit
+
+Subsection: 6.1
+Primary studies used: Monteiro 2019, Vescovi 2010, Azevedo 2016, Romeo 2014
+What each supports: Demonstration that component-level measures (thermal magnitude, artifact score, margin regularity) are reported as separate values, not fused into a specimen-quality verdict
+────────────────────────────────────────
+Subsection: 6.2
+Primary studies used: Gundlapalle 2022, Gobbo 2017, Seoane 2013
+What each supports: Three non-equivalent forms of explicit interpretability assessment — structured ordinal slide-quality grading (Gundlapalle), measurability-vs-diagnosability divergence (Gobbo), interpretive risk of diagnostic confusion (Seoane)
+────────────────────────────────────────
+Subsection: 6.3
+Primary studies used: Gobbo 2017, Monteiro 2019, Vescovi 2010, Angiero 2011
+What each supports: The separation of specimen interpretability from diagnostic outcome as a coarser, distinct construct
+────────────────────────────────────────
+Subsection: 6.4
+Primary studies used: Angiero 2011, Vescovi 2010, Monteiro 2019
+What each supports: Specimen size as a study-specific vulnerability factor, with non-equivalent thresholds and one null finding preserved separately
+────────────────────────────────────────
+Subsection: 6.5
+Primary studies used: Synthesis of Section 5 and 6.1–6.4
+What each supports: The outcome-selection hierarchy for ex vivo design, without proposing a composite score
+
+# 3. Sentences flagged for human review
+
+- 6.2, Gobbo interpretive limit: "though this single finding should not be read as proof that thermal damage never affects interpretability in other datasets or designs" — this review's own hedge on a single-source finding; confirm it reads as appropriately conservative rather than as an implied doubt about Gobbo's own result.
+- 6.3, converse-artifact claim: "artifact can still matter methodologically... even in a dataset where diagnosis is ultimately possible in every case" — a synthesis statement built from Monteiro's and Vescovi's own "diagnosis unimpaired" findings; confirm it doesn't overstate methodological relevance beyond what those two sources themselves conclude.
+- 6.4, size-vulnerability summary: "Specimen size can influence vulnerability to thermal-edge artifact, but the reviewed literature does not support one universal threshold" — combines three study-specific results (Angiero, Vescovi, Monteiro's null) under one general statement; reread to confirm the three remain visibly distinct rather than reading as a pooled finding.
