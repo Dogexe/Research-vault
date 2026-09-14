@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Evidence/Set Power vs Measured Output.md",
+                "file": "06 Synthesis/Contradictions in Diode Laser Biopsy Evidence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Set Power vs Measured Output"
+              "title": "Contradictions in Diode Laser Biopsy Evidence"
             }
           }
         ]
@@ -231,8 +231,18 @@
   },
   "active": "524ffd511da98cfd",
   "lastOpenFiles": [
+    "06 Synthesis/Current Evidence on Diode Laser Power Output.md",
+    "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md",
+    "06 Synthesis/Literature Review - Diode Laser Biopsy.md",
+    "06 Synthesis/Study Dashboard.md",
+    "04 Evidence/Tip Initiation and Fiber Condition - Supporting Evidence.md",
+    "04 Evidence/Thermal Artifact.md",
+    "01 Projects/Diode Laser Biopsy.md",
     "04 Evidence/Surgical Margins.md",
     "04 Evidence/Biopsy Specimen Quality.md",
+    "04 Evidence/Set Power vs Measured Output.md",
+    "04 Evidence/Power Output and Tissue Effect.md",
+    "04 Evidence/Power Loss and Deviation Across Dental Diode Devices.md",
     "04 Evidence/Output Accuracy and Repeatability - Supporting Evidence.md",
     "99 Templates/Synthesis Note.md",
     "04 Evidence.md",
@@ -251,7 +261,6 @@
     "06 Synthesis/Novelty Matrix - Diode Laser Biopsy.md",
     "06 Synthesis/Novelty Check - Prior Systematic Review.md",
     "06 Synthesis/Literature Review - Diode Laser Biopsy.md.tmp.14912.a796f51e96bf",
-    "06 Synthesis/Literature Review - Diode Laser Biopsy.md",
     "06 Synthesis/Diode Laser Biopsy Specimen Quality.md",
     "06 Synthesis/Literature Review - Diode Laser Biopsy.md.tmp.14912.de7916cfbcee",
     "06 Synthesis/Literature Review - Diode Laser Biopsy.md.tmp.14912.d723e6cc9310",
@@ -259,16 +268,7 @@
     "06 Synthesis/Pasted text.txt",
     "Present/Drawing 2026-09-14 17.40.52.excalidraw.md",
     "06 Synthesis/Research Gaps in Dental Diode Laser Output.md",
-    "01 Projects/Diode Laser Biopsy.md",
     "07 Data/Xue et al 2022 - Two Semiconductor Lasers Power Output.md",
-    "02 Literature/10.3390/photonics9040219.md",
-    "03 Concepts/Operating Parameters.md",
-    "03 Concepts/Glossary/Absorption.md",
-    "02 Literature/10.1117/1.JBO.22.12.121602.md",
-    "07 Data/Tenore et al 2023 - Laser Thermal Effect Oral Biopsy Histology Systematic Review Data.md",
-    "07 Data/Vescovi et al 2010 - Nd YAG Laser vs Scalpel Specimen Size Histology Data.md",
-    "07 Data/Gobbo et al 2017 - Blue vs Infrared Diode Laser Biopsy Thermal Damage Data.md",
-    "07 Data/Seoane et al 2013 - Er,Cr YSGG Leukoplakia Pseudodysplastic Artifact Data.md",
-    "07 Data/Monteiro et al 2019 - Multi-Instrument Oral Fibro-Epithelial Margin Histology Data.md"
+    "02 Literature/10.3390/photonics9040219.md"
   ]
 }
