@@ -22,7 +22,7 @@ Concise integrated interpretation across evidence notes/studies — not a repeat
 
 ## Strongest supporting evidence
 
-- UNKNOWN — link the relevant [[04 Evidence]] and [07 Data]notes
+- UNKNOWN — link the relevant [04 Evidence] and [07 Data]notes
 
 ## Contradictions / unresolved issues
 
