@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Synthesis/Contradictions in Diode Laser Biopsy Evidence.md",
+                "file": "07 Data/Xue et al 2022 - Two Semiconductor Lasers Power Output.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contradictions in Diode Laser Biopsy Evidence"
+              "title": "Xue et al 2022 - Two Semiconductor Lasers Power Output"
             }
           }
         ]
@@ -231,8 +231,11 @@
   },
   "active": "524ffd511da98cfd",
   "lastOpenFiles": [
-    "06 Synthesis/Current Evidence on Diode Laser Power Output.md",
+    "06 Synthesis/Literature Review - Diode Laser Biopsy.md.tmp.14912.4032ce3683e4",
     "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md",
+    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md",
+    "06 Synthesis/Contradictions in Diode Laser Biopsy Evidence.md",
+    "06 Synthesis/Current Evidence on Diode Laser Power Output.md",
     "06 Synthesis/Literature Review - Diode Laser Biopsy.md",
     "06 Synthesis/Study Dashboard.md",
     "04 Evidence/Tip Initiation and Fiber Condition - Supporting Evidence.md",
@@ -261,14 +264,11 @@
     "06 Synthesis/Novelty Matrix - Diode Laser Biopsy.md",
     "06 Synthesis/Novelty Check - Prior Systematic Review.md",
     "06 Synthesis/Literature Review - Diode Laser Biopsy.md.tmp.14912.a796f51e96bf",
-    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md",
     "06 Synthesis/Literature Review - Diode Laser Biopsy.md.tmp.14912.de7916cfbcee",
     "06 Synthesis/Literature Review - Diode Laser Biopsy.md.tmp.14912.d723e6cc9310",
     "06 Synthesis/Literature Review - Diode Laser Biopsy.md.tmp.14912.d26eb7693b2e",
     "06 Synthesis/Pasted text.txt",
     "Present/Drawing 2026-09-14 17.40.52.excalidraw.md",
-    "06 Synthesis/Research Gaps in Dental Diode Laser Output.md",
-    "07 Data/Xue et al 2022 - Two Semiconductor Lasers Power Output.md",
-    "02 Literature/10.3390/photonics9040219.md"
+    "06 Synthesis/Research Gaps in Dental Diode Laser Output.md"
   ]
 }

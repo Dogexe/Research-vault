@@ -142,3 +142,65 @@ What each supports: Contrast set of set-power-only (or setup-check-only, for Al-
 - 3.1/3.2, correction-factor claim: "no source here proposes, or would support, a single correction factor applicable across devices" — this is an inference from the absence of such a proposal across four sources, consistent with this vault's own evidence-note assessment ([[04 Evidence/Set Power vs Measured Output]]), but stated here as this review's own conclusion; confirm it doesn't read as stronger than the four-source evidence base supports.
 - 3.2, Zegaib mechanism sentence: "repeated use and contact condition, not the console setting alone, are contributors this source itself isolates" — accurate to Zegaib's contact-vs-non-contact-control design, but the phrasing risks reading as a general mechanism claim beyond this single device/protocol; reread to confirm it stays scoped to Zegaib's own comparison.
 - 3.4, validity caveat: "This does not mean set-power-only studies are methodologically invalid" — this is this review's own methodological stance protecting the many set-power-only sources from an implied invalidity claim, not a finding stated by any source; flagging for consistency with the hedged, non-causal tone used elsewhere in this section.
+
+---
+
+# 1. Full Section 4 Draft
+
+## 4. Incision Speed and Exposure Mechanics
+
+### 4.1 Why incision speed matters mechanistically
+
+The rate at which a laser fiber tip is advanced through tissue is mechanistically plausible as a determinant of local energy exposure: slower advancement plausibly increases the dwell time, and therefore the local exposure, delivered to each unit length of tissue, while faster advancement plausibly reduces it. This is a mechanistic rationale rather than, by itself, proof of the magnitude or direction of any histologic effect in oral tissue — local exposure is co-determined by delivered power, emission mode, fiber geometry, contact mode, tissue properties, and operator technique, not by speed alone. Romanos (2013), a single-author continuing-education review rather than a primary study, states this relationship most directly for diode lasers relying on the hot-tip cutting mechanism: its own illustrative comparison (a five-point tested speed sweep from 12.5 to 0.0 mm/s, using a programmable translation stage) reports that collateral tissue damage and carbonization "increase sharply" as cutting speed decreases, attributed to prolonged tip dwell and drag. This statement is qualitative — no numeric thermal-damage-width values, stated sample size, or significance test accompany it, and the source does not confirm the tissue tested was oral — and it is used in this review only as mechanistic/context material, not as quantified or primary oral-tissue evidence. Direct oral-tissue evidence isolating speed as an independent variable is sparse.
+
+Most oral soft-tissue studies that report speed use it as a controlled procedural parameter rather than as the experimentally varied factor.
+
+### 4.2 Studies with controlled or reported incision speed
+
+Where incision speed is reported in this vault's oral soft-tissue literature, it is most often held constant to standardize the experimental protocol rather than varied to test its own effect. Hanke et al. (2021) and Strakas et al. (2023) each mechanize incision speed at a constant 2 mm/s via a computer-controlled micropositioner, alongside independently verified delivered power (Section 3) and histologic assessment of cut depth, cut width, and thermal-interaction-zone extent in porcine gingiva. In both studies speed is held constant across all tested power levels rather than itself varied to estimate a speed-response relationship, so neither can be read as a speed-isolation experiment. Goharkhay et al. (1999) similarly mechanizes incision speed, at a constant 10 mm/s via a motorized handpiece, and pairs this with wattmeter-measured delivered power (0.5–4.5 W) and histologic measurement of incision depth and thermal-damage width in ex vivo pig mandible mucosa. Because Goharkhay et al. combines a controlled/reported speed, independently measured power, and a histologic outcome in one design, it remains an important precedent for that triple combination, but this combination alone does not establish an independent causal effect of speed, since speed itself was not varied within the study.
+
+Isola et al. (2018) illustrates why speed values from different sources must not be merged even within one paper. Two distinct speed quantities are reported: an operator target of 2.5 mm/s, set by visual estimation during pyogenic-granuloma excision, and a separately defined measured outcome, "speed of incision" (surgical-field perimeter divided by incision time, timed with a chronometer), which the source itself treats as its primary result and which this vault records as the populated value — 0.61 ± 0.29 mm/s. The 2.5 mm/s visual target and the 0.61 mm/s measured outcome are not reconciled by the source and are preserved here as distinct quantities; only the latter is classified as measured in this vault's schema. Al-Ani et al. (2023, 2024) report a numeric 0.75 mm/s incision speed as a fixed operating parameter, but the control mechanism generating that value is not described, so it is classified as reported with unknown control rather than mechanized or measured. Li et al. (2022), in a mouse oral-mucosa wound model, similarly reports a fixed 1 mm/s diode tip-movement speed without a stated control mechanism, held constant against a comparator laser rather than varied. These distinctions — mechanized, measured, and reported-with-unknown-control — are kept separate throughout this review rather than collapsed into a single "speed was reported" category.
+
+Standardizing speed can reduce procedural variability, but it does not reveal how outcomes change when speed itself changes.
+
+### 4.3 Evidence for a speed–tissue effect relationship
+
+None of the oral soft-tissue sources reviewed above varies incision speed as an independent experimental factor against a histologic or specimen-quality outcome; each reports one speed value (or, for Al-Ani and Li, one fixed value) held constant across its comparisons. The one source in this vault that does vary speed across multiple levels is Romanos (2013)'s illustrative five-point sweep — but this evidence is qualitative only, non-primary (a single-author review with no stated sample size or statistical test), and not confirmed to involve oral tissue at all; it cannot substitute for a controlled oral-tissue speed-response study, and this review does not treat it as one. No fixed-speed study reviewed here (Hanke, Strakas, Goharkhay, Isola, Al-Ani, Li) can be used to infer a dose-response relationship between speed and thermal injury, because none holds power, mode, fiber geometry, and contact condition constant while varying speed itself. No correlation across these otherwise-unrelated studies — different devices, tissues, and species — is treated here as evidence of a speed effect, since each varies too many other conditions simultaneously to isolate speed's own contribution.
+
+The reviewed literature supports the methodological importance of controlling or reporting incision speed more strongly than it supports a quantitatively established oral-tissue speed–response relationship.
+
+This distinction matters because unreported or poorly controlled speed can still obscure interpretation even when power is known.
+
+### 4.4 Implications for exposure characterization and reproducibility
+
+Incision speed is part of exposure characterization alongside delivered power: identical delivered power can plausibly produce different local exposure histories if the rate of advancement differs, since dwell time per unit tissue length is not fixed by power alone. Where speed is unreported — as in Prado et al. (2022) and Merigo et al. (2012), both discussed in Section 3 for their measured-power evidence — this adds uncertainty when comparing tissue-effect findings across studies, on top of the set-versus-measured-power uncertainty already established there. Controlled or measured speed, where reported, improves reproducibility by removing one source of unstated variation between nominally similar procedures, but measured power without speed still leaves exposure incompletely characterized, and speed without measured power — as in Isola et al. (2018), Al-Ani et al. (2023/2024), and Li et al. (2022), none of which independently verifies delivered power — leaves it incompletely characterized in the other direction. Neither variable alone is sufficient to characterize the exposure a specimen received.
+
+It is direct evidence, established in 3.1–3.3 and 4.1–4.2, that some studies measure or control speed, and that a smaller subset (Hanke, Strakas, Goharkhay) combines controlled speed with measured power and histology. It is a methodological inference, not itself tested within any single study reviewed here, that unreported speed reduces confidence that nominally similar procedures delivered comparable tissue exposure. This review does not claim that speed necessarily explains all between-study differences in histologic outcome, that slower cutting always causes worse histology, that faster cutting is always safer, or that any one speed value is a universally optimal threshold — no source reviewed here supports such a claim. Even when delivered power and incision speed are characterized, their biological relevance must ultimately be judged through the histopathologic alterations produced in the tissue.
+
+(≈1,290 words)
+
+---
+
+# 2. Source-Use Audit
+
+Subsection: 4.1
+Primary studies used: Romanos 2013 (context/mechanistic only)
+What it supports: Mechanistic rationale for a speed–thermal-damage relationship, explicitly flagged as qualitative, non-primary, and not confirmed oral tissue; no oral primary study varies speed as an independent variable
+────────────────────────────────────────
+Subsection: 4.2
+Primary studies used: Hanke 2021, Strakas 2023, Goharkhay 1999, Isola 2018, Al-Ani 2023/2024, Li 2022
+What each supports: Mechanized constant-speed protocols with measured power + histology (Hanke, Strakas, Goharkhay); the measured-vs-target speed distinction (Isola); reported-but-unknown-control fixed speeds (Al-Ani, Li)
+────────────────────────────────────────
+Subsection: 4.3
+Primary studies used: Hanke 2021, Strakas 2023, Goharkhay 1999, Isola 2018, Al-Ani 2023/2024, Li 2022 (all as fixed-speed, non-varied evidence); Romanos 2013 (only non-primary speed-varied source, insufficient to establish an oral speed-response relationship)
+What each supports: The absence, within this vault's primary oral-tissue evidence, of a study that varies speed as an independent variable against a histologic or specimen-quality outcome
+────────────────────────────────────────
+Subsection: 4.4
+Primary studies used: Prado 2022, Merigo 2012 (unreported-speed contrast); Isola 2018, Al-Ani 2023/2024, Li 2022 (speed-without-measured-power contrast); Hanke 2021, Strakas 2023, Goharkhay 1999 (both-characterized precedent); synthesis of 3.1–3.3 and 4.1–4.3
+What each supports: The complementary-not-interchangeable relationship between measured power and reported/controlled speed for exposure characterization
+
+# 3. Sentences flagged for human review
+
+- 4.1, Romanos mechanistic claim: "collateral tissue damage and carbonization 'increase sharply' as cutting speed decreases" — this is the source's own qualitative claim from a single-author CE review with no stated sample size, significance test, or confirmed oral-tissue model; it is used here only as mechanistic context, but reread to confirm it is not read as primary or quantified evidence.
+- 4.3, fixed-speed limitation summary: "none holds power, mode, fiber geometry, and contact condition constant while varying speed itself" — this is this review's own synthesis across six studies' designs rather than a statement made by any single source; confirm it does not overstate a uniform critique that in fact varies in emphasis from study to study.
+- 4.4, unreported-speed inference: "unreported speed reduces confidence that nominally similar procedures delivered comparable tissue exposure" — a methodological inference parallel in structure to the Section 3.4 inference sentence, not independently tested within any single study; flagging for consistency with this review's hedged, non-causal tone.
