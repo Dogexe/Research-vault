@@ -77,6 +77,42 @@ SORT file.name ASC
 
 **Reading this table:** existing diode-laser studies already demonstrate independently measured output, a reported incision speed, and histologic tissue-effect assessment. What none of the rows above also carry is `biopsy_oriented: true` — none excise a real lesion or assess biopsy-oriented specimen-quality outcomes (margin readability, tissue-architecture preservation, diagnostic outcome). The remaining potential gap is applying this measurement rigor to biopsy-oriented histopathologic specimen-quality outcomes in an ex vivo oral soft-tissue model — not the absence of measured power, not the absence of a reported speed, and not the absence of histology individually. This is **not** a claim that no such study exists anywhere, and **not** a "first ever" claim — see [[06 Synthesis/Novelty Matrix - Diode Laser Biopsy]] for the full prose analysis this table summarizes.
 
+(Table B has grown to 11 rows since [[07 Data/Prado et al 2022 - Micro vs Super Pulsed Diode Laser Ex Vivo Thermal Damage Data|Prado et al. 2022]] was tagged — see the validation note below for the count at the time of the v1.1 patch itself. Table D below gives the fuller histology-specific breakdown.)
+
+## D. Histopathologic specimen-quality outcome coverage
+
+This is a **coverage matrix**, not a novelty detector. It shows which diode-laser, histology-reporting, non-BACKGROUND studies in `07 Data/` carry which specimen-quality-relevant fields, and how those overlap with measured power and incision speed. It does not compute or imply a novelty conclusion — see [[06 Synthesis/Novelty Matrix - Diode Laser Biopsy]] for that.
+
+```dataview
+TABLE
+classification,
+ex_vivo,
+measured_power,
+measured_power_value_reported,
+speed_mm_s,
+speed_control,
+thermal_damage,
+margin_quality,
+tissue_architecture,
+diagnostic_outcome,
+biopsy_oriented
+FROM "07 Data"
+WHERE diode_laser = true
+AND histology = true
+AND classification != "BACKGROUND"
+SORT file.name ASC
+```
+
+**How to read this table:**
+
+- `thermal_damage: true` alone does **not** mean good or poor specimen quality — it only records that thermal damage/effect was reported as an outcome (quantified or qualitative), not its magnitude or clinical significance.
+- `margin_quality` and `tissue_architecture` are free-text v1 fields (see [[99 Templates/Study Metadata Schema]]) and may contain heterogeneous descriptions — a quantified µm distance, a qualitative statement, or a margin-*width* recommendation — rather than a standardized score. Do not compare cells across rows as if they were the same scale.
+- `diagnostic_outcome` is mainly clinical/translational context here, not this project's primary ex vivo endpoint (see the Legend above and [[01 Projects/Diode Laser Biopsy]]).
+- `biopsy_oriented` helps distinguish real biopsy/lesion-excision pathways from technical, non-lesional incision-characterization models — it is not itself a quality score.
+- The project's actual experimental gap must still be read from the **combination** of measured power, speed, and specimen-quality-relevant outcomes across rows — no single column in this table answers it by itself.
+- A blank/`null` cell means not reported / not applicable / unresolved per schema rules (see [[99 Templates/Study Metadata Schema]]) — **never** treat it as proof the phenomenon was absent from the underlying study or from the wider literature.
+- Absence of an otherwise-qualifying study from this table can also reflect incomplete schema rollout (an untagged `07 Data/` note) rather than a property of the study itself — see the Coverage note above.
+
 ## Validation note (schema v1.1 maintenance patch)
 
 A 10-note stress-test batch (Isola 2018, Romeo 2014, Gambino 2026, Li 2022, Romanos 2022, Suter 2010, Kim 2020, Wilder-Smith 1995, Gutiérrez-Corrales 2020, Romanos 2013) surfaced two schema/dashboard defects, now fixed as v1.1:
