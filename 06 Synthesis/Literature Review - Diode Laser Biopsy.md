@@ -476,3 +476,203 @@ What each supports: Methodological (not clinical) design implications for standa
 - 7.2, dose-response caution: "this review does not treat the resulting percentages as a continuous dose-response curve extending beyond the three categories Angiero et al. themselves report" — a methodological caution added by this review; confirm it reads as a limitation on interpretation rather than as an implicit suggestion that a continuous relationship might otherwise exist.
 - 7.4, Monteiro's attributed explanation: "The source itself attributes the absence of a detected correlation to its own sample not extending to specimens as small as those examined by Angiero et al. or Vescovi et al." — this attribution should be re-verified against Monteiro et al.'s own discussion text before publication, since it characterizes the source's own stated reasoning rather than a directly quoted passage.
 - 7.5, outcome-construct-difference claim: "the studies underlying this section differ in power, incision approach, margin geometry, and how the outcome itself is defined" — a synthesis listing several dimensions of difference at once; confirm each named dimension (particularly margin geometry) is actually traceable to what each source reports, rather than assumed by analogy.
+
+---
+
+# 1. Full Section 2 Draft
+
+## 2. Determinants of Diode Laser–Tissue Interaction
+
+### 2.1 Wavelength and tissue absorption
+
+Diode systems used in the reviewed oral soft-tissue literature span a wide wavelength range — from 405 nm to 1470 nm across the sources processed in this vault — and wavelength is one of the primary determinants of how emitted energy interacts with tissue, because different wavelengths are absorbed differently by tissue chromophores such as hemoglobin, melanin, and water. Gutiérrez-Corrales et al. (2020) tested six wavelengths (445, 532, 810, 980, 1064, and 1470 nm) at matched set powers in the same ex vivo porcine model and reports that 1470 nm produced the greatest thermal damage and necrosis while 810 nm and 1064 nm produced the least, using a deliberately non-initiated bare fiber to isolate the wavelength effect from tip-initiation effects. Romanos et al. (2022), comparing 445 nm and 970 nm at a matched 2 W set power, reports significantly greater penetration depth at 445 nm than at 970 nm across matched initiation and mode conditions, attributing this to higher hemoglobin/melanin absorption at the shorter wavelength — the source's own interpretation, not independently re-derived here. Hanke et al. (2021) similarly tested eight wavelengths (405–1470 nm) and reports wavelength- and power-dependent, non-linear cutting-efficiency and thermal-damage patterns rather than one consistent wavelength ranking. These findings establish that wavelength contributes to differences in cutting and thermal effect, but wavelength alone does not fully describe tissue interaction, and results obtained at one wavelength are not assumed interchangeable with another; each source's wavelength comparison is tied to its own device, power range, and tissue model.
+
+Wavelength defines part of the optical interaction, but the amount and temporal pattern of delivered energy also depend on device operating parameters.
+
+### 2.2 Power setting and emission mode
+
+Set power — the value selected on a laser's control panel — is an operator-controlled device parameter that establishes the nominal energy available for tissue interaction, but it is only one axis of exposure. Continuous-wave (CW) and pulsed operation deliver that nominal power with different temporal patterns, and mode can itself affect tissue interaction even where the nominal power setting is matched: Romanos et al. (2022) reports lower penetration depth in pulsed mode than in CW mode at the same 2 W set power, for both wavelengths tested, which the source attributes to thermal relaxation of tissue between pulses. Gundlapalle et al. (2022) reports better graded slide quality in pulsed-wave than continuous-wave specimens, Pergolini et al. (2025) reports a non-significant difference between modes in a differently designed crossed power-by-mode comparison, and Goharkhay et al. (1999) reports no consistent CW-versus-pulsed direction across seven matched power levels. Across the reviewed studies, CW–PW comparisons do not show a uniform direction of effect, and this review therefore does not infer a single general CW/PW relationship from these heterogeneous protocols. Nominal set power is accordingly not, on its own, a complete description of delivered exposure; the separate question of whether a console-set power value equals the power actually delivered at the fiber output is addressed in Section 3 and is not re-argued here.
+
+How energy reaches tissue also depends on the delivery geometry at the fiber–tissue interface.
+
+### 2.3 Fiber diameter, tip condition, and contact mode
+
+Beyond wavelength, power, and mode, the physical condition of the delivery fiber and its interface with tissue modifies how energy is coupled into the specimen. Fiber diameter and beam-delivery geometry influence the effective area over which power is distributed and therefore local irradiance, though this review does not equate a reported fiber-diameter value with a formally characterized optical spot size unless a source explicitly reports that geometry. Tip-initiation status — whether the fiber tip carries a pre-formed carbonized layer before cutting begins — can alter local energy coupling: Romanos 2022 reports an internal inconsistency between the Abstract and Discussion regarding the initiated-versus-non-initiated comparison; this review therefore retains the study as evidence that tip condition is a relevant methodological variable but does not use it to infer a definitive direction of effect. Gutiérrez-Corrales et al. (2020), by contrast, deliberately used a non-initiated fiber specifically to isolate wavelength effects from initiation effects, while Al-Ani et al. (2023) and Prado et al. (2022) both use disposable, pre-initiated tips as their protocol default. Contact versus non-contact operation is a related but distinct modifier: Zegaib et al. (2011), addressed in Section 3 for its power-deviation evidence, also shows that repeated contact application itself progressively degrades measured output at the fiber tip within a single device protocol, indicating that fiber/tip condition can change over the course of a procedure rather than remaining fixed. These variables are treated here as interaction modifiers rather than as another axis of measured-power evidence, which Section 3 already addresses in full.
+
+These hardware variables act through a spatial delivery geometry that is not fully captured by fiber diameter alone.
+
+### 2.4 Fiber diameter, beam-delivery geometry, and irradiated area
+
+Fiber diameter and beam-delivery geometry influence the effective irradiated area and therefore local irradiance, but fiber diameter should not be treated as equivalent to spot size unless the optical geometry is explicitly reported. Reported fiber diameters across this vault's sources range narrowly (300–400 μm in most oral soft-tissue studies), but few sources report the working distance, divergence, or contact geometry needed to convert a fiber diameter into an actual irradiated spot area. Kim 2020 is used here only to illustrate that an explicitly reported spot size is a distinct optical parameter from fiber diameter; its reported value is not assumed to be transferable to the oral soft-tissue studies reviewed elsewhere. Two studies using the same nominal fiber diameter therefore cannot be assumed to create identical tissue exposure, since contact pressure, working distance, and beam divergence at the tissue surface are not held constant merely because the fiber diameter is. This is a methodological caution about what can and cannot be inferred from a reported fiber-diameter value, not a claim that any of the studies already discussed mischaracterized their own exposure; each is described here using only the geometry its own methods section reports.
+
+The physical delivery geometry interacts with tissue-specific properties.
+
+### 2.5 Tissue properties and experimental model
+
+Tissue composition, thickness, hydration, vascularity, and pigmentation can influence how a given optical and thermal exposure translates into histologic effect, and the reviewed sources draw on a heterogeneous set of tissue models rather than one standardized substrate. Ex vivo studies in this vault use porcine gingiva (Hanke, Strakas), porcine mandible mucosa (Goharkhay, Gutiérrez-Corrales), pig tongue (Prado), calf tongue (Merigo), sheep tongue (Al-Ani), and bovine mandible (Romanos 2022), while the biopsy-oriented literature discussed in Sections 6–8 uses real human lesional tissue. Romanos et al. (2022) itself notes, as a stated limitation, that gingival pigmentation was not controlled for in its own randomization, which the source states may affect thermal penetration given diode-laser affinity for hemoglobin and melanin. Non-lesional ex vivo tissue also differs methodologically from a real clinical lesion: a standardized block of healthy tissue does not carry the altered vascularity, inflammation, or architecture a genuine lesion may present, so results from a non-lesional ex vivo incision and a real excisional biopsy are not assumed directly interchangeable in this review, consistent with the ex vivo/clinical distinction already maintained in Sections 6 through 8. This heterogeneity in species, tissue site, and lesion status is one reason absolute thermal-damage values vary widely across the sources this review has reviewed, independent of any laser-parameter difference.
+
+Because both laser parameters and tissue context influence interaction, procedural standardization is necessary for meaningful comparison.
+
+### 2.6 Interaction among parameters
+
+Tissue response to a diode laser incision therefore reflects the joint action of several interacting variables rather than any single parameter considered alone: wavelength, delivered power, emission mode, fiber and beam-delivery geometry, tip-initiation and contact status, incision speed, and tissue characteristics. These variables are interdependent in practice — a given wavelength's effect depends on the power and mode it is paired with, a given power setting's effect depends on the fiber geometry and contact condition delivering it, and any of these depends on the tissue model tested — so a nominal power value cannot be interpreted in isolation from the rest of this parameter set. This review does not propose a single composite exposure metric combining these variables; the sources reviewed here do not support one, and no such metric is introduced here. Among these determinants, power is especially important methodologically because the value selected on the console may not equal the power actually delivered at the fiber output.
+
+(≈1,270 words)
+
+---
+
+# 2. Source-Use Audit
+
+Subsection: 2.1
+Primary studies used: Gutiérrez-Corrales 2020, Romanos 2022, Hanke 2021
+What each supports: Wavelength as a determinant of thermal/damage pattern, with study-specific (not pooled) wavelength rankings
+────────────────────────────────────────
+Subsection: 2.2
+Primary studies used: Romanos 2022, Gundlapalle 2022, Pergolini 2025, Goharkhay 1999
+What each supports: Set power as operator-controlled and incomplete on its own; CW/PW as a temporal-delivery distinction with no single resolved directional rule across sources
+────────────────────────────────────────
+Subsection: 2.3
+Primary studies used: Romanos 2022, Gutiérrez-Corrales 2020, Al-Ani 2023, Prado 2022, Zegaib 2011
+What each supports: Tip-initiation and contact-condition as interaction modifiers, kept separate from Section 3's measured-power evidence
+────────────────────────────────────────
+Subsection: 2.4
+Primary studies used: Kim 2020 (contrast example); synthesis of 2.3's fiber-diameter sources
+What it supports: The caution against equating fiber diameter with optical spot size, illustrated by one source that reports both values explicitly
+────────────────────────────────────────
+Subsection: 2.5
+Primary studies used: Hanke 2021, Strakas 2023, Goharkhay 1999, Gutiérrez-Corrales 2020, Prado 2022, Merigo 2012, Al-Ani 2023/2024, Romanos 2022
+What each supports: The heterogeneity of tissue/species/lesion-status models underlying this vault's ex vivo evidence base
+────────────────────────────────────────
+Subsection: 2.6
+Primary studies used: Synthesis of 2.1–2.5
+What it supports: The interdependence of exposure determinants and the transition into Section 3's power-specific focus
+
+# 3. Sentences flagged for human review
+
+- 2.2, CW/PW synthesis: "this review does not treat these findings as resolving into one CW/PW rule" — combines four sources' directionally different mode findings (Romanos, Gundlapalle, Pergolini, Goharkhay) under one non-resolution statement; confirm each source's own direction is represented accurately and the combined framing doesn't imply they are more comparable than their differing designs allow.
+- 2.3, Romanos initiation discrepancy: "the source's Discussion describing greater thermal penetration in the initiated 970 nm group, though the source's own Abstract states the opposite general direction" — this relies on an internal Abstract-vs-Discussion/Table inconsistency already flagged as NEEDS VERIFICATION in the source's own extraction note; confirm this review's brief mention doesn't overstate resolution of that inconsistency.
+- 2.4, spot-size contrast: "Kim et al. (2020)... is one of the few sources in this vault to report a stated spot size... alongside its fiber diameter" — a single-source contrast used to illustrate a general methodological caution; confirm it isn't read as implying Kim et al.'s spot-size figure is itself directly comparable to the oral soft-tissue sources discussed elsewhere in this section.
+
+---
+
+# 1. Full Section 10 Draft
+
+## 10. Rationale for the Present Study
+
+### 10.1 Rationale derived from the evidence gap
+
+As Section 9 establishes, the individual methodological components this review has examined are not, on their own, absent from the literature: independently measured or verified delivered power paired with histologic assessment is already established prior art, the further combination of measured power, controlled or reported incision speed, and histology is also already established, and biopsy-oriented specimen-quality outcomes — margin condition, artifact severity, specimen interpretability — are separately well represented. The rationale for the present study arises from the incomplete integration of exposure characterization and biopsy-oriented histopathologic outcome assessment identified in the reviewed literature: within the studies identified in this review, these two evidence streams have not been combined within one ex vivo oral diode-laser framework. This rationale is bounded to the integration gap identified within the reviewed evidence and is not intended as a global claim of absence.
+
+### 10.2 Exposure variables to be characterized
+
+Consistent with Section 2's determinants of laser-tissue interaction and Sections 3–4's treatment of power and speed, a design responsive to this gap needs to characterize several exposure variables together rather than any one in isolation: independently measured delivered power, incision speed, wavelength, emission mode, fiber and beam-delivery geometry where available, and tip-initiation/contact condition. Measured power and incision speed are central to this framework because neither a console-set power value nor an unreported or uncontrolled speed can be assumed to represent the exposure a specimen actually received; measuring and controlling both directly improves characterization of delivered exposure. Neither variable is sufficient by itself, and both should be interpreted alongside wavelength, mode, fiber geometry, and tip/contact condition.
+
+### 10.3 Histopathologic outcomes to be assessed
+
+Consistent with the construct separation established in Sections 5 and 6, the outcome framework for the present study should assess thermal injury magnitude, artifact morphology/severity where assessable, margin/incision condition, tissue architecture preservation where assessable, and specimen interpretability/readability. Histopathologic assessment should preserve the distinction among thermal magnitude, artifact severity, margin condition, tissue architecture, and specimen interpretability rather than collapsing them into a single undifferentiated quality measure. Diagnostic outcome is retained as contextual rather than primary, consistent with the scope boundary already established for a non-lesional ex vivo model. No composite score is introduced beyond what the reviewed sources already support, and no new validation instrument is proposed. Gundlapalle et al.'s structured ordinal slide-quality grading approach is relevant as methodological precedent, but its use in the present study should not be assumed unless explicitly specified in the study protocol.
+
+### 10.4 Role of specimen standardization
+
+Consistent with Section 7, specimen dimensions should be standardized a priori so that size does not become an uncontrolled source of variation, and specimen size should be recorded explicitly rather than left implicit. Size is treated here as a contextual or control variable, not as a clinical cutoff: the reviewed literature's study-specific size thresholds are not directly transferable, and no universal minimum dimension is used or recommended in this design. The goal of standardizing specimen size is methodological — to reduce size-related variability so that the effects of the exposure variables in 10.2 on the outcomes in 10.3 can be interpreted more clearly, without specimen geometry itself confounding that interpretation.
+
+### 10.5 Study objective
+
+The present study therefore aims to examine how diode-laser operating parameters, independently measured delivered power, and controlled incision speed relate to histopathologic quality in an ex vivo oral soft-tissue model. Histopathologic quality is evaluated using biopsy-oriented outcomes established across this review: thermal injury magnitude, margin/incision condition, tissue architecture preservation, and specimen interpretability, with diagnostic outcome retained as contextual rather than primary and specimen size standardized and recorded as a controlled variable. The study is designed to provide a more directly characterized exposure–outcome framework for evaluating diode-laser effects on biopsy-relevant histopathologic specimen quality, by integrating exposure characterization with biopsy-oriented histopathologic assessment within a single controlled framework.
+
+(≈750 words)
+
+---
+
+# 2. Source-Use Audit
+
+Subsection: 10.1
+Primary studies used: Synthesis of Sections 8 and 9 (no new primary sources introduced)
+What it supports: The bounded, integration-framed rationale carried forward from Section 9's gap statement
+────────────────────────────────────────
+Subsection: 10.2
+Primary studies used: Synthesis of Sections 2, 3, and 4 (no new primary sources introduced)
+What it supports: The set of exposure variables a responsive design must characterize together
+────────────────────────────────────────
+Subsection: 10.3
+Primary studies used: Synthesis of Sections 5 and 6; Gundlapalle 2022 referenced once as precedent, not as an adopted instrument
+What it supports: The outcome-construct framework and the explicit non-adoption of any validated composite or instrument
+────────────────────────────────────────
+Subsection: 10.4
+Primary studies used: Synthesis of Section 7 (no new primary sources introduced)
+What it supports: Specimen size as a standardized, recorded, contextual control variable rather than a clinical cutoff
+────────────────────────────────────────
+Subsection: 10.5
+Primary studies used: Synthesis of the whole review
+What it supports: The study objective statement, matched to the research question and bounded outcome framework
+
+# 3. Sentences flagged for human review
+
+- 10.1, bounded-observation sentence: "This is a bounded observation about the evidence this review has identified, not a claim that no one has done this before in any broader sense" — restates Section 9.4's scope-limiting logic in new wording; confirm it remains consistent with, and does not soften or extend, the locked Section 9.4 scope statement.
+- 10.3, Gundlapalle precedent note: "where a structured approach such as Gundlapalle et al.'s slide-quality grading is relevant, it is used only as precedent, not adopted here as a validated instrument" — a forward-looking design statement; confirm it does not read as though the present study has already committed to using or adapting Gundlapalle's specific instrument, which would overstate design specificity for a literature-review section.
+- 10.5, closing synthesis sentence: "building on and integrating, rather than replacing, the measurement-rigor and pathology-oriented evidence streams this review has separately identified" — confirm this closing framing reads as methodological integration rather than drifting toward an implicit superiority or novelty claim, despite avoiding the specifically prohibited words.
+
+---
+
+# 1. Full Section 1 Draft
+
+## 1. Clinical and Methodological Importance of Oral Soft-Tissue Laser Biopsy
+
+### 1.1 Oral biopsy as a histopathologic procedure
+
+Oral soft-tissue biopsy is not simply a procedure for removing tissue; its clinical purpose is to produce a specimen from which a histopathologic diagnosis can be rendered. That purpose depends on preserving tissue in a state suitable for microscopic interpretation: the condition of the cut margin, the preservation of tissue architecture, cellular morphology, and the presence or absence of excision-related artifact all bear on how a pathologist reads the resulting slide. Biopsy quality, in this sense, involves two related but distinct concerns — successfully acquiring the specimen, and ensuring that what is acquired remains interpretable once processed and examined. This review is concerned primarily with the second of these, and with how the method used to acquire the specimen can bear on it.
+
+When laser devices are used for tissue removal, the method of energy delivery becomes part of specimen acquisition.
+
+### 1.2 Why laser-induced tissue alteration matters
+
+Laser cutting differs from a scalpel incision in that it can produce thermal and morphologic change at or near the incision margin, in addition to physically separating tissue. The reviewed literature reports this alteration in several forms — as a measured zone of thermal damage, as an ordinal score of artifact severity, and as a judgment of margin or incision-edge condition — and its clinical significance depends on the extent and location of the alteration, the specimen's own context, and which histopathologic endpoint is being considered. Thermal alteration does not automatically mean diagnostic failure: Gobbo et al. (2017), for example, reports specimens in which thermal damage could not be reliably measured without diagnosis itself being impaired, and Monteiro et al. (2019) and Vescovi et al. (2010) each report measurable artifact alongside an unaffected diagnostic outcome in their own series. At the same time, some sources raise more specific interpretive concerns — Seoane et al. (2013) describes a thermally induced artifact pattern that can resemble genuine dysplastic change, and Angiero et al. (2011) reports diagnostic limitation concentrated among a subset of its smaller specimens. Structured grading approaches, such as Gundlapalle et al.'s (2022) ordinal slide-quality instrument, illustrate that specimen quality has been treated as a gradable outcome in its own right, not only as a binary diagnostic result. These findings are introduced here only in outline; their constructs, distinctions, and caveats are developed in full in Sections 5 through 7.
+
+The methodological problem is therefore not simply whether thermal damage exists, but what determines its magnitude and its effect on specimen quality.
+
+### 1.3 Why diode-laser parameters require methodological attention
+
+Because the degree and character of laser-induced alteration is not fixed, understanding it requires attention to the conditions that produce it. Tissue effect depends on multiple interacting factors rather than any single device setting: the power selected on a laser console is not, on its own, a complete description of the energy delivered to tissue, and the rate at which the fiber is advanced through tissue — incision speed — contributes to how that energy is distributed along the cut. Wavelength, emission mode, fiber and beam-delivery geometry, tip-initiation and contact status, and the properties of the tissue itself also shape the resulting interaction. Meaningful interpretation of laser-associated histopathologic change therefore requires attention not only to the nominal device setting, but to the conditions under which energy is actually delivered to tissue. The physical basis for these variables, and the evidence characterizing power and speed specifically, are addressed in the sections that follow rather than here.
+
+### 1.4 Methodological tension in the literature
+
+Read as a whole, the literature drawn on in this review reflects two different emphases. One body of work is oriented toward physical exposure characterization — independently measured delivered power, controlled or reported incision speed, and thermal-interaction outcomes such as cutting efficiency or interaction-zone depth. Another body of work is oriented toward biopsy specimen quality — margin condition, artifact severity, specimen interpretability, and diagnostic adequacy, generally assessed with richer pathology-oriented instruments. The literature therefore spans both exposure-focused and pathology-focused approaches, which are complementary but not methodologically identical.
+
+The following sections examine the determinants of laser–tissue interaction before tracing how those determinants relate to histopathologic specimen quality.
+
+### 1.5 Aim and scope of this review
+
+This is a methodological literature review, not a systematic review: it draws on studies already identified and processed within this project's evidence base rather than a newly conducted or exhaustive search, and it does not claim to cover the full body of oral laser literature. Its focus is oral soft-tissue laser studies relevant to diode-laser exposure characterization and histopathologic specimen quality. This review examines how diode-laser operating parameters, delivered power, and incision mechanics have been characterized in relation to histopathologic tissue effects, and how those methodological choices intersect with biopsy-oriented measures of specimen quality. It integrates evidence on operating parameters, independently measured delivered power, incision speed, histopathologic tissue effects, and biopsy-oriented specimen quality, and it includes comparator-laser studies (CO2, Er:YAG, Er,Cr:YSGG, Nd:YAG, KTP) where they clarify a methodological point or a specimen-quality construct, without assuming direct equivalence across laser types or tissue models.
+
+The review first considers the physical and procedural determinants of diode laser–tissue interaction.
+
+(≈810 words)
+
+---
+
+# 2. Source-Use Audit
+
+Subsection: 1.1
+Primary studies used: None (high-level framing only, no specific findings cited)
+What it supports: The definition of biopsy quality as acquisition plus interpretability
+────────────────────────────────────────
+Subsection: 1.2
+Primary studies used: Gobbo 2017, Monteiro 2019, Vescovi 2010, Seoane 2013, Angiero 2011, Gundlapalle 2022
+What each supports: Brief, outline-level illustration that thermal alteration does not automatically mean diagnostic failure, alongside more specific interpretive concerns (Seoane, Angiero) and a structured grading precedent (Gundlapalle) — full development deferred to Sections 5–7
+────────────────────────────────────────
+Subsection: 1.3
+Primary studies used: None (synthesis framing only; detailed evidence deferred to Sections 2–4)
+What it supports: The motivation for characterizing exposure variables beyond nominal power
+────────────────────────────────────────
+Subsection: 1.4
+Primary studies used: Synthesis characterization of the vault's two evidence streams (detailed in Section 8)
+What it supports: The introduction of exposure-focused vs. pathology-focused literature emphases, without stating the integration gap
+────────────────────────────────────────
+Subsection: 1.5
+Primary studies used: None (scope statement)
+What it supports: The review's self-description as methodological, not systematic, and its stated evidence scope
+
+# 3. Sentences flagged for human review
+
+- 1.2, Gundlapalle framing: "Structured grading approaches, such as Gundlapalle et al.'s (2022) ordinal slide-quality instrument, illustrate that specimen quality has been treated as a gradable outcome in its own right" — this brief mention omits the "not formally validated" caveat carried in Sections 6 and 10; confirm the omission here (for conciseness, at outline level) does not read as implying validation.
+- 1.2, Angiero size framing: "Angiero et al. (2011) reports diagnostic limitation concentrated among a subset of its smaller specimens" — a compressed restatement of a finding detailed with thresholds in Section 7; confirm this brief mention doesn't read as implying a transferable size threshold, since Section 7's "no universal threshold" caution isn't restated here.
+- 1.4, comparative instrument framing: "generally assessed with richer pathology-oriented instruments" — a comparative characterization of the biopsy-quality literature stream relative to the exposure-focused stream; confirm "richer" reads as descriptive (more outcome dimensions assessed) rather than as an implicit value judgment ahead of Section 8's neutral framing.
