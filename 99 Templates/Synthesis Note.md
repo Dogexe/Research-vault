@@ -1,30 +1,58 @@
-# Synthesis Note
+# {{title}}
 
-## Research question
+## Purpose
+
+What question this synthesis answers.
 
 - UNKNOWN
 
-## Conclusions
+## Scope
+
+What evidence is included and excluded.
+
+- UNKNOWN
+
+## Current synthesis
+
+Concise integrated interpretation across evidence notes/studies — not a repeat of any single evidence note's full prose.
 
 - FACT: UNKNOWN
 - INTERPRETATION: UNKNOWN
 - HYPOTHESIS: UNKNOWN
 
-## Evidence
+## Strongest supporting evidence
 
-- Supporting evidence: UNKNOWN
-- Conflicting evidence: UNKNOWN
+- UNKNOWN — link the relevant [[04 Evidence]] and [[07 Data]] notes
 
-## Assessment
+## Contradictions / unresolved issues
 
-- Limitations: UNKNOWN
-- Uncertainty: UNKNOWN
-- Possible explanations for disagreement: UNKNOWN
-- Research gaps: UNKNOWN
+- None identified
 
-## Source trail
+*Only replace the line above if real disagreement or uncertainty exists between sources. Include limitations, uncertainty, and possible explanations for disagreement here where relevant — do not force separate subsections if there is nothing to say.*
 
-- Evidence notes: UNKNOWN
+## Research implications
+
+How this synthesis affects:
+
+- Current research question: UNKNOWN
+- Study design: UNKNOWN
+- Outcome selection: UNKNOWN
+- Interpretation: UNKNOWN
+
+Do not automatically describe something as novel here.
+
+## Remaining gaps
+
+- UNKNOWN
+
+*Prefer conservative wording — "not identified in the current vault," "not yet demonstrated in the reviewed sources" — over absolute claims like "never studied" or "first ever."*
+
+## Related notes
+
+- Project: UNKNOWN
+- Evidence: UNKNOWN
+- Data: UNKNOWN
+- Concepts: UNKNOWN
 
 ## สรุปภาษาไทย
 

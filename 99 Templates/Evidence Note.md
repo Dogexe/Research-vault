@@ -1,4 +1,6 @@
-# Evidence Note
+# {{title}}
+
+*Evidence notes synthesize multiple study extractions into one claim. Do not duplicate a full extraction table from `07 Data/` here — link to it instead. No evidence score or numeric confidence field.*
 
 ## Claim
 
@@ -7,13 +9,13 @@
 
 ## Supporting findings
 
-- FACT: UNKNOWN
-- Source: UNKNOWN
+- FACT: UNKNOWN — link the relevant [[07 Data note]] rather than repeating its extraction table
 
 ## Conflicting findings
 
-- FACT: UNKNOWN
-- Source: UNKNOWN
+- None identified
+
+*Replace the line above with `FACT:` bullets only if a real conflict exists between sources — do not force this section to contain content otherwise.*
 
 ## Assessment
 
@@ -24,9 +26,13 @@
 - Possible explanations for disagreement: UNKNOWN
 - Research gaps: UNKNOWN
 
-## Related synthesis
+## Related notes
 
-- Synthesis note: UNKNOWN
+- Concepts: UNKNOWN
+- Evidence: UNKNOWN
+- Data: UNKNOWN
+- Synthesis: UNKNOWN
+- Project: UNKNOWN
 
 ## สรุปภาษาไทย
 
