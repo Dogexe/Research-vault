@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "31c9fa6176350af9",
+        "id": "9b49ff81c9aea5aa",
         "type": "tabs",
         "children": [
           {
-            "id": "c6ffd2e55847c5c4",
+            "id": "524ffd511da98cfd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Projects/Diode Laser Biopsy.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Diode Laser Biopsy"
+              "title": "New tab"
             }
           }
         ]
@@ -229,25 +225,28 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "c6ffd2e55847c5c4",
+  "active": "524ffd511da98cfd",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Untitled.base",
+    "03 Concepts/Glossary/Measured Power.md.tmp.21744.d2799b4c1821",
+    "07 Data/Tenore et al 2023 - Laser Thermal Effect Oral Biopsy Histology Systematic Review Data.md.tmp.21744.dc7851e3c694",
+    "06 Synthesis/Study Dashboard.md.tmp.21744.9bbe1104afae",
+    "07 Data/Al-Ani et al 2023 - Dual-Wavelength Diode Operating Parameters.md.tmp.21744.cc420c0f8aec",
+    "Excalidraw/Drawing 2026-09-14 17.40.52.excalidraw.md",
+    "07 Data/Al-Ani et al 2024 - Dual-Wavelength Diode vs Er,Cr YSGG Biopsy Margin Histology Data.md.tmp.21744.c782a52a0943",
     "Untitled 1.canvas",
-    "2026-09-14.md",
-    "99 Templates/Study Metadata Schema.md.tmp.21744.d819fdf9e43d",
-    "99 Templates/Study Metadata Schema.md.tmp.21744.d36f8b960002",
-    "99 Templates/Study Metadata Schema.md.tmp.21744.9ec2cd2ad66c",
-    "ยังไม่ได้ตั้งชื่อ.canvas",
-    "ยังไม่ได้ตั้งชื่อ.base",
+    "07 Data/Li et al 2022 - Diode vs Er-YAG vs Cold Scalpel Mice Oral Mucosa Data.md.tmp.21744.6673ebc8bc27",
+    "07 Data/Wilder-Smith et al 1995 - CO2 Laser Incision and Thermal Damage Data.md.tmp.21744.beb13e9116e4",
+    "07 Data/Spille et al 2026 - Diode Laser Learning-Curve and Target-Based Accuracy Data.md.tmp.21744.f52403994dfb",
+    "07 Data/Prado et al 2022 - Micro vs Super Pulsed Diode Laser Ex Vivo Thermal Damage Data.md.tmp.21744.dce389ed7470",
+    "07 Data/Hanke et al 2021 - Eight-Wavelength Diode Cut Efficiency Data.md.tmp.21744.4ea971fbe611",
+    "07 Data/Strakas et al 2023 - 940nm Diode Cutting Efficiency and Thermal Damage Data.md.tmp.21744.33964794e95e",
+    "Untitled.canvas",
+    "CLAUDE.md",
     "01 Projects/Diode Laser Biopsy.md",
+    "2026-09-14.md",
+    "ยังไม่ได้ตั้งชื่อ.canvas",
     "03 Concepts/Glossary/Absorption.md",
     "02 Literature/10.1117/1.JBO.22.12.121602.md",
-    "01 Projects/Diode Laser Biopsy.md.tmp.19148.fabe06ac28c7",
-    "06 Synthesis/Novelty Matrix - Diode Laser Biopsy.md.tmp.19148.0343505c939c",
-    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md.tmp.19148.daf79a77d968",
-    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md.tmp.19148.57109f5663f7",
-    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md.tmp.19148.106282d21de4",
     "07 Data/Tenore et al 2023 - Laser Thermal Effect Oral Biopsy Histology Systematic Review Data.md",
     "07 Data/Vescovi et al 2010 - Nd YAG Laser vs Scalpel Specimen Size Histology Data.md",
     "07 Data/Gobbo et al 2017 - Blue vs Infrared Diode Laser Biopsy Thermal Damage Data.md",
@@ -266,8 +265,6 @@
     "03 Concepts/Glossary/Diagnostic Quality.md",
     "03 Concepts/Glossary/Output Stability.md",
     "03 Concepts/Glossary/Measurement Location.md",
-    "03 Concepts/Glossary/Calibration.md",
-    "03 Concepts/Glossary/Power Meter.md",
-    "99 Templates/Evidence Note.md"
+    "03 Concepts/Glossary/Calibration.md"
   ]
 }

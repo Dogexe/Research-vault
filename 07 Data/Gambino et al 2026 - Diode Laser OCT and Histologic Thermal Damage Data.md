@@ -22,6 +22,7 @@ histology: true
 thermal_damage: true
 margin_quality: "quantified (5 mm safety margin protocol; thermal alteration from margin: epithelium 288.9 um, connective tissue 430.3 um; diagnosis unimpaired in all cases)"
 tissue_architecture: "quantified (epithelium and lamina propria significantly thicker than healthy control, p=0.021/0.034, but did not impair diagnosis)"
+specimen_interpretability: null
 diagnostic_outcome: true
 biopsy_oriented: true
 full_text: true

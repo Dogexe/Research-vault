@@ -35,7 +35,7 @@ Measured power is not always lower than set power — Kim et al. 2020's K2 mobil
 
 ISO 11145 and ANSI Z136.1 define the underlying physical quantity "power," but neither standard names "measured power" as a term distinct from a device's displayed value. The set-vs-measured distinction used in this note is an operational/methodological convention from the device-testing and clinical laser literature (see In this vault above, e.g. Kim et al. 2020, Parker et al. 2022), not a term defined by a formal vocabulary standard.
 
-## Schema field mapping (Study Metadata Schema v1.1)
+## Schema field mapping (Study Metadata Schema v1.2)
 
 This vault's `07 Data/` extraction schema splits "measured power" into three separate fields that must not be collapsed into one glossary meaning (see [[99 Templates/Study Metadata Schema]]):
 

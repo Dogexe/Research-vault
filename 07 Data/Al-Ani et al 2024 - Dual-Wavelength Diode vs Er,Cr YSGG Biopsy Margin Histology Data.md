@@ -22,6 +22,7 @@ histology: true
 thermal_damage: true
 margin_quality: "quantified (LTDE, μm; none exceeded 0.3 mm)"
 tissue_architecture: null
+specimen_interpretability: null
 diagnostic_outcome: false
 biopsy_oriented: false
 full_text: true

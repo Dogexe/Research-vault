@@ -29,6 +29,7 @@ histology: true
 thermal_damage: true
 margin_quality: "Recommends ≥1 mm perimeter of healthy margin around the excision, derived from measured thermal-damage depth (606–1024 μm across groups); this is a margin-width recommendation, not a direct margin-readability/quality score of the specimens themselves."
 tissue_architecture: null
+specimen_interpretability: null
 diagnostic_outcome: false
 biopsy_oriented: false
 full_text: true

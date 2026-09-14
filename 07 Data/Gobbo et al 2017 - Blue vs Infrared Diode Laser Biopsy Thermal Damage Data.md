@@ -22,6 +22,7 @@ histology: true
 thermal_damage: true
 margin_quality: "quantified (maximum thermal damage along cutting margin, μm); BLUE (445 nm) 71.3±51.8 (n=24), IR (970 nm) 186.8±82.7 (n=24) — highest of the diode arms; non-laser QMR comparator 111.4±55.4 (n=25). 20/93 specimens (21.5%) had thermal damage that was not measurable — not evaluable in smaller lesions, not recognizable in larger ones"
 tissue_architecture: null
+specimen_interpretability: "20/93 specimens (21.5%) had thermal damage that could not be measured (not evaluable in smaller lesions, not recognizable in larger ones); despite this, 'all the techniques allowed correct histological sampling' and diagnosis was not impaired in any case."
 diagnostic_outcome: true
 biopsy_oriented: true
 full_text: true

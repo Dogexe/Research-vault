@@ -22,6 +22,7 @@ histology: true
 thermal_damage: true
 margin_quality: "qualitative (well-defined margins, minimal connective-tissue disruption; no distance measured)"
 tissue_architecture: "qualitative (described as clearer/more intact than scalpel group)"
+specimen_interpretability: null
 diagnostic_outcome: true
 biopsy_oriented: true
 full_text: true

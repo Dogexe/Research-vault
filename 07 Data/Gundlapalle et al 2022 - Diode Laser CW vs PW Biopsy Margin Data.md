@@ -22,6 +22,7 @@ histology: true
 thermal_damage: true
 margin_quality: null
 tissue_architecture: null
+specimen_interpretability: "Pathologist-graded slide quality (1=good, 2=average, 3=poor, 5=non-diagnostic; scale as reported, omits '4'), graded separately at periphery and center; PW graded better than CW at both locations (no numeric grade values reported for either arm)."
 diagnostic_outcome: true
 biopsy_oriented: true
 full_text: true

@@ -22,6 +22,7 @@ histology: true
 thermal_damage: true
 margin_quality: "quantified (histologic margin damage, mm, per lesion type; diode-only values 0.149-0.623 mm)"
 tissue_architecture: null
+specimen_interpretability: null
 diagnostic_outcome: true
 biopsy_oriented: true
 full_text: true

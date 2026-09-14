@@ -22,6 +22,7 @@ histology: true
 thermal_damage: true
 margin_quality: null
 tissue_architecture: "qualitative (incision less regular than Er:YAG; more carbonization and deeper apoptotic damage than Er:YAG)"
+specimen_interpretability: null
 diagnostic_outcome: false
 biopsy_oriented: false
 full_text: true

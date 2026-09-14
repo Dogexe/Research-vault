@@ -1,6 +1,6 @@
 # Tenore et al. 2023 — Laser Thermal Effect on Oral Soft Tissue Biopsy Histology: Systematic Review Data
 
-**SECONDARY SOURCE ONLY — NOT a primary study. No schema v1.1 YAML is applied to this note**, per [[99 Templates/Study Metadata Schema]] (schema fields describe primary-study extractions) and per explicit instruction for this phase. This note follows the same secondary-source convention already established in this vault by [[07 Data/Lopes-Santos et al 2023 - High-Power Laser Oral Biopsy Histology Systematic Review Data|Lopes-Santos et al. 2023]] (also untagged). Record values exactly as reported by the review; do not promote its summary claims into primary-study metadata for any individual included study.
+**SECONDARY SOURCE ONLY — NOT a primary study. No schema v1.2 YAML is applied to this note**, per [[99 Templates/Study Metadata Schema]] (schema fields describe primary-study extractions) and per explicit instruction for this phase. This note follows the same secondary-source convention already established in this vault by [[07 Data/Lopes-Santos et al 2023 - High-Power Laser Oral Biopsy Histology Systematic Review Data|Lopes-Santos et al. 2023]] (also untagged). Record values exactly as reported by the review; do not promote its summary claims into primary-study metadata for any individual included study.
 
 ## Source
 

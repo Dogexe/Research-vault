@@ -32,6 +32,7 @@ histology: true
 thermal_damage: true
 margin_quality:
 tissue_architecture:
+specimen_interpretability:
 diagnostic_outcome: false
 biopsy_oriented: false
 full_text: true

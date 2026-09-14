@@ -22,6 +22,7 @@ histology: true
 thermal_damage: true
 margin_quality: "quantified (Tissue Damage Extension, TDE, μm, epithelial and connective separately, by instrument); diode arm: epithelial 913.73±322.45 μm, connective 284.81±110.56 μm — highest epithelial TDE of the six instruments tested"
 tissue_architecture: "ordinal (epithelial score 0–3 and connective score 0–3, summed from nuclear/cytoplasmic/attachment-loss and carbonization/desiccation/vascular sub-items; plus regularity-of-incision score 0–4); diode arm: epithelial score 2.95±0.22 (highest of six), connective score 2.76±0.54, incision-regularity score 1.86±0.73 (least regular of six)"
+specimen_interpretability: null
 diagnostic_outcome: true
 biopsy_oriented: true
 full_text: true

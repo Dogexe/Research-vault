@@ -95,6 +95,7 @@ thermal_damage,
 margin_quality,
 tissue_architecture,
 diagnostic_outcome,
+specimen_interpretability,
 biopsy_oriented
 FROM "07 Data"
 WHERE diode_laser = true
@@ -108,6 +109,7 @@ SORT file.name ASC
 - `thermal_damage: true` alone does **not** mean good or poor specimen quality — it only records that thermal damage/effect was reported as an outcome (quantified or qualitative), not its magnitude or clinical significance.
 - `margin_quality` and `tissue_architecture` are free-text v1 fields (see [[99 Templates/Study Metadata Schema]]) and may contain heterogeneous descriptions — a quantified µm distance, a qualitative statement, or a margin-*width* recommendation — rather than a standardized score. Do not compare cells across rows as if they were the same scale.
 - `diagnostic_outcome` is mainly clinical/translational context here, not this project's primary ex vivo endpoint (see the Legend above and [[01 Projects/Diode Laser Biopsy]]).
+- `specimen_interpretability` (added in schema v1.2) is a heterogeneous free-text field for explicit specimen/slide readability or adequacy judgments. It is not a standardized scale and should not be compared numerically across studies. A `null` cell here means no distinct interpretability construct was reported under the schema definition — it does **not** mean the specimen was uninterpretable.
 - `biopsy_oriented` helps distinguish real biopsy/lesion-excision pathways from technical, non-lesional incision-characterization models — it is not itself a quality score.
 - The project's actual experimental gap must still be read from the **combination** of measured power, speed, and specimen-quality-relevant outcomes across rows — no single column in this table answers it by itself.
 - A blank/`null` cell means not reported / not applicable / unresolved per schema rules (see [[99 Templates/Study Metadata Schema]]) — **never** treat it as proof the phenomenon was absent from the underlying study or from the wider literature.

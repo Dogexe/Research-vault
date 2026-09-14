@@ -22,6 +22,7 @@ histology: true
 thermal_damage: true
 margin_quality: "qualitative only (descriptive histology; no μm-scale margin measurement)"
 tissue_architecture: null
+specimen_interpretability: null
 diagnostic_outcome: false
 biopsy_oriented: false
 full_text: true
