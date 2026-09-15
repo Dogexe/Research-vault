@@ -1,0 +1,4280 @@
+{
+  "ok": true,
+  "schema_version": "1.0",
+  "data": [
+    {
+      "doi": "10.15171/jlms.2017.s1",
+      "arxiv_id": null,
+      "openalex_id": "W2752269988",
+      "ss_paper_id": null,
+      "pmid": "29263776",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Laser Surgery of Soft Tissue in Orthodontics: Review of the Clinical Trials",
+      "abstract": "Introduction: Recently, a wide variety of procedures have been done by laser application in Orthodontics. Apart from the mentioned range of various treatments, laser has become a tool for many soft tissue surgeries as an alternative to conventional scalpel-based technique during orthodontic treatments in the management of soft tissue. Due to scarce information in the latter subject, this study was designed in order to include clinical trials that included soft tissue ablation by laser in orthodontics.Methods: Literature was searched based on PubMed and Google Scholar databases in 5 years (2010-2015) with English Language restriction and clinical trial design. Studies that performed soft tissue application of laser during orthodontic treatment were extracted by the authors.Results: Only eight studies met the inclusion criteria. No significant difference were found between laser ablation and conventional scalpel technique in the matter of treatment outcome. However, few issues remained to clarify the differences in the mentioned procedures.Conclusion: Laser performance can be recommended in case of preceding less bleeding and discomfort during surgical procedure. There are still quandaries among clinical application of scalpel-based surgery in aesthetic region with bracket-bonded teeth.Precaution and knowledge regarding the characteristics of laser beam such as wavelength, frequency, power and timing is extremely needed.",
+      "authors": [
+        {
+          "name": "Massoud Seifi",
+          "orcid": "https://orcid.org/0000-0001-5313-8028",
+          "affiliation": "Marquette University",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Negin-Sadat Matini",
+          "orcid": null,
+          "affiliation": "Shahid Beheshti University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2017,
+      "venue": "Journal of lasers in medical sciences",
+      "issn": "2008-9783",
+      "type": "article",
+      "citation_count": 23,
+      "referenced_works_count": 42,
+      "fwci": 1.797,
+      "cited_by_percentile_year": 98,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.9670000076293945
+        },
+        {
+          "id": "T10852",
+          "name": "Temporomandibular Joint Disorders",
+          "score": 0.9585999846458435
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Soft tissue",
+        "Dentistry",
+        "Laser",
+        "Laser surgery",
+        "Clinical trial",
+        "Surgery",
+        "Laser ablation",
+        "Ablation",
+        "Orthodontics"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "score": 0.6600000262260437,
+          "display_name": "Quality Education"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.15171/jlms.2017.s1",
+      "openalex_url": "https://openalex.org/W2752269988",
+      "pdf_url": "http://journals.sbmu.ac.ir/jlms/article/download/11453/1",
+      "pmc_url": null,
+      "oa_locations": [
+        "http://journals.sbmu.ac.ir/jlms/article/download/11453/1",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/5642171"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.6684,
+        "label": "high",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.6667,
+          "abstract_coverage": 0.8333,
+          "citation_signal": 0.4181,
+          "recency_signal": 0.64
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.6163522012578617,
+          "h_index": 41
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.7150/ijms.19727",
+      "arxiv_id": null,
+      "openalex_id": "W2741402793",
+      "ss_paper_id": null,
+      "pmid": "28824306",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Post-Surgical Clinical Monitoring of Soft Tissue Wound Healing in Periodontal and Implant Surgery",
+      "abstract": "Clinical features of surgical soft tissue wound healing in dentistry have been rarely discussed in the international literature. The aim of the present paper is to highlight both the main clinical findings of surgical wound healing, especially in periodontal and implant dentistry, and the wound healing monitoring procedures which should be followed. Wound inspection after careful food and plaque debridement is the essential part of wound healing monitoring. Periodontal and peri-implant probing should be performed only after tissue healing has been completed and not on a weekly basis in peri-implant tissue monitoring. Telephone follow-up and patient self-assessment scales can also be used the days following surgery to monitor the most common surgical complications such as pain, swelling, bleeding, and bruising. Wound healing monitoring is an important concern in all surgical procedures since it allows to identify signs or/and symptoms possibly related to surgical complications.",
+      "authors": [
+        {
+          "name": "Roberto Pippi",
+          "orcid": "https://orcid.org/0000-0003-0855-1416",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2017,
+      "venue": "International Journal of Medical Sciences",
+      "issn": "1449-1907",
+      "type": "article",
+      "citation_count": 174,
+      "referenced_works_count": 86,
+      "fwci": 7.9302,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T12906",
+          "name": "Surgical Sutures and Adhesives",
+          "score": 0.9994000196456909
+        },
+        {
+          "id": "T11570",
+          "name": "Periodontal Regeneration and Treatments",
+          "score": 0.9986000061035156
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.9983999729156494
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Wound healing",
+        "Soft tissue",
+        "Debridement (dental)",
+        "Dentistry",
+        "Implant",
+        "Surgery",
+        "Surgical wound"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.4699999988079071,
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.7150/ijms.19727",
+      "openalex_url": "https://openalex.org/W2741402793",
+      "pdf_url": "https://www.medsci.org/v14p0721.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.medsci.org/v14p0721.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/5562125",
+        "http://hdl.handle.net/11573/1441299"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.5409,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.5,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.6795,
+          "recency_signal": 0.64
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.6608187134502925,
+          "h_index": 106
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": null,
+      "arxiv_id": null,
+      "openalex_id": "W2116341329",
+      "ss_paper_id": null,
+      "pmid": "25653822",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Pyogenic Granuloma: Surgical Treatment with Er:YAG Laser.",
+      "abstract": "INTRODUCTION: Pyogenic granuloma (PG) is a common tumor-like growth of the oral cavity, considered to be of non-neoplastic nature, often caused by constant low-grade trauma as well as poor oral hygiene and maybe due to hormonal disturbances. Surgical excision, and removal of underlying cause in some cases, is the preferred method of treatment as it is only a benign lesion.In order to remove this lesion, scalpel, cryosurgery and laser are used. Currently different lasers, with adequate parameters, are used for the surgery of PG, which include CO2 (Carbon Dioxide Laser), Nd:YAG (Neodymium-Doped Yttrium Aluminium Garnet), Diode and Er Family amongst others. In this present case, due to the proximity of the lesion with dental hard tissue, Er:YAG (Erbium-Doped Yttrium Aluminum Garnet) laser appears to be the more appropriate laser. The application of Laser is also a newly recommended technique. The aim of this study is to assess the stages of treatment, recovery and recurrence of PG when the Er:YAG laser is used. Furthermore this study aims to also evaluate the friendliness of this method with regards to the surgeon (therapist). CASE REPORT: A 24-year-old female was referred to the Laser Research Center of Dentistry of Tehran University of Medical Sciences with a complaint of gingival overgrowth and bleeding. This lesion was in the buccal and palatal side of the 5 and 6 maxillary teeth. Treatment plan included an excisional biopsy of the lesion using Er:YAG laser (3W, 300mJ, 10Hz, Short pulse, with contact headpiece). The bones were then cleaned of soft tissue before being smoothed using a curette. The excised specimen was preserved and sent for histopathological examination. RESULTS: The patient reported no pain after surgery and did not use any systemic antibiotics. The patient was satisfied after the surgery. Chlorhexidine mouthwash was given to the patient. Pathology results confirmed Pyogenic granuloma.After 2 weeks, complete healing was observed. The 9-month follow-up was also carried out in order to check the process of healing as well as the recurrence. CONCLUSION: Excisional surgery is the preferred treatment method for PG. The application of laser can be considered as an effective and safe technique for excision of this lesion with minimal invasion and many clinical advantages such as less intra-operative bleeding, hemostasis and reduced pain and times of healing.",
+      "authors": [
+        {
+          "name": "Reza Fekrazad",
+          "orcid": "https://orcid.org/0000-0001-5188-8829",
+          "affiliation": "Aja University of Medical Sciences",
+          "country": "IR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hanieh Nokhbatolfoghahaei",
+          "orcid": "https://orcid.org/0000-0002-6154-4349",
+          "affiliation": "Tehran University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Farzaneh Khoei",
+          "orcid": null,
+          "affiliation": "Tehran University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Katayoun AM Kalhori",
+          "orcid": null,
+          "affiliation": "Iranian Orthopedic Association",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2014,
+      "venue": "PubMed",
+      "issn": null,
+      "type": "article",
+      "citation_count": 48,
+      "referenced_works_count": 28,
+      "fwci": 4.4651,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11787",
+          "name": "Oral and Maxillofacial Pathology",
+          "score": 0.5231999754905701
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.11760000139474869
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.07580000162124634
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Pyogenic granuloma",
+        "Lesion",
+        "Laser",
+        "Carbon dioxide laser",
+        "Dentistry",
+        "Surgery",
+        "Laser surgery",
+        "Optics"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.46000000834465027,
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": null,
+      "openalex_url": "https://openalex.org/W2116341329",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4281984",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/4281984"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4621,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 1.0,
+          "citation_signal": 0.512,
+          "recency_signal": 0.52
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.15171/jlms.2019.s18",
+      "arxiv_id": null,
+      "openalex_id": "W2995776241",
+      "ss_paper_id": null,
+      "pmid": "32021682",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "The Evaluation of Laser Application in Surgery: A Review Article",
+      "abstract": "There are several types of surgeries which use lasers in the operating room. Surgeons use lasers in general surgery or surgical specialties to cut, coagulate, and remove tissue. In modern medicine, the application of laser therapy is an attractive subject due to its minimal invasive effect. Today lasers are widely used in the treatment and diagnosis of many diseases such as various cancers, lithotripsy, ophthalmology, as well as dermatology and beauty procedures. Depending on the type of lasers, the wavelength and the delivery system, most lasers have replaced conventional surgical instruments for better wound healing results. Over time, by using many different tools and devices, new lasers have been created; as a result, they are used in a wide range of medical special cases. In this review, laser applications in surgery and its beneficial effects compared to previous surgeries with the aim of providing appropriate therapeutic and non-invasive solutions with minimal side effects after surgery are investigated.",
+      "authors": [
+        {
+          "name": "Ensieh Khalkhal",
+          "orcid": "https://orcid.org/0000-0003-4706-9438",
+          "affiliation": "Shahid Beheshti University of Medical Sciences",
+          "country": "IR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mostafa Rezaei–Tavirani",
+          "orcid": "https://orcid.org/0000-0003-1767-7475",
+          "affiliation": "Iran University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mohammad Reza Zali",
+          "orcid": "https://orcid.org/0000-0002-9027-4560",
+          "affiliation": "Shahid Beheshti University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Zahra Akbari",
+          "orcid": "https://orcid.org/0000-0002-7089-843X",
+          "affiliation": "Shahid Beheshti University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2019,
+      "venue": "Journal of lasers in medical sciences",
+      "issn": "2008-9783",
+      "type": "article",
+      "citation_count": 109,
+      "referenced_works_count": 79,
+      "fwci": 6.3225,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9997000098228455
+        },
+        {
+          "id": "T11172",
+          "name": "Dermatologic Treatments and Research",
+          "score": 0.9983000159263611
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.9955999851226807
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Laser",
+        "Laser lithotripsy",
+        "Surgery",
+        "Laser surgery",
+        "Lithotripsy",
+        "Optics"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.7200000286102295,
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.15171/jlms.2019.s18",
+      "openalex_url": "https://openalex.org/W2995776241",
+      "pdf_url": "https://doi.org/10.15171/jlms.2019.s18",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.15171/jlms.2019.s18",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/6983859"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4564,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.6184,
+          "recency_signal": 0.72
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.6163522012578617,
+          "h_index": 41
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1002/aisy.202100011",
+      "arxiv_id": null,
+      "openalex_id": "W3157145339",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Intelligent Soft Surgical Robots for Next‐Generation Minimally Invasive Surgery",
+      "abstract": "Endowed with the expected visions for future surgery, minimally invasive surgery (MIS) has become one of the most rapid developing areas in modern surgery. Soft robotics, which originates from interdisciplinary advances in materials, fabrication, and electronics, featuring better adaptability and safer interaction, holds great promises in addressing current technical challenges in MIS, which are difficult to be solved with current rigid robotic technologies. For the first time, herein, the expected characteristics of next‐generation MIS from the surgeons’ perspectives are analyzed and the recent progress of soft surgical instruments from three different aspects is comprehensively summarized: engineering design, fabrication techniques, and human–robot interaction. Perspectives of next‐generation soft surgical robots are then discussed, where some exciting possibilities are emphasized. It is believed that further developments of intelligent soft robotics enable the next‐generation MIS to agilely navigate to the target and conduct dexterous diagnostic or therapeutic procedures without any trade‐offs in invasiveness and ultimately be a propitious solution for future surgery.",
+      "authors": [
+        {
+          "name": "Jiaqi Zhu",
+          "orcid": "https://orcid.org/0000-0001-9334-6884",
+          "affiliation": "Huazhong University of Science and Technology",
+          "country": "CN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Liangxiong Lyu",
+          "orcid": null,
+          "affiliation": "Huazhong University of Science and Technology",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yi Xu",
+          "orcid": "https://orcid.org/0000-0003-4606-7326",
+          "affiliation": "Huazhong University of Science and Technology",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Huageng Liang",
+          "orcid": "https://orcid.org/0000-0001-7838-8701",
+          "affiliation": "Union Hospital",
+          "country": "HK",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Xiaoping Zhang",
+          "orcid": "https://orcid.org/0000-0003-0218-3288",
+          "affiliation": "Union Hospital",
+          "country": "HK",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Han Ding",
+          "orcid": "https://orcid.org/0000-0003-2905-6369",
+          "affiliation": "Huazhong University of Science and Technology",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Zhigang Wu",
+          "orcid": "https://orcid.org/0000-0002-3719-406X",
+          "affiliation": "Huazhong University of Science and Technology",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2021,
+      "venue": "Advanced Intelligent Systems",
+      "issn": "2640-4567",
+      "type": "article",
+      "citation_count": 146,
+      "referenced_works_count": 346,
+      "fwci": 6.697,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10868",
+          "name": "Soft Robotics and Applications",
+          "score": 0.9998000264167786
+        },
+        {
+          "id": "T11486",
+          "name": "Micro and Nano Robotics",
+          "score": 0.9990000128746033
+        },
+        {
+          "id": "T10338",
+          "name": "Advanced Sensor and Energy Harvesting Materials",
+          "score": 0.9868999719619751
+        }
+      ],
+      "keywords": [
+        "SAFER",
+        "Robotics",
+        "Surgical robot",
+        "Robot",
+        "Soft robotics",
+        "Adaptability",
+        "Vision",
+        "Invasive surgery",
+        "Artificial intelligence",
+        "Soft materials"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.44999998807907104,
+          "display_name": "Industry, innovation and infrastructure"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1002/aisy.202100011",
+      "openalex_url": "https://openalex.org/W3157145339",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aisy.202100011",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aisy.202100011",
+        "https://doaj.org/article/dffa51db004041e2873922bea594b6a5"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4285,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.3333,
+          "citation_signal": 0.6565,
+          "recency_signal": 0.8
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 5.419866444073456,
+          "h_index": 93
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1902/jop.2016.150571",
+      "arxiv_id": null,
+      "openalex_id": "W2260928499",
+      "ss_paper_id": null,
+      "pmid": "26777766",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Influence of Soft Tissue Thickness on Peri‐Implant Marginal Bone Loss: A Systematic Review and Meta‐Analysis",
+      "abstract": "BACKGROUND: Multiple variables have been shown to affect early marginal bone loss (MBL). Among them, the location of the microgap with respect to the alveolar bone crest, occlusion, and use of a polished collar have traditionally been investigated as major contributory factors for this early remodeling. Recently, soft tissue thickness has also been investigated as a possible factor influencing this phenomenon. Hence, this study aims to further evaluate the influence of soft tissue thickness on early MBL around dental implants. METHODS: Electronic and manual literature searches were performed by two independent reviewers in several databases, including Medline, EMBASE, and Cochrane Oral Health Group Trials Register, for articles up to May 2015 reporting soft tissue thickness at time of implant placement and MBL with ≥12-month follow-up. In addition, random effects meta-analyses of selected studies were applied to analyze the weighted mean difference (WMD) of MBL between groups of thick and thin peri-implant soft tissue. Metaregression was conducted to investigate any potential influences of confounding factors, i.e., platform switching design, cement-/screw-retained restoration, and flapped/flapless surgical techniques. RESULTS: Eight articles were included in the systematic review, and five were included in the quantitative synthesis and meta-analyzed to examine the influence of tissue thickness on early MBL. Meta-analysis for the comparison of MBL among selected studies showed a WMD of -0.80 mm (95% confidence interval -1.18 to -0.42 mm) (P <0.0001), favoring the thick tissue group. Metaregression of the selected studies failed to demonstrate an association among MBL and confounding factors. CONCLUSION: The current study demonstrates that implants placed with an initially thicker peri-implant soft tissue have less radiographic MBL in the short term.",
+      "authors": [
+        {
+          "name": "Fernando Suárez‐López del Amo",
+          "orcid": null,
+          "affiliation": "University of Michigan",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Guo‐Hao Lin",
+          "orcid": "https://orcid.org/0000-0003-1290-9994",
+          "affiliation": "University of Michigan",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Alberto Monje",
+          "orcid": "https://orcid.org/0000-0001-8292-1927",
+          "affiliation": "University of Michigan",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Pablo Galindo‐Moreno",
+          "orcid": "https://orcid.org/0000-0002-6614-6470",
+          "affiliation": "Universidad de Granada",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hom‐Lay Wang",
+          "orcid": null,
+          "affiliation": "University of Michigan",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2016,
+      "venue": "Journal of Periodontology",
+      "issn": "0022-3492",
+      "type": "review",
+      "citation_count": 250,
+      "referenced_works_count": 47,
+      "fwci": 3.6539,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.984000027179718
+        },
+        {
+          "id": "T11570",
+          "name": "Periodontal Regeneration and Treatments",
+          "score": 0.003599999938160181
+        },
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.002099999925121665
+        }
+      ],
+      "keywords": [
+        "Soft tissue",
+        "Meta-analysis",
+        "Dentistry",
+        "Medicine",
+        "Confidence interval",
+        "Dental alveolus",
+        "Cochrane Library",
+        "Confounding",
+        "Implant",
+        "Systematic review"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1902/jop.2016.150571",
+      "openalex_url": "https://openalex.org/W2260928499",
+      "pdf_url": "https://hdl.handle.net/2027.42/142241",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://hdl.handle.net/2027.42/142241"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.419,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.3333,
+          "citation_signal": 0.7269,
+          "recency_signal": 0.6
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.08,
+          "h_index": 261
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1007/978-981-15-1346-6_39",
+      "arxiv_id": null,
+      "openalex_id": "W1875406728",
+      "ss_paper_id": null,
+      "pmid": "11048276",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Lasers in Oral and Maxillofacial Surgery",
+      "abstract": "Because of their many advantages, lasers have become indispensable in OMS as a modality for soft tissue surgery. Based on manufacturer estimates, approximately 10% to 20% of all oral and maxillofacial surgeons have one or more lasers in their offices, and most surgeons have access to lasers in the hospital. Lasers not only enhance the current surgical options for treatment, but also have expanded the scope of practice. There are many uses for lasers in OMS, and the advent of new wavelengths will undoubtedly lead to new procedures that can be performed with them. One [figure: see text] elusive use is hard tissue surgery. Although the Er:YAG has been approved for hard tissue use in the United States and currently is being used in general dentistry, it is still not yet practical or proven for large-volume osseous or extraction surgery, in which the greatest opportunity for innovation and clinical use exists. With future research, it is possible that the right wavelength laser will be developed for this purpose, allowing an increased base of procedures performed with lasers in OMS.",
+      "authors": [
+        {
+          "name": "Shravan Renapurkar",
+          "orcid": "https://orcid.org/0000-0002-1552-3002",
+          "affiliation": "Virginia Commonwealth University Medical Center",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Robert A. Strauss",
+          "orcid": "https://orcid.org/0000-0003-0931-4172",
+          "affiliation": "Virginia Commonwealth University Medical Center",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2021,
+      "venue": null,
+      "issn": null,
+      "type": "book-chapter",
+      "citation_count": 68,
+      "referenced_works_count": 27,
+      "fwci": 3.9403,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9995999932289124
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.9962999820709229
+        },
+        {
+          "id": "T12625",
+          "name": "Sympathectomy and Hyperhidrosis Treatments",
+          "score": 0.987500011920929
+        }
+      ],
+      "keywords": [
+        "Oral and maxillofacial surgery",
+        "Reliability (semiconductor)",
+        "Medicine",
+        "Medical physics",
+        "Dentistry",
+        "Physics"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1007/978-981-15-1346-6_39",
+      "openalex_url": "https://openalex.org/W1875406728",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007%2F978-981-15-1346-6_39.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://link.springer.com/content/pdf/10.1007%2F978-981-15-1346-6_39.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4136,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.6667,
+          "citation_signal": 0.557,
+          "recency_signal": 0.8
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.1093/sleep/33.10.1408",
+      "arxiv_id": null,
+      "openalex_id": "W59710325",
+      "ss_paper_id": null,
+      "pmid": "21061864",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Practice Parameters for the Surgical Modifications of the Upper Airway for Obstructive Sleep Apnea in Adults",
+      "abstract": "BACKGROUND: Practice parameters for the treatment of obstructive sleep apnea syndrome (OSAS) in adults by surgical modification of the upper airway were first published in 1996 by the American Academy of Sleep Medicine (formerly ASDA). The following practice parameters update the previous practice parameters. These recommendations were reviewed and approved by the Board of Directors of the American Academy of Sleep Medicine. METHODS: A systematic review of the literature was performed, and the GRADE system was used to assess the quality of evidence. The findings from this evaluation are provided in the accompanying review paper, and the subsequent recommendations have been developed from this review. The following procedures have been included: tracheostomy, maxillo-mandibular advancement (MMA), laser assisted uvulopalatoplasty (LAUP), uvulopalatopharyngoplasty (UPPP), radiofrequency ablation (RFA), and palatal implants. RECOMMENDATIONS: The presence and severity of obstructive sleep apnea must be determined before initiating surgical therapy (Standard). The patient should be advised about potential surgical success rates and complications, the availability of alternative treatment options such as nasal positive airway pressure and oral appliances, and the levels of effectiveness and success rates of these alternative treatments (Standard). The desired outcomes of treatment include resolution of the clinical signs and symptoms of obstructive sleep apnea and the normalization of sleep quality, the apnea-hypopnea index, and oxyhemoglobin saturation levels (Standard). Tracheostomy has been shown to be an effective single intervention to treat obstructive sleep apnea. This operation should be considered only when other options do not exist, have failed, are refused, or when this operation is deemed necessary by clinical urgency (Option). MMA is indicated for surgical treatment of severe OSA in patients who cannot tolerate or who are unwilling to adhere to positive airway pressure therapy, or in whom oral appliances, which are more often appropriate in mild and moderate OSA patients, have been considered and found ineffective or undesirable (Option). UPPP as a sole procedure, with or without tonsillectomy, does not reliably normalize the AHI when treating moderate to severe obstructive sleep apnea syndrome. Therefore, patients with severe OSA should initially be offered positive airway pressure therapy, while those with moderate OSA should initially be offered either PAP therapy or oral appliances (Option). Use of multi-level or stepwise surgery (MLS), as a combined procedure or as stepwise multiple operations, is acceptable in patients with narrowing of multiple sites in the upper airway, particularly if they have failed UPPP as a sole treatment (Option). LAUP is not routinely recommended as a treatment for obstructive sleep apnea syndrome (Standard). RFA can be considered as a treatment in patients with mild to moderate obstructive sleep apnea who cannot tolerate or who are unwilling to adhere to positive airway pressure therapy, or in whom oral appliances have been considered and found ineffective or undesirable (Option). Palatal implants may be effective in some patients with mild obstructive sleep apnea who cannot tolerate or who are unwilling to adhere to positive airway pressure therapy, or in whom oral appliances have been considered and found ineffective or undesirable (Option). Postoperatively, after an appropriate period of healing, patients should undergo follow-up evaluation including an objective measure of the presence and severity of sleep-disordered breathing and oxygen saturation, as well as clinical assessment for residual symptoms. Additionally, patients should be followed over time to detect the recurrence of disease (Standard). CONCLUSIONS: While there has been significant progress made in surgical techniques for the treatment of OSA, there is a lack of rigorous data evaluating surgical modifications of the upper airway. Systematic and methodical investigations are needed to improve the quality of evidence, assess additional outcome measures, determine which populations are most likely to benefit from a particular procedure or procedures, and optimize perioperative care.",
+      "authors": [
+        {
+          "name": "R. Nisha Aurora",
+          "orcid": "https://orcid.org/0000-0003-4321-946X",
+          "affiliation": "Icahn School of Medicine at Mount Sinai",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Kenneth R. Casey",
+          "orcid": "https://orcid.org/0000-0002-1234-9459",
+          "affiliation": "Veterans Health Administration",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "David A. Kristo",
+          "orcid": null,
+          "affiliation": "University of Pittsburgh",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Sanford Auerbach",
+          "orcid": "https://orcid.org/0000-0003-2962-6405",
+          "affiliation": "Boston University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Sabin R. Bista",
+          "orcid": null,
+          "affiliation": "University of Nebraska Medical Center",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Susmita Chowdhuri",
+          "orcid": "https://orcid.org/0000-0002-5927-1169",
+          "affiliation": "John D. Dingell VA Medical Center",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Anoop Karippot",
+          "orcid": null,
+          "affiliation": "Pennsylvania State University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Carin Lamm",
+          "orcid": "https://orcid.org/0000-0002-5148-2623",
+          "affiliation": "Columbia University Irving Medical Center",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Kannan Ramar",
+          "orcid": null,
+          "affiliation": "Mayo Clinic",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Rochelle Zak",
+          "orcid": "https://orcid.org/0000-0002-8176-8622",
+          "affiliation": "University of California, San Francisco",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Timothy I. Morgenthaler",
+          "orcid": "https://orcid.org/0000-0002-2614-3793",
+          "affiliation": "Mayo Clinic in Arizona",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2010,
+      "venue": "SLEEP",
+      "issn": "0161-8105",
+      "type": "article",
+      "citation_count": 374,
+      "referenced_works_count": 31,
+      "fwci": 11.6627,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10234",
+          "name": "Obstructive Sleep Apnea Research",
+          "score": 0.9891999959945679
+        },
+        {
+          "id": "T11260",
+          "name": "Tracheal and airway disorders",
+          "score": 0.002899999963119626
+        },
+        {
+          "id": "T11456",
+          "name": "Neuroscience of respiration and sleep",
+          "score": 0.00279999990016222
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Uvulopalatopharyngoplasty",
+        "Obstructive sleep apnea",
+        "Airway",
+        "Continuous positive airway pressure",
+        "Hypopnea",
+        "Polysomnography",
+        "Apnea",
+        "Anesthesia",
+        "Intensive care medicine"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.7400000095367432,
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1093/sleep/33.10.1408",
+      "openalex_url": "https://openalex.org/W59710325",
+      "pdf_url": "https://academic.oup.com/sleep/article-pdf/33/10/1408/13689895/sleep-33-10-1408.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://academic.oup.com/sleep/article-pdf/33/10/1408/13689895/sleep-33-10-1408.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/2941428"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.403,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.6667,
+          "citation_signal": 0.7797,
+          "recency_signal": 0.36
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.7830667186890363,
+          "h_index": 308
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1007/s10103-010-0834-5",
+      "arxiv_id": null,
+      "openalex_id": "W2010919162",
+      "ss_paper_id": null,
+      "pmid": "20835840",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Transoral laser microsurgery for laryngeal cancer: A primer and review of laser dosimetry",
+      "abstract": "Transoral laser microsurgery (TLM) is an emerging technique for the management of laryngeal and other head and neck malignancies. It is increasingly being used in place of traditional open surgery because of lower morbidity and improved organ preservation. Since the surgery is performed from the inside working outward as opposed to working from the outside in, there is less damage to the supporting structures that lie external to the tumor. Coupling the laser to a micromanipulator and a microscope allows precise tissue cutting and hemostasis; thereby improving visualization and precise ablation. The basic approach and principles of performing TLM, the devices currently in use, and the associated dosimetry parameters will be discussed. The benefits of using TLM over conventional surgery, common complications and the different settings used depending on the location of the tumor will also be discussed. Although the CO(2) laser is the most versatile and the best-suited laser for TLM applications, a variety of lasers and different parameters are used in the treatment of laryngeal cancer. Improved instrumentation has lead to an increased utilization of TLM by head and neck cancer surgeons and has resulted in improved outcomes. Laser energy levels and spot size are adjusted to vary the precision of cutting and amount of hemostasis obtained.",
+      "authors": [
+        {
+          "name": "Marc Rubinstein",
+          "orcid": "https://orcid.org/0000-0003-3017-0505",
+          "affiliation": "University of California, Irvine",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "William B. Armstrong",
+          "orcid": "https://orcid.org/0000-0003-0672-4483",
+          "affiliation": "University of California, Irvine",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2010,
+      "venue": "Lasers in Medical Science",
+      "issn": "0268-8921",
+      "type": "article",
+      "citation_count": 101,
+      "referenced_works_count": 78,
+      "fwci": 1.6954,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T10307",
+          "name": "Head and Neck Cancer Studies",
+          "score": 0.9997000098228455
+        },
+        {
+          "id": "T10863",
+          "name": "Voice and Speech Disorders",
+          "score": 0.9984999895095825
+        },
+        {
+          "id": "T14326",
+          "name": "Ear and Head Tumors",
+          "score": 0.998199999332428
+        }
+      ],
+      "keywords": [
+        "Transoral laser microsurgery",
+        "Microsurgery",
+        "Laser",
+        "Medicine",
+        "Tumor ablation",
+        "Laser surgery",
+        "Laser ablation",
+        "Dosimetry",
+        "Micromanipulator",
+        "Ablation"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.5099999904632568,
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1007/s10103-010-0834-5",
+      "openalex_url": "https://openalex.org/W2010919162",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10103-010-0834-5.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://link.springer.com/content/pdf/10.1007/s10103-010-0834-5.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/2981737",
+        "https://escholarship.org/uc/item/7765d6qp",
+        "http://www.escholarship.org/uc/item/7765d6qp"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3773,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.6667,
+          "citation_signal": 0.6084,
+          "recency_signal": 0.36
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.7476190476190476,
+          "h_index": 109
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.4317/medoral.15.e912",
+      "arxiv_id": null,
+      "openalex_id": "W2143436678",
+      "ss_paper_id": null,
+      "pmid": "20526250",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Histologic evaluation of thermal damage produced on soft tissues by CO2, Er,Cr:YSGG and diode lasers",
+      "abstract": "OBJECTIVE: The aim of this in vitro experimental study was to perform histological evaluation of the thermal effect produced on soft tissue irradiated with CO2, Er,Cr:YSGG or diode lasers. STUDY DESIGN: Porcine oral mucosa samples were irradiated with Er,Cr:YSGG laser at 1 W with and without water / air spray, at 2 W with and without water / air spray, and at 4 W with water / air spray, with CO2 laser at 1 W, 2 W, 10 W, 20 W continuous mode and 20 W pulsed mode and diode laser at 2 W, 5 W, and 10 W pulsed mode. The thermal effect was evaluated measuring the width of damaged tissue adjacent to the incision, stained positively for hyalinized tissue with Hematoxylin-Eosin and Masson Trichrome stains. Besides, histological changes in the irradiated tissue were described using subjective grading scales. RESULTS: The evaluated lasers developed a wide range of thermal damage with significant differences between groups. The samples with lowest thermal effect were those irradiated with Er,Cr:YSGG laser using water / air spray, followed by CO2 and diode lasers. CONCLUSIONS: Emission parameters of each laser system may influence the thermal damage inflicted on the soft tissue, however, the wave length of each laser determines the absorption rate characteristics of every tissue and the thermal effect.",
+      "authors": [
+        {
+          "name": "Iñaki Cercadillo-Ibarguren",
+          "orcid": null,
+          "affiliation": "Institut d'Investigació Biomédica de Bellvitge",
+          "country": "ES",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Antonio Jesús España-Tost",
+          "orcid": null,
+          "affiliation": "Institut d'Investigació Biomédica de Bellvitge",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Josep Arnabat‐Domínguez",
+          "orcid": "https://orcid.org/0000-0003-1653-8043",
+          "affiliation": "Institut d'Investigació Biomédica de Bellvitge",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Eduard Valmaseda‐Castellón",
+          "orcid": "https://orcid.org/0000-0001-9669-3187",
+          "affiliation": "Institut d'Investigació Biomédica de Bellvitge",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Leonardo Berini‐Aytés",
+          "orcid": null,
+          "affiliation": "Institut d'Investigació Biomédica de Bellvitge",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Cosme Gay‐Escoda",
+          "orcid": "https://orcid.org/0000-0002-6812-024X",
+          "affiliation": "Institut d'Investigació Biomédica de Bellvitge",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2010,
+      "venue": "Medicina oral, patología oral y cirugía bucal",
+      "issn": "1698-4447",
+      "type": "article",
+      "citation_count": 97,
+      "referenced_works_count": 24,
+      "fwci": 3.9882,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9657999873161316
+        },
+        {
+          "id": "T11172",
+          "name": "Dermatologic Treatments and Research",
+          "score": 0.025599999353289604
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.001500000013038516
+        }
+      ],
+      "keywords": [
+        "Laser",
+        "Irradiation",
+        "Materials science",
+        "Diode",
+        "Soft tissue",
+        "Optics",
+        "Biomedical engineering",
+        "Optoelectronics",
+        "Pathology",
+        "Medicine"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7400000095367432,
+          "display_name": "Clean water and sanitation"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.4317/medoral.15.e912",
+      "openalex_url": "https://openalex.org/W2143436678",
+      "pdf_url": "https://doi.org/10.4317/medoral.15.e912",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.4317/medoral.15.e912",
+        "http://hdl.handle.net/10550/60231"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3765,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.6667,
+          "citation_signal": 0.6032,
+          "recency_signal": 0.36
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.2845849802371543,
+          "h_index": 89
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1145/237170.237281",
+      "arxiv_id": null,
+      "openalex_id": "W2066813690",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Simulating facial surgery using finite element models",
+      "abstract": "This paper describes a prototype system for surgical planning and prediction of human facial shape after craniofacial and maxillofacial surgery for patients with facial deformities.For this purpose it combines, unifies, and extends various methods from geometric modeling, finite element analysis, and image processing to render highly realistic 3D images of the post surgical situation.The basic concept of the system is to join advanced geometric modeling and animation systems such as Alias with a special purpose finite element model of the human face developed under AVS.In contrast to existing facial models we acquire facial surface and soft tissue data both from photogrammetric and CT scans of the individual.After initial data preprocessing, reconstruction, and registration, a finite element model of the facial surface and soft tissue is provided which is based on triangular finite elements.Stiffness parameters of the soft tissue are computed using segmentations of the underlying CT data.All interactive procedures such as bone and soft tissue repositioning are performed under the guidance of the modeling system which feeds the processed geometry into the FEM solver.The resulting shape is generated from minimizing the global energy of the surface under the presence of external forces.Photorealistic pictures are obtained from rendering the facial surface with the advanced animation system on which this prototype is built.Although we do not claim any of the presented algorithms themselves to be new, the synthesis of several methods offers a new facial model quality.Our concept is a significant extension to existing ones and, due to its versatility, can be employed in different applications such as facial animation, facial reconstruction, or the simulation of aging.We illustrate features of our system with some examples from the Visible Human Data Set.",
+      "authors": [
+        {
+          "name": "Rolf M. Koch",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Markus Groß",
+          "orcid": "https://orcid.org/0009-0003-9324-779X",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Friedrich R. Carls",
+          "orcid": null,
+          "affiliation": "University Hospital Zurich",
+          "country": "CH",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Daniel F. von Büren",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "George Fankhauser",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yoav I. H. Parish",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 1996,
+      "venue": null,
+      "issn": null,
+      "type": "conference-paper",
+      "citation_count": 352,
+      "referenced_works_count": 18,
+      "fwci": 29.0648,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11322",
+          "name": "Facial Rejuvenation and Surgery Techniques",
+          "score": 0.9977999925613403
+        },
+        {
+          "id": "T11562",
+          "name": "Facial Trauma and Fracture Management",
+          "score": 0.9901999831199646
+        },
+        {
+          "id": "T10356",
+          "name": "Orthodontics and Dentofacial Orthopedics",
+          "score": 0.9894999861717224
+        }
+      ],
+      "keywords": [
+        "Library science",
+        "Information system",
+        "Engineering",
+        "Computer science",
+        "Operations research"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1145/237170.237281",
+      "openalex_url": "https://openalex.org/W2066813690",
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/237170.237281",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://dl.acm.org/doi/pdf/10.1145/237170.237281",
+        "http://hdl.handle.net/20.500.11850/68828",
+        "https://doi.org/10.3929/ethz-a-006651630"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3658,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.6667,
+          "citation_signal": 0.7718,
+          "recency_signal": 0.0
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.1038/sj.bjc.6601320",
+      "arxiv_id": null,
+      "openalex_id": "W2046887547",
+      "ss_paper_id": null,
+      "pmid": "14583759",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Phase II trial of intralesional therapy with interleukin-2 in soft-tissue melanoma metastases",
+      "abstract": "The objective of the present study was to validate the use of intralesional injection of interleukin-2 (IL-2) in patients with skin and soft-tissue melanoma metastases. A total of 24 patients with AJCC stage III or IV melanoma and single or multiple skin and soft-tissue metastases were included. Interleukin-2 injections were administered intralesionally into the total number of cutaneous and soft-tissue metastases accessible from the skin, 2-3 times weekly, over 1-57 weeks. Single doses varied from 0.6 to 6 x 10(6) IU, depending on lesion size. The clinical response was monitored by sonography and confirmed by histopathology; response evaluation was confined to the intralesionally treated tumours. Complete response (CR) of the treated metastases was achieved in 15 patients (62.5%), the longest remission lasting 38 months to date. In five patients, partial response (PR) was achieved (21%) and in another three patients, progressive disease was observed (one patient not assessable). A total of 245 metastases were treated with CR in 209 (85%), and PR in 21 (6%). The therapy was generally well tolerated; the observed adverse events were mainly of grade 1-2 severity. Immunohistochemical studies showed the tumour cells undergoing apoptosis and revealed a mixed character of the inflammatory infiltrate. The unusual high CR rate in metastatic melanoma of 62.5% and the limited toxicity suggest that treatment of skin and soft-tissue melanoma metastases with intralesional injection of IL-2 may be a safe and effective alternative to conventional therapies. The optimal dosage and duration of this therapy still remain to be defined in larger prospective multicentre trials.",
+      "authors": [
+        {
+          "name": "Peter Radny",
+          "orcid": null,
+          "affiliation": "University of Tübingen",
+          "country": "DE",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ulrich M. Caroli",
+          "orcid": null,
+          "affiliation": "University of Tübingen",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jürgen Bauer",
+          "orcid": "https://orcid.org/0000-0001-8789-1536",
+          "affiliation": "University of Tübingen",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Theodor Paul",
+          "orcid": null,
+          "affiliation": "University of Tübingen",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Christiane Schlegel",
+          "orcid": null,
+          "affiliation": "University of Tübingen",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Thomas Eigentler",
+          "orcid": "https://orcid.org/0000-0003-0019-2770",
+          "affiliation": "University of Tübingen",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Benjamin Weide",
+          "orcid": "https://orcid.org/0000-0002-7941-223X",
+          "affiliation": "University of Tübingen",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Manfred Schwarz",
+          "orcid": "https://orcid.org/0000-0002-6785-1411",
+          "affiliation": "University of Tübingen",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Claus Garbe",
+          "orcid": "https://orcid.org/0000-0001-8530-780X",
+          "affiliation": "University of Tübingen",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2003,
+      "venue": "British Journal of Cancer",
+      "issn": "0007-0920",
+      "type": "article",
+      "citation_count": 188,
+      "referenced_works_count": 32,
+      "fwci": 2.4265,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10392",
+          "name": "Cutaneous Melanoma Detection and Management",
+          "score": 0.9997000098228455
+        },
+        {
+          "id": "T10580",
+          "name": "Immunotherapy and Immune Responses",
+          "score": 0.9976000189781189
+        },
+        {
+          "id": "T11491",
+          "name": "CAR-T cell therapy research",
+          "score": 0.9958999752998352
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Melanoma",
+        "Soft tissue",
+        "Histopathology",
+        "Surgery",
+        "Metastasis",
+        "Lesion",
+        "Chemotherapy",
+        "Pathology",
+        "Phases of clinical research"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.7799999713897705,
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1038/sj.bjc.6601320",
+      "openalex_url": "https://openalex.org/W2046887547",
+      "pdf_url": "https://www.nature.com/articles/6601320.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.nature.com/articles/6601320.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/2394422"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3614,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.3333,
+          "citation_signal": 0.6896,
+          "recency_signal": 0.08
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 6.694706994328922,
+          "h_index": 347
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1089/soro.2019.0115",
+      "arxiv_id": null,
+      "openalex_id": "W3037722175",
+      "ss_paper_id": null,
+      "pmid": "32589507",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Toward a Common Framework and Database of Materials for Soft Robotics",
+      "abstract": "To advance the field of soft robotics, a unified database of material constitutive models and experimental characterizations is of paramount importance. This will facilitate the use of finite element analysis to simulate their behavior and optimize the design of soft-bodied robots. Samples from seventeen elastomers, namely Body Double™ SILK, Dragon Skin™ 10 MEDIUM, Dragon Skin 20, Dragon Skin 30, Dragon Skin FX-Pro, Dragon Skin FX-Pro + Slacker, Ecoflex™ 00–10, Ecoflex 00–30, Ecoflex 00–50, Rebound™ 25, Mold Star™ 16 FAST, Mold Star 20T, SORTA-Clear™ 40, RTV615, PlatSil ® Gel-10, Psycho Paint ® , and SOLOPLAST 150318, were subjected to uniaxial tensile tests according to the ASTM D412 standard. Sample preparation and tensile test parameters are described in detail. The tensile test data are used to derive parameters for hyperelastic material models using nonlinear least-squares methods, which are provided to the reader. This article presents the mechanical characterization and the resulting material properties for a wide set of commercially available hyperelastic materials, many of which are recognized and commonly applied in the field of soft robotics, together with some that have never been characterized. The experimental raw data and the algorithms used to determine material parameters are shared on the Soft Robotics Materials Database GitHub repository to enable accessibility, as well as future contributions from the soft robotics community. The presented database is aimed at aiding soft roboticists in designing and modeling soft robots while providing a starting point for future material characterizations related to soft robotics research.",
+      "authors": [
+        {
+          "name": "Luc Maréchal",
+          "orcid": "https://orcid.org/0000-0001-6391-9610",
+          "affiliation": "Université Savoie Mont Blanc",
+          "country": "FR",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Pascale Balland",
+          "orcid": "https://orcid.org/0000-0002-5485-1324",
+          "affiliation": "Université Savoie Mont Blanc",
+          "country": "FR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Lukas Lindenroth",
+          "orcid": "https://orcid.org/0000-0002-9108-4574",
+          "affiliation": "King's College London",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Fotis Petrou",
+          "orcid": null,
+          "affiliation": "Imperial College London",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Christos Kontovounisios",
+          "orcid": "https://orcid.org/0000-0002-1828-1395",
+          "affiliation": "Imperial College London",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Fernando Bello",
+          "orcid": "https://orcid.org/0000-0003-4136-0355",
+          "affiliation": "Imperial College London",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2020,
+      "venue": "Soft Robotics",
+      "issn": "2169-5172",
+      "type": "article",
+      "citation_count": 339,
+      "referenced_works_count": 41,
+      "fwci": 10.9771,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10868",
+          "name": "Soft Robotics and Applications",
+          "score": 1.0
+        },
+        {
+          "id": "T12784",
+          "name": "Modular Robots and Swarm Intelligence",
+          "score": 0.9936000108718872
+        },
+        {
+          "id": "T11608",
+          "name": "Dielectric materials and actuators",
+          "score": 0.9904999732971191
+        }
+      ],
+      "keywords": [
+        "Soft robotics",
+        "Robotics",
+        "Artificial intelligence",
+        "Robot",
+        "Hyperelastic material",
+        "Computer science",
+        "Field (mathematics)",
+        "Database",
+        "Mechanical engineering",
+        "Finite element method"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1089/soro.2019.0115",
+      "openalex_url": "https://openalex.org/W3037722175",
+      "pdf_url": "https://discovery.ucl.ac.uk/10112846/1/Towards_a_Common_Framework_and_Database_of_Materials_for_Soft_Robotics___Revision2.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://discovery.ucl.ac.uk/10112846/1/Towards_a_Common_Framework_and_Database_of_Materials_for_Soft_Robotics___Revision2.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3577,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.3333,
+          "citation_signal": 0.7668,
+          "recency_signal": 0.76
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 5.37719298245614,
+          "h_index": 107
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1002/aisy.202000187",
+      "arxiv_id": null,
+      "openalex_id": "W3097531163",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Finite Element Modeling of Soft Fluidic Actuators: Overview and Recent Developments",
+      "abstract": "Many soft robots are composed of soft fluidic actuators that are fabricated from silicone rubbers and use hydraulic or pneumatic actuation. The strong nonlinearities and complex geometries of soft actuators hinder the development of analytical models to describe their motion. Finite element modeling provides an effective solution to this issue and allows the user to predict performance and optimize soft actuator designs. Herein, the literature on a finite element analysis of soft actuators is reviewed. First, the required nonlinear elasticity concepts are introduced with a focus on the relevant models for soft robotics. In particular, the procedure for determining material constants for the hyperelastic models from material testing and curve fitting is explored. Then, a comprehensive review of constitutive model parameters for the most widely used silicone rubbers in the literature is provided. An overview of the procedure is provided for three commercially available software packages (Abaqus, Ansys, and COMSOL). The combination of modeling procedures, material properties, and design guidelines presented in this article can be used as a starting point for soft robotic actuator design.",
+      "authors": [
+        {
+          "name": "Matheus S. Xavier",
+          "orcid": "https://orcid.org/0000-0002-6581-705X",
+          "affiliation": "University of Newcastle Australia",
+          "country": "AU",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Andrew J. Fleming",
+          "orcid": "https://orcid.org/0000-0001-7132-8458",
+          "affiliation": "University of Newcastle Australia",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yuen Kuan Yong",
+          "orcid": "https://orcid.org/0000-0001-7363-5304",
+          "affiliation": "University of Newcastle Australia",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2020,
+      "venue": "Advanced Intelligent Systems",
+      "issn": "2640-4567",
+      "type": "article",
+      "citation_count": 312,
+      "referenced_works_count": 112,
+      "fwci": 10.2218,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10868",
+          "name": "Soft Robotics and Applications",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T11608",
+          "name": "Dielectric materials and actuators",
+          "score": 0.9818000197410583
+        },
+        {
+          "id": "T11301",
+          "name": "Advanced Surface Polishing Techniques",
+          "score": 0.9775999784469604
+        }
+      ],
+      "keywords": [
+        "Hyperelastic material",
+        "Actuator",
+        "Finite element method",
+        "Soft robotics",
+        "Mechanical engineering",
+        "Fluidics",
+        "Nonlinear system",
+        "Control engineering",
+        "Computer science",
+        "Elasticity (physics)"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5899999737739563,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1002/aisy.202000187",
+      "openalex_url": "https://openalex.org/W3097531163",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aisy.202000187",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aisy.202000187",
+        "https://doaj.org/article/88a8174a3ba34fd29846c81a6efd5383"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3561,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.3333,
+          "citation_signal": 0.7559,
+          "recency_signal": 0.76
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 5.419866444073456,
+          "h_index": 93
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.4240/wjgs.v3.i5.59",
+      "arxiv_id": null,
+      "openalex_id": "W2032244255",
+      "ss_paper_id": null,
+      "pmid": "21666808",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "How to assess intestinal viability during surgery: A review of techniques",
+      "abstract": "Objective and quantitative intraoperative methods of bowel viability assessment are essential in gastrointestinal surgery. Exact determination of the borderline of the viable bowel with the help of an objective test could result in a decrease of postoperative ischemic complications. An accurate, reproducible and cost effective method is desirable in every operating theater dealing with abdominal operations. Numerous techniques assessing various parameters of intestinal viability are described by the studies. However, there is no consensus about their clinical use. To evaluate the available methods, a systematic search of the English literature was performed. Virtues and drawbacks of the techniques and possibilities of clinical application are reviewed. Valuable parameters related to postoperative intestinal anastomotic or stoma complications are analyzed. Important issues in the measurement and interpretation of bowel viability are discussed. To date, only a few methods are applicable in surgical practice. Further studies are needed to determine the limiting values of intestinal tissue oxygenation and flow indicative of ischemic complications and to standardize the methods.",
+      "authors": [
+        {
+          "name": "Linas Urbanavičius",
+          "orcid": null,
+          "affiliation": "Lithuanian University of Health Sciences",
+          "country": "LT",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2011,
+      "venue": "World Journal of Gastrointestinal Surgery",
+      "issn": "1948-9366",
+      "type": "article",
+      "citation_count": 232,
+      "referenced_works_count": 97,
+      "fwci": 2.6872,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10335",
+          "name": "Colorectal Cancer Surgical Treatments",
+          "score": 0.9998000264167786
+        },
+        {
+          "id": "T12333",
+          "name": "Abdominal Surgery and Complications",
+          "score": 0.9979000091552734
+        },
+        {
+          "id": "T11930",
+          "name": "Cardiac, Anesthesia and Surgical Outcomes",
+          "score": 0.9976999759674072
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Surgery",
+        "Stoma (medicine)",
+        "Limiting",
+        "Anastomosis",
+        "Intestinal ischemia",
+        "Intensive care medicine",
+        "General surgery",
+        "Ischemia",
+        "Internal medicine"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.7300000190734863,
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.4240/wjgs.v3.i5.59",
+      "openalex_url": "https://openalex.org/W2032244255",
+      "pdf_url": "https://www.wjgnet.com/1948-9366/full/v3/i5/59.htm",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.wjgnet.com/1948-9366/full/v3/i5/59.htm",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/3110878"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3559,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.7171,
+          "recency_signal": 0.4
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.5226027397260273,
+          "h_index": 62
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1038/bdj.2007.128",
+      "arxiv_id": null,
+      "openalex_id": "W2154636327",
+      "ss_paper_id": null,
+      "pmid": "17322842",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Lasers and soft tissue: 'loose' soft tissue surgery",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Steven Parker",
+          "orcid": "https://orcid.org/0000-0003-2317-8381",
+          "affiliation": "Harrogate District Hospital",
+          "country": "GB",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2007,
+      "venue": "BDJ",
+      "issn": "0007-0610",
+      "type": "article",
+      "citation_count": 55,
+      "referenced_works_count": 6,
+      "fwci": 1.5715,
+      "cited_by_percentile_year": 98,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9998000264167786
+        },
+        {
+          "id": "T11172",
+          "name": "Dermatologic Treatments and Research",
+          "score": 0.9994000196456909
+        },
+        {
+          "id": "T12625",
+          "name": "Sympathectomy and Hyperhidrosis Treatments",
+          "score": 0.9930999875068665
+        }
+      ],
+      "keywords": [
+        "Soft tissue",
+        "Laser",
+        "Connective tissue",
+        "Medicine",
+        "Dentistry",
+        "Oral cavity",
+        "Lymphatic system",
+        "Biomedical engineering",
+        "Hard tissue",
+        "Oral surgery"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5799999833106995,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1038/bdj.2007.128",
+      "openalex_url": "https://openalex.org/W2154636327",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3534,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.5,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.5296,
+          "recency_signal": 0.24
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.7198604060913706,
+          "h_index": 158
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/ma11122530",
+      "arxiv_id": null,
+      "openalex_id": "W2905447985",
+      "ss_paper_id": null,
+      "pmid": "30545136",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Bioactive Glasses and Glass-Ceramics for Healthcare Applications in Bone Regeneration and Tissue Engineering",
+      "abstract": "The discovery of bioactive glasses (BGs) in the late 1960s by Larry Hench et al. was driven by the need for implant materials with an ability to bond to living tissues, which were intended to replace inert metal and plastic implants that were not well tolerated by the body. Among a number of tested compositions, the one that later became designated by the well-known trademark of 45S5 Bioglass® excelled in its ability to bond to bone and soft tissues. Bonding to living tissues was mediated through the formation of an interfacial bone-like hydroxyapatite layer when the bioglass was put in contact with biological fluids in vivo. This feature represented a remarkable milestone, and has inspired many other investigations aiming at further exploring the in vitro and in vivo performances of this and other related BG compositions. This paradigmatic example of a target-oriented research is certainly one of the most valuable contributions that one can learn from Larry Hench. Such a goal-oriented approach needs to be continuously stimulated, aiming at finding out better performing materials to overcome the limitations of the existing ones, including the 45S5 Bioglass®. Its well-known that its main limitations include: (i) the high pH environment that is created by its high sodium content could turn it cytotoxic; (ii) and the poor sintering ability makes the fabrication of porous three-dimensional (3D) scaffolds difficult. All of these relevant features strongly depend on a number of interrelated factors that need to be well compromised. The selected chemical composition strongly determines the glass structure, the biocompatibility, the degradation rate, and the ease of processing (scaffolds fabrication and sintering). This manuscript presents a first general appraisal of the scientific output in the interrelated areas of bioactive glasses and glass-ceramics, scaffolds, implant coatings, and tissue engineering. Then, it gives an overview of the critical issues that need to be considered when developing bioactive glasses for healthcare applications. The aim is to provide knowledge-based tools towards guiding young researchers in the design of new bioactive glass compositions, taking into account the desired functional properties.",
+      "authors": [
+        {
+          "name": "Hugo R. Fernandes",
+          "orcid": "https://orcid.org/0000-0002-9689-3127",
+          "affiliation": "University of Aveiro",
+          "country": "PT",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Anuraag Gaddam",
+          "orcid": "https://orcid.org/0000-0002-4266-6092",
+          "affiliation": "University of Aveiro",
+          "country": "PT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Avito Rebelo",
+          "orcid": null,
+          "affiliation": "University of Aveiro",
+          "country": "PT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Daniela Brazete",
+          "orcid": "https://orcid.org/0000-0002-5024-3321",
+          "affiliation": "University of Aveiro",
+          "country": "PT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "George E. Stan",
+          "orcid": "https://orcid.org/0000-0003-0289-8988",
+          "affiliation": "National Institute of Materials Physics",
+          "country": "RO",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "J.M.F. Ferreira",
+          "orcid": "https://orcid.org/0000-0002-7520-2809",
+          "affiliation": "University of Aveiro",
+          "country": "PT",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2018,
+      "venue": "Materials",
+      "issn": "1996-1944",
+      "type": "article",
+      "citation_count": 397,
+      "referenced_works_count": 350,
+      "fwci": 9.3306,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10059",
+          "name": "Bone Tissue Engineering Materials",
+          "score": 1.0
+        },
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.9912999868392944
+        },
+        {
+          "id": "T11562",
+          "name": "Facial Trauma and Fracture Management",
+          "score": 0.9818999767303467
+        }
+      ],
+      "keywords": [
+        "Materials science",
+        "Bioactive glass",
+        "In vivo",
+        "Regeneration (biology)",
+        "Nanotechnology",
+        "Ceramic",
+        "Hard tissue",
+        "Biomedical engineering",
+        "Composite material",
+        "Dentistry"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/ma11122530",
+      "openalex_url": "https://openalex.org/W2905447985",
+      "pdf_url": "https://www.mdpi.com/1996-1944/11/12/2530/pdf?version=1545044305",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/1996-1944/11/12/2530/pdf?version=1545044305",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/6316906",
+        "https://doaj.org/article/87d144f18c404c718832468e247c7b96"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3528,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.3333,
+          "citation_signal": 0.7875,
+          "recency_signal": 0.68
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 4.597651539193906,
+          "h_index": 248
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3928/1081597x-20260728-05",
+      "arxiv_id": null,
+      "openalex_id": "W7212071438",
+      "ss_paper_id": null,
+      "pmid": "42715027",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Viscoelastic-Assisted Patient Interface Docking: A Technical Optimization in LenSx Femtosecond Laser–Assisted Cataract Surgery",
+      "abstract": "Purpose: To evaluate the efficacy of viscoelastic-assisted patient interface docking in LenSx (Alcon Laboratories, Inc) femtosecond laser–assisted cataract surgery (FLACS). Methods: This was a randomized controlled trial. Patients undergoing FLACS from January to August 2025 at Aier Eye Hospital of Wuhan University were randomized via a random number table to receive balanced salt solution (BSS) or visoeleastic as the patient interface docking medium. The primary outcome was docking efficiency, measured by one-time docking success rate, the number of docking attempts, and mean docking time. Secondary outcomes included surgical safety (subconjunctival hemorrhage, capsulotomy completeness/tear rate), laser treatment duration (anterior capsulotomy time, nucleus pretreatment time, total laser emission time), and patient comfort (post-laser pain sensation). Results: A total of 100 patients were enrolled, 50 in each group. Suction loss occurred in 7 patients (14%) in the BSS group and 1 patient (2%) in the viscoelastic group; the one-time docking success rate was significantly higher in the viscoelastic group (98%) than in the BSS group (86%) (chi-square = 3.93, P < .05). The viscoelastic group also had fewer mean docking attempts (1.02 ± 0.14) than the BSS group (1.16 ± 0.42), showing a significant difference ( t = 2.23, P < .05). The viscoelastic group exhibited significantly shorter mean docking time (44.66 ± 4.47 seconds) compared to the BSS group (48.62 ± 3.11 seconds) ( t = 2.17, P < .05). No significant differences were observed between the groups in subconjunctival hemorrhage, capsulotomy completeness/tear rate, anterior capsulotomy time, nucleus pretreatment time, total femtosecond laser emission time, or patient-reported pain sensation (all P > .05). Conclusions: Viscoelastic-assisted patient interface docking in FLACS effectively elevates one-time docking success rate, reduces docking attempts, and shortens docking time.",
+      "authors": [
+        {
+          "name": "Danmin Cao",
+          "orcid": "https://orcid.org/0000-0001-6845-9561",
+          "affiliation": "First Affiliated Hospital of Guangzhou Medical University",
+          "country": "CN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Wenjing Luo",
+          "orcid": null,
+          "affiliation": "He Eye Hospital",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Juan Li",
+          "orcid": "https://orcid.org/0000-0002-9953-949X",
+          "affiliation": "Henan Provincial People's Hospital",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Tingting Peng",
+          "orcid": null,
+          "affiliation": "He Eye Hospital",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Huafang Guo",
+          "orcid": null,
+          "affiliation": "He Eye Hospital",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Anqi Xie",
+          "orcid": null,
+          "affiliation": "He Eye Hospital",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ying Sun",
+          "orcid": null,
+          "affiliation": "He Eye Hospital",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yong Wang",
+          "orcid": null,
+          "affiliation": "He Eye Hospital",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2026,
+      "venue": "Journal of Refractive Surgery",
+      "issn": "1042-962X",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 19,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11291",
+          "name": "Intraocular Surgery and Lenses",
+          "score": 0.7533000111579895
+        },
+        {
+          "id": "T11377",
+          "name": "Retinal and Macular Surgery",
+          "score": 0.09139999747276306
+        },
+        {
+          "id": "T10250",
+          "name": "Glaucoma and retinal disorders",
+          "score": 0.08020000159740448
+        }
+      ],
+      "keywords": [
+        "Capsulotomy",
+        "Docking (animal)",
+        "Femtosecond",
+        "Cataract surgery",
+        "Posterior Capsulotomy",
+        "Laser",
+        "Sodium hyaluronate"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3928/1081597x-20260728-05",
+      "openalex_url": "https://openalex.org/W7212071438",
+      "pdf_url": "https://journals.healio.com/doi/pdf/10.3928/1081597X-20260728-05",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://journals.healio.com/doi/pdf/10.3928/1081597X-20260728-05"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.35,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.3333,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.2159827213822894,
+          "h_index": 130
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1111/prd.70084",
+      "arxiv_id": null,
+      "openalex_id": "W7204805316",
+      "ss_paper_id": null,
+      "pmid": "42670713",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Soft tissue grafting for the prevention and management of peri‐implantitis",
+      "abstract": "AIM: To critically summarize the current evidence on the role of the peri-implant soft tissue phenotype [specifically the width of keratinized peri-implant mucosa (KPIM) and the soft tissue thickness (STT)] and of the soft tissue grafting procedures used for the prevention and management of peri-implant diseases. MATERIALS AND METHODS: A narrative review of the literature was conducted, using PubMed for articles published up to December 2025, complemented by manual searching of reference lists. All different study designs were considered, prioritizing the highest available level of evidence. RESULTS: Peri-implant diseases are multifactorial biofilm-induced chronic inflammatory conditions. Their onset, progression, and response to treatment are influenced by the characteristics of the peri-implant soft tissues, which, unlike periodontal tissues, form a weaker biological seal, rendering them more susceptible to inflammation-driven tissue breakdown. A reduced width of KPIM is consistently associated with higher plaque accumulation, mucosal inflammation, discomfort during oral hygiene, and a greater prevalence of peri-implant diseases. It should be emphasized, however, that most of this evidence derives from cross-sectional and observational studies. KPIM augmentation procedures improve peri-implant soft tissue health and patient-reported outcomes, and STT augmentation by increasing mucosal thickness (MT) may enhance soft-tissue margin stability and reduce marginal bone loss. These benefits are best supported for surrogate outcomes, whereas the independent effect of soft tissue augmentation (STA) on the prevention of peri-implantitis remains less certain. In the treatment of peri-implantitis, there is some evidence that simultaneous or staged STA (particularly KPIM reconstruction) may improve clinical stability; however, its effect on disease resolution remains unclear, as most available studies lack a negative control group. CONCLUSIONS: Soft tissue grafting is a clinically relevant, phenotype-modifying strategy for preventing and managing peri-implant diseases. Risk-based, phenotype-driven decision-making (distinguishing KPIM augmentation from targeted STT augmentation) is essential for optimizing treatment outcomes.",
+      "authors": [
+        {
+          "name": "Eduardo Montero",
+          "orcid": "https://orcid.org/0000-0003-2525-8529",
+          "affiliation": "Universidad Complutense de Madrid",
+          "country": "ES",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ignacio Sanz‐Sánchez",
+          "orcid": "https://orcid.org/0000-0002-3698-4772",
+          "affiliation": "Universidad Complutense de Madrid",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Myroslav Solonko",
+          "orcid": null,
+          "affiliation": "Universidad Complutense de Madrid",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Javier Sanz",
+          "orcid": "https://orcid.org/0000-0003-0859-3149",
+          "affiliation": "Universidad Complutense de Madrid",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Javier Calatrava",
+          "orcid": "https://orcid.org/0009-0007-1080-6285",
+          "affiliation": "Universidad Complutense de Madrid",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mariano Sanz",
+          "orcid": "https://orcid.org/0000-0002-6293-5755",
+          "affiliation": "Universidad Complutense de Madrid",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2026,
+      "venue": "Periodontology 2000",
+      "issn": "0906-6713",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 72,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.9915000200271606
+        },
+        {
+          "id": "T10059",
+          "name": "Bone Tissue Engineering Materials",
+          "score": 0.0017999999690800905
+        },
+        {
+          "id": "T10257",
+          "name": "Oral microbiology and periodontitis research",
+          "score": 0.0010999999940395355
+        }
+      ],
+      "keywords": [
+        "Soft tissue",
+        "Hard tissue",
+        "Gingival margin",
+        "Observational study",
+        "Narrative review",
+        "Periodontium",
+        "Tissue repair",
+        "Soft tissue injury"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/16",
+          "display_name": "Peace, Justice and strong institutions",
+          "score": 0.4146680235862732
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1111/prd.70084",
+      "openalex_url": "https://openalex.org/W7204805316",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/prd.70084",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/prd.70084"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.35,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.3333,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 14.425,
+          "h_index": 208
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.2147/opth.s36040",
+      "arxiv_id": null,
+      "openalex_id": "W2074461015",
+      "ss_paper_id": null,
+      "pmid": "24970994",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "New technology update: femtosecond laser in cataract surgery",
+      "abstract": "Femtosecond lasers represent a new frontier in cataract surgery. Since their introduction and first human treatment in 2008, a lot of new developments have been achieved. In this review article, the physical principle of femtolasers is discussed, together with the indications and side effects of the method in cataract surgery. The most important clinical results are also presented regarding capsulotomy, fragmentation of the crystalline lens, corneal wound creation, and refractive results. Safety issues such as endothelial and macular changes are also discussed. The most important advantage of femtolaser cataract technology at present is that all the important surgical steps of cataract surgery can be planned and customized, delivering unparalleled accuracy, repeatability, and consistency in surgical results. The advantages of premium lenses can be maximally used in visual and presbyopia restoration as well. The advantages of premium lenses can be maximally used, not only in visual, but in presbyopia restoration as well. Quality of vision can be improved with less posterior chamber lens (PCL) tilt, more centralized position of the PCL, possibly less endothelial damage, less macular edema, and less posterior capsule opacification (PCO) formation. This technological achievement should be followed by other technical developments in the lens industry. Hopefully this review article will help us to understand the technology and the results to demonstrate the differences between the use of femtolasers and phacoemulsification-based cataract surgery. The most important data of the literature are summarized to show ophthalmologists the benefits of the technology in order to provide the best refractive results to the patient.",
+      "authors": [
+        {
+          "name": "Zoltán Z. Nagy",
+          "orcid": "https://orcid.org/0000-0002-6493-5601",
+          "affiliation": "Semmelweis University",
+          "country": "HU",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2014,
+      "venue": "Clinical ophthalmology",
+      "issn": "1177-5467",
+      "type": "article",
+      "citation_count": 79,
+      "referenced_works_count": 47,
+      "fwci": 11.0068,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11291",
+          "name": "Intraocular Surgery and Lenses",
+          "score": 1.0
+        },
+        {
+          "id": "T10563",
+          "name": "Corneal surgery and disorders",
+          "score": 0.9955000281333923
+        },
+        {
+          "id": "T11377",
+          "name": "Retinal and Macular Surgery",
+          "score": 0.9933000206947327
+        }
+      ],
+      "keywords": [
+        "Presbyopia",
+        "Medicine",
+        "Cataract surgery",
+        "Phacoemulsification",
+        "Capsulotomy",
+        "Ophthalmology",
+        "Optometry",
+        "Refractive surgery",
+        "Lens (geology)",
+        "Surgery"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.6399999856948853,
+          "display_name": "Industry, innovation and infrastructure"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.2147/opth.s36040",
+      "openalex_url": "https://openalex.org/W2074461015",
+      "pdf_url": "https://www.dovepress.com/getfile.php?fileID=20482",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.dovepress.com/getfile.php?fileID=20482",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/4069130"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3468,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.1667,
+          "citation_signal": 0.5765,
+          "recency_signal": 0.52
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.197309417040359,
+          "h_index": 102
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1118/1.1836331",
+      "arxiv_id": null,
+      "openalex_id": "W2114419957",
+      "ss_paper_id": null,
+      "pmid": "15719975",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Volume CT with a flat‐panel detector on a mobile, isocentric C‐arm: Pre‐clinical investigation in guidance of minimally invasive surgery",
+      "abstract": "A mobile isocentric C-arm (Siemens PowerMobil) has been modified in our laboratory to include a large area flat-panel detector (in place of the x-ray image intensifier), providing multi-mode fluoroscopy and cone-beam computed tomography (CT) imaging capability. This platform represents a promising technology for minimally invasive, image-guided surgical procedures where precision in the placement of interventional tools with respect to bony and soft-tissue structures is critical. The image quality and performance in surgical guidance was investigated in pre-clinical evaluation in image-guided spinal surgery. The control, acquisition, and reconstruction system are described. The reproducibility of geometric calibration, essential to achieving high three-dimensional (3D) image quality, is tested over extended time scales (7 months) and across a broad range in C-arm angulation (up to 45 degrees), quantifying the effect of improper calibration on spatial resolution, soft-tissue visibility, and image artifacts. Phantom studies were performed to investigate the precision of 3D localization (viz., fiber optic probes within a vertebral body) and effect of lateral projection truncation (limited field of view) on soft-tissue detectability in image reconstructions. Pre-clinical investigation was undertaken in a specific spinal procedure (photodynamic therapy of spinal metastases) in five animal subjects (pigs). In each procedure, placement of fiber optic catheters in two vertebrae (L1 and L2) was guided by fluoroscopy and cone-beam CT. Experience across five procedures is reported, focusing on 3D image quality, the effects of respiratory motion, limited field of view, reconstruction filter, and imaging dose. Overall, the intraoperative cone-beam CT images were sufficient for guidance of needles and catheters with respect to bony anatomy and improved surgical performance and confidence through 3D visualization and verification of transpedicular trajectories and tool placement. Future investigation includes improvement in image quality, particularly regarding x-ray scatter, motion artifacts and field of view, and integration with optical tracking and navigation systems.",
+      "authors": [
+        {
+          "name": "Jeffrey H. Siewerdsen",
+          "orcid": "https://orcid.org/0000-0001-6644-1317",
+          "affiliation": "Ontario Institute for Cancer Research",
+          "country": "CA",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "D Moseley",
+          "orcid": "https://orcid.org/0000-0001-8030-8408",
+          "affiliation": "Ontario Institute for Cancer Research",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Sandra E. Burch",
+          "orcid": null,
+          "affiliation": "Ontario Institute for Cancer Research",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Stuart K. Bisland",
+          "orcid": null,
+          "affiliation": "Ontario Institute for Cancer Research",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Arjen Bogaards",
+          "orcid": null,
+          "affiliation": "Ontario Institute for Cancer Research",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Brian C. Wilson",
+          "orcid": "https://orcid.org/0000-0001-5543-666X",
+          "affiliation": "Ontario Institute for Cancer Research",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "David A. Jaffray",
+          "orcid": "https://orcid.org/0000-0001-7378-7543",
+          "affiliation": "Ontario Institute for Cancer Research",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2005,
+      "venue": "Medical Physics",
+      "issn": "0094-2405",
+      "type": "article",
+      "citation_count": 305,
+      "referenced_works_count": 58,
+      "fwci": 28.8197,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10358",
+          "name": "Advanced Radiotherapy Techniques",
+          "score": 0.9991999864578247
+        },
+        {
+          "id": "T12386",
+          "name": "Advanced X-ray and CT Imaging",
+          "score": 0.9987999796867371
+        },
+        {
+          "id": "T10522",
+          "name": "Medical Imaging Techniques and Applications",
+          "score": 0.9986000061035156
+        }
+      ],
+      "keywords": [
+        "Flat panel detector",
+        "Imaging phantom",
+        "Fluoroscopy",
+        "Image quality",
+        "Cone beam computed tomography",
+        "Medicine",
+        "Image-guided surgery",
+        "Image intensifier",
+        "Image registration",
+        "Nuclear medicine"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1118/1.1836331",
+      "openalex_url": "https://openalex.org/W2114419957",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1118/1.1836331",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1118/1.1836331"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3373,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.753,
+          "recency_signal": 0.16
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.792413066385669,
+          "h_index": 270
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/jcm9061724",
+      "arxiv_id": null,
+      "openalex_id": "W3033726402",
+      "ss_paper_id": null,
+      "pmid": "32503238",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Photobiomodulation—Underlying Mechanism and Clinical Applications",
+      "abstract": "The purpose of this study is to explore the possibilities for the application of laser therapy in medicine and dentistry by analyzing lasers' underlying mechanism of action on different cells, with a special focus on stem cells and mechanisms of repair. The interest in the application of laser therapy in medicine and dentistry has remarkably increased in the last decade. There are different types of lasers available and their usage is well defined by different parameters, such as: wavelength, energy density, power output, and duration of radiation. Laser irradiation can induce a photobiomodulatory (PBM) effect on cells and tissues, contributing to a directed modulation of cell behaviors, enhancing the processes of tissue repair. Photobiomodulation (PBM), also known as low-level laser therapy (LLLT), can induce cell proliferation and enhance stem cell differentiation. Laser therapy is a non-invasive method that contributes to pain relief and reduces inflammation, parallel to the enhanced healing and tissue repair processes. The application of these properties was employed and observed in the treatment of various diseases and conditions, such as diabetes, brain injury, spinal cord damage, dermatological conditions, oral irritation, and in different areas of dentistry.",
+      "authors": [
+        {
+          "name": "Claudia Dompé",
+          "orcid": null,
+          "affiliation": "Poznan University of Medical Sciences",
+          "country": "PL",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Lisa Moncrieff",
+          "orcid": "https://orcid.org/0000-0003-1700-1627",
+          "affiliation": "Poznan University of Medical Sciences",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jacek Matys",
+          "orcid": "https://orcid.org/0000-0002-3801-0218",
+          "affiliation": "University of Wrocław",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Kinga Grzech‐Leśniak",
+          "orcid": "https://orcid.org/0000-0002-5700-4577",
+          "affiliation": "Virginia Commonwealth University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ievgeniia Kocherova",
+          "orcid": "https://orcid.org/0000-0003-2561-9750",
+          "affiliation": "Poznan University of Medical Sciences",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Artur Bryja",
+          "orcid": "https://orcid.org/0000-0002-4338-8119",
+          "affiliation": "Poznan University of Medical Sciences",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "M Bruska",
+          "orcid": "https://orcid.org/0000-0002-2899-3943",
+          "affiliation": "Poznan University of Medical Sciences",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Marzena Dominiak",
+          "orcid": "https://orcid.org/0000-0001-8943-0549",
+          "affiliation": "University of Wrocław",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Paul Mozdziak",
+          "orcid": "https://orcid.org/0000-0002-1575-3123",
+          "affiliation": "North Carolina State University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Tárcio Hiroshi Ishimine Skiba",
+          "orcid": "https://orcid.org/0000-0003-3335-7279",
+          "affiliation": "Guarulhos University",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jamil Awad Shibli",
+          "orcid": "https://orcid.org/0000-0003-1971-0195",
+          "affiliation": "Guarulhos University",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ana Angelova Volponi",
+          "orcid": "https://orcid.org/0000-0002-5661-0807",
+          "affiliation": "King's College London",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Bartosz Kempisty",
+          "orcid": "https://orcid.org/0000-0002-6804-0119",
+          "affiliation": "Poznan University of Medical Sciences",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Marta Dyszkiewicz-Konwińska",
+          "orcid": "https://orcid.org/0000-0002-8069-9004",
+          "affiliation": "Poznan University of Medical Sciences",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2020,
+      "venue": "Journal of Clinical Medicine",
+      "issn": "2077-0383",
+      "type": "article",
+      "citation_count": 785,
+      "referenced_works_count": 104,
+      "fwci": 28.167,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 1.0
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Low level laser therapy",
+        "Stem cell",
+        "Regenerative medicine",
+        "Tissue repair",
+        "Stem-cell therapy",
+        "Laser",
+        "Laser therapy",
+        "Inflammation",
+        "Mechanism (biology)"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5600000023841858,
+          "display_name": "Affordable and clean energy"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.4300000071525574,
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/jcm9061724",
+      "openalex_url": "https://openalex.org/W3033726402",
+      "pdf_url": "https://www.mdpi.com/2077-0383/9/6/1724/pdf?version=1591187098",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2077-0383/9/6/1724/pdf?version=1591187098",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/7356229",
+        "https://doaj.org/article/8b2884cbabb6471a97793ddca8c67aeb"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3326,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.8771,
+          "recency_signal": 0.76
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.716959703878186,
+          "h_index": 189
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.5978/islsm.14-re-01",
+      "arxiv_id": null,
+      "openalex_id": "W2044466003",
+      "ss_paper_id": null,
+      "pmid": "24771971",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "The Role of the CO2 Laser and Fractional CO2 Laser in Dermatology",
+      "abstract": "BACKGROUND: Tremendous advances have been made in the medical application of the laser in the past few decades. Many diseases in the dermatological field are now indications for laser treatment that qualify for reimbursement by many national health insurance systems. Among laser types, the carbon dioxide (CO2) laser remains an important system for the dermatologist. RATIONALE: The lasers used in photosurgery have wavelengths that differ according to their intended use and are of various types, but the CO2 laser is one of the most widely used lasers in the dermatology field. With its wavelength in the mid-infrared at 10,600 nm, CO2 laser energy is wellabsorbed in water. As skin contains a very high water percentage, this makes the CO2 laser ideal for precise, safe ablation with good hemostasis. In addition to its efficacy in ablating benign raised lesions, the CO2 laser has been reported to be effective in the field of esthetic dermatology in the revision of acne scars as well as in photorejuvenation. With the addition of fractionation of the beam of energy into myriad microbeams, the fractional CO2 laser has offered a bridge between the frankly full ablative indications and the nonablative skin rejuvenation systems of the 2000s in the rejuvenation of photoaged skin on and off the face. CONCLUSIONS: The CO2 laser remains an efficient, precise and safe system for the dermatologist. Technological advances in CO2 laser construction have meant smaller spot sizes and greater precision for laser surgery, and more flexibility in tip sizes and protocols for fractional CO2 laser treatment. The range of dermatological applications of the CO2 laser is expected to continue to increase in the future.",
+      "authors": [
+        {
+          "name": "Tokuya Omi",
+          "orcid": null,
+          "affiliation": "Queen Medical",
+          "country": "QA",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Kayoko Numano",
+          "orcid": null,
+          "affiliation": "Queen Medical",
+          "country": "QA",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2014,
+      "venue": "LASER THERAPY",
+      "issn": "0898-5901",
+      "type": "article",
+      "citation_count": 267,
+      "referenced_works_count": 22,
+      "fwci": 7.8968,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11172",
+          "name": "Dermatologic Treatments and Research",
+          "score": 0.9503999948501587
+        },
+        {
+          "id": "T10392",
+          "name": "Cutaneous Melanoma Detection and Management",
+          "score": 0.01140000019222498
+        },
+        {
+          "id": "T11306",
+          "name": "Nonmelanoma Skin Cancer Studies",
+          "score": 0.007600000128149986
+        }
+      ],
+      "keywords": [
+        "Laser",
+        "Dermatology",
+        "Ablative case",
+        "Medicine",
+        "Dermabrasion",
+        "Materials science",
+        "Surgery",
+        "Optics",
+        "Physics"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.5978/islsm.14-re-01",
+      "openalex_url": "https://openalex.org/W2044466003",
+      "pdf_url": "https://www.jstage.jst.go.jp/article/islsm/23/1/23_14-RE-01/_pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.jstage.jst.go.jp/article/islsm/23/1/23_14-RE-01/_pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/3999431"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.329,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.3333,
+          "citation_signal": 0.7355,
+          "recency_signal": 0.52
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.42857142857142855,
+          "h_index": 41
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1109/access.2022.3179589",
+      "arxiv_id": null,
+      "openalex_id": "W4285149089",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Soft Pneumatic Actuators: A Review of Design, Fabrication, Modeling, Sensing, Control and Applications",
+      "abstract": "Soft robotics is a rapidly evolving field where robots are fabricated using highly deformable materials and usually follow a bioinspired design. Their high dexterity and safety makes them ideal for applications such as gripping, locomotion, and biomedical devices, where the environment is highly dynamic and sensitive to physical interaction. Pneumatic actuation remains the dominant technology in soft robotics due to its low cost and mass, fast response time, and easy implementation. Given the significant number of publications in soft robotics over recent years, newcomers and even established researchers may have difficulty assessing the state of the art. To address this issue, this article summarizes the development of soft pneumatic actuators and robots up until the date of publication. The scope of this article includes the design, modeling, fabrication, actuation, characterization, sensing, control, and applications of soft robotic devices. In addition to a historical overview, there is a special emphasis on recent advances such as novel designs, differential simulators, analytical and numerical modeling methods, topology optimization, data-driven modeling and control methods, hardware control boards, and nonlinear estimation and control techniques. Finally, the capabilities and limitations of soft pneumatic actuators and robots are discussed and directions for future research are identified.",
+      "authors": [
+        {
+          "name": "Matheus S. Xavier",
+          "orcid": "https://orcid.org/0000-0002-6581-705X",
+          "affiliation": "Data61",
+          "country": "AU",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Charbel Tawk",
+          "orcid": "https://orcid.org/0000-0002-2917-5985",
+          "affiliation": "University of Wollongong in Dubai",
+          "country": "AE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ali Zolfagharian",
+          "orcid": "https://orcid.org/0000-0001-5302-360X",
+          "affiliation": "Deakin University",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Joshua Pinskier",
+          "orcid": "https://orcid.org/0000-0002-8878-9012",
+          "affiliation": "Commonwealth Scientific and Industrial Research Organisation",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "David Howard",
+          "orcid": "https://orcid.org/0000-0002-5012-7224",
+          "affiliation": "Commonwealth Scientific and Industrial Research Organisation",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Taylor R. Young",
+          "orcid": "https://orcid.org/0000-0002-4933-7128",
+          "affiliation": "University of Newcastle Australia",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jiewen Lai",
+          "orcid": "https://orcid.org/0000-0002-2676-7387",
+          "affiliation": "Hong Kong Polytechnic University",
+          "country": "HK",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Simon M. Harrison",
+          "orcid": "https://orcid.org/0000-0002-4772-4917",
+          "affiliation": "Commonwealth Scientific and Industrial Research Organisation",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yuen Kuan Yong",
+          "orcid": "https://orcid.org/0000-0001-7363-5304",
+          "affiliation": "University of Newcastle Australia",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mahdi Bodaghi",
+          "orcid": "https://orcid.org/0000-0002-0707-944X",
+          "affiliation": "Nottingham Trent University",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Andrew J. Fleming",
+          "orcid": "https://orcid.org/0000-0001-7132-8458",
+          "affiliation": "University of Newcastle Australia",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2022,
+      "venue": "IEEE Access",
+      "issn": "2169-3536",
+      "type": "article",
+      "citation_count": 405,
+      "referenced_works_count": 709,
+      "fwci": 23.0304,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10868",
+          "name": "Soft Robotics and Applications",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T11486",
+          "name": "Micro and Nano Robotics",
+          "score": 0.9911999702453613
+        },
+        {
+          "id": "T10338",
+          "name": "Advanced Sensor and Energy Harvesting Materials",
+          "score": 0.9520999789237976
+        }
+      ],
+      "keywords": [
+        "Soft robotics",
+        "Actuator",
+        "Robotics",
+        "Computer science",
+        "Robot",
+        "Control engineering",
+        "Scope (computer science)",
+        "Pneumatic actuator",
+        "Field (mathematics)",
+        "Artificial intelligence"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1109/access.2022.3179589",
+      "openalex_url": "https://openalex.org/W4285149089",
+      "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09785890.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09785890.pdf",
+        "https://doaj.org/article/149fcb89edc04ea6b35085419796fb77",
+        "https://hdl.handle.net/11343/320407"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3275,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.1667,
+          "citation_signal": 0.7902,
+          "recency_signal": 0.84
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 6.19885679060775,
+          "h_index": 375
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/ma12040568",
+      "arxiv_id": null,
+      "openalex_id": "W2914788525",
+      "ss_paper_id": null,
+      "pmid": "30769821",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Fabrication of Scaffolds for Bone-Tissue Regeneration",
+      "abstract": "The present article describes the state of the art in the rapidly developing field of bone tissue engineering, where many disciplines, such as material science, mechanical engineering, clinical medicine and genetics, are interconnected. The main objective is to restore and improve the function of bone tissue by scaffolds, providing a suitable environment for tissue regeneration and repair. Strategies and materials used in oral regenerative therapies correspond to techniques generally used in bone tissue engineering. Researchers are focusing on developing and improving new materials to imitate the native biological neighborhood as authentically as possible. The most promising is a combination of cells and matrices (scaffolds) that can be fabricated from different kinds of materials. This review summarizes currently available materials and manufacturing technologies of scaffolds for bone-tissue regeneration.",
+      "authors": [
+        {
+          "name": "Petra Chocholata",
+          "orcid": "https://orcid.org/0000-0001-9519-2292",
+          "affiliation": "Charles University",
+          "country": "CZ",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Vlastimil Kulda",
+          "orcid": "https://orcid.org/0000-0001-7926-994X",
+          "affiliation": "Charles University",
+          "country": "CZ",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Václav Babuška",
+          "orcid": "https://orcid.org/0000-0001-9296-9414",
+          "affiliation": "Charles University",
+          "country": "CZ",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2019,
+      "venue": "Materials",
+      "issn": "1996-1944",
+      "type": "article",
+      "citation_count": 601,
+      "referenced_works_count": 142,
+      "fwci": 26.0687,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10059",
+          "name": "Bone Tissue Engineering Materials",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T11190",
+          "name": "3D Printing in Biomedical Research",
+          "score": 0.9991999864578247
+        },
+        {
+          "id": "T10729",
+          "name": "Electrospun Nanofibers in Biomedical Applications",
+          "score": 0.9927999973297119
+        }
+      ],
+      "keywords": [
+        "Tissue engineering",
+        "Regeneration (biology)",
+        "Regenerative medicine",
+        "Bone tissue",
+        "Biomedical engineering",
+        "Hard tissue",
+        "Nanotechnology",
+        "Materials science",
+        "Biochemical engineering",
+        "Construction engineering"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/ma12040568",
+      "openalex_url": "https://openalex.org/W2914788525",
+      "pdf_url": "https://www.mdpi.com/1996-1944/12/4/568/pdf?version=1550136737",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/1996-1944/12/4/568/pdf?version=1550136737",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/6416573",
+        "https://doaj.org/article/1cd6307c8c1040619320fb955d90954d"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3233,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.1667,
+          "citation_signal": 0.842,
+          "recency_signal": 0.72
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 4.597651539193906,
+          "h_index": 248
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1117/1.2335429",
+      "arxiv_id": null,
+      "openalex_id": "W2063461906",
+      "ss_paper_id": null,
+      "pmid": "16965130",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Review of tissue simulating phantoms for optical spectroscopy, imaging and dosimetry",
+      "abstract": "Optical spectroscopy, imaging, and therapy tissue phantoms must have the scattering and absorption properties that are characteristic of human tissues, and over the past few decades, many useful models have been created. In this work, an overview of their composition and properties is outlined, by separating matrix, scattering, and absorbing materials, and discussing the benefits and weaknesses in each category. Matrix materials typically are water, gelatin, agar, polyester or epoxy and polyurethane resin, room-temperature vulcanizing (RTV) silicone, or polyvinyl alcohol gels. The water and hydrogel materials provide a soft medium that is biologically and biochemically compatible with addition of organic molecules, and are optimal for scientific laboratory studies. Polyester, polyurethane, and silicone phantoms are essentially permanent matrix compositions that are suitable for routine calibration and testing of established systems. The most common three choices for scatters have been: (1.) lipid based emulsions, (2.) titanium or aluminum oxide powders, and (3.) polymer microspheres. The choice of absorbers varies widely from hemoglobin and cells for biological simulation, to molecular dyes and ink as less biological but more stable absorbers. This review is an attempt to indicate which sets of phantoms are optimal for specific applications, and provide links to studies that characterize main phantom material properties and recipes.",
+      "authors": [
+        {
+          "name": "Brian W. Pogue",
+          "orcid": "https://orcid.org/0000-0002-9887-670X",
+          "affiliation": "Dartmouth College",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Michael S. Patterson",
+          "orcid": "https://orcid.org/0000-0002-6398-0742",
+          "affiliation": "Juravinski Cancer Centre",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2006,
+      "venue": "Journal of Biomedical Optics",
+      "issn": "1083-3668",
+      "type": "article",
+      "citation_count": 843,
+      "referenced_works_count": 163,
+      "fwci": 14.566,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10977",
+          "name": "Optical Imaging and Spectroscopy Techniques",
+          "score": 1.0
+        },
+        {
+          "id": "T12015",
+          "name": "Photoacoustic and Ultrasonic Imaging",
+          "score": 0.9997000098228455
+        },
+        {
+          "id": "T11196",
+          "name": "Non-Invasive Vital Sign Monitoring",
+          "score": 0.9983999729156494
+        }
+      ],
+      "keywords": [
+        "Materials science",
+        "Polyester",
+        "Polyvinyl alcohol",
+        "Imaging phantom",
+        "Silicone",
+        "Gelatin",
+        "Polyurethane",
+        "Biomedical engineering",
+        "Polymer",
+        "Characterization (materials science)"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.5600000023841858,
+          "display_name": "Clean water and sanitation"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1117/1.2335429",
+      "openalex_url": "https://openalex.org/W2063461906",
+      "pdf_url": "https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-11/issue-4/041102/Review-of-tissue-simulating-phantoms-for-optical-spectroscopy-imaging-and/10.1117/1.2335429.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-11/issue-4/041102/Review-of-tissue-simulating-phantoms-for-optical-spectroscopy-imaging-and/10.1117/1.2335429.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3196,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.3333,
+          "citation_signal": 0.8864,
+          "recency_signal": 0.2
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.495201535508637,
+          "h_index": 183
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1111/clr.13346",
+      "arxiv_id": null,
+      "openalex_id": "W2896617808",
+      "ss_paper_id": null,
+      "pmid": "30328191",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "The accuracy of static computer‐aided implant surgery: A systematic review and meta‐analysis",
+      "abstract": "OBJECTIVES: To assess the literature on the accuracy of static computer-assisted implant surgery in implant dentistry. MATERIALS AND METHODS: Electronic and manual literature searches were conducted to collect information about the accuracy of static computer-assisted implant systems. Meta-regression analysis was performed to summarise the accuracy studies. RESULTS: From a total of 372 articles. 20 studies, one randomised controlled trial (RCT), eight uncontrolled retrospective studies and 11 uncontrolled prospective studies were selected for inclusion for qualitative synthesis. A total of 2,238 implants in 471 patients that had been placed using static guides were available for review. The meta-analysis of the accuracy (20 clinical) revealed a total mean error of 1.2 mm (1.04 mm to 1.44 mm) at the entry point, 1.4 mm (1.28 mm to 1.58 mm) at the apical point and deviation of 3.5°(3.0° to 3.96°). There was a significant difference in accuracy in favour of partial edentulous comparing to full edentulous cases. CONCLUSION: Different levels of quantity and quality of evidence were available for static computer-aided implant surgery (s-CAIS). Based on the present systematic review and its limitations, it can be concluded that the accuracy of static computer-aided implant surgery is within the clinically acceptable range in the majority of clinical situations. However, a safety marge of at least 2 mm should be respected. A lack of homogeneity was found in techniques adopted between the different authors and the general study designs.",
+      "authors": [
+        {
+          "name": "Ali Tahmaseb",
+          "orcid": "https://orcid.org/0000-0002-3796-2233",
+          "affiliation": "Academic Center for Dentistry Amsterdam",
+          "country": "NL",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Vivian Wu",
+          "orcid": "https://orcid.org/0000-0001-7881-0829",
+          "affiliation": "Academic Center for Dentistry Amsterdam",
+          "country": "NL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Daniël Wismeijer",
+          "orcid": null,
+          "affiliation": "Academic Center for Dentistry Amsterdam",
+          "country": "NL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Wim Coucke",
+          "orcid": "https://orcid.org/0000-0002-4290-4628",
+          "affiliation": "Institut Scientifique de Santé Publique",
+          "country": "BE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Chris Evans",
+          "orcid": "https://orcid.org/0000-0002-4197-4202",
+          "affiliation": "Brighton Hospital",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2018,
+      "venue": "Clinical Oral Implants Research",
+      "issn": "0905-7161",
+      "type": "review",
+      "citation_count": 545,
+      "referenced_works_count": 64,
+      "fwci": 8.1624,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.9645000100135803
+        },
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.011500000022351742
+        },
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.0038999998942017555
+        }
+      ],
+      "keywords": [
+        "Meta-analysis",
+        "Implant",
+        "Medicine",
+        "Dentistry",
+        "Medical physics",
+        "Orthodontics",
+        "Surgery"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "score": 0.7900000214576721,
+          "display_name": "Quality Education"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1111/clr.13346",
+      "openalex_url": "https://openalex.org/W2896617808",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/clr.13346",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/clr.13346",
+        "https://research.vu.nl/en/publications/1ba0423f-1145-4dbb-8a9b-d0b7e1fde584",
+        "https://hdl.handle.net/11245.1/b8c0f770-4f20-4c4a-9f30-52569004c810",
+        "https://dare.uva.nl/personal/pure/en/publications/the-accuracy-of-static-computeraided-implant-surgery(b8c0f770-4f20-4c4a-9f30-52569004c810).html"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3174,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.1667,
+          "citation_signal": 0.8291,
+          "recency_signal": 0.68
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 4.102844638949672,
+          "h_index": 231
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1038/eye.2012.293",
+      "arxiv_id": null,
+      "openalex_id": "W2042024892",
+      "ss_paper_id": null,
+      "pmid": "23370418",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "The journey to femtosecond laser-assisted cataract surgery: new beginnings or a false dawn?",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Sameer Trikha",
+          "orcid": "https://orcid.org/0000-0002-9446-496X",
+          "affiliation": "University Hospital Southampton NHS Foundation Trust",
+          "country": "GB",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Andrew M.J. Turnbull",
+          "orcid": "https://orcid.org/0000-0001-5428-1010",
+          "affiliation": "Salisbury District Hospital",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "R J Morris",
+          "orcid": null,
+          "affiliation": "University Hospital Southampton NHS Foundation Trust",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "David F. Anderson",
+          "orcid": "https://orcid.org/0000-0002-2344-614X",
+          "affiliation": "University Hospital Southampton NHS Foundation Trust",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Parwez Hossain",
+          "orcid": "https://orcid.org/0000-0002-3131-2395",
+          "affiliation": "University Hospital Southampton NHS Foundation Trust",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2013,
+      "venue": "Eye",
+      "issn": "0078-5334",
+      "type": "article",
+      "citation_count": 88,
+      "referenced_works_count": 73,
+      "fwci": 9.6767,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11291",
+          "name": "Intraocular Surgery and Lenses",
+          "score": 1.0
+        },
+        {
+          "id": "T10563",
+          "name": "Corneal surgery and disorders",
+          "score": 0.9955000281333923
+        },
+        {
+          "id": "T11826",
+          "name": "Ocular Infections and Treatments",
+          "score": 0.9945999979972839
+        }
+      ],
+      "keywords": [
+        "Cataract surgery",
+        "Phacoemulsification",
+        "Optometry",
+        "Medicine",
+        "Capsulotomy",
+        "Ophthalmology",
+        "Intraocular lens"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1038/eye.2012.293",
+      "openalex_url": "https://openalex.org/W2042024892",
+      "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3625999",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/3625999"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3032,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.5905,
+          "recency_signal": 0.48
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.890899689762151,
+          "h_index": 170
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1902/jop.2006.050417",
+      "arxiv_id": null,
+      "openalex_id": "W2146915121",
+      "ss_paper_id": null,
+      "pmid": "16584335",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Lasers in Periodontics: A Review of the Literature",
+      "abstract": "BACKGROUND: Despite the large number of publications, there is still controversy among clinicians regarding the application of dental lasers to the treatment of chronic periodontitis. The purpose of this review is to analyze the peer-reviewed research literature to determine the state of the science concerning the application of lasers to common oral soft tissue problems, root surface detoxification, and the treatment of chronic periodontitis. METHODS: A comprehensive computer-based search combined the following databases into one search: Medline, Current Contents, and the Cumulated Index of Nursing and Allied Health. This search also used key words. In addition, hand searches were done for several journals not cataloged in the databases, and the reference lists from published articles were checked. All articles were considered individually to eliminate non-peer-reviewed articles, those dealing with commercial laser technology, and those considered by the author to be purely opinion articles, leaving 278 possible articles. RESULTS: There is a considerable conflict in results for both laboratory studies and clinical trials, even when using the same laser wavelength. A meaningful comparison between various clinical studies or between laser and conventional therapy is difficult at best and likely impossible at the present. Reasons for this dilemma are several, such as different laser wavelengths; wide variations in laser parameters; insufficient reporting of parameters that, in turn, does not allow calculation of energy density; differences in experimental design, lack of proper controls, and differences in severity of disease and treatment protocols; and measurement of different clinical endpoints. CONCLUSIONS: Based on this review of the literature, there is a great need to develop an evidence-based approach to the use of lasers for the treatment of chronic periodontitis. Simply put, there is insufficient evidence to suggest that any specific wavelength of laser is superior to the traditional modalities of therapy. Current evidence does suggest that use of the Nd:YAG or Er:YAG wavelengths for treatment of chronic periodontitis may be equivalent to scaling and root planing (SRP) with respect to reduction in probing depth and subgingival bacterial populations. However, if gain in clinical attachment level is considered the gold standard for non-surgical periodontal therapy, then the evidence supporting laser-mediated periodontal treatment over traditional therapy is minimal at best. Lastly, there is limited evidence suggesting that lasers used in an adjunctive capacity to SRP may provide some additional benefit.",
+      "authors": [
+        {
+          "name": "Charles M. Cobb",
+          "orcid": "https://orcid.org/0000-0003-0844-2738",
+          "affiliation": "University of Missouri–Kansas City",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2006,
+      "venue": "Journal of Periodontology",
+      "issn": "0022-3492",
+      "type": "article",
+      "citation_count": 361,
+      "referenced_works_count": 117,
+      "fwci": 11.8912,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9156000018119812
+        },
+        {
+          "id": "T10257",
+          "name": "Oral microbiology and periodontitis research",
+          "score": 0.04619999974966049
+        },
+        {
+          "id": "T10957",
+          "name": "Photodynamic Therapy Research Studies",
+          "score": 0.010300000198185444
+        }
+      ],
+      "keywords": [
+        "Periodontology",
+        "MEDLINE",
+        "Dilemma",
+        "Medical physics",
+        "Periodontitis",
+        "Medicine",
+        "Clinical trial",
+        "Dentistry",
+        "Laser therapy",
+        "Computer science"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1902/jop.2006.050417",
+      "openalex_url": "https://openalex.org/W2146915121",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1902/jop.2006.050417",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1902/jop.2006.050417"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3029,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.6667,
+          "citation_signal": 0.7751,
+          "recency_signal": 0.2
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.08,
+          "h_index": 261
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1016/j.media.2017.01.007",
+      "arxiv_id": null,
+      "openalex_id": "W2582073395",
+      "ss_paper_id": null,
+      "pmid": "28160692",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "The status of augmented reality in laparoscopic surgery as of 2016",
+      "abstract": "• We review the state of the art about laparoscopic augmented reality with 270+ recent references. • We highlight that most methods consist in a static registration followed by augmentation updates. • We propose a clear classification of all methods and weigh pros and cons for each of them. • This survey is comprehensive and self-contained thanks to various backgrounds on related topics. This article establishes a comprehensive review of all the different methods proposed by the literature concerning augmented reality in intra-abdominal minimally invasive surgery (also known as laparoscopic surgery). A solid background of surgical augmented reality is first provided in order to support the survey. Then, the various methods of laparoscopic augmented reality as well as their key tasks are categorized in order to better grasp the current landscape of the field. Finally, the various issues gathered from these reviewed approaches are organized in order to outline the remaining challenges of augmented reality in laparoscopic surgery .",
+      "authors": [
+        {
+          "name": "Sylvain Bernhardt",
+          "orcid": null,
+          "affiliation": "Centre National de la Recherche Scientifique",
+          "country": "FR",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Stéphane Nicolau",
+          "orcid": null,
+          "affiliation": "Institut de Recherche contre les Cancers de l’Appareil Digestif",
+          "country": "FR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Luc Soler",
+          "orcid": null,
+          "affiliation": "Institut de Recherche contre les Cancers de l’Appareil Digestif",
+          "country": "FR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Christophe Doignon",
+          "orcid": "https://orcid.org/0000-0002-2635-5112",
+          "affiliation": "Centre National de la Recherche Scientifique",
+          "country": "FR",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2017,
+      "venue": "Medical Image Analysis",
+      "issn": "1361-8415",
+      "type": "article",
+      "citation_count": 303,
+      "referenced_works_count": 405,
+      "fwci": 15.1596,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10888",
+          "name": "Augmented Reality Applications",
+          "score": 0.9991000294685364
+        },
+        {
+          "id": "T10916",
+          "name": "Surgical Simulation and Training",
+          "score": 0.9955000281333923
+        },
+        {
+          "id": "T11984",
+          "name": "Anatomy and Medical Technology",
+          "score": 0.9853000044822693
+        }
+      ],
+      "keywords": [
+        "Augmented reality",
+        "GRASP",
+        "Laparoscopic surgery",
+        "Computer science",
+        "Medicine",
+        "Laparoscopy",
+        "Surgery",
+        "Human–computer interaction"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/j.media.2017.01.007",
+      "openalex_url": "https://openalex.org/W2582073395",
+      "pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S1361841517300178-fx1_lrg.jpg",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://ars.els-cdn.com/content/image/1-s2.0-S1361841517300178-fx1_lrg.jpg"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3018,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.1667,
+          "citation_signal": 0.7521,
+          "recency_signal": 0.64
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 11.04170616113744,
+          "h_index": 218
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    }
+  ],
+  "meta": {
+    "query": {
+      "topic": "recommended laser parameters soft tissue surgery",
+      "search_query": "recommended laser parameters soft tissue surgery",
+      "year_min": null,
+      "year_max": null,
+      "per_strategy": 40,
+      "terms": [
+        "recommended",
+        "laser",
+        "parameters",
+        "soft",
+        "tissue",
+        "surgery"
+      ]
+    },
+    "counts": {
+      "retrieved_raw": 120,
+      "after_dedup": 116,
+      "after_relevance_filter": 116,
+      "after_journal_filter": 116,
+      "after_rank_filter": 116,
+      "returned": 30
+    },
+    "rank": {
+      "platform": "jcr",
+      "platform_source": "default",
+      "keep_tiers": null,
+      "keep_quartiles": null,
+      "top_only": false,
+      "category": null,
+      "applied_filter": false,
+      "ambiguous": false,
+      "candidate_platforms": [],
+      "kept": null,
+      "filtered": null,
+      "no_platform_data": null,
+      "data_loaded": false,
+      "loaded_platforms": [],
+      "switchable_platforms": [],
+      "switch_is_refilter_not_research": true,
+      "stripped_phrases": [],
+      "deepen": {
+        "active": false,
+        "rounds": 0,
+        "saturated": false,
+        "final_per_strategy": 40
+      },
+      "attribution": null,
+      "note": null,
+      "keep_tiers_note": null,
+      "naming": "CAS 区 & SJR best_quartile are PARTITIONS; only JCR impact_factor is a real Impact Factor (R-04/R-09). 切换标准/档位 = 重筛已标注的候选池，不重搜。"
+    },
+    "enrichment": {
+      "enriched": true,
+      "impact_source": "openalex_summary_stats",
+      "impact_attached": 104,
+      "filter_quartiles": null,
+      "filter_min_impact": null,
+      "category": null,
+      "issn_backfill_enabled": true,
+      "issn_backfill_attempted": 0,
+      "issn_backfilled": 0,
+      "note": "Single journal_rank layer. Quartile/影响力 data lives in each paper's journal_rank (CAS/JCR/SJR + openalex). Partition data is cached under ~/.paper-search-pro/ranks/ (run `journal_rank fetch`, no API key needed). Only JCR IF(2024) is a real Impact Factor."
+    },
+    "relevance": {
+      "method": "heuristic_v1",
+      "is_llm_rcs": false,
+      "min_relevance": 0.0,
+      "weights": {
+        "title_coverage": 0.5,
+        "abstract_coverage": 0.25,
+        "citation_signal": 0.15,
+        "recency_signal": 0.1
+      },
+      "note": "Deterministic query-grounded heuristic, NOT the human path's LLM RCS. A signal for self-judgement, computed for every paper."
+    },
+    "saturation": {
+      "method": "heuristic_v1",
+      "advisory": true,
+      "looks_saturated": false,
+      "per_strategy_new_papers": [
+        40,
+        40,
+        36
+      ],
+      "last_strategy_marginal_yield": 0.3103,
+      "score_distribution": {
+        "high": 1,
+        "medium": 18,
+        "low": 97
+      },
+      "note": "Heuristic stop signal (no LLM classification). 'looks_saturated' = later strategies added few new papers. Advisory only."
+    },
+    "ratelimit": {
+      "ok": true,
+      "remaining_usd": 0.6927,
+      "limit_usd": 1.0,
+      "remaining": 6927,
+      "limit": 10000,
+      "reset_seconds": 47312,
+      "retry_after": null,
+      "should_switch": false,
+      "mode": "probe",
+      "error": null,
+      "switched_source": false
+    },
+    "source_used": "openalex",
+    "warnings": []
+  }
+}
