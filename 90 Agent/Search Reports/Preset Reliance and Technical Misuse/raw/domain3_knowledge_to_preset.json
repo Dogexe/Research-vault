@@ -1,0 +1,255 @@
+{
+  "ok": true,
+  "schema_version": "1.0",
+  "data": [
+    {
+      "doi": null,
+      "arxiv_id": null,
+      "openalex_id": "W7113480010",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Automated Analysis of Textual Comments in Patient Reported Outcome Measures",
+      "abstract": "Patient-reported outcome measures (PROMs) are questionnaires that capture the patients' perspective on their health-related quality of life. PROMs contain open-ended questions, where they can provide free text comments on information they deem important regarding their outcomes and unmet needs. The PROMs comments are underexplored, largely due to the time and resource demands to analyse them and the current approaches’ inability to scale to large datasets and to compare outcomes across datasets. Addressing these gaps, this thesis aims to automate the analysis of PROMs comments to gain insights into the additional information provided in patients’ free text comments. The thesis developed a novel patient-centric approach, including quantitative analysis of natural language processing (NLP) models and qualitative feedback from domain experts and patients. Two frameworks have been proposed to gain insights into patient comments from cancer PROMs datasets (prostate and colorectal cancer). The first original framework is developed to classify free text comments in PROMs with prevalent themes in PROMs identified using a scoping review (Cancer Pathways & Services, Comorbidities, Daily Life, Physical Function, Psychological & Emotional Function, and Social Function). Weakly supervised text classification methods were adopted to label the PROMs comments. The interpretability of the models and the overall utility of the approach have been assessed with PROMs researchers and patients. The second framework provides a novel application of large language models to summarise groups of PROMs comments. A systematic approach is proposed to generate prompts for summarising groups of PROMs comments and to automatically assess the quality of the resultant summaries. The human evaluation highlights summary features needed to facilitate meaningful analysis. The approach of this thesis effectively assessed the success of NLP methods to analyse PROMs comments beyond technical robustness, revealing their overall impact and the broader implications for adoption.",
+      "authors": [
+        {
+          "name": "Linton, Anna-Grace Sarah",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2025,
+      "venue": "White Rose eTheses Online (University of Leeds, The University of Sheffield, University of York)",
+      "issn": null,
+      "type": "dissertation",
+      "citation_count": 0,
+      "referenced_works_count": null,
+      "fwci": null,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T12488",
+          "name": "Mental Health via Writing",
+          "score": 0.6322000026702881
+        },
+        {
+          "id": "T10178",
+          "name": "Cancer survivorship and care",
+          "score": 0.07859999686479568
+        },
+        {
+          "id": "T13702",
+          "name": "Machine Learning in Healthcare",
+          "score": 0.04820000007748604
+        }
+      ],
+      "keywords": [
+        "Interpretability",
+        "Patient-reported outcome",
+        "Perspective (graphical)",
+        "Resource (disambiguation)",
+        "Quality of life (healthcare)",
+        "Quality (philosophy)",
+        "Item response theory"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": null,
+      "openalex_url": "https://openalex.org/W7113480010",
+      "pdf_url": "https://etheses.whiterose.ac.uk/id/eprint/37434/1/Linton_A_Thesis_Automated_Analysis_PROMs.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://etheses.whiterose.ac.uk/id/eprint/37434/1/Linton_A_Thesis_Automated_Analysis_PROMs.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.096,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": null,
+      "arxiv_id": null,
+      "openalex_id": "W7133026983",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Performing Technology: Mapping Interface Metaphors and Interactive Dramaturgies",
+      "abstract": "Digital technologies are not dramaturgically neutral. Rather, when we make the choice to use a piece of technology in performance practice, the technology has already made a series of choices for us. These choices manifest in the interface metaphors that define how we interact with digital technology and are deeply embedded in the developmental ancestry of each device.Given the profound impact of computational systems on performance, it is critically important to question when those choices are made, by whom, and to what extent, if any, computer systems make or define users’ dramaturgical choices. This process is rooted in digital dramaturgy, an interdisciplinary approach that combines intermedial-performance study, media theory, history of technology, and hands-on experimentation to establish a hybrid critical framework with a practice-based methodology which directly engages with computer hardware, software, and wetware. Through a series of case studies presented over five chapters, this dissertation examines several prominent contemporary technologies used in performance, including digital projection systems, media servers purpose-built for performance use such as TroikaTronix’s Isadora, Figure 53’s Qlab, and livestreaming studio Open Broadcaster, as well as playful appropriations of the Xbox 360 Kinect motion tracking camera and videoconferencing platform Zoom. These digital technologies use non-linguistic metaphors, including images, sounds, gestures, sensors, and other techniques which relate the logic and structure of prior (often analog) systems within the current (digital) technology. As such, this research draws on George Lakoff and Mark Johnson’s notion of conceptual metaphors, which recognizes that metaphors are not merely linguistic devices, but systemic cultural expressions which humans use to communicate ideas and concepts on a structural level. In each case study, this research aims to identify what metaphors are present, how they are constructed, and most importantly, assess how they drive what is created using that technology. This thesis finds that modern digital technologies embedded technical or creative dramaturgy. When used within a performance, these technologies complicate power dynamics, foster specific ways of doing and thinking, and even enforce rigid modes of production. By mapping and revealing how these technological systems operate, this research hopes to encourage exploring and building new alternatives.",
+      "authors": [
+        {
+          "name": "Montgomery C Martin",
+          "orcid": null,
+          "affiliation": "University of Toronto",
+          "country": "CA",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2022,
+      "venue": "TSpace (University of Toronto)",
+      "issn": null,
+      "type": "dissertation",
+      "citation_count": 0,
+      "referenced_works_count": null,
+      "fwci": null,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11391",
+          "name": "Theatre and Performance Studies",
+          "score": 0.3612000048160553
+        },
+        {
+          "id": "T13216",
+          "name": "Artistic and Creative Research",
+          "score": 0.04699999839067459
+        },
+        {
+          "id": "T13308",
+          "name": "Cybernetics and Technology in Society",
+          "score": 0.033399999141693115
+        }
+      ],
+      "keywords": [
+        "Interface (matter)",
+        "Process (computing)",
+        "Digital media",
+        "Digital art",
+        "User interface",
+        "New media",
+        "Motion (physics)",
+        "Computer technology",
+        "Emerging technologies"
+      ],
+      "sdgs": [
+        {
+          "score": 0.45196661353111267,
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality Education"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": null,
+      "openalex_url": "https://openalex.org/W7133026983",
+      "pdf_url": "https://utoronto.scholaris.ca/bitstreams/49301ed7-afa7-4aad-a849-35e62c0f1f97/download",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://utoronto.scholaris.ca/bitstreams/49301ed7-afa7-4aad-a849-35e62c0f1f97/download"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.084,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 0.84
+        }
+      },
+      "journal_rank": null
+    }
+  ],
+  "meta": {
+    "query": {
+      "topic": "laser parameter selection novice training preset reliance default settings dependence",
+      "search_query": "laser parameter selection novice training preset reliance default settings dependence",
+      "year_min": null,
+      "year_max": null,
+      "per_strategy": 40,
+      "terms": [
+        "laser",
+        "parameter",
+        "selection",
+        "novice",
+        "training",
+        "preset",
+        "reliance",
+        "default",
+        "settings",
+        "dependence"
+      ]
+    },
+    "counts": {
+      "retrieved_raw": 6,
+      "after_dedup": 2,
+      "after_relevance_filter": 2,
+      "after_journal_filter": 2,
+      "after_rank_filter": 2,
+      "returned": 2
+    },
+    "rank": {
+      "platform": "jcr",
+      "platform_source": "default",
+      "keep_tiers": null,
+      "keep_quartiles": null,
+      "top_only": false,
+      "category": null,
+      "applied_filter": false,
+      "ambiguous": false,
+      "candidate_platforms": [],
+      "kept": null,
+      "filtered": null,
+      "no_platform_data": null,
+      "data_loaded": false,
+      "loaded_platforms": [],
+      "switchable_platforms": [],
+      "switch_is_refilter_not_research": true,
+      "stripped_phrases": [],
+      "deepen": {
+        "active": false,
+        "rounds": 0,
+        "saturated": false,
+        "final_per_strategy": 40
+      },
+      "attribution": null,
+      "note": null,
+      "keep_tiers_note": null,
+      "naming": 

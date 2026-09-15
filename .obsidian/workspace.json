@@ -11,12 +11,14 @@
             "id": "524ffd511da98cfd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Present/Drawing 2026-09-14 18.24.10.excalidraw.md"
+                "file": "99 Templates/Concept Note.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-14 18.24.10.excalidraw"
+              "icon": "lucide-file",
+              "title": "Concept Note"
             }
           }
         ]
@@ -201,14 +203,23 @@
               "icon": "bot",
               "title": "Claudian"
             }
+          },
+          {
+            "id": "909d98e0a5dfde8b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,11 +240,12 @@
   },
   "active": "524ffd511da98cfd",
   "lastOpenFiles": [
+    "Present/Drawing 2026-09-14 18.24.10.excalidraw.md",
+    "90 Agent/Search Reports/Novelty Verification - Measured Power and Incision Speed/Novelty Verification Report.md",
     "06 Synthesis/Literature Review - Diode Laser Biopsy.md",
     "06 Synthesis/Literature Review - Diode Laser Biopsy.md.tmp.20740.07335a7bf04b",
     "06 Synthesis/Literature Review - Diode Laser Biopsy.md.tmp.20740.a7f3d36c4d35",
     "06 Synthesis/Study Dashboard.md",
-    "Present/Drawing 2026-09-14 18.24.10.excalidraw.md",
     "01 Projects/Diode Laser Master.md",
     "07 Data/Monteiro et al 2019 - Multi-Instrument Oral Fibro-Epithelial Margin Histology Data.md",
     "06 Synthesis/Literature Review - Diode Laser Biopsy.md.tmp.14912.e492bbb0ec89",
