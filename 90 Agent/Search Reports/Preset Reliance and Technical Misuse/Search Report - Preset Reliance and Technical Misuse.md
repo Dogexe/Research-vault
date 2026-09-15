@@ -4,7 +4,7 @@
 **Conducted for:** reframing [[01 Projects/Diode Laser Biopsy]] around preset reliability; synthesis at [[06 Synthesis/Preset Reliance and Technical Misuse in Dental Laser Use]].
 **Primary tool:** `paper-search-pro` skill, agent/headless mode (`scripts.agent_search`, OpenAlex primary source, `heuristic_v1` floor relevance scoring). Supplemented with direct PubMed queries (`mcp__plugin_pubmed_PubMed__search_articles`) and general web search/fetch for manufacturer manuals.
 
-This report exists so the searches behind the synthesis note are auditable and repeatable — not to re-argue its conclusions. Raw per-query JSON output is retained under `raw/` in this folder; a human-readable consolidated candidate listing (all 21 queries, sorted by floor relevance score, titles + abstract snippets) is in `consolidated_candidates.md` in this same folder.
+This report exists so the searches behind the synthesis note are auditable and repeatable — not to re-argue its conclusions. Raw per-query JSON output is archived under `90 Agent/_Archive/Search Reports/Preset Reliance and Technical Misuse/raw/` (moved out of this folder during Cleanup Batch 3 vault housekeeping; content unchanged) — a human-readable consolidated candidate listing (all 21 queries, sorted by floor relevance score, titles + abstract snippets) remains active in `consolidated_candidates.md` in this same folder.
 
 ## Coverage note (read first)
 
@@ -12,7 +12,7 @@ This was a **standard-depth, keyword-driven search**, not an exhaustive systemat
 
 ## 1. OpenAlex queries (via `paper-search-pro` agent-search)
 
-All queries below used `--per-strategy 40 --limit 30` (multi-strategy: cited / recent / relevance, then deduplicated). `raw` = papers retrieved before dedup (typically capped near 120 across three strategies); `dedup` = unique papers after federated dedup; `returned` = top 30 by floor relevance score, saved to the corresponding file under `raw/` in this folder.
+All queries below used `--per-strategy 40 --limit 30` (multi-strategy: cited / recent / relevance, then deduplicated). `raw` = papers retrieved before dedup (typically capped near 120 across three strategies); `dedup` = unique papers after federated dedup; `returned` = top 30 by floor relevance score, saved to the corresponding file, now under `90 Agent/_Archive/Search Reports/Preset Reliance and Technical Misuse/raw/` (see archive note above).
 
 An initial batch of four longer, fully-conjunctive queries (e.g. `"dental laser preset default factory settings parameter selection clinician"`) was attempted first and abandoned after returning 1–3 results each — OpenAlex's full-text search performs poorly on long AND-conjunctions of many specific terms. All subsequent queries were shortened to 3–5 word phrases, which consistently returned ~120 raw results per query. This methodological correction is preserved here rather than deleted, since it affects how future searches in this vault should be phrased.
 

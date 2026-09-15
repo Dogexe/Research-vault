@@ -58,7 +58,7 @@ Source → extracted data → claim → evidence → synthesis
 
 ## Templates
 
-- [[99 Templates/Literature Note|Literature note]]
+- [[90 Agent/_Archive/99 Templates/Literature Note|Literature note (legacy, archived — superseded by the ZotLit-managed note structure; do not use for new notes)]]
 - [[99 Templates/Device Note|Device note]]
 - [[99 Templates/Evidence Note|Evidence note]]
 - [[99 Templates/Concept Note|Concept note]]
