@@ -35,7 +35,7 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 
 ## Source
 
-- Literature note: [[02 Literature/https_/doi.org/10.1590/1678-7757-2023-0419|Al-Ani et al. 2024]]
+- Literature note: [[02 Literature/10.1590/1678-7757-2023-0419|Al-Ani et al. 2024]]
 - Source link: https://doi.org/10.1590/1678-7757-2023-0419
 - Source locator: Full text (PDF) — Abstract; Methodology (Laser systems; Laser surgical procedure; Histological evaluation); Results; Table 1–3; Discussion; Conclusion
 
@@ -94,6 +94,6 @@ The companion-study relationship should still be recorded as a separate fact: th
 
 ## Related notes
 
-- Literature: [[02 Literature/https_/doi.org/10.1590/1678-7757-2023-0419]]
+- Literature: [[02 Literature/10.1590/1678-7757-2023-0419]]
 - Companion paper: [[07 Data/Al-Ani et al 2023 - Dual-Wavelength Diode Operating Parameters]] (same device/power settings; temperature outcome, not histology)
 - Synthesis: [[06 Synthesis/Novelty Matrix - Diode Laser Biopsy]], [[90 Agent/Search Reports/Novelty Verification - Measured Power and Incision Speed/Novelty Verification Report]]

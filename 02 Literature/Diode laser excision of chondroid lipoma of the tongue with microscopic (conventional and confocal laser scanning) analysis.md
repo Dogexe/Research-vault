@@ -12,3 +12,9 @@ zotero-key: C3ZMGHF9
 %%zt-managed%%
 
 %%/zt-managed%%
+
+## Vault processing
+
+- Operating-parameter extraction: [[07 Data/Capodiferro et al 2009 - Diode Laser Chondroid Lipoma Case Report Data]]
+- Note: full text retrieved from the attached PDF. Capodiferro S, Loiudice AM, Pilolli G, Lajolo C, Giuliani M, Maiorano E, Favia G. "Diode Laser Excision of Chondroid Lipoma of the Tongue with Microscopic (Conventional and Confocal Laser Scanning) Analysis." *Photomed Laser Surg.* 2009;27(4):683-687. DOI: [10.1089/pho.2008.2359](https://doi.org/10.1089/pho.2008.2359)
+- Relevant to [[01 Projects/Diode Laser Biopsy]] as a real human diode-laser excisional-biopsy case report (n=1, SUPPORTING tier). Separate from, and not a substitute for, [[07 Data/Capodiferro et al 2008 - Oral Laser Surgical Pathology Abstract-Level Data]] by the same author group.

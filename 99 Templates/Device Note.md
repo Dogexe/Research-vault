@@ -1,38 +1,56 @@
-# Device Note
+# {{title}}
 
-## Identification
+## Manufacturer
 
-- Device: UNKNOWN
-- Manufacturer: UNKNOWN
-- Wavelength: UNKNOWN
-
-## Manufacturer specifications
-
-- Specifications: UNKNOWN
-- Source link: UNKNOWN
+- UNKNOWN
 
 Manufacturer claims are not independently verified evidence.
 
-## Preset values
+## Wavelength
 
-- Preset: UNKNOWN
-- Reported settings: UNKNOWN
-- Source: UNKNOWN
+- UNKNOWN
 
-## Operating parameters
+## Reported preset / set power
 
-- Extraction note: UNKNOWN
+- UNKNOWN
 
-## Independent measured output
+## Operating modes
+
+- Mode (CW/PW), pulse duration, frequency, duty cycle: UNKNOWN
+
+## Fiber / tip
+
+- Fiber diameter: UNKNOWN
+- Tip type: UNKNOWN
+- Tip initiation status: UNKNOWN
+- Contact/non-contact mode: UNKNOWN
+
+## Measured output
 
 - FACT: UNKNOWN
 - Source: UNKNOWN
 
-## Reported power losses
+## Power loss / deviation
 
 - FACT: UNKNOWN
 - Source: UNKNOWN
 
-## Uncertainty
+## Calibration / measurement method
 
-- NEEDS VERIFICATION
+- UNKNOWN
+
+## Biopsy / tissue outcomes
+
+- FACT: UNKNOWN
+
+## Studies using this device
+
+- UNKNOWN
+
+## Known limitations
+
+- UNKNOWN
+
+## สรุปภาษาไทย
+
+- UNKNOWN

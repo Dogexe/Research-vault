@@ -5,6 +5,11 @@
 - FACT: UNKNOWN
 - Source: UNKNOWN
 
+## Relationships
+
+- FACT: UNKNOWN
+- Related concepts: UNKNOWN
+
 ## Interpretation
 
 - INTERPRETATION: UNKNOWN
