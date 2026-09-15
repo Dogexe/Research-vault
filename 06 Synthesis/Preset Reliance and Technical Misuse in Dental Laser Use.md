@@ -71,9 +71,9 @@ Three manufacturer manuals were retrieved and read in full text (converted from 
 
 \* The retrieved A.R.C. Laser FOX manual (`User_Manual_FOX_rev0`, August 2021) is the general medical-device manual for the FOX platform (810/980/1064 nm); this search could not confirm whether it is identical to a dental-specific IFU for the FOX units catalogued in this vault's [[05 Devices/A.R.C. Laser FOX (810 nm)|FOX (810 nm)]] / [[05 Devices/A.R.C. Laser FOX (980 nm)|(980 nm)]] / [[05 Devices/A.R.C. Laser FOX (1064 nm)|(1064 nm)]] notes — flagged `UNCLEAR` rather than assumed identical.
 
-† The retrieved manual is for "Epic X," not confirmed identical to the "Epic 10 TM" model already catalogued in [[05 Devices/Epic 10 TM]] (measured in Kim et al. 2020). Both are Biolase 940 nm platforms from the same product family; this vault does not treat them as the same model without confirmation, consistent with the existing caveat in [[05 Devices/Epic 10 TM]] about a separate, unconfirmed Biolase device in Fahlstedt et al. 2021.
+† The retrieved manual is for "Epic X," not confirmed identical to the "Epic 10 TM" model already catalogued in [[05 Devices/Epic 10 TM]] (measured in Kim et al. 2020). Both are Biolase 940 nm platforms from the same product family; this vault does not treat them as the same model without confirmation, consistent with the existing caveat in [[05 Devices/Epic 10 TM]] about a separate, unconfirmed Biolase device in Fahlstedt et al. 2021. **Update (2026-09-15):** this caveat is now resolved — see §17, which retrieves and compares the Epic™10's own manufacturer manual directly, rather than relying on the Epic X manual as a proxy.
 
-NOT SEARCHED in this pass (`UNCLEAR` by omission, not by finding): Dentek LD 15, Gemini Evo, K2 Mobile, LITEMEDICS, Quicklase 12W Dual 4, Raffaello, SIROLaser Blue (fetch attempts returned HTTP 403 from both ManualsLib and Manualzz — access blocked, not searched further), SOL, Saeshin Diode Laser, Wiser 3, Zolar Plus, and A.R.C. Laser WOLF (1470 nm). Absence of a manual review for these devices is a scope limitation of this pass, not evidence about their preset provenance.
+NOT SEARCHED in this pass (`UNCLEAR` by omission, not by finding): Dentek LD 15, Gemini Evo, K2 Mobile, LITEMEDICS, Quicklase 12W Dual 4, Raffaello, SIROLaser Blue (fetch attempts returned HTTP 403 from both ManualsLib and Manualzz — access blocked, not searched further; **resolved 2026-09-15, see §18**), SOL, Saeshin Diode Laser, Wiser 3, Zolar Plus, and A.R.C. Laser WOLF (1470 nm). Absence of a manual review for these devices is a scope limitation of this pass, not evidence about their preset provenance.
 
 ## 7. Preset validation/transparency
 
@@ -181,6 +181,142 @@ Procedure-based presets may simplify parameter selection, but their evidentiary 
 - **ไม่พบหลักฐานการใช้งานผิดพลาดทางเทคนิค (misuse) ที่มีการบันทึกไว้อย่างเป็นรูปธรรม** สำหรับเลเซอร์ไดโอดทางทันตกรรม จึงไม่ใช้คำว่า "misuse" ในโน้ตนี้
 - ข้อสรุปเหล่านี้สนับสนุนเหตุผลของโครงการ ex vivo โดยไม่จำเป็นต้องตั้งสมมติฐานว่ามีการใช้งานผิดพลาดของแพทย์เป็นเงื่อนไขเบื้องต้น
 
+## 17. Follow-up (2026-09-15): Epic X-family documentation vs. Epic 10 TM
+
+This section completes the task left open by the §6/§7 footnote (†): §6–§7 above characterized Biolase's preset architecture using the **Epic X** manual only, because at the time no Epic 10-specific manual had been retrieved. This follow-up retrieves the manufacturer's own **Epic™10** manual directly (not the Epic X manual) and compares it against Epic X's, so the vault's Epic 10 TM claims rest on Epic 10's own primary documentation rather than an unconfirmed same-family assumption.
+
+**Sources retrieved (official manufacturer, full text, not yet Zotero-ingested — cited directly per the vault's ingestion policy):**
+- "EPIC 10 User Manual," P/N 5400321 Rev. H — `biolase.com/media/EPIC_User_Manual.pdf` — the model catalogued in this vault as [[05 Devices/Epic 10 TM]] (the manual's own running header renders the model name as "Epic™10").
+- "Epic X User Manual," Rev. A — `biolase.com/media/5400228-RevA_EpicX_UserManual-.pdf` — same file already used in §6–§7, re-examined here for direct table-by-table comparison.
+- Context only (marketing pages, not clinical/technical documentation): `biolase.com/products/dental-lasers-soft-tissue/epic-10/` and `.../epic-x/` — used only to establish market positioning (§17.3), not cited for any parameter value.
+
+### 17.1 Exact model names
+
+FACT: The Epic 10 manual's own header text reads "EpicTM10" (i.e., Epic™10) throughout, and its cover/table-of-contents reads "EPIC 10 User Manual." This vault's existing device note title, [[05 Devices/Epic 10 TM]], is the same model — the "TM" in the note title is a plain-text rendering of the ™ symbol, not a separate model variant. This was previously unconfirmed and is now settled directly from the manufacturer document itself, not inferred.
+
+FACT: Epic X's own manual header reads "Epic X User Manual." Epic 10 and Epic X are two separately named, separately manualed products in Biolase's current soft-tissue diode lineup — they are not the same model, and the manufacturer's own product pages describe them as different generations (§17.3), so they are correctly kept as distinct entries in this vault.
+
+### 17.2 Side-by-side comparison (both values read directly from each device's own manual)
+
+| Field | Epic 10 (own manual) | Epic X (own manual) | Same? |
+|---|---|---|---|
+| Wavelength | 940 ± 10 nm | 940 ± 10 nm | YES |
+| Max power output | 10 W | 10 W | YES |
+| Power accuracy (manufacturer-stated tolerance) | ± 20% | ± 20% | YES |
+| Power modes | Continuous, Pulse Modulation | Continuous, Pulse Modulation | YES |
+| Fiber tip diameters | 200 μm, 300 μm, 400 μm | 200 μm, 300 μm, 400 μm | YES |
+| Pulse duration range | 0.01 ms – 20 ms | (not independently re-extracted in this pass; not a discrepancy found) | UNCLEAR (not re-checked) |
+| Number of named + custom presets | 14 named + 6 custom = 20 slots | 14 named + 6 custom = 20 slots | YES |
+| Preset table values (peak power, avg. power, mode, pulse interval, pulse length, duty cycle) | See §17.4 | See §17.4 | YES, for every one of the 14 named presets, checked line by line |
+| Preset provenance wording | "The Procedure Pre-Sets installed at the factory are based on clinical recommendations and feedback from experienced laser dentists." | Same sentence, verbatim. | YES, verbatim match |
+| Minimum-power guidance | "Always use clinical judgment... Always start treatment at the lowest power setting for that specific indication and increase as required." | "Always start treatment at the lowest power setting for the specific indication and increase as required. BIOLASE assumes no responsibility for parameters, techniques, methods or results." | YES, near-verbatim (Epic X manual adds the liability-disclaimer sentence; Epic 10 does not) |
+| Tissue-response adjustment | "At all times observe the clinical effects on the treatment area and adjust parameters accordingly." | Same clause, same wording. | YES, verbatim match |
+| Recalibration interval / stated purpose | "Calibration procedure is recommended to be performed every twenty-four (24) months in order to maintain the required accuracy of output power versus displayed power." | Same clause, same wording (minor phrasing: "The calibration can be performed at a certified depot repair facility" vs. Epic 10's "Bi-annual calibrations can be performed..."). | YES, same purpose and interval |
+| Incision speed or dwell time specified | NO — not present anywhere in the preset table or surrounding text | NO | YES (both silent) |
+| Settings editable by clinician | YES — "To store your personal preferred settings for any procedure: ... Enter the new values ... Touch and hold the Procedure name for more than 2 seconds ... settings are saved." | Same store/edit mechanism described. | YES |
+| Tip initiation requirement | Explicit protocol (touch tip to initiation block, fire footswitch, pull out while firing); "Not required if using pre-initiated tips" | Same protocol described; pre-initiated tips also supported | YES |
+| Validation study cited for preset values | NO — none | NO — none | YES (both silent) |
+
+FACT: All 14 named presets (Gingivectomy/Gingivoplasty, Troughing, Curettage, Excision, Frenectomy/Frenotomy, Implant Recovery, Perio Pockets, Pulpotomy, Crown Lengthening, Infected Pockets, Endo, Hemostasis, Aphthous Ulcers, Exposure of Unerupted Teeth) carry numerically identical peak power, average power, mode (CP0/CP1/CP2/CW), pulse interval, pulse length, and duty cycle values in the Epic 10 manual's Table 7.4 and the Epic X manual's Table 8.3. (One row — Frenectomy/Implant Recovery — rendered ambiguously across two lines in the Epic X PDF's `pdftotext` extraction due to a layout artifact, not a value discrepancy; cross-checking against the Epic 10 table, which extracted cleanly, resolves it as the same two values in the same order.)
+
+### 17.3 What differs between Epic 10 and Epic X (context, not preset data)
+
+FACT (from manufacturer marketing pages, not the manuals themselves): Epic 10 is described as Biolase's "Undisputed Classic Diode System," originally launched in 2012; Epic X is positioned as the newer, "most up-to-date and enhanced everyday diode laser," sold in the US/Canada, while Epic 10 is sold in markets where Epic X has not yet received regulatory clearance. Epic X's marketed advantages over Epic 10 are software/UI and workflow features — new cordless foot-pedal software, laser-assisted whitening, and pain-therapy modes bundled as core positioning — not different soft-tissue-surgery power/mode values. Epic 10's own manual (§7.5, §7.6) shows Epic 10 also supports whitening and pain-therapy procedures, so this marketing distinction is softer than the product pages imply; it was not independently verified further, as it is not a preset-value question.
+
+INTERPRETATION: The generational/market difference between Epic 10 and Epic X is real (different manuals, different model names, different launch dates) but does not extend to the soft-tissue surgical preset table, which is identical between the two, as read directly from each device's own manufacturer manual.
+
+### 17.4 Classification
+
+**SAME DEVICE FAMILY / CLEARLY TRANSFERABLE** — with an important qualification: this classification is not based on inferring that Epic X settings apply to Epic 10 TM. It is based on Epic 10 TM having its **own** manufacturer-published preset table (§17.2), which independently states the same wavelength, power-accuracy tolerance, fiber-tip range, and all 14 named preset values as Epic X's manual. The Epic X-family documentation reviewed in §6–§7 is confirmed, not merely assumed, to describe the same preset architecture and values as Epic 10 TM's own documentation. No transfer across models was necessary or performed — both models' own manuals were read and compared directly.
+
+## 18. Follow-up (2026-09-15): SIROLaser Blue IFU/manual
+
+The §6 table's "NOT SEARCHED" list previously included SIROLaser Blue, blocked by HTTP 403 on both mirror hosts it was searched for at the time (ManualsLib, Manualzz). This follow-up retrieves the manufacturer's own current IFU directly from `dentsplysirona.com`.
+
+**Source retrieved (official manufacturer, full text, not yet Zotero-ingested — cited directly per the vault's ingestion policy):**
+- "Instructions for use SiroLaser Blue," document ref. 66 56 842 D3648, revision code `D3648.201.03.09.23`, dated 2025-03, "valid for USA," English.
+- **Access note:** the URL surfaced by web search (`.../ifu/INS-IFU-SiroLaser-Blue-USA-EN-6656842-2025-03-19.pdf`) returned HTTP 404. The same document, same 2025-03 revision, was successfully retrieved from a sibling path with `/archived/` inserted before the filename (`.../ifu/archived/INS-IFU-SiroLaser-Blue-USA-EN-6656842-2025-03-19.pdf`), which returned HTTP 200. This is logged as a retrieval-path quirk on Dentsply Sirona's CDN, not evidence that the 2025-03 revision is superseded — the document's own title page and running header both self-identify as the current, non-archived 2025-03 US IFU. Full access log: [[90 Agent/Search Reports/Preset Reliance and Technical Misuse/Search Log - Epic 10 and SIROLaser Blue Manual Verification 2026-09-15]].
+
+### 18.1 Device scope: three wavelengths, not two
+
+FACT, new to this vault: the SIROLaser Blue IFU documents **three** laser wavelengths, not the two (445 nm, 970 nm) recorded in [[05 Devices/SIROLaser Blue]] from the vault's existing primary sources (Xue et al. 2022, Romanos et al. 2022). The IFU's technical-data section lists:
+- 445 nm (−10/+15 nm), ≈0.2–3.0 W, CW, Class 4 — surgical/whitening wavelength.
+- 970 nm (−10/+15 nm), ≈0.2–2.0 W, CW, Class 4 — surgical/whitening wavelength.
+- 660 nm (±5 nm), ≈25/50/100 mW, Class 2 — used only for Low-Level-Laser Therapy (LLLT); explicitly stated to have **no preset programs**: "The device has one general preset program for 445nm and no preset programs for 660 nm."
+
+This is a device-note-level finding (the existing [[05 Devices/SIROLaser Blue]] note is not edited in this pass per task scope, but this gap is flagged here for a future update): neither Xue et al. 2022 nor Romanos et al. 2022 tested or reported the 660 nm wavelength, so the vault's existing device note is not wrong, only incomplete relative to the full manufacturer spec — this is a scope gap in prior study coverage, not a data-quality problem in the existing note.
+
+### 18.2 Preset table (§6.2 "List of preset indications" of the IFU)
+
+FACT — extracted directly:
+
+| Category | Preset name | Wavelength | Power | Mode | Time | Fiber | Notes |
+|---|---|---|---|---|---|---|---|
+| Endodontics | Pulpotomy | 970 nm | 1.5–2.0 W | CW | 20 s | 200 μm | "After conventional pulp removal, residual pulp tissue can be removed with the laser." |
+| Endodontics | Pulpotomy as adjunct to root canal therapy | 970 nm | 2.0 W | CW | 20 s | 200 μm | Hemostasis and residual pulp-tissue removal |
+| Miscellaneous | Aphthous Ulcers | 970 nm | (table value not clearly resolved in extraction — see UNCLEAR below) | CW | 20 s | 320 μm | "Apply laser 1–3 mm away from lesion... semicontact, wave the laser fiber over the entire lesion." |
+| Periodontology | Sulcular Debridement | 970 nm | (not clearly resolved) | PF (pulsed) | continuous | 320 μm | "Move the fiber tip around the tooth gently up and down with a sinuous movement... Keep the laser tip always in motion!" |
+| Periodontology | Gingival incisions of granulation tissue | 970 nm | (not clearly resolved) | PF (pulsed) | continuous | 320 μm | "Reduce power, if pain sensations appear." |
+| Surgery | Soft-Tissue Surgery | 445 nm | 2.0 W shown as the worked example; manual states power is user-adjustable 0.2–3.0 W in 0.1 W steps | CW | continuous | 320 μm | Only **one general preset** exists for all surgical indications: "use the laser tip like a scalpel to incise and excise the respective tissues... Caution: Avoid bone contact during treatment!" |
+| Additional | Treatment of canker sores | 970 nm | 2.0 W | CW | continuous | 320 μm | Same semicontact technique as Aphthous Ulcers |
+
+UNCLEAR: the duty-cycle and frequency figures for the periodontology (pulsed) and Aphthous Ulcers rows did not extract cleanly from the source PDF's table layout (columns visually merged in `pdftotext` output); the power values for Aphthous Ulcers and the two periodontology rows are similarly ambiguous in the extracted layout. These are flagged `UNCLEAR` rather than guessed — re-extraction from the original PDF's table (not the flattened text) would be needed to resolve them with confidence, and is not done in this pass.
+
+FACT: For surgical (incision/excision) procedures specifically, the IFU offers **exactly one** named preset ("Soft-Tissue Surgery"), not a per-procedure table like Biolase's 14-entry surgical preset table (§17). The clinician is expected to adjust power manually within the 0.2–3.0 W range for the specific surgical indication, rather than selecting among multiple named surgical presets.
+
+### 18.3 Manufacturer wording for presets
+
+FACT: "A number of output settings are preset in the unit. Manual setting changes can be made and custom presets may also be introduced." (§1.1, "Dear Customer" introduction). The IFU uses the word "preset" throughout (e.g., "preset treatment parameters," "preset applications," "preset power levels") but does not use "recommended," "suggested," or "starting point" as a distinct qualifier for preset values, and — unlike the Biolase manuals (§6, §17) — does **not** offer any general statement of preset provenance (no "based on clinical recommendations and feedback from..." equivalent was found anywhere in this IFU).
+
+### 18.4 Settings editability
+
+FACT: Settings are editable, and editability is permission-gated by a key-user/PIN system: "The key user decides if this user will be allowed to change preset applications," and a per-user power limit can restrict which presets a given user can even select ("when you choose a power limit of 2 W the user cannot choose a preset application with more than 2 W. If the power limit [is] 0.5 W (default), so the user has no access to preset applications.").
+
+### 18.5 Tissue-response adjustment and minimum effective power
+
+FACT: Tissue-response adjustment is explicitly recommended: "Parameters should be adjusted as needed according to the clinical conditions (e.g., level of bleeding, tissue type, etc.)" (Soft-Tissue Surgery); "Reduce power, if pain sensations appear" (periodontology presets).
+
+FACT, and a genuine contrast with the three manuals reviewed in §6: SIROLaser Blue's IFU does **not** instruct the clinician to start at the lowest/minimum power and increase as needed. Instead its explicit warning cuts both directions: "The preset power levels are considered to be safe for patients. Increasing the power levels entails the risk of overheating the patient's soft or hard tissue. **Setting the power to excessively low levels may result in reduced treatment efficacy.**" This is the opposite emphasis from Biolase's and AMD's "always start at the lowest power setting" instruction (§6, §17.2) — SIROLaser Blue's IFU frames the factory preset itself as the safe reference point, and warns against moving power in either direction from it, rather than instructing the clinician toward a minimum.
+
+### 18.6 Incision speed / dwell time
+
+FACT: No numeric incision speed (e.g., mm/s) or numeric dwell/contact time is specified anywhere in the IFU for any surgical or periodontal preset. Qualitative movement technique is described instead ("keep the laser tip always in motion," "sinuous movement," "use the laser tip like a scalpel"), consistent with the §9 finding (Picasso/FOX/Epic) that manufacturer guidance addresses power and mode but not speed or dwell time as a quantified parameter.
+
+### 18.7 Actual delivered power / calibration
+
+FACT: This IFU gives the most detailed calibration guidance found among any manual reviewed in this vault to date. It describes:
+- A **self-calibration** the device performs automatically ("The SiroLaser Blue performs a self-calibration. During this procedure, the system checks that the laser emission parameters are correct.").
+- A **weekly manual calibration check** the manufacturer recommends the clinician perform ("We recommend performing this check at least once a week."), with specific numeric check points: 1 W at 445 nm, 1 W at 970 nm, 100 mW at 660 nm, each with a stated wavelength tolerance and "resolution: 5% or higher."
+- An explicit recommendation to verify with an **external measuring instrument** at a longer interval: "We recommend that you check these values using a suitable external measuring instrument at least every twelve months."
+- A **± 20% pass/fail tolerance** for the calibration check screen: "the tolerance of ±20%... Press 'Yes' on the screen if the measured value is within the tolerance of ±20%."
+
+INTERPRETATION: The ± 20% tolerance figure matches the Biolase Epic 10/Epic X "Power Accuracy ± 20%" spec (§17.2) and the A.R.C. Laser FOX manual's stated ± 20% external power-meter check tolerance (§6, §8) — three independent manufacturers converge on the same ± 20% figure for how far delivered power is permitted to diverge from the set/displayed value before being flagged as out of tolerance. This is not evidence the actual deviation is bounded at ± 20% in practice (Xue et al. 2022's measured deviations for this same device, +21% to +37%, already exceed the manufacturer's own ± 20% band — see [[05 Devices/SIROLaser Blue]] and §8 above) — it only shows that ± 20% is the tolerance manufacturers themselves treat as their acceptance threshold, and that at least one independently measured dataset already exceeds it for this exact device.
+
+### 18.8 Preset-validation evidence
+
+NOT FOUND: No citation to a published study, dataset, or clinical trial behind any preset value was located anywhere in this IFU. Unlike Biolase (§6, §17: "based on clinical recommendations and feedback from experienced laser dentists"), SIROLaser Blue's IFU does not offer even a general, uncited provenance statement for its preset values — provenance is entirely unstated for this device.
+
+### 18.9 Tip initiation
+
+FACT: This IFU does not describe a tip-initiation procedure or concept anywhere (no equivalent of Biolase's "touch tip to initiation block, fire footswitch" protocol, §17.2). SIROLaser Blue's EasyTips are single-use, factory-sterilized, snap-fit tips with no user-performed initiation step described in the IFU. This is consistent with, but not confirmation of, the "uninitiated and new" tip condition reported in [[07 Data/Xue et al 2022 - Two Semiconductor Lasers Power Output]] and the initiated-tip protocol Romanos et al. 2022 applied as an independent experimental manipulation (dark-blue articulating paper) rather than a manufacturer-specified step — see [[05 Devices/SIROLaser Blue]] for that existing finding, not re-derived here.
+
+## 19. Updated implications from the follow-up (§17–§18)
+
+INTERPRETATION: Both follow-up findings **strengthen**, not weaken, this note's existing preset-reliability rationale (§13–§15), for different reasons:
+
+1. **Epic X → Epic 10 TM (§17):** resolving this from "unconfirmed" to "directly confirmed, same values, both manuals silent on the same points" removes a caveat but does not change the substantive finding — both Biolase manuals independently confirm no incision-speed/dwell-time specification, no cited validation study, and a preset-provenance statement that is general and uncited. The uncertainty that is resolved is about *which document* the vault can rely on for Epic 10 TM, not about *whether presets are validated* — that finding is now on firmer ground (two independent primary manufacturer documents agree) but its content is unchanged.
+2. **SIROLaser Blue (§18):** this is the vault's first look at a full manufacturer IFU for a device that already has independent measured-power evidence in this vault (Xue et al. 2022, [[05 Devices/SIROLaser Blue]]). It adds two findings not previously available for any device in this note: (a) a manufacturer-stated ± 20% calibration tolerance that Xue et al.'s independently measured deviation (+21% to +37%) already exceeds for this exact device — the clearest documented case in this vault of measured deviation exceeding the manufacturer's own stated acceptance band, not merely diverging from a bare console value; and (b) a manual that gives no preset-provenance statement at all (weaker disclosure than any of the three manuals reviewed in §6), while also being the one manual that does *not* instruct the clinician toward minimum effective power — a genuine cross-manufacturer inconsistency in preset philosophy, not just in preset values.
+
+No source retrieved in this follow-up changes the vault's existing NOT FOUND findings in §2, §4, §5, §10, or §12 — those searches were not repeated here, and this follow-up is scoped to manufacturer documentation only, per the task that requested it.
+
+## 20. สรุปภาษาไทย (เพิ่มเติม 2026-09-15)
+
+- **Epic 10 TM กับ Epic X**: พบคู่มือผู้ผลิตฉบับจริงของ Epic™10 โดยตรง (ไม่ใช่การอนุมานจากคู่มือ Epic X) และพบว่าตารางค่าพรีเซ็ตทั้ง 14 หัตถการ ความยาวคลื่น (940±10nm) กำลังสูงสุด (10W) ค่าความแม่นยำ (±20%) และขนาดไฟเบอร์เหมือนกันทุกประการกับ Epic X ข้อสรุป: **สามารถใช้ข้อมูลร่วมกันได้ (transferable)** โดยไม่ต้องอาศัยการอนุมานอีกต่อไป เพราะมีคู่มือของ Epic 10 เองยืนยันโดยตรง
+- **SIROLaser Blue**: เข้าถึงคู่มือ IFU ฉบับทางการ (2025-03) ได้สำเร็จผ่านเส้นทาง URL สำรอง พบว่าเครื่องนี้มี 3 ความยาวคลื่น (445/970/660 nm) ไม่ใช่ 2 ตามที่บันทึกไว้เดิม (660 nm ไม่มีพรีเซ็ต ใช้เฉพาะการบำบัดด้วยเลเซอร์กำลังต่ำ)
+- คู่มือ SIROLaser Blue **ไม่ระบุที่มาของค่าพรีเซ็ตเลย** (ต่างจาก Biolase ที่อย่างน้อยระบุว่าอิงคำแนะนำทางคลินิก) และเป็นคู่มือเดียวที่ไม่แนะนำให้เริ่มจากกำลังต่ำสุด แต่เตือนว่าอย่าลดกำลังต่ำเกินไปเพราะจะลดประสิทธิภาพการรักษา
+- ทั้งสองอุปกรณ์ **ไม่ระบุความเร็วในการตัดหรือเวลาสัมผัสเป็นตัวเลข** เหมือนคู่มืออื่นๆ ที่ตรวจสอบไปก่อนหน้านี้
+- ค่าความคลาดเคลื่อนที่ยอมรับได้ ±20% ปรากฏตรงกันในผู้ผลิตอิสระ 3 ราย (Biolase, A.R.C. Laser, Dentsply Sirona) แต่ข้อมูลวัดจริงจาก Xue et al. 2022 สำหรับ SIROLaser Blue (+21% ถึง +37%) เกินขอบเขตนี้ไปแล้ว — เป็นกรณีแรกในคลังนี้ที่ค่าคลาดเคลื่อนที่วัดได้จริงเกินกว่าเกณฑ์ที่ผู้ผลิตกำหนดเอง
+
 ## Related notes
 
 - Project: [[01 Projects/Diode Laser Biopsy]]
@@ -189,3 +325,4 @@ Procedure-based presets may simplify parameter selection, but their evidentiary 
 - Devices: [[05 Devices/Epic 10 TM]], [[05 Devices/A.R.C. Laser FOX (810 nm)]], [[05 Devices/A.R.C. Laser FOX (980 nm)]], [[05 Devices/A.R.C. Laser FOX (1064 nm)]], [[05 Devices/Device Index]]
 - Concepts: [[03 Concepts/Laser Presetting]], [[03 Concepts/Power Output]], [[03 Concepts/Power Loss]], [[03 Concepts/Operating Parameters]]
 - Search report: [[90 Agent/Search Reports/Preset Reliance and Technical Misuse/Search Report - Preset Reliance and Technical Misuse]]
+- Follow-up search log (§17–§19, 2026-09-15): [[90 Agent/Search Reports/Preset Reliance and Technical Misuse/Search Log - Epic 10 and SIROLaser Blue Manual Verification 2026-09-15]]
