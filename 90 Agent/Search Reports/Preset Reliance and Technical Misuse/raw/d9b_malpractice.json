@@ -1,0 +1,3809 @@
+{
+  "ok": true,
+  "schema_version": "1.0",
+  "data": [
+    {
+      "doi": "10.34172/jlms.2022.29",
+      "arxiv_id": null,
+      "openalex_id": "W4312832084",
+      "ss_paper_id": null,
+      "pmid": "36743136",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "A trend of Medical Negligence in Laser Therapy in the Capital City: A Nine-Year Survey",
+      "abstract": "Introduction: The purpose of the present study is to investigate the common causes of injuries, claims, and decisions related to laser therapy medical malpractice during a nine-year survey. Methods: The legal documents in the Coroner’s Office of Forensic Medicine were investigated in a national database from 2012 to 2020 in Tehran, Iran. The frequency and nature of the cases, including the year of litigation, the location and certificate of the provider, the injury sustained, and the cause of legal action and judgment were collected. Results: Three hundred and eighty-three cases related to injury from laser therapy were registered in the coroner’s Office of Forensic Medicine during the study period. The incidence of litigation related to laser surgery showed an increasing trend, with a peak occurrence in 2020. Laser hair removal was the most common (51.2%) litigated procedure. General practice operators (48%) recorded the highest rate of laser-related medical complaints. Lack of skill was the most common reason for failure. Among 383 cases with public decisions, 62.4% of them were fault liability in paid judgment. Conclusion: Medical claims related to laser application are increasing. However, as it is clear, the growth of laser technology and the increasing demand for lasers in medical science require more surveillance to avoid probable injuries and improve patient safety, especially surveillance of the physicians who work outside the scope of their specialty.",
+      "authors": [
+        {
+          "name": "Somayeh Jahani- Sherafat",
+          "orcid": null,
+          "affiliation": "Shahid Beheshti University of Medical Sciences",
+          "country": "IR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Zahra Razzaghi",
+          "orcid": "https://orcid.org/0000-0003-0039-9501",
+          "affiliation": "Shahid Beheshti University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Seyed Amirhossein Mahdavi",
+          "orcid": null,
+          "affiliation": "Iranian Legal Medicine Organization",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mehdi Forouzesh",
+          "orcid": "https://orcid.org/0000-0001-9773-5473",
+          "affiliation": "Iranian Legal Medicine Organization",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mohammad Ali Emam Hadi",
+          "orcid": null,
+          "affiliation": "Shahid Beheshti University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mohammad Rostami‐Nejad",
+          "orcid": "https://orcid.org/0000-0003-2495-1831",
+          "affiliation": "Shahid Beheshti University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mostafa Rezaei–Tavirani",
+          "orcid": "https://orcid.org/0000-0003-1767-7475",
+          "affiliation": "Shahid Beheshti University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mohammad Reza Razzaghi",
+          "orcid": "https://orcid.org/0000-0002-3022-1547",
+          "affiliation": "Shahid Beheshti University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2022,
+      "venue": "Journal of lasers in medical sciences",
+      "issn": "2008-9783",
+      "type": "article",
+      "citation_count": 3,
+      "referenced_works_count": 32,
+      "fwci": 0.6848,
+      "cited_by_percentile_year": 96,
+      "topics": [
+        {
+          "id": "T12339",
+          "name": "Medical Malpractice and Liability Issues",
+          "score": 0.9991000294685364
+        },
+        {
+          "id": "T13953",
+          "name": "Digital Imaging in Medicine",
+          "score": 0.9950000047683716
+        },
+        {
+          "id": "T10827",
+          "name": "Patient-Provider Communication in Healthcare",
+          "score": 0.9083999991416931
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Malpractice",
+        "Coroner",
+        "Specialty",
+        "Family medicine",
+        "Laser therapy",
+        "Liability",
+        "Medical examiner",
+        "Legal action",
+        "Medical malpractice"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/16",
+          "score": 0.5,
+          "display_name": "Peace, Justice and strong institutions"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.34172/jlms.2022.29",
+      "openalex_url": "https://openalex.org/W4312832084",
+      "pdf_url": "https://journals.sbmu.ac.ir/jlms/article/download/37943/29360",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://journals.sbmu.ac.ir/jlms/article/download/37943/29360",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/9841381"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4239,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.75,
+          "citation_signal": 0.1824,
+          "recency_signal": 0.84
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.6163522012578617,
+          "h_index": 41
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.18203/2394-6040.ijcmph20250649",
+      "arxiv_id": null,
+      "openalex_id": "W4408052002",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Iatrogenic mistakes in dentistry, when to disclose: a literature review",
+      "abstract": "Iatrogenic harm (injury from treatment) is a preventable healthcare issue. In dentistry, it arises from procedural mistakes, inexperience or communication failures, causing complications like faulty restorations or nerve damage. The oral environment and complex treatments increase risk. While not always malpractice, ethical and legal disclosure is crucial. Timely, transparent communication builds trust and reduces liability. Despite guidelines, disclosure barriers remain, necessitating further exploration of effective strategies. This literature review synthesizes studies on iatrogenic dental mistakes and their disclosure. A comprehensive search strategy was employed, utilizing databases such as PubMed, Web of Sciences and Google Scholar to identify relevant studies published from 1990 to 2024. Included studies focus on iatrogenic dental mistakes/adverse events and the ethical, legal and practical aspects of their disclosure, including recommendations and patient/practitioner perspectives. Iatrogenic mistakes in dentistry stem from inadequate anatomical knowledge, improper clinical techniques and systemic issues such as poor communication and insufficient training. Common complications include nerve damage, periodontal injury, root resorption and prosthodontic errors. Strict adherence to protocols, enhanced training and risk management are crucial for reducing errors. Error disclosure is influenced by ethical obligations, legal concerns and institutional culture. While transparency fosters trust, fear of litigation remains a major barrier. Effective disclosure requires structured frameworks, improved communication and institutional support to enhance patient-provider relationships and ensure accountability. Iatrogenic mistakes challenge all dental specialties, demanding effective prevention and disclosure strategies. Minimizing harm requires improved training, standardized protocols and supportive cultures. Crucially, overcoming disclosure barriers, like fear of litigation, necessitates clear communication, ethical emphasis and patient trust to foster transparency and improve patient safety.",
+      "authors": [
+        {
+          "name": "Murtada A. Ahmed",
+          "orcid": null,
+          "affiliation": "United Arab Emirates University",
+          "country": "AE",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Rajawi M. Alotaibi",
+          "orcid": null,
+          "affiliation": "Riyadh Elm University",
+          "country": "SA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hanan F. Alqubali",
+          "orcid": null,
+          "affiliation": "Riyadh Elm University",
+          "country": "SA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Huda B. Almutiry",
+          "orcid": null,
+          "affiliation": "Riyadh Elm University",
+          "country": "SA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Shuruq Saleh Barnawi",
+          "orcid": null,
+          "affiliation": "Riyadh Elm University",
+          "country": "SA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mamdoh Al Hawsawi",
+          "orcid": null,
+          "affiliation": "Riyadh Elm University",
+          "country": "SA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Bashayer A. Basakran",
+          "orcid": null,
+          "affiliation": "Riyadh Elm University",
+          "country": "SA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Afnan I. Alsaleem",
+          "orcid": null,
+          "affiliation": "Riyadh Elm University",
+          "country": "SA",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2025,
+      "venue": "International Journal of Community Medicine and Public Health",
+      "issn": "2394-6032",
+      "type": "article",
+      "citation_count": 1,
+      "referenced_works_count": 26,
+      "fwci": 1.116,
+      "cited_by_percentile_year": 96,
+      "topics": [
+        {
+          "id": "T12339",
+          "name": "Medical Malpractice and Liability Issues",
+          "score": 0.9994999766349792
+        },
+        {
+          "id": "T10508",
+          "name": "Patient Safety and Medication Errors",
+          "score": 0.9933000206947327
+        },
+        {
+          "id": "T12871",
+          "name": "Healthcare Quality and Management",
+          "score": 0.9728999733924866
+        }
+      ],
+      "keywords": [
+        "Dentistry",
+        "Psychology",
+        "Orthodontics",
+        "Medicine"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.18203/2394-6040.ijcmph20250649",
+      "openalex_url": "https://openalex.org/W4408052002",
+      "pdf_url": "https://www.ijcmph.com/index.php/ijcmph/article/download/13762/8247",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.ijcmph.com/index.php/ijcmph/article/download/13762/8247"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4222,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.75,
+          "citation_signal": 0.0912,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.4762505254308533,
+          "h_index": 40
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1097/gox.0000000000004873",
+      "arxiv_id": null,
+      "openalex_id": "W4323864409",
+      "ss_paper_id": null,
+      "pmid": "36910731",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Out-of-scope Cosmetic Surgery: A Review of Malpractice Lawsuits against Nonplastic Surgeons",
+      "abstract": "The increasing patient demand for cosmetic surgeries and minimally invasive procedures has encouraged physicians without aesthetic surgery training accredited by the American Board of Medical Specialties to provide these services. This systematic review aims to determine the rate of out-of-scope practice in medical malpractice lawsuits involving cosmetic surgery or minimally invasive procedures performed by nonplastic surgeons. Methods: Our systematic review of the Westlaw legal database from 1979 to 2022 included 64 malpractice cases. Inclusion criteria were cosmetic surgeries or minimally invasive procedures in medical malpractice lawsuits not involving board-certified plastic surgeons. Out-of-scope was defined using the procedural competencies established by the American Council for Graduate Medical Education, the Commission on Dental Accreditation, and the Council of Podiatric Medical Education. Data on legal proceedings, provider credentials and board certification, surgical interventions, and legal outcomes were collected. Results: The majority of malpractice cases involving cosmetic surgeries or minimally invasive procedures occurred when providers were practicing out of scope (N = 34; 55.7%). The verdict was ruled in favor of the plaintiff (patient) in 34.4% of cases. Out-of-scope practice occurred most in family/internal medicine, no board certification, and obstetrics/gynecology (N = 4, N = 4, and N = 3, respectively). The most common allegation was permanent injury or disfigurement (N = 21; 21.4%). Plastic surgeons provided expert testimony 44.0% of the time. Conclusion: Our review of the Westlaw legal database suggests that the majority of nonplastic surgeon cosmetic malpractice cases may occur in the setting of out-of-scope practice.",
+      "authors": [
+        {
+          "name": "Steven P. Moura",
+          "orcid": "https://orcid.org/0000-0002-0797-2211",
+          "affiliation": "University of Wisconsin–Madison",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ellen C. Shaffrey",
+          "orcid": "https://orcid.org/0000-0001-8751-7309",
+          "affiliation": "University of Wisconsin–Madison",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Chloe S. Lam",
+          "orcid": null,
+          "affiliation": "University of Wisconsin–Madison",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Peter J. Wirth",
+          "orcid": "https://orcid.org/0000-0001-5293-6001",
+          "affiliation": "University of Wisconsin–Madison",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Pradeep K. Attaluri",
+          "orcid": "https://orcid.org/0000-0002-1913-5752",
+          "affiliation": "University of Wisconsin–Madison",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Venkat K. Rao",
+          "orcid": "https://orcid.org/0009-0007-3377-7405",
+          "affiliation": "University of Wisconsin–Madison",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2023,
+      "venue": "Plastic & Reconstructive Surgery Global Open",
+      "issn": "2169-7574",
+      "type": "article",
+      "citation_count": 9,
+      "referenced_works_count": 37,
+      "fwci": 3.2512,
+      "cited_by_percentile_year": 98,
+      "topics": [
+        {
+          "id": "T12339",
+          "name": "Medical Malpractice and Liability Issues",
+          "score": 0.6115000247955322
+        },
+        {
+          "id": "T12173",
+          "name": "Body Contouring and Surgery",
+          "score": 0.10140000283718109
+        },
+        {
+          "id": "T12663",
+          "name": "Body Image and Dysmorphia Studies",
+          "score": 0.05290000140666962
+        }
+      ],
+      "keywords": [
+        "Malpractice",
+        "Scope of practice",
+        "Medicine",
+        "Certification",
+        "Accreditation",
+        "Scope (computer science)",
+        "Allegation",
+        "Medical malpractice",
+        "Board certification",
+        "Family medicine"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/16",
+          "score": 0.5299999713897705,
+          "display_name": "Peace, Justice and strong institutions"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1097/gox.0000000000004873",
+      "openalex_url": "https://openalex.org/W4323864409",
+      "pdf_url": "https://doi.org/10.1097/gox.0000000000004873",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.1097/gox.0000000000004873",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10005830/pdf/gox-11-e4873.pdf",
+        "https://doaj.org/article/fd3cad783ce24ba7a7539e86f4b38748"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3209,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.3029,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.19470559129144,
+          "h_index": 80
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.36646/mjlr.32.4.playing",
+      "arxiv_id": null,
+      "openalex_id": "W2260998188",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Playing Doctor: Corporate Medical Practice and Medical Malpractice",
+      "abstract": "Although health plans once existed mainly to ensure that patients could pay for care, in recent years managed care organizations (MCOs) have attempted to limit expenditures by exercising significant influence over the kinds and levels of care provided. Some commentators argue that such influence constitutes the practice of medicine, and should subject MCOs to the same medical malpractice torts traditionally brought against physicians. Others hold that MCOs engage only in contract interpretation, and do not literally practice medicine. This Article begins by arguing that traditional common law doctrines governing corporate practice of medicine do not precisely apply to the current situation because, whereas the traditional focus is on whether the corporation employs the physician, in the current setting corporations use many devices, not just employment, to influence medical care. Because an employment relationship is not the central question in determining whether an MCO is practicing medicine, a better definition is needed of what it is for a corporation (or a physician) to practice medicine. This definition will show that MCOs can and sometimes must practice medicine, thus opening the need to explore what sort of liability they should incur when they practice negligently. Toward answering that question, the Article argues that the proper scope of medical malpractice and other tort liability for MCOs can only be discerned after it is determined what duty of care MCOs owe their subscribers. This question, in turn, should be guided by a focus on how to deliver good health care rather than by deciding, ex ante, whom we wish to hold liable when care has gone badly. In the quest to discern which tasks are best done by MCOs and which are best done by physicians, a reasonable division of labor between MCOs and physicians will be proposed. This division of labor acknowledges that MCOs must sometimes practice medicine, but will also show that MCOs currently practice medicine more than they should, primarily because contractual reliance on the concept of \"medical necessity\" requires them to practice medicine virtually every time they make a benefits determination. For a variety of reasons, the concept of \"medical necessity\" should be dropped entirely from health plan contracts. Finally, where MCOs do practice medicine, they should be subject to classic medical malpractice liability of the same sort to which physicians are subject. Applying these reforms in the context of corporate practice, however, requires some special analysis.",
+      "authors": [
+        {
+          "name": "E. Haavi Morreim",
+          "orcid": null,
+          "affiliation": "University of Tennessee at Knoxville",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2025,
+      "venue": "University of Michigan Journal of Law Reform",
+      "issn": "0363-602X",
+      "type": "article",
+      "citation_count": 2,
+      "referenced_works_count": null,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T12339",
+          "name": "Medical Malpractice and Liability Issues",
+          "score": 0.9690999984741211
+        }
+      ],
+      "keywords": [
+        "Medical malpractice",
+        "Malpractice",
+        "Medical practice",
+        "Medicine",
+        "Business",
+        "Family medicine",
+        "Law",
+        "Political science"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/8",
+          "score": 0.47999998927116394,
+          "display_name": "Decent work and economic growth"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.36646/mjlr.32.4.playing",
+      "openalex_url": "https://openalex.org/W2260998188",
+      "pdf_url": "https://repository.law.umich.edu/cgi/viewcontent.cgi?article=1499&context=mjlr",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://repository.law.umich.edu/cgi/viewcontent.cgi?article=1499&context=mjlr",
+        "https://repository.law.umich.edu/mjlr/vol32/iss4/11"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3052,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.1445,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.220708446866485,
+          "h_index": 26
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.5037/jomr.2017.8205",
+      "arxiv_id": null,
+      "openalex_id": "W2733479210",
+      "ss_paper_id": null,
+      "pmid": "28791081",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Is The Late Mandibular Fracture From Third Molar Extraction a Risk Towards Malpractice? Case Report with the Analysis of Ethical and Legal Aspects",
+      "abstract": "OBJECTIVES: The present study reports a case of late mandibular fracture due to third molar extraction and highlights the inherent clinical, ethical and legal aspects related to this surgical complication. MATERIAL AND METHODS: A female patient underwent surgical procedure for the extraction of the mandibular right third molar. Two days after the surgery the patient reported pain and altered occlusion in the right side of the mandible. After clinical and radiographic re-examination, the diagnosis of late mandibular fracture was established. A second surgery, under general anaesthesia, was performed for the fixation of the mandibular bone. RESULTS: The fractured parts were reduced and fixed with locking plate systems and 2 mm screws following load-sharing principles. The masticatory function showed optimal performance within 7 and 21 days after the surgery. Complete bone healing was observed within 1 year of follow-up. CONCLUSIONS: For satisfactory surgical outcomes, adequate surgical planning and techniques must be performed. Signed informed consents explaining the risks and benefits of the treatment must be used to avoid ethical and legal disputes in dentistry.",
+      "authors": [
+        {
+          "name": "Weuler dos Santos Silva",
+          "orcid": null,
+          "affiliation": "Nini Hospital",
+          "country": "LB",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Rubens Jorge Silveira",
+          "orcid": null,
+          "affiliation": "Fundação de Apoio a Pesquisa do Estado de Goiás",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Michelle Gouveia Benício de Araújo Andrade",
+          "orcid": null,
+          "affiliation": "Fundação de Apoio a Pesquisa do Estado de Goiás",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ademir Franco",
+          "orcid": "https://orcid.org/0000-0002-1417-2781",
+          "affiliation": "Universidade Tecnológica Federal do Paraná",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Rhonan Ferreira Silva",
+          "orcid": "https://orcid.org/0000-0002-3680-7020",
+          "affiliation": "Universidade Evangelica de Goiás",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2017,
+      "venue": "Journal of Oral and Maxillofacial Research",
+      "issn": "2029-283X",
+      "type": "article",
+      "citation_count": 12,
+      "referenced_works_count": 26,
+      "fwci": 1.2324,
+      "cited_by_percentile_year": 97,
+      "topics": [
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.7407000064849854
+        },
+        {
+          "id": "T11562",
+          "name": "Facial Trauma and Fracture Management",
+          "score": 0.21410000324249268
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.024700000882148743
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Molar",
+        "Dentistry",
+        "Masticatory force",
+        "Informed consent",
+        "Mandibular fracture",
+        "Occlusion",
+        "Bone healing",
+        "Mandible (arthropod mouthpart)",
+        "Malpractice"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.5037/jomr.2017.8205",
+      "openalex_url": "https://openalex.org/W2733479210",
+      "pdf_url": "https://www.ejomr.org/JOMR/archives/2017/2/e5/v8n2e5.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.ejomr.org/JOMR/archives/2017/2/e5/v8n2e5.pdf",
+        "https://discovery.dundee.ac.uk/en/publications/97e5f12b-4c7d-43d2-8972-d77709b614e1",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/5541990",
+        "https://doaj.org/article/2655c19b97e242089e9561099d4f58df"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3021,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.3374,
+          "recency_signal": 0.64
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.5714285714285714,
+          "h_index": 47
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.46889/jdhor.2022.3215",
+      "arxiv_id": null,
+      "openalex_id": "W4289945210",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Malpractice Payments and Adverse Actions against Dentists in Texas-A Fifteen-Year Trend Analysis",
+      "abstract": "Objective: Health practitioners are potentially subject to malpractice claims against them and previous research has indicated that legal proceedings against dentists are becoming a larger proportion of all malpractice payments against healthcare professionals in the United States. The objective of this study is to describe trends in the number of malpractice payments and adverse actions made against dentists in the state of Texas over a fifteen-year period from 2006 to 2020. Methods: Data regarding the adverse actions and malpractice payments against dentists was retrieved from the National Practice Data Bank for the years 2006-2020. The data set included adverse actions such as loss of clinical licensure, loss of clinical privileges or panel memberships, drug enforcement administration license and Department of Health and Human Services-Office of the Inspector General exclusion (i.e., exclusion from federally funded health programs). We exported all data into data visualization tools which we used to study and report trends. The University of Michigan Medical School Committee on Human Studies determined our study was not regulated and exempt (HUM00116742). Results: The number of adverse actions against dentists in Texas rose from 2006 (75 actions) to 2015 (164 actions) followed by a downward trend until 2020 (70 actions). The number of malpractice payments against dentists had an inverse relationship with adverse actions between 2006 – 2014 and again 2017 – 2020. However, during 2014 – 2016 there was a concurrent increase in malpractice payments and adverse actions. Loss of clinical licensure was the most common (91.23%) adverse action, followed by Drug Enforcement Administration (DEA) action (3.77%), Health and human services – exclusions by the Office of the Inspector General (HHS OIG) exclusion (1.68%) with the least common being cancellation of clinical privileges/panel memberships (1.33%). Conclusion: The number of malpractice payments against dentists followed a loosely inverse relationship with adverse actions.",
+      "authors": [
+        {
+          "name": "Viyan S. Kadhium",
+          "orcid": "https://orcid.org/0000-0002-4473-9582",
+          "affiliation": "University of Michigan",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2022,
+      "venue": "Journal of Dental Health and Oral Research",
+      "issn": "3050-9424",
+      "type": "article",
+      "citation_count": 1,
+      "referenced_works_count": 23,
+      "fwci": 0.3435,
+      "cited_by_percentile_year": 93,
+      "topics": [
+        {
+          "id": "T12339",
+          "name": "Medical Malpractice and Liability Issues",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T12871",
+          "name": "Healthcare Quality and Management",
+          "score": 0.9864000082015991
+        },
+        {
+          "id": "T13555",
+          "name": "Healthcare cost, quality, practices",
+          "score": 0.9749000072479248
+        }
+      ],
+      "keywords": [
+        "Malpractice",
+        "Licensure",
+        "Payment",
+        "Medicine",
+        "Enforcement",
+        "Adverse effect",
+        "Family medicine",
+        "Medical malpractice",
+        "Health care",
+        "License"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/10",
+          "score": 0.7099999785423279,
+          "display_name": "Reduced inequalities"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.46889/jdhor.2022.3215",
+      "openalex_url": "https://openalex.org/W4289945210",
+      "pdf_url": "https://doi.org/10.46889/jdhor.2022.3215",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.46889/jdhor.2022.3215"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.2852,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.0912,
+          "recency_signal": 0.84
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.29213483146067415,
+          "h_index": 6
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.62906/bs.book.384",
+      "arxiv_id": null,
+      "openalex_id": "W4411329161",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Laser-Based Technologies in Medical Physics and Health Device Engineering",
+      "abstract": "Buy Laser-Based Technologies in Medical Physics and Health Device Engineering written by Sarhan Halboot Resen, Naba Gasam Anoon, Alaa Hashim salman, Hasna Haitham Ayed Farag and Mahmood Adnan Abd Alameer Mahdi at low price.",
+      "authors": [
+        {
+          "name": "Sarhan Halboot Resen",
+          "orcid": null,
+          "affiliation": "ESIC Hospital",
+          "country": "IN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Naba Gasam Anoon",
+          "orcid": null,
+          "affiliation": "Alsalam University College",
+          "country": "IQ",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Alaa Hashim salman",
+          "orcid": null,
+          "affiliation": "Integrated Optoelectronics (Norway)",
+          "country": "NO",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hasna Haitham Ayed Farag",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "M.A. Mahdi",
+          "orcid": "https://orcid.org/0000-0002-9377-144X",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2025,
+      "venue": "Bright Sky Publications eBooks",
+      "issn": null,
+      "type": "book",
+      "citation_count": 0,
+      "referenced_works_count": null,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T13280",
+          "name": "Biomedical and Engineering Education",
+          "score": 0.5494999885559082
+        }
+      ],
+      "keywords": [
+        "Laser",
+        "Engineering ethics",
+        "Engineering",
+        "Engineering physics",
+        "Systems engineering",
+        "Computer science",
+        "Physics",
+        "Optics"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.62906/bs.book.384",
+      "openalex_url": "https://openalex.org/W4411329161",
+      "pdf_url": "https://www.bspublications.com/book-pdf/1748161356-laser-based-technologies-in-medical-physics-and-health-device-engineering.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.bspublications.com/book-pdf/1748161356-laser-based-technologies-in-medical-physics-and-health-device-engineering.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.2835,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.0,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": null,
+      "arxiv_id": null,
+      "openalex_id": "W2795699443",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Oral Care and the Connection to Adverse Events in Dentistry",
+      "abstract": "As the healthcare industry continues to change, dental providers are concerned about the different types of adverse events that can occur if systemic diseases are not well understood when treating patients. The purpose of this study was to explore the level of understanding among dental care providers of the relationship between oral care and systemic diseases and how these are linked to adverse events. The theoretical foundation that was used for this study was the Swiss cheese model. The research questions were designed to address the level of understanding among dental care providers of the link between oral care and systemic diseases as well as their perceptions of adverse events in dentistry and why they occur. Using a qualitative phenomenological approach, interviews were conducted with 10 dental care providers who practice in the New Jersey area. As I reviewed the field notes and listened to the audio recording, themes were developed to gain a deeper understanding of the research. The research findings revealed that dental providers have moderate knowledge of systemic disease and that some dentists had encountered an adverse event when providing oral care to patients; this experience led participants to look at patients' overall health instead of only oral care. Positive social change could result from improved training and education for dental providers to gain a better understanding of systemic diseases and systems such as the Swiss cheese model for preventing adverse events in patients with systemic diseases. Dental providers should be more involved with community services by providing health fairs to educate the public about why taking care of their oral health is as important as their physical health.",
+      "authors": [
+        {
+          "name": "Melissa A Rhoney",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2018,
+      "venue": "ScholarWorks (Walden University)",
+      "issn": null,
+      "type": "dissertation",
+      "citation_count": 0,
+      "referenced_works_count": null,
+      "fwci": null,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11537",
+          "name": "Ethics in medical practice",
+          "score": 0.695900022983551
+        },
+        {
+          "id": "T12339",
+          "name": "Medical Malpractice and Liability Issues",
+          "score": 0.6953999996185303
+        },
+        {
+          "id": "T13457",
+          "name": "Dental Education, Practice, Research",
+          "score": 0.6345999836921692
+        }
+      ],
+      "keywords": [
+        "Dentistry",
+        "Medicine",
+        "Connection (principal bundle)",
+        "Dental care",
+        "Engineering"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": null,
+      "openalex_url": "https://openalex.org/W2795699443",
+      "pdf_url": "https://scholarworks.waldenu.edu/dissertations/4983",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://scholarworks.waldenu.edu/dissertations/4983"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.2555,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.0,
+          "recency_signal": 0.68
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": null,
+      "arxiv_id": null,
+      "openalex_id": "W3123302192",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Playing Doctor: Corporate Medical Practice and Medical Malpractice",
+      "abstract": "Although health plans once existed mainly to ensure that patients could pay for care, in recent years managed care organizations (MCOs) are attempting to limit expenditures by exercising significant influence over the kinds and levels of care provided. Some commentators argue that such influence constitutes the practice of medicine, and should subject MCOs to the same malpractice torts traditionally brought against physicians. Others hold that MCOs engage only in contract interpretation, and do not literally practice medicine. This Article begins by arguing that traditional common law doctrines governing corporate practice of medicine do not precisely apply to the current situation because, whereas the traditional focus is on whether the corporation employs the physician, in the current setting corporations use many devices, not just employment, to influence care. Because an employment relationship is not the central question in determining whether an MCO is practicing medicine, a better definition is needed of what it is for a corporation (or a physician) to practice medicine. This definition will show that MCOs can and sometimes must practice medicine, thus opening the need to explore what sort of liability they should incur when they practice negligently. Toward answering that question, the Article argues that the proper scope of malpractice and other tort liability for MCOs can only be discerned after it is first determined what duty of care MCOs owe their subscribers. This question, in turn, should be guided by a focus on how to deliver good health care rather than by deciding, ex ante, whom we wish to hold liable when care has gone badly. In the quest to discern which tasks are best done by MCOs and which are best done by physicians, a reasonable division of labor between MCOs and physicians will be proposed. This division of labor acknowledges that MCOs must sometimes practice medicine, but will also show that MCOs currently practice medicine more than they should, primarily because contractual reliance on the concept of medical necessity requires them to practice medicine virtually every time they make a benefits determination. For a variety of reasons, the concept of medical necessity should be dropped entirely from health plan contracts. Finally, where MCOs have practiced medicine, they should be subject to classic malpractice liability of the same sort to which physicians are subject. Applying these in the context of corporate practice, however, requires some special analysis.",
+      "authors": [
+        {
+          "name": "E. Haavi Morreim",
+          "orcid": null,
+          "affiliation": "University of Tennessee Health Science Center",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 1999,
+      "venue": "University of Michigan Journal of Law Reform",
+      "issn": "0363-602X",
+      "type": "article",
+      "citation_count": 6,
+      "referenced_works_count": null,
+      "fwci": 3.9311,
+      "cited_by_percentile_year": 94,
+      "topics": [
+        {
+          "id": "T12339",
+          "name": "Medical Malpractice and Liability Issues",
+          "score": 0.9887999892234802
+        },
+        {
+          "id": "T13075",
+          "name": "Legal Systems and Judicial Processes",
+          "score": 0.9244999885559082
+        },
+        {
+          "id": "T11762",
+          "name": "Law, Economics, and Judicial Systems",
+          "score": 0.9179999828338623
+        }
+      ],
+      "keywords": [
+        "Managed care",
+        "Malpractice",
+        "Tort",
+        "Liability",
+        "Duty",
+        "Corporation",
+        "Health care",
+        "Medical malpractice",
+        "Duty of care",
+        "Business"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/8",
+          "score": 0.47999998927116394,
+          "display_name": "Decent work and economic growth"
+        }
+      ],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": null,
+      "openalex_url": "https://openalex.org/W3123302192",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.2259,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.256,
+          "recency_signal": 0.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.220708446866485,
+          "h_index": 26
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.12998/wjcc.v13.i2.99071",
+      "arxiv_id": null,
+      "openalex_id": "W4404093940",
+      "ss_paper_id": null,
+      "pmid": "39823102",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Malpractice or masterful practice? Navigating vicarious liability in healthcare",
+      "abstract": "In the intricate landscape of healthcare, vicarious liability looms large, shaping the responsibilities and actions of healthcare practitioners and administrators alike. Illustrated by a poignant scenario of a medication error, this article navigates the complexities of vicarious liability in healthcare. It explains the legal basis and ramifications of this theory, emphasizing its importance in fostering responsibility, protecting patient welfare, and easing access to justice. The paper explores the practical effects of vicarious responsibility on day-to-day operations, leadership practices, and decision-making processes via the eyes of senior consultants, junior doctors, and hospital administrators. Through comprehensive insights and real-world examples, it underscores the imperative of fostering a culture of accountability, communication, and quality care to navigate the intricate web of liabilities inherent in modern healthcare.",
+      "authors": [
+        {
+          "name": "Satvik N Pai",
+          "orcid": "https://orcid.org/0000-0002-3621-150X",
+          "affiliation": "PES University",
+          "country": "IN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Naveen Jeyaraman",
+          "orcid": null,
+          "affiliation": "Dr. M.G.R. Educational and Research Institute",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Madhan Jeyaraman",
+          "orcid": null,
+          "affiliation": "ACS Medical College and Hospital",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Swaminathan Ramasubramanian",
+          "orcid": "https://orcid.org/0000-0001-8845-8427",
+          "affiliation": "Government Medical College",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2024,
+      "venue": "World Journal of Clinical Cases",
+      "issn": "2307-8960",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 6,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T12339",
+          "name": "Medical Malpractice and Liability Issues",
+          "score": 0.9937000274658203
+        },
+        {
+          "id": "T12871",
+          "name": "Healthcare Quality and Management",
+          "score": 0.9599999785423279
+        },
+        {
+          "id": "T11537",
+          "name": "Ethics in medical practice",
+          "score": 0.9125000238418579
+        }
+      ],
+      "keywords": [
+        "Vicarious liability",
+        "Accountability",
+        "Malpractice",
+        "Liability",
+        "Health care",
+        "Medicine",
+        "Public relations",
+        "Economic Justice",
+        "Quality (philosophy)",
+        "Nursing"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/16",
+          "score": 0.800000011920929,
+          "display_name": "Peace, Justice and strong institutions"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.12998/wjcc.v13.i2.99071",
+      "openalex_url": "https://openalex.org/W4404093940",
+      "pdf_url": "https://rcastoragev2.blob.core.windows.net/202f1ad3e88a9621eda8b4d21496be3f/cureus-0015-00000043634.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://rcastoragev2.blob.core.windows.net/202f1ad3e88a9621eda8b4d21496be3f/cureus-0015-00000043634.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/11577502"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.217,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 0.92
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.9225137278828555,
+          "h_index": 77
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.5114/jos.2025.148479",
+      "arxiv_id": null,
+      "openalex_id": "W4408768214",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Forensic odontology publications: insights into research trajectories and emerging trends through bibliometric study",
+      "abstract": "Introduction: Forensic odontology (FO), an interdisciplinary field at the intersection of dentistry and legal investigations, has witnessed significant growth and evolution in theory and methodology since its inception.Objectives: This study aimed to analyze this evolution through bibliometric analysis of FO publications, providing insights into research trajectories and highlighting emerging areas of interest.Material and methods: Sampling was conducted in the Scopus database on October 20 th , 2023.Data collection spanned from inception to the search date, encompassing solely research and review articles for inclusion in the study.All bibliometric analyses were conducted via RStudio. Results:The dataset comprised of 6,416 studies conducted between 1945 and 2023, demonstrating an annual growth rate of 7.17%.Over 13,646 unique authors contributed to FO studies, with 12.34% being international collaborations.Notably, there are 1,574 single-authored documents, with an average of 3.44 authors per document.Major sub-fields in FO studies include dental age estimation, dental human identification, and other areas, such as bite marks and cheiloscopy (lip prints).The latest trend in FO studies involves the utilization of cone beam computed tomography and machine learning.Conclusions: Our analysis indicates a consistent rise in research output and a growing emphasis on dental age estimation within FO.This study provides a comprehensive overview of current FO research, highlighting key themes and methodologies.By identifying trends and impactful contributions, it offers guidance for future research and identifies areas for further exploration in forensic odontology.",
+      "authors": [
+        {
+          "name": "Nikolaos Angelakopoulos",
+          "orcid": "https://orcid.org/0000-0001-8511-4645",
+          "affiliation": "University of Bern",
+          "country": "CH",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Rizky Merdietio Boedi",
+          "orcid": "https://orcid.org/0000-0002-5045-6773",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2025,
+      "venue": "Journal of Stomatology",
+      "issn": "0011-4553",
+      "type": "article",
+      "citation_count": 4,
+      "referenced_works_count": null,
+      "fwci": 1.1625,
+      "cited_by_percentile_year": 98,
+      "topics": [
+        {
+          "id": "T11636",
+          "name": "Artificial Intelligence in Healthcare and Education",
+          "score": 0.9315999746322632
+        },
+        {
+          "id": "T12339",
+          "name": "Medical Malpractice and Liability Issues",
+          "score": 0.9164999723434448
+        },
+        {
+          "id": "T10992",
+          "name": "Forensic Anthropology and Bioarchaeology Studies",
+          "score": 0.9156000018119812
+        }
+      ],
+      "keywords": [
+        "Data science",
+        "Bibliometrics",
+        "Regional science",
+        "Computer science",
+        "Geography",
+        "Library science"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.5114/jos.2025.148479",
+      "openalex_url": "https://openalex.org/W4408768214",
+      "pdf_url": "https://www.termedia.pl/Journal/-137/pdf-55747-10?filename=JOS-01088.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.termedia.pl/Journal/-137/pdf-55747-10?filename=JOS-01088.pdf",
+        "https://doaj.org/article/66ec033a5df54ea7a9f247a61d6d7d6d"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1903,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.2117,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.0095238095238095,
+          "h_index": 12
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.7759/cureus.57565",
+      "arxiv_id": null,
+      "openalex_id": "W4393944499",
+      "ss_paper_id": null,
+      "pmid": "38707034",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Standardized Informed Consent Form for Clinicians Administering Platelet-Rich Plasma",
+      "abstract": "Introduction When it comes to medico-legal malpractice suits, lawyers and insurers tend to focus on informed consent documentation. Unfortunately, there is no standard protocol for obtaining informed consent for the use of platelet-rich plasma (PRP) injections, which might cause problems. This study aimed to mitigate this concern through the development of a standardized informed consent document for PRP injections, grounded in evidence-based practices. Materials and methods An examination of databases was conducted to explore the medico-legal ramifications associated with PRP injections, as well as the broader topic of informed consent, with a particular focus on the context of PRP injections. Moreover, interviews were carried out with healthcare providers and individuals who had received PRP injections within the preceding year, utilizing a semi-structured methodology. Results We developed an evidence-based informed consent document tailored for PRP injections. To guarantee its legal validity, the document underwent review by a legal specialist. Subsequently, our institutions implemented the finalized form for PRP injection procedures over one year. Conclusion A legally valid and evidence-based informed consent form for PRP injections would ensure patient's rights, and encourage open communication and transparency between them and the doctor. Moreover, if a lawsuit were to arise, it would serve as a critical document in the doctor's defense and withstand scrutiny from lawyers and the judiciary.",
+      "authors": [
+        {
+          "name": "Satvik N Pai",
+          "orcid": "https://orcid.org/0000-0002-3621-150X",
+          "affiliation": "Government Medical College",
+          "country": "IN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Naveen Jeyaraman",
+          "orcid": "https://orcid.org/0000-0002-4362-3326",
+          "affiliation": "Government Medical College",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ravichandran Venkatasalam",
+          "orcid": null,
+          "affiliation": "Government Medical College",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ravi VR",
+          "orcid": null,
+          "affiliation": "Government Medical College",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Swaminathan Ramasubramanian",
+          "orcid": "https://orcid.org/0000-0001-8845-8427",
+          "affiliation": "Government Medical College",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Sangeetha Balaji",
+          "orcid": null,
+          "affiliation": "Government Medical College",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Arulkumar Nallakumarasamy",
+          "orcid": "https://orcid.org/0000-0002-2445-2883",
+          "affiliation": "Government Medical College",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Shilpa Sharma",
+          "orcid": "https://orcid.org/0000-0001-8695-8372",
+          "affiliation": "Government Medical College",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Bishnu Prasad Patro",
+          "orcid": "https://orcid.org/0000-0001-9497-9624",
+          "affiliation": "Government Medical College",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Madhan Jeyaraman",
+          "orcid": "https://orcid.org/0000-0002-9045-9493",
+          "affiliation": "Government Medical College",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2024,
+      "venue": "Cureus",
+      "issn": "2168-8184",
+      "type": "article",
+      "citation_count": 2,
+      "referenced_works_count": 31,
+      "fwci": 0.7867,
+      "cited_by_percentile_year": 96,
+      "topics": [
+        {
+          "id": "T11570",
+          "name": "Periodontal Regeneration and Treatments",
+          "score": 0.9991000294685364
+        },
+        {
+          "id": "T10599",
+          "name": "Reconstructive Surgery and Microvascular Techniques",
+          "score": 0.9434999823570251
+        },
+        {
+          "id": "T12906",
+          "name": "Surgical Sutures and Adhesives",
+          "score": 0.9398999810218811
+        }
+      ],
+      "keywords": [
+        "Platelet-rich plasma",
+        "Informed consent",
+        "Medicine",
+        "Platelet",
+        "Intensive care medicine",
+        "Pharmacology",
+        "Psychology",
+        "Internal medicine",
+        "Alternative medicine",
+        "Pathology"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.7759/cureus.57565",
+      "openalex_url": "https://openalex.org/W4393944499",
+      "pdf_url": "https://assets.cureus.com/uploads/original_article/pdf/241144/20240404-7206-1g99862.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://assets.cureus.com/uploads/original_article/pdf/241144/20240404-7206-1g99862.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11068980/pdf/cureus-0016-00000057565.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1762,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.1445,
+          "recency_signal": 0.92
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.1236803339062116,
+          "h_index": 132
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/life15091343",
+      "arxiv_id": null,
+      "openalex_id": "W4413721628",
+      "ss_paper_id": null,
+      "pmid": "41010284",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Extraneural Soft Tissue Perineurioma of the Oral Cavity: A Rare Case with Medico-Legal Implications and Literature Review",
+      "abstract": "Perineuriomas are a rare form of peripheral nerve sheath tumors, with occurrences in the oral cavity being exceptionally uncommon. This scarcity underscores the clinical significance of each documented case, as it facilitates enhanced diagnostic precision among oral health professionals. We hereby present a case involving a 68-year-old female patient with an extraneural perineurioma (EPN) located on the mandibular region. A laser-assisted excisional biopsy was performed, and the diagnosis of EPN was confirmed through histopathological examination complemented by immunohistochemical analysis. The lesion was surgically excised, and no recurrence was observed during a one-year follow-up period. Accurate recognition of EPNs in the oral cavity is crucial to prevent unnecessary aggressive surgical interventions. Misdiagnoses may occur in cases of fibromas, neurofibromas, schwannomas, ossifying fibromas, or low-grade malignancies, which can potentially result in overtreatment that may compromise both function and aesthetics. Given the rarity of oral EPN, precise diagnosis and appropriate management are essential to avoid unwarranted invasive procedures and to mitigate potential medico-legal implications originating from misdiagnosis or suboptimal treatment. Ensuring comprehensive informed consent and meticulous documentation is also vital in minimizing medico-legal risks.",
+      "authors": [
+        {
+          "name": "Daniele Pergolini",
+          "orcid": "https://orcid.org/0000-0001-8885-0496",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mohamed Mohsen",
+          "orcid": "https://orcid.org/0000-0003-1431-7204",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Simona Zaami",
+          "orcid": "https://orcid.org/0000-0001-5741-7139",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Lina De Paola",
+          "orcid": "https://orcid.org/0009-0001-4631-1061",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Federica Rocchetti",
+          "orcid": "https://orcid.org/0000-0002-5912-4812",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Cinzia Angileri",
+          "orcid": null,
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Eduardo Troiani",
+          "orcid": null,
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Cira Di Gioia",
+          "orcid": "https://orcid.org/0000-0003-4696-0560",
+          "affiliation": "Policlinico Umberto I",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Giulia Coppola",
+          "orcid": "https://orcid.org/0000-0002-7944-2551",
+          "affiliation": "Policlinico Umberto I",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gaspare Palaia",
+          "orcid": "https://orcid.org/0000-0001-8509-2255",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2025,
+      "venue": "Life",
+      "issn": "2075-1729",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 66,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11173",
+          "name": "Neurofibromatosis and Schwannoma Cases",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T13363",
+          "name": "Soft tissue tumors and treatment",
+          "score": 0.9983000159263611
+        },
+        {
+          "id": "T11991",
+          "name": "Soft tissue tumor case studies",
+          "score": 0.9979000091552734
+        }
+      ],
+      "keywords": [
+        "Oral cavity",
+        "Soft tissue",
+        "Pathology",
+        "Medicine",
+        "Dentistry"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/life15091343",
+      "openalex_url": "https://openalex.org/W4413721628",
+      "pdf_url": "https://www.mdpi.com/2075-1729/15/9/1343/pdf?version=1756259415",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2075-1729/15/9/1343/pdf?version=1756259415",
+        "https://iris.uniroma1.it/bitstream/11573/1768450/1/Pergolini_Extraneural_2025.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/12470852",
+        "https://doaj.org/article/16781088441041a39841b091c6c6179c",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12470852/"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1585,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.0,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.710119397142298,
+          "h_index": 108
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/biomedicines12030561",
+      "arxiv_id": null,
+      "openalex_id": "W4392387982",
+      "ss_paper_id": null,
+      "pmid": "38540174",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Pathogenesis, Prophylaxis, and Treatment of Candida auris",
+      "abstract": "Candida auris poses a serious threat to infection control and patient care since it can produce invasive infections that have a high fatality rate, has been linked to outbreaks in hospital environments, and is typically resistant to several antifungal medications. Since its first description in 2009, six clades have been described. The emerging fungal pathogen possesses adhesins that allow it to adhere to host tissues and medical devices, can form biofilms, produces various hydrolytic enzymes, employs several strategies to evade host immune responses, and exhibits high genetic diversity, which may contribute to its ability to adapt to different environmental conditions and evade host defenses. C. auris is very resistant to various disinfectants and may be difficult to detect.",
+      "authors": [
+        {
+          "name": "Mădălina Preda",
+          "orcid": "https://orcid.org/0000-0002-5927-7069",
+          "affiliation": "Carol Davila University of Medicine and Pharmacy",
+          "country": "RO",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Răzvan Daniel Chivu",
+          "orcid": "https://orcid.org/0000-0002-4521-1341",
+          "affiliation": "Carol Davila University of Medicine and Pharmacy",
+          "country": "RO",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Lia-Mara Diţu",
+          "orcid": "https://orcid.org/0000-0002-6593-255X",
+          "affiliation": "University of Bucharest",
+          "country": "RO",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Oana Popescu",
+          "orcid": null,
+          "affiliation": "Institutul de Pneumoftiziologie \"Marius Nasta\"",
+          "country": "RO",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Loredana Sabina Cornelia Manolescu",
+          "orcid": "https://orcid.org/0000-0001-8694-6195",
+          "affiliation": "Carol Davila University of Medicine and Pharmacy",
+          "country": "RO",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2024,
+      "venue": "Biomedicines",
+      "issn": "2227-9059",
+      "type": "article",
+      "citation_count": 28,
+      "referenced_works_count": 65,
+      "fwci": 8.0317,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10150",
+          "name": "Antifungal resistance and susceptibility",
+          "score": 1.0
+        },
+        {
+          "id": "T11037",
+          "name": "Fungal Infections and Studies",
+          "score": 0.9973000288009644
+        },
+        {
+          "id": "T10825",
+          "name": "Plant Pathogens and Fungal Diseases",
+          "score": 0.9970999956130981
+        }
+      ],
+      "keywords": [
+        "Candida auris",
+        "Biology",
+        "Microbiology",
+        "Fungal pathogen",
+        "Pathogen",
+        "Host (biology)",
+        "Outbreak",
+        "Bacterial adhesin",
+        "Biofilm",
+        "Immune system"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.41999998688697815,
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/biomedicines12030561",
+      "openalex_url": "https://openalex.org/W4392387982",
+      "pdf_url": "https://www.mdpi.com/2227-9059/12/3/561/pdf?version=1709554350",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2227-9059/12/3/561/pdf?version=1709554350",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10968176/pdf/biomedicines-12-00561.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1584,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.443,
+          "recency_signal": 0.92
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 5.037954206072673,
+          "h_index": 132
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.7759/cureus.43634",
+      "arxiv_id": null,
+      "openalex_id": "W4385954261",
+      "ss_paper_id": null,
+      "pmid": "37719624",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "In the Hands of a Robot, From the Operating Room to the Courtroom: The Medicolegal Considerations of Robotic Surgery",
+      "abstract": "Robotic surgery has rapidly evolved as a groundbreaking field in medicine, revolutionizing surgical practices across various specialties. Despite its numerous benefits, the adoption of robotic surgery faces significant medicolegal challenges. This article delves into the underexplored legal implications of robotic surgery and identifies three distinct medicolegal problems. First, the lack of standardized training and credentialing for robotic surgery poses potential risks to patient safety and surgeon competence. Second, informed consent processes require additional considerations to ensure patients are fully aware of the technology's capabilities and potential risks. Finally, the issue of legal liability becomes complex due to the involvement of multiple stakeholders in the functioning of robotic systems. The article highlights the need for comprehensive guidelines, regulations, and training programs to navigate the medicolegal aspects of robotic surgery effectively, thereby unlocking its full potential for the future..",
+      "authors": [
+        {
+          "name": "Satvik N Pai",
+          "orcid": "https://orcid.org/0000-0002-3621-150X",
+          "affiliation": "Madurai Medical College",
+          "country": "IN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Madhan Jeyaraman",
+          "orcid": "https://orcid.org/0000-0002-9045-9493",
+          "affiliation": "Madurai Medical College",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Naveen Jeyaraman",
+          "orcid": "https://orcid.org/0000-0002-4362-3326",
+          "affiliation": "Madurai Medical College",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Arulkumar Nallakumarasamy",
+          "orcid": "https://orcid.org/0000-0002-2445-2883",
+          "affiliation": "Madurai Medical College",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Sankalp Yadav",
+          "orcid": "https://orcid.org/0000-0001-6367-7228",
+          "affiliation": "Madurai Medical College",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2023,
+      "venue": "Cureus",
+      "issn": "2168-8184",
+      "type": "article",
+      "citation_count": 28,
+      "referenced_works_count": 82,
+      "fwci": 9.8692,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T12339",
+          "name": "Medical Malpractice and Liability Issues",
+          "score": 0.9437000155448914
+        },
+        {
+          "id": "T10916",
+          "name": "Surgical Simulation and Training",
+          "score": 0.9282000064849854
+        },
+        {
+          "id": "T12296",
+          "name": "Autopsy Techniques and Outcomes",
+          "score": 0.9221000075340271
+        }
+      ],
+      "keywords": [
+        "Credentialing",
+        "Medicine",
+        "Robotic surgery",
+        "Liability",
+        "Competence (human resources)",
+        "Engineering ethics",
+        "Informed consent",
+        "Malpractice",
+        "Medical emergency",
+        "Surgery"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/16",
+          "score": 0.41999998688697815,
+          "display_name": "Peace, Justice and strong institutions"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.7759/cureus.43634",
+      "openalex_url": "https://openalex.org/W4385954261",
+      "pdf_url": "https://assets.cureus.com/uploads/review_article/pdf/175027/20230817-11460-15e7uzx.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://assets.cureus.com/uploads/review_article/pdf/175027/20230817-11460-15e7uzx.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10504870/pdf/cureus-0015-00000043634.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1544,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.443,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.1236803339062116,
+          "h_index": 132
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.58240/1829006x-2025.1-29",
+      "arxiv_id": null,
+      "openalex_id": "W4405983260",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "COMPLICATION OF THE EXTRACTION OF MAXILLARY ANTERIOR SUPERNUMERARY TEETH:THE ACCIDENTAL EXTRACTION OF THE PERMANENT TOOTH BUD",
+      "abstract": "Background. This article aims to report the case of a seven-year-old girl affected by a numerical dental anomaly. Supernumerary teeth can lead to secondary dental eruption disturbance dental crowding and bone cysts formation. Even though the clinical and instrumental documentation was adequate to make a correct diagnosis and a surgicalorthodontic treatment plan, a technical error during the surgical phase can lead to the extraction of the permanent bud instead of the supernumerary tooth. The presented case highlights the 2-year follow-up of the immediate reimplantation of the avulsed tooth after the attempt to extract the supernumerary bud and provides the clinician with the most precise awareness and knowledge of possible medico-legal implications regarding surgery at the wrong site. Materials and Methods. During the extraction attempt, the clinician mistakenly extracted the wrong dental element, the bud of the permanent 1.1, and proceeded to reimplant it. After 11 months, a second dentist extracted the correct supernumerary tooth. The case defines guidelines applicable in outpatient clinical practice to manage complications in the best possible way. Results and conclusion. The therapy of supernumerary teeth is extraction. Further work is needed to monitor why a wrong tooth extraction occurs and how it can be prevented; this will be possible by reporting incidents, analyzing the root causes, and clearly and thoroughly educating the clinician on his medico-legal responsibilities.",
+      "authors": [
+        {
+          "name": "Giuseppe Varvara",
+          "orcid": "https://orcid.org/0000-0002-7501-0794",
+          "affiliation": "University of Chieti-Pescara",
+          "country": "IT",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Francesca Angiolani",
+          "orcid": null,
+          "affiliation": "University of Chieti-Pescara",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Fabiola Rinaldi",
+          "orcid": null,
+          "affiliation": "University of Chieti-Pescara",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Davide Gerardi",
+          "orcid": "https://orcid.org/0000-0002-0080-1743",
+          "affiliation": "University of L'Aquila",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Sara Bernardi",
+          "orcid": "https://orcid.org/0000-0001-6130-8533",
+          "affiliation": "University of L'Aquila",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Sofia Rastelli",
+          "orcid": "https://orcid.org/0000-0002-3593-9072",
+          "affiliation": "University of L'Aquila",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gianluca Botticelli",
+          "orcid": "https://orcid.org/0000-0002-0493-2468",
+          "affiliation": "University of L'Aquila",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Tommaso Pizzolante",
+          "orcid": "https://orcid.org/0009-0004-8045-6282",
+          "affiliation": "University of L'Aquila",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2025,
+      "venue": "BULLETIN OF STOMATOLOGY AND MAXILLOFACIAL SURGERY",
+      "issn": "1829-006X",
+      "type": "article",
+      "citation_count": 3,
+      "referenced_works_count": 46,
+      "fwci": 1.1539,
+      "cited_by_percentile_year": 97,
+      "topics": [
+        {
+          "id": "T11919",
+          "name": "dental development and anomalies",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T11787",
+          "name": "Oral and Maxillofacial Pathology",
+          "score": 0.9979000091552734
+        },
+        {
+          "id": "T12367",
+          "name": "Dental Trauma and Treatments",
+          "score": 0.9976000189781189
+        }
+      ],
+      "keywords": [
+        "Supernumerary",
+        "Medicine",
+        "Accidental",
+        "Dentistry",
+        "Complication",
+        "Private practice",
+        "Orthodontics",
+        "Surgery"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/5",
+          "score": 0.46000000834465027,
+          "display_name": "Gender equality"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.58240/1829006x-2025.1-29",
+      "openalex_url": "https://openalex.org/W4405983260",
+      "pdf_url": "https://doi.org/10.58240/1829006x-2025.1-29",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.58240/1829006x-2025.1-29"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1234,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.1824,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.1673881673881674,
+          "h_index": 4
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": null,
+      "arxiv_id": null,
+      "openalex_id": "W2762006961",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "A Two-Pronged Approach to Understanding Quality and Safety Events at the Dental Office",
+      "abstract": "ABSTRACT Objectives: Owing to the limited number and scope of studies in dentistry regarding quality and patient safety, the overarching goal of this thesis was to understand the nature and occurrence of quality and safety events in dentistry using a two-pronged approach – biomedical literature and patient-reported experiences. Methods: I conducted two exploratory studies: the first was a detailed retrospective review of published case reports on dental patient safety events; the second was a cross-sectional study of 450 patients at a large dental teaching practice in South Africa about their quality and safety experiences using a self-adminstered questionnaire. Results: 180 case reports (270 cases) were identified through the literature search. Most reports came from Europe and North America. The most commonly-reported safety event was wrong treatment or unnecessary treatment following misdiagnosis (23%). 11% of case reports ended in the death of the patient. On the other hand, the patient survey revealed that 45.5% had experienced one or more safety events during dental visits in South Africa (1.6 events per respondent). Intra-oral hard tissue injury, such as adjacent tooth damage during treatment, was the most commonly reported event by patients (30.4%). ‘Never events’ such as wrong tooth extractions or wrong-site procedures, occurred in 7% of patients. The combined quality rating was fair; about 41.4% of participants rated the quality of dental care they received as sub-optimal. Access to care was ranked the lowest among patient-defined quality dimensions. Conclusions: Quality and safety events occur in dentistry, and are quite common. Published case reports offer a window into the types and severity of quality and safety events in dentistry. Although the literature is very skewed to reports of significant events and is thus not representative of all AEs that happen, it is a valuable source of information especially in the absence of a centralized reporting system. Patient reports much better let us understand the effects and sequelae of AEs. More work is needed to move the profession forward in our understanding of these events so that we may prevent them.",
+      "authors": [
+        {
+          "name": "Enihomo Obadan‐Udoh",
+          "orcid": "https://orcid.org/0000-0002-1005-7241",
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2016,
+      "venue": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+      "issn": null,
+      "type": "dissertation",
+      "citation_count": 0,
+      "referenced_works_count": 87,
+      "fwci": null,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T12339",
+          "name": "Medical Malpractice and Liability Issues",
+          "score": 0.9995999932289124
+        },
+        {
+          "id": "T10508",
+          "name": "Patient Safety and Medication Errors",
+          "score": 0.9994000196456909
+        },
+        {
+          "id": "T12871",
+          "name": "Healthcare Quality and Management",
+          "score": 0.9945999979972839
+        }
+      ],
+      "keywords": [
+        "Quality (philosophy)",
+        "Medicine",
+        "Engineering",
+        "Data science",
+        "Computer science",
+        "Epistemology",
+        "Philosophy"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": null,
+      "openalex_url": "https://openalex.org/W2762006961",
+      "pdf_url": "http://nrs.harvard.edu/urn-3:HUL.InstRepos:33797367",
+      "pmc_url": null,
+      "oa_locations": [
+        "http://nrs.harvard.edu/urn-3:HUL.InstRepos:33797367"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1225,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.0,
+          "recency_signal": 0.6
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.14288/1.0166410",
+      "arxiv_id": null,
+      "openalex_id": "W2301220299",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Panoramic radiographs prior to complete denture fabrication : a retrospective study of clinical significance and quality assurance",
+      "abstract": "Purpose. There are concerns about the burden of ionizing radiation from radiographs, and consequently about the benefits of radiographic screening of edentulous mandibles. The primary aim of this retrospective study was to identify findings on digital panoramic radiographs of edentulous patients to determine how such findings impacted patient management prior to fabrication of complete dentures. Secondarily, a quality assurance assessment of the panoramic radiographs was completed by comparing two groups of students, 2nd year Introduction to Prosthodontics (IPROS) and 3rd/4th year Integrated Clinical Care (ICC), regarding radiographic interpretations completed, positional errors detected, and radiographic interpretation errors made. Methods. Two hundred digital panoramic radiographs taken on edentulous patients were identified from UBC Dentistry clinics between 2006-2012, of which 31 were excluded (clinical crowns or implants present, no digital panoramic present or analog image scanned in). An Oral and Maxillofacial Radiologist provided training and interpretation assistance, and randomly audited 20 panoramic radiographs for an observed proportion of agreement. Results. There were 165 positive radiographic findings, of which 6 (3.6%) affected patient management. 301 positional errors were also identified, with 14 (8.3%) images free of error. There were significantly more (p<0.05) radiographic interpretations completed (p=0.00014) and positional errors correctly identified (p=0.002) in IPROS compared to ICC. No significant difference was observed for radiographic interpretation errors (p=0.059) between the two student groups. Conclusion. The positive radiographic findings (PRFs) identified in the panoramic radiographs of edentulous patients in this study offered minimal benefits, with only 3.6% of PRFs affecting patient management. We would therefore recommend that panoramic radiographic screening for this patient population be discontinued. The rate of positional errors for panoramic radiographs of edentulous patients was high, indicating a need for additional staff training to minimize errors and to maximize diagnostic benefits.",
+      "authors": [
+        {
+          "name": "Richard Kratz",
+          "orcid": null,
+          "affiliation": "University of British Columbia",
+          "country": "CA",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2015,
+      "venue": "cIRcle (University of British Columbia)",
+      "issn": null,
+      "type": "dissertation",
+      "citation_count": 0,
+      "referenced_works_count": null,
+      "fwci": null,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.992900013923645
+        },
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.9890999794006348
+        },
+        {
+          "id": "T11570",
+          "name": "Periodontal Regeneration and Treatments",
+          "score": 0.9747999906539917
+        }
+      ],
+      "keywords": [
+        "Quality assurance",
+        "Medicine",
+        "Dentistry",
+        "Radiography",
+        "Quality (philosophy)",
+        "Orthodontics",
+        "Medical physics",
+        "Surgery",
+        "Pathology"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.14288/1.0166410",
+      "openalex_url": "https://openalex.org/W2301220299",
+      "pdf_url": "http://hdl.handle.net/2429/54134",
+      "pmc_url": null,
+      "oa_locations": [
+        "http://hdl.handle.net/2429/54134",
+        "https://doi.org/10.14288/1.0166410"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1185,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.0,
+          "recency_signal": 0.56
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.14434/hindsight.v55i1.40250",
+      "arxiv_id": null,
+      "openalex_id": "W4404284072",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "A History of Scope Expansion in Optometry and its Impact on the Profession",
+      "abstract": "The purpose of this article is to review the history of meetings held pertaining to the future direction of the profession, legislation passed, and other factors that have significantly impacted the scope of practice of the optometric profession over the past 55 years. Among the topics discussed are the various antecedent events that led to the decision to evolve from a drugless profession to a profession that embraced drugs and surgical procedures. Also discussed are such issues as changes in the optometric curriculum, nature of continuing education courses, type of research conducted both inside and outside of optometric institutions, improvement in interprofessional relations, personal and professional esteem, benefits to the public, and integration into the nation’s health care system.",
+      "authors": [
+        {
+          "name": "David Goss",
+          "orcid": null,
+          "affiliation": "Indiana University",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "John M. Amos",
+          "orcid": null,
+          "affiliation": "University of Alabama at Birmingham",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2024,
+      "venue": "Hindsight",
+      "issn": "1948-4984",
+      "type": "article",
+      "citation_count": 1,
+      "referenced_works_count": null,
+      "fwci": 0.4066,
+      "cited_by_percentile_year": 97,
+      "topics": [
+        {
+          "id": "T13953",
+          "name": "Digital Imaging in Medicine",
+          "score": 0.7409999966621399
+        }
+      ],
+      "keywords": [
+        "Scope (computer science)",
+        "Optometry",
+        "Medicine",
+        "Computer science"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.14434/hindsight.v55i1.40250",
+      "openalex_url": "https://openalex.org/W4404284072",
+      "pdf_url": "https://scholarworks.iu.edu/journals/index.php/hindsight/article/download/40250/42477",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://scholarworks.iu.edu/journals/index.php/hindsight/article/download/40250/42477"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1057,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0912,
+          "recency_signal": 0.92
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.14814814814814814,
+          "h_index": 2
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.5772/intechopen.1010737",
+      "arxiv_id": null,
+      "openalex_id": "W4412202542",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Perspective Chapter: Facial Implants – Enhancing Aesthetics and Reconstructive Outcomes",
+      "abstract": "The choice of aesthetic operations is much influenced by facial looks; a disparity between perceived and actual age could cause discontent and affect self-esteem. Beautiful faces influence social and professional contacts by often being connected with success and ability. As such, good facial aesthetic treatments can improve social contact and self-awareness. Wrinkles, poor skin texture, and uneven, soft tissue define facial aging, which alters youthful, symmetrical features and consequently affects attractiveness and self-esteem. These developments can also influence personality and emotional perception, therefore causing misunderstandings of emotions. Treatments that restore a young, balanced look can help with these problems, boosting self-confidence and social contacts. Rising desire for facial beauty has resulted in the creation of several cosmetic operations targeted on volume restoration and facial augmentation, including less invasive techniques like lifting procedures, injectable fillers, fat transfer, and facial implants. Research shows that people view faces as a whole rather than by individual characteristics; hence, a comprehensive approach including several modalities is utilized increasingly to evaluate the full face. Available in metals, polymers, and ceramics, facial implants give long-lasting support and may be less expensive than regular injections. Modern techniques and materials are made possible by historical developments in cosmetic surgery, therefore greatly improving facial repair and augmentation. Improvements in materials and surgical techniques, as well as a greater knowledge of facial aging, keep improving the effectiveness and results of facial implant operations. The present chapter aims to cover the fundamental aspects of facial implantology and explore future advancements.",
+      "authors": [
+        {
+          "name": "Mohammad K.H.B. Abdulaziz",
+          "orcid": "https://orcid.org/0009-0000-0666-4551",
+          "affiliation": "University Hospitals Coventry and Warwickshire NHS Trust",
+          "country": "GB",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mohammad Kamal",
+          "orcid": "https://orcid.org/0000-0002-2833-4550",
+          "affiliation": "Kuwait University",
+          "country": "KW",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2025,
+      "venue": "IntechOpen eBooks",
+      "issn": null,
+      "type": "book-chapter",
+      "citation_count": 0,
+      "referenced_works_count": 110,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T12301",
+          "name": "Facial Nerve Paralysis Treatment and Research",
+          "score": 0.9984999895095825
+        },
+        {
+          "id": "T11322",
+          "name": "Facial Rejuvenation and Surgery Techniques",
+          "score": 0.9955000281333923
+        },
+        {
+          "id": "T12900",
+          "name": "Organ and Tissue Transplantation Research",
+          "score": 0.9951000213623047
+        }
+      ],
+      "keywords": [
+        "Perspective (graphical)",
+        "Aesthetics",
+        "Face (sociological concept)",
+        "Art",
+        "Orthodontics",
+        "Medicine",
+        "Dentistry",
+        "Psychology",
+        "Visual arts",
+        "Philosophy"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.5772/intechopen.1010737",
+      "openalex_url": "https://openalex.org/W4412202542",
+      "pdf_url": "https://www.intechopen.com/citation-pdf-url/1198294",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.intechopen.com/citation-pdf-url/1198294"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.096,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.46254/af6.20250090",
+      "arxiv_id": null,
+      "openalex_id": "W4412161597",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Evaluating Medical Students' Decision-Making in Trauma Radiography Using Signal Detection Theory",
+      "abstract": "Signal Detection Theory (SDT) is a valuable framework for studying decision-making processes. In this research, SDT was applied to evaluate the decision skills of medical students in diagnosing trauma radiography. To assess their performance, pre-test and post-test evaluations were conducted, providing each student with 50 trauma radiographic images (25 depicting injuries and 25 without injuries). The students were required to indicate whether they observed an injury or not. Based on their responses, the students' behaviors were categorized as liberal, conservative, or optimal, with the latter representing the desired behavior. The actual response bias and sensitivity were calculated for each student and compared the results between the pre-test and post-test stages. As a result, no optimal behaviors were observed during the pre-test; however, in the post-test, four students demonstrated optimal behaviors. An increase in conservative behavior among students during the post-test was observed, indicating an enhanced sense of awareness and caution. This change can be attributed to the focus and encouragement provided to the students throughout the study. Although no significant differences were found in the actual response bias values between the pre-test and post-test, noteworthy behavioral changes were observed. By employing SDT, this research highlights the decision-making abilities of medical students in trauma radiography diagnosis. The findings indicate that targeted interventions and training programs can play a vital role in improving decision-making skills. Further investigations are warranted to explore effective strategies for fostering optimal decision-making behaviors among medical students in radiographic diagnosis.",
+      "authors": [
+        {
+          "name": "Osama T. Al Meanazel",
+          "orcid": "https://orcid.org/0000-0003-3002-3513",
+          "affiliation": "Al Yamamah University",
+          "country": "SA",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Abdalmageed Almotari",
+          "orcid": "https://orcid.org/0000-0002-4276-6499",
+          "affiliation": "College of Industrial Engineering",
+          "country": "SI",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Osayd Mowafaq Quran",
+          "orcid": null,
+          "affiliation": "Applied Research Associates",
+          "country": "NZ",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mutaz Jamil Aburahma",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2025,
+      "venue": null,
+      "issn": null,
+      "type": "conference-paper",
+      "citation_count": 0,
+      "referenced_works_count": null,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11894",
+          "name": "Radiology practices and education",
+          "score": 0.9818000197410583
+        }
+      ],
+      "keywords": [
+        "Radiography",
+        "Detection theory",
+        "Computer science",
+        "SIGNAL (programming language)",
+        "Medical decision making",
+        "Medical physics",
+        "Artificial intelligence",
+        "Medicine",
+        "Radiology",
+        "Medical emergency"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/16",
+          "score": 0.6899999976158142,
+          "display_name": "Peace, Justice and strong institutions"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.46254/af6.20250090",
+      "openalex_url": "https://openalex.org/W4412161597",
+      "pdf_url": "https://ieomsociety.org/proceedings/morocco2025/90.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://ieomsociety.org/proceedings/morocco2025/90.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.096,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.18276/ais.2021.34-04",
+      "arxiv_id": null,
+      "openalex_id": "W4206654702",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Legal education at the crossroads of social responsibility and the development of individual competencies – experience at the University of Szeged (Hungary)",
+      "abstract": "The authors describe the role of the legal clinical education as an instrument for community empowerment through pro bono legal counseling, easily understandable e-compilation (Vademecum) of legal terms, and extended legal practice for law students, together with the development of their professional competencies. The new requirements in legal education, as determined by the government in 2016, focus on labour market needs, but academics and leaders of the University of Szeged have created an amalgam of tools for access to justice for local residents and NGOs in a less wealthy social environment, thereby introducing changes in education. The article proves how difficult it is to change historically-determined traditions in legal education in an innovative way, developing social solidarity, legal responsibility, ethics, and communication skills of the future generation of jurists in Hungary. In the course of the research, the authors analyze their own experiences since the establishment of the Legal Clinic at the University of Szeged under predefined requirement, e.g. number and type of cases or form of help. As a result, key fields are revealed where the work of the Legal Clinic is essential, and such a conclusion provided great help to further develop the partnership system and the entire clinical legal education at the University of Szeged.",
+      "authors": [
+        {
+          "name": "Judit Tóth",
+          "orcid": "https://orcid.org/0000-0001-5236-0436",
+          "affiliation": "University of Szeged",
+          "country": "HU",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Renáta Kálmán",
+          "orcid": "https://orcid.org/0000-0003-0459-8233",
+          "affiliation": "University of Szeged",
+          "country": "HU",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2021,
+      "venue": "Acta Iuris Stetinensis",
+      "issn": "2083-4373",
+      "type": "article",
+      "citation_count": 1,
+      "referenced_works_count": 2,
+      "fwci": 1.3898,
+      "cited_by_percentile_year": 93,
+      "topics": [
+        {
+          "id": "T12755",
+          "name": "Legal Education and Practice Innovations",
+          "score": 0.9897000193595886
+        }
+      ],
+      "keywords": [
+        "Empowerment",
+        "Legal education",
+        "General partnership",
+        "Solidarity",
+        "Social responsibility",
+        "Legal research",
+        "Government (linguistics)",
+        "Political science",
+        "Economic Justice",
+        "Work (physics)"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/17",
+          "score": 0.49000000953674316,
+          "display_name": "Partnerships for the goals"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.18276/ais.2021.34-04",
+      "openalex_url": "https://openalex.org/W4206654702",
+      "pdf_url": "https://wnus.edu.pl/ais/file/article/view/19529.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://wnus.edu.pl/ais/file/article/view/19529.pdf",
+        "http://publicatio.bibl.u-szeged.hu/25597/1/04_toth.j-kalman.r.pdf",
+        "https://doaj.org/article/0aa8ecb84f3648b48c30b2d59ed217fa"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.0937,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0912,
+          "recency_signal": 0.8
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.03208556149732621,
+          "h_index": 4
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.54119/alr.yxow4807",
+      "arxiv_id": null,
+      "openalex_id": "W4415046142",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Torts and Personhood",
+      "abstract": "Perhaps more so than ever, legal personhood is contested. Part I of this Article lays out an overview of existing tort theories exposing the limitations of existing paradigms. This positions the reader to consider in Part II the core assertion of this paper: that a fundamental role of torts is to define personhood. As such, it explores the idea that a principal project that each tort case and litigant is engaged with is not truly about money, property, or even pain per se—it is about determining who is seen.",
+      "authors": [
+        {
+          "name": "Melissa D. Mortazavi",
+          "orcid": null,
+          "affiliation": "University of Oklahoma",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2023,
+      "venue": "Arkansas law review",
+      "issn": "0004-1831",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": null,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T12982",
+          "name": "Legal principles and applications",
+          "score": 0.9114000201225281
+        }
+      ],
+      "keywords": [
+        "Personhood",
+        "Tort",
+        "Assertion",
+        "Principal (computer security)",
+        "Damages"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.54119/alr.yxow4807",
+      "openalex_url": "https://openalex.org/W4415046142",
+      "pdf_url": "https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=1218&context=alr",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=1218&context=alr",
+        "https://scholarworks.uark.edu/alr/vol76/iss3/3"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.088,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.08064516129032258,
+          "h_index": 6
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.11647/obp.0384.02",
+      "arxiv_id": null,
+      "openalex_id": "W4388760257",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "7. Health Care and Information Technology",
+      "abstract": "This chapter tells a story of seventy-five years of coevolution that has connected the practice of health care with the science and technology of information. It moves from experience of health care in the remote village life of my childhood to that in global village life today. It explores decades of transition onto a new landscape of disciplines, professions and services, played out within rapidly changing social, economic and political contexts. This transition has been described as turning the world of health care upside down, from an Industrial Age to an Information Age—the former grouped around service providers and the latter with a more patient-centred focus. Changing means and opportunities for preventing and combating disease have succeeded in saving lives and extending lifespans, albeit with increased years of ageing life often spent living with chronic and incurable conditions. The contributions of good nutrition, clean environment, shelter, sense of community and security to longer lifespan and healthier lifestyle, understood now in greater detail, give pause for thought about the balance, continuity and governance of health care services. Three contrasting commentaries on this era of change are introduced—from industry, science and social commentators of the times. With the arrival of new measurement and computational methods, spanning from genome to physiome science and to population level informatics and now machine intelligence, the Information Age has pressured health services with continually changing challenges, characterized by what has been described as ‘wicked problems’, the nature of which is discussed. Wholly new industries, providing products and services for diagnosis and treatment, many of these increasingly offered directly to citizens, have grown in scope and scale. In an era when powerful new treatments have come with increased risk of harm to patients, ethical and legal aspects of care services and their governance frameworks have come under increasing public and regulatory scrutiny. The changing scenes of education, assessment of competence to practice, accountability for care services, clinical risk, patient safety and research, are introduced, all dependent on the quality of relevant sources of information. This kaleidoscopic image of change sets the scene for discussion of the increasingly centre stage focus on information policy.",
+      "authors": [
+        {
+          "name": "David Ingram",
+          "orcid": "https://orcid.org/0000-0002-8669-8942",
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2023,
+      "venue": "Open Book Publishers",
+      "issn": null,
+      "type": "book-chapter",
+      "citation_count": 0,
+      "referenced_works_count": 88,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11710",
+          "name": "Biomedical Text Mining and Ontologies",
+          "score": 0.9977999925613403
+        },
+        {
+          "id": "T10350",
+          "name": "Electronic Health Records Systems",
+          "score": 0.9973000288009644
+        },
+        {
+          "id": "T14400",
+          "name": "Medical Coding and Health Information",
+          "score": 0.9275000095367432
+        }
+      ],
+      "keywords": [
+        "Health care",
+        "Informatics",
+        "Population",
+        "Service (business)",
+        "Public relations",
+        "Political science",
+        "Medicine",
+        "Business",
+        "Economic growth",
+        "Environmental health"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.11647/obp.0384.02",
+      "openalex_url": "https://openalex.org/W4388760257",
+      "pdf_url": "https://books.openbookpublishers.com/10.11647/obp.0384.02.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://books.openbookpublishers.com/10.11647/obp.0384.02.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.088,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.33448/rsd-v12i12.43847",
+      "arxiv_id": null,
+      "openalex_id": "W4388629792",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Parestesia associada ao tratamento endodôntico",
+      "abstract": "O presente trabalho teve por objetivo uma revisão bibliográfica acerca dos aspectos relacionados à parestesia ao longo do tratamento endodontico, discutindo sobre os sinais clínicos apresentados, etiologia, diagnósticos e possíveis tratamentos. Para a formulação do trabalho, foram selecionados 23 artigos, que se encontravam publicados em sua íntegra, no período de 2007 a 2022 nos idiomas português e inglês. A parestesia associada ao tratamento endodôntico ocorre em decorrência da sobreinstrumentação, sobreobturação, infecções periapicais, extravasamento de soluções irrigadoras e ao longo da anestesia. Os principais sinais e sintomas apresentados são dores intensas, sensação de queimação, coceira e alteração de sensibilidade em relação ao frio ou calor. Conforme os estudos encontrados, concluiu-se que, em decorrência da baixa incidência, as informações sobre o assunto ainda se encontram escassas, não existindo um protocolo de tratamento definido em históricos de parestesia envolvendo a Endodontia. Entretanto, sabe-se que, a história clínica do paciente, a evolução dos sintomas, anamnese detalhada, testes de neurossensibilidade e exames por imagem, facilitam o diagnóstico e auxiliam para um tratamento de sucesso. Entende-se que é necessário abranger os estudos nesta área, onde a prevenção, se associa a um planejamento adequado do procedimento, utilização correta dos materiais, conhecimento do limite apical e anatômico.",
+      "authors": [
+        {
+          "name": "Maria Eduarda de Oliveira Sales Bento",
+          "orcid": "https://orcid.org/0009-0003-1913-0593",
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Raylla da Silva Ferrante",
+          "orcid": "https://orcid.org/0009-0005-2336-1559",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mônica Parentoni Passos",
+          "orcid": "https://orcid.org/0009-0007-3385-0043",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2023,
+      "venue": "Research Society and Development",
+      "issn": "2525-3409",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 25,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.9980000257492065
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Humanities",
+        "Physics",
+        "Philosophy"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.33448/rsd-v12i12.43847",
+      "openalex_url": "https://openalex.org/W4388629792",
+      "pdf_url": "https://rsdjournal.org/rsd/article/download/43847/35247",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://rsdjournal.org/rsd/article/download/43847/35247",
+        "https://rsdjournal.org/index.php/rsd/article/view/43847"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.088,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.3507756425098402,
+          "h_index": 37
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.25148/lawrev.13.3.6",
+      "arxiv_id": null,
+      "openalex_id": "W2938867009",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Ringing Changes: Systems Thinking About Legal Licensing",
+      "abstract": "discussing retaining existing cut score on California bar examination).Texas has also recently undertaken an extensive review of its approach to bar examinations.See TASK FORCE ON THE TEXAS BAR EXAMINATION, RECOMMENDATIONS AND REPORT, FINAL REPORT TO THE TEXAS SUPREME COURT (May 14,",
+      "authors": [
+        {
+          "name": "Joan W. Howarth",
+          "orcid": null,
+          "affiliation": "Michigan State University",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Judith Welch Wegner",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2019,
+      "venue": "FIU Law Review",
+      "issn": "2643-7759",
+      "type": "article",
+      "citation_count": 1,
+      "referenced_works_count": 14,
+      "fwci": 1.805,
+      "cited_by_percentile_year": 93,
+      "topics": [
+        {
+          "id": "T12755",
+          "name": "Legal Education and Practice Innovations",
+          "score": 0.9995999932289124
+        },
+        {
+          "id": "T13643",
+          "name": "Artificial Intelligence in Law",
+          "score": 0.9929999709129333
+        },
+        {
+          "id": "T14230",
+          "name": "Occupational and Professional Licensing Regulation",
+          "score": 0.984000027179718
+        }
+      ],
+      "keywords": [
+        "Ringing",
+        "Law",
+        "Business",
+        "Political science",
+        "Law and economics",
+        "Telecommunications",
+        "Engineering",
+        "Sociology"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/16",
+          "score": 0.5400000214576721,
+          "display_name": "Peace, Justice and strong institutions"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.25148/lawrev.13.3.6",
+      "openalex_url": "https://openalex.org/W2938867009",
+      "pdf_url": "https://ecollections.law.fiu.edu/cgi/viewcontent.cgi?article=1348&context=lawreview",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://ecollections.law.fiu.edu/cgi/viewcontent.cgi?article=1348&context=lawreview",
+        "https://ecollections.law.fiu.edu/lawreview/vol13/iss3/6"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.0857,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0912,
+          "recency_signal": 0.72
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.23214285714285715,
+          "h_index": 24
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.21117/rbol-v9n22022-391",
+      "arxiv_id": null,
+      "openalex_id": "W4304113560",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "RESPONSABILIDADE PROFISSIONAL POR LESÃO DO NERVO LINGUAL PÓS-EXODONTIA DE TERCEIRO MOLAR INFERIOR: ANÁLISE DE NOVE PROCESSOS JUDICIAIS",
+      "abstract": "Introdução: A remoção cirúrgica dos terceiros molares inferiores apresenta o risco potencial de lesões a estruturas nobres como o nervo lingual devido sua localização anatômica. O grau de comprometimento do nervo indicará se a lesão é transitória ou permanente. A injúria nervosa pode motivar o paciente a acionar judicialmente o cirurgião-dentista, e sendo evidenciada a culpa profissional, caberá a reparação pecuniária dos danos causados ao paciente, sejam de natureza material ou moral. Objetivo: Analisar nove decisões judiciais de 1ª e 2ª instância, disponíveis no site do Tribunal de Justiça de São Paulo (TJSP), motivadas pela lesão do nervo lingual durante a exodontia de terceiro molar inferior. Metodologia: Após a leitura e análise foram extraídas informações como: perfil das partes, tempo de duração dos processos, procedência ou não da ação, valor da indenização, responsabilidade profissional presença de TCLE. Resultados: Houve a improcedência, em primeira instância, de seis dos nove casos, a sentença foi reformada em quatro processos, confirmando-se a procedência da ação em sete dos nove casos. Nas ações procedentes, as indenizações para dano moral variaram de R$ 5 mil a R$ 50 mil, sendo a imperícia e negligência as modalidades de culpa mais atribuídas aos profissionais. Conclusão: Sabendo-se que a lesão do nervo lingual durante a extração de terceiro molar inferior, mesmo previsível, nem sempre é evitável, verifica-se a importância do TCLE (ou documento similar) na prática clínica como instrumento de defesa jurídica do profissional, diante da alegação de falha de informação. Este documento foi mencionado em apenas três dos nove casos processuais, sendo em que em dois destes não houve constatação de falha técnica ou de informação (ação improcedente nas duas instâncias).",
+      "authors": [
+        {
+          "name": "José Lucas Santos Silva",
+          "orcid": null,
+          "affiliation": "Universidade Federal de Goiás",
+          "country": "BR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Lívia Graziele Rodrigues",
+          "orcid": "https://orcid.org/0000-0002-6218-4015",
+          "affiliation": "Fundação de Apoio a Pesquisa do Estado de Goiás",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Marcos Vinícius Coltri",
+          "orcid": "https://orcid.org/0000-0002-3614-6437",
+          "affiliation": "Moog (United States)",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Douglas Rangel Goulart",
+          "orcid": "https://orcid.org/0000-0001-8339-3660",
+          "affiliation": "Universidade Federal de Goiás",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Robson Rodrigues Garcia",
+          "orcid": "https://orcid.org/0000-0003-3479-6097",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Rhonan Ferreira Silva",
+          "orcid": "https://orcid.org/0000-0002-3680-7020",
+          "affiliation": "Universidade Federal de Goiás",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2022,
+      "venue": "Revista Brasileira de Odontologia Legal",
+      "issn": "2359-3466",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 19,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T12339",
+          "name": "Medical Malpractice and Liability Issues",
+          "score": 0.9958999752998352
+        },
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.9373999834060669
+        }
+      ],
+      "keywords": [
+        "Humanities",
+        "Medicine",
+        "Philosophy"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/16",
+          "score": 0.7400000095367432,
+          "display_name": "Peace, Justice and strong institutions"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.21117/rbol-v9n22022-391",
+      "openalex_url": "https://openalex.org/W4304113560",
+      "pdf_url": "https://portalabol.com.br/rbol/index.php/RBOL/article/download/391/318",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://portalabol.com.br/rbol/index.php/RBOL/article/download/391/318"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.084,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 0.84
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.0898876404494382,
+          "h_index": 12
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.4103/0970-7212.335250",
+      "arxiv_id": null,
+      "openalex_id": "W4401984633",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Delegate Abstracts",
+      "abstract": "1: Healing pattern of horizontal root fracture – A systematic review NANDINI SURESH, ANISHA MISHRA, VELMURUGAN NATANASABAPATHY, VENKATESHBABU NAGENDRABABU1, ASWATHI VARGHESE Meenakshi Academy of Higher Education and Research, Chennai Tamil Nadu, 1University of Sharjah, Sharjah, Sharjah Aim: To analyse the healing outcomes(O) of teeth with horizontal root fracture (P) treated with splinting, non-surgical root canal treatment and surgical root canal treatment (I) in comparison to self-healing (C). Methods: Systematic literature review was performed based on Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) recommendations, on clinical case report / series and prospective / retrospective clinical studies that evaluated the healing of horizontal root fracture treated with various techniques in comparison to self-healing. This review was registered with PROSPERO database A literature search in Pubmed, Proquest, Open grey, Web of science, Cochrane database of systematic review and Cochrane central register of controlled trials databases. Results: The search retrieved 9360 articles from all the electronic databases. After elimination of duplicates and reading full texts, 56 case reports with more than 4 year follow up and Twenty retrospective and prospective studies were included based on inclusion and exclusion criteria. A total of 2409 teeth were assessed. Quality assessment was done using Newcastle-Ottawa Scale for observational studies and JBI tools for case report and case series. The clinical prospective and retrospective studies showed that the healing pattern was predominantly Type II for factors like tooth type (41%), root development (40%), fracture location (50%). Based on the treatment modality, splinting type (40%) and splinting duration also showed Type II healing (44%). Over-all, type II healing pattern (33%) was observed followed by type I (28%), IV (19%) and III (16%) after a HRF. However, the healing pattern observed in case reports showed 68% Type 1 healing pattern. Conclusion: Based on the analysis of clinical cases, hard tissue healing is observed in 68% of HRF. However, with prospective and retrospective studies show 33% connective tissue healing. The assessment of case reports needs to performed cautiously because of possibility of including publication bias of well healed cases and minimal publishing of negative results / failures. Abstract 2: Bibliometric analysis of articles published on use operating microscopes for endodontic surgery from 1992 to 2020 SARAVANAN POORNI, MANALI RAMAKRISHNAN SRINIVASAN Sri Venkateswara Dental College and Hospital, Chennai, Tamil Nadu, India Aim: Although there have been important developments in Endodontic Microsurgery in recent years, there is no current and comprehensive bibliometric analysis in the literature. Hence the current bibliometric analysis was done to analyse the number of research articles per year, active authors, organizations and the countries of the first authors involved in the research domain of Endodontic Microsurgery. Materials and Methods: Dimensions Database was used to search data published in Endodontic Microsurgery. Only article published between 1992 to 2020 were included for the study. The data from all the articles included in the study was extracted using Dimensions. VOS viewer was used to develop analysis tables and visualisation maps. Results: A total of 2560 publications were identified related to Endodontic microsurgery. Bibliometric analysis was performed for 1707 articles. There was a steady increase in the number of articles published every year from 1992 till 2020 and the year 2020 being the most contributing year. The most active countries in this field was United States. The most active authors were Euiseong Kim, Massimo Del Fabbro, Silvio Taschieri. Maximum number of articles in this domain was published in Journal of Endodontics and International Endodontic Journal. The authorship pattern showed an interdisciplinary and collaborative researches. Conclusion: The current analysis shows an increasing trend of published articles. However, it highlights the need for publishing quality data to promote availability of quality evidence for clinical practice. Abstract 3: Comparative evaluation of the effect of mixing and placement techniques on physical, mechanical, and chemical properties of mm-MTA and manually mixed MTA KALAISELVAM RAJESWARI, RUDRA KONINDALA, G. ARATHI, KANDASWAMY DEIVANAYAGAM, RAMESH SESHAN RAKKESH Sri Ramachandra Dental College, Chennai, Tamil Nadu, India Aim: To evaluate the effect of mixing and placement techniques on sealing ability, push out strength and calcium release, alkalinity and solubility in open apex situations. Materials and Methods: One twenty human maxillary anterior teeth with mature roots extracted for periodontal reasons were selected to analyse the sealing ability and push-out strength at the root dentin-material interface. The teeth were decoronated with a diamond disc standardizing the root length to 15mm. To simulate immature open apices, the apical 3mm of the roots were removed and canals were widened with Gates Glidden drills size 4 to obtain 0.5-1.5mm dentinal walls. After shaping and cleaning the canals, the teeth were assigned to four experimental groups. Mechanically mixed MM- MTA and manually mixed MTA were placed using the manually or ultrasonically agitation technique. Sealing ability was analysed by measuring the depth of Rhodamine B dye penetration and Push-out strength was measured using the universal testing machine at the root dentin-material interface. Sixty plastic moulds of 5mm length and 5mm diameter were prepared. MM-MTA and MTA were manually or ultrasonically placed as per the assigned groups. After filling, the moulds were weighed to check the standardization of the amount of material in each mould. The moulds were split open and each specimen was immediately immersed in tubes containing 10 ml of deionised water at 37°C throughout the study period. The pH was measured using a pH meter, atomic absorption spectrophotometry was used to quantify the calcium release and the solubility was volumetrically analysed by weighing the percentage of weight loss at 3, 24, and 168 hours. X-ray diffraction analysis was performed to confirm the presence of added accelerators such as calcium carbonate in MM-MTA. The results were statistically analysed using the One-way ANOVA and Tukey's HSD test. Results: MM-MTA placed using ultrasonic agitation technique (Group A) performed significantly better when compared to other groups in terms of sealing ability, push out strength, amount of calcium release, pH and solubility of the material. Conclusion: The inherent composition of the MM-MTA, encapsulation and ultrasonic placement leads to superior properties and chemical Abstract Comparative evaluation of depth of penetration of using using study KANDASWAMY College and and Ramachandra of Dental Sri Ramachandra of Higher Education and Research, Chennai, Tamil Nadu, India Aim: This study to the depth of penetration of using and dentinal at the and apical of the root canal by using Materials and Methods: Sixty extracted teeth were selected and were decoronated at the and were performed using with The used was with Rhodamine B The were assigned four groups I II III and IV were at and from the apex in and were analysis was done using ANOVA with Tukey's to penetration the dentinal in the and apical of the root Results: The with showed the statistically depth of penetration of at the and apical of the root canal compared to the other and ultrasonic Conclusion: showed better depth penetration of in the dentinal of root canals, to the the dentinal root canal Abstract of Dental College and of Higher Education and Research, Chennai, Tamil Nadu, India in have the of and tissue have up to is an to – it a as a to an by with and that by – is of of the that to from the and placed a This review the of the recent and to a quality of Abstract Comparative evaluation of the of and using study Sri Ramachandra Dental College and Hospital, Chennai, Tamil Nadu, India been well in the endodontic literature that is an when used at from to in endodontic with the increasing with the increase in The of this was when with the been to increase the effect on Hence of this study was to analyse the of and at various by the of Materials and Methods: The were from and for hours. in well and for The and and with the groups were added to the groups of well and for hours. the was added to each and in for for the of of each well using the based on at Results: there was in an increase in when of all the of and there was no in and Conclusion: significantly increase the of of the There is a for the use of in non-surgical root canal and in in teeth with immature by of increase in Abstract of various root canal techniques on of – study ANISHA Dental College, Chennai, Tamil Nadu, India Aim: To evaluate the effect of various root canal techniques on of using study. Materials and Methods: human were decoronated to the root length to The canals were up to was done with of and ml of canal was done with of for The teeth were with and at for at of was the root canals, and the were at 37°C and for The were 1 – – with – 4 – The canals were with ml of for The was with the to the in was done with of were used to the of the was performed to the presence of and ANOVA were used for and Results: was observed that showed better in of followed by 4 and The was in the Conclusion: to in canal the of Abstract the of the A clinical Dental India The case series of in the on the of A in been the and of in One of the a is to a tooth followed by placement of a or to the tooth by endodontic and have in and This case series up to and also a to and a to this The case series the use of in clinical in in root and in the of horizontal root The clinical of this is by a clinical of A in field and on treatment to the of is such that in teeth with a Abstract of for root canal A based Dental College, Chennai, Tamil Nadu, India The of and the of is a The of to the development of per the recent and of leads to development of to Aim: This study to the and in of root canal Materials and Methods: A was done various using a The of the was using a by The study was by The was electronic to and from various in was used for each of The between of various clinical and of were using Results: A total of in the out of that root canal treatment and of that it is of that in healing. Only of that in to development of of and as for all of for and for of for when were The with followed by with Conclusion: the of the there is no the for the of for root canal The and duration increasing for the development of more Abstract evaluation of loss endodontic using experimental study of Dental India Aim: To and the loss of from the root canal of endodontic extracted were and ultrasonically it in The teeth were and till of was performed in all was at and the canal and in The teeth were in and on a of and placed in an were using the in a for The were four groups with and each tooth was and assigned a number to up for on using techniques technique with (Group technique using (Group using (Group The was and in root canal was using for measuring and of with Results: The and in root canal each were statistically using at The showed a increase of with and technique an increase of and comparison by showed that the technique using a statistically increase in as compared with and Conclusion: techniques of endodontic to statistically loss of root results showed ultrasonic more as compared to and technique. of of Abstract and Dental College, India and of is of the of clinical This been with the of the and like as Based to including and root as well as the This the of tissue is based on tissue than MTA was to in by and have been as a for like and have been used in like and in promote the of Dental and The follow of cases have the of based This to such cases and follow the use of in Abstract the Dental India of there is a need for for electronic there been an of to to the been an important of of of more microscopes there been a in number of to there by using microscopes for more more of the of also with This is an to in for in as to in with on to with of Abstract Comparative evaluation of analysis in root canal treated tooth with A study ARATHI, Sri Ramachandra of Dental Chennai, Tamil Nadu, India Aim: This study to evaluate the in a root canal treated tooth with a using Materials and Methods: of first was and in the tooth were and to groups – tooth Endodontic Endodontic 4 tooth with as tooth with for The is with the and to in the of The from the were to and of was in at in all teeth 4 was at the of the tooth of the was observed in 4 when compared to tooth and However, no in were observed between the groups 1 and Conclusion: The as a for of treated teeth of of treated the this to to of the treated Abstract in – Dental College and Hospital, Chennai, Tamil Nadu, India is a that been of the of human on from the a The of treatment on clinical need also on and the Dental a of to follow the of in the to of all of endodontic of a number of techniques and to the of endodontic years, an increasing number of cases have also been in Endodontics have the increase in there is a need to as well as related to the of this is to review the in Endodontic treatment Abstract of and with root in maxillary central using as a A Dental College and India to and in the number of roots and root A is a that is on the or of the maxillary The of the in maxillary central been to from and that of the is root to the development of an number of in teeth compared with that in of and root is and in the literature. is important with and in the depth of the to or is with treatment Although roots on or on the or of the roots need an or This reports of a case with the of and with an using as a an the was and the healing. Abstract of the apical sealing ability of with various using study Dental College and Hospital, India Aim: To evaluate the apical sealing ability of with various using Materials and Methods: extracted human were and assigned four groups based on material. 1: 2: 3: The teeth were done and till size using technique. was done using and followed by a of was done using technique. After the with teeth were in at 37°C for 1 to it to for The teeth were with of apical to in dye for was using dye and measured using a was statistically using ANOVA and Tukey's Results: showed and showed and show Conclusion: the of and material to a Abstract of endodontic – series of Dental India Endodontic of a of The of root canal and the and of the possibility of of or in the to a of endodontic of cleaning and and Endodontic have and the between factors in increasing the of endodontic treatment is the for the as well as the of a is the first in this highlights the cases with and Abstract healing and in A review Dental College and Hospital, Chennai, Tamil Nadu, India in techniques that and that the of have the of in However, the current by the to the of the on of the and the of the of and that the of the Dental and the type of to To the in this it is to on research that of and with clinical that tissue and This is a review of that at tissue and such as and that in the development of Abstract and surgical of maxillary central with with a of A case report College of Dental Hospital, India clinical the use of and results in treatment The case report highlights the endodontic and surgical of maxillary central with in a and the presence of canals in till the of the root of and in the of root After a of root canal treatment and surgical to the in A of clinical and with the of Abstract of penetration of calcium in root after techniques and to strength Dental College and India Aim: The of this study was to the penetration of calcium to root canals after use of techniques and to the Materials and Methods: root and canal were were decoronated to length of using diamond The were and the root canals with was done throughout and the was were to technique and the were with followed by technique. were at and apical was evaluated for penetration of and testing machine was used to the push-out The data was using ANOVA and test. Results: depth of penetration and out strength was with calcium after using The depth of penetration and push out strength was with The and showed statistically as compared to apical in all groups. Conclusion: of the is of clinical for the of endodontic calcium have because of and properties including use in showed that with significantly the depth of penetration and strength of this other or have effect on penetration and push out This as loss of the of endodontic Abstract A on of endodontic India Aim: To analyse the and of endodontic Materials and Methods: were was and by the was The was in various of Endodontic and The were electronic to of in clinical practice. The data was and percentage of of was Results: to This data was to the the were and have performed the of the have used endodontic for of as compared to was the to out of the on after treatment that the like of increase in root length and open apex with no clinical as for the of the the that is the need of the as a treatment The and the of for Conclusion: the first of of for to Dental have Endodontic study also of that the is the need of more in the of and by endodontic Abstract of using Dental College and and Aim: To evaluate of from and to Materials and Methods: of from and to clinical were from tubes to tubes containing with were at 37°C and for to presence of were used as from tubes with were on and at 37°C for and for analysis and number of The were to based on techniques and analysis using to confirm Results: showed no showed with the in was after the other 4 to show was with the showed for and of and were for the percentage of for all related data and the search for using of showed with and showed with based on Conclusion: This study of to analysis like and from to a research as endodontic Abstract of the sealing ability of with MTA and study Dental College, Chennai, Tamil Nadu, India To evaluate the sealing ability of endodontic based MTA based and calcium based with to the dentinal using Materials and Methods: human were The root canals were technique with the The canals were with of and with of the teeth were 4 experimental groups MTA 4 was with was done with and the root was using a diamond on a to obtain the root canal at the and apical of the root water the were in and and was and observed The from the analysis were to analysis – One ANOVA and test. Results: The and of the at the to the dentinal in each was assessed. The showed the followed by MTA at and apical Conclusion: showed penetration at the apical and was for the better than MTA and showed significantly better and sealing ability at the and than the apical the better compared to Abstract of and for of and study of Dental College, Dental College The of in is on is with a of the of the of the study is to quantify the of and in with and and the of to between and Materials and Methods: with were for the study after the clinical of and of was from all the using after of was in using was to the between and the of operating analysis was done to the for The were for using Results: and showed between and The of in and was to and to The for was with a and of and The of in and was to and to The for was with a and of and The of was the of in Conclusion: and showed for However, and of was than studies the of with the treatment of Abstract and of for Dental College and Hospital, Dental College and India The for in endodontic is of is by placement of in root canal to endodontic However, of in to in and in release of the treatment The of the study was to develop as and to evaluate the of Materials and Methods: were added to a to obtain using of the the between the and and for of were was done to study the of the and diameter of the were measured using of the was done using water and – and were used to diameter Results: The for using – and The evaluation showed the of with and the size of in The diameter for was to The also with no of and water analysis the of The a in the were using and for in studies and evaluation of of the Abstract of on the of and in study Dental College and Hospital, India Aim: To The and were performed on extracted The were of was each canal and at for were groups of each and the was with with with with with and with were from each canal using were in and evaluation was of the data was done by using and The used in the analysis was and and is a of The used for the analysis of the were One Results: percentage of in total in A) with it was in by it was and in by was The percentage of in total in by was in by it was and in by it was Conclusion: the of this it was that was more than in Maximum was in with Abstract of on of endodontic in study Dental College and India Aim: To evaluate and the and of for pH at various of diameter and of were and from the were groups to pH of and to of and were immersed in for pH and After every was with and were in an and after and of were were statistically by ANOVA and test. Results: groups showed that the in of of and after were significantly with increase in in in were significantly when the duration of was Maximum was for at pH and was with at all the groups showed that there was of in in of and after with increase in in in were significantly with increasing the of Maximum was for at pH and was with at Conclusion: study pH the and of all on of with in and on of the of endodontic the of endodontic in such cases endodontic evaluated for Abstract of on strength of in study Dental College, India Aim: of on quality of and to push-out extracted first with canal were selected for the study. the were decoronated from the apex to obtain a with to size was was done till length from the After were four used and After with all the were in and at and from were evaluated for number of and push out strength and universal testing machine The comparison of was performed using a analysis of The comparison of between groups was out using Tukey's test. Results: number of and for push out strength were in The was when compared with other groups – Conclusion: The quality of and push-out strength the quality of study showed better quality of and strength when used as a of after the in of This is for the of endodontic Abstract and of a in with root fracture India is the and of a or from by the and in clinical cases with and or more clinical that have treatment root of treated teeth of the most clinical to and root treated it to with teeth and also to of fracture of root and is also the of and the of such cases more This case report a treated tooth that with clinical and and This case was and as a endodontic and periodontal with healing the 4 year follow up period. Abstract and assessment of factors for endodontic treatment A study Dental College and Hospital, India Aim: To and for Endodontic in To evaluate for and for root canal To the factors for of root canal treatment Materials and Methods: the in total of treated teeth in were included as The study were groups on the of After from was from the study and the study was from was done to evaluate tooth and on assessment was done by using for of were as or tooth analysis was followed by to between Results: in followed by teeth in was followed by in is most involved tooth followed by was as used endodontic of the tooth and of teeth a non-surgical was that and were significantly years, and was of the treatment is in of endodontic Conclusion: than is for endodontic treatment to the of the endodontic quality also the follow in the and in treatment and Abstract of of endodontic and of of central A College and Hospital, India and is with and period. is to use in the and root canal Hence a chemical is The of the than Aim: The of this is to of the and the endodontic in the Dental in Materials and Methods: and in this were of and of effect of on was analysed using and The of was at Results: The of of with 1 to 10 of and were with of all data of that it with that used for have effect on of use from with with use of that or strength with endodontic of in tooth Conclusion: The of this that the of that of Maximum of with and of the effect of on Abstract Comparative evaluation of and as dentinal on strength of and study Dental College, India is performed to in The properties of most used such as and to have effect on between tooth and study was to of and on of and human were to disc and using The were to groups to A and B – as with with with were for",
+      "authors": [],
+      "year": 2021,
+      "venue": "Endodontology",
+      "issn": "0970-7212",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": null,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T12281",
+          "name": "Animal testing and alternatives",
+          "score": 0.010200000368058681
+        },
+        {
+          "id": "T13370",
+          "name": "Diverse Scientific and Economic Studies",
+          "score": 0.008999999612569809
+        },
+        {
+          "id": "T10582",
+          "name": "Ethics in Clinical Research",
+          "score": 0.00430000014603138
+        }
+      ],
+      "keywords": [
+        "Delegate",
+        "Computer science",
+        "Programming language"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.4103/0970-7212.335250",
+      "openalex_url": "https://openalex.org/W4401984633",
+      "pdf_url": "https://doi.org/10.4103/0970-7212.335250",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.4103/0970-7212.335250"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.08,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 0.8
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.645,
+          "h_index": 17
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": null,
+      "arxiv_id": null,
+      "openalex_id": "W3139750380",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Evaluating the Link Between Orofacial Myofunctional Disorders and Obstructive Sleep Apnea and Their Relevance to the Dental Hygiene Clinical Evaluation",
+      "abstract": "Background: Dental professionals are in a prime position to recognize the signs and symptoms of obstructive sleep apnea (OSA) and make the appropriate referrals for a medical consultation. Due to the frequency of prophylaxis appointments, the dental office is an appropriate setting to conduct OSA screenings, however, dental hygienists are often lacking the knowledge, impacting their attitudes and screening practices during the dental hygiene examination. The aim of this dissertation was to determine if there is a link between orofacial myofunctional disorders and OSA, if the dental hygienist is provided with the education necessary to identify OSA risks and make referrals, and if there is a benefit to including the identification of orofacial myofunctional disorders as risk factors for OSA in the dental hygiene curriculum. Methods: A comprehensive review of the literature related to OMD and OSA was conducted, using the University of Bridgeport Wahlstrom Library databases. Results: The findings of this dissertation demonstrate a clear link between orofacial myofunctional disorders and OSA. Craniofacial features impact upper airway size and contributing factors to its narrowing can lead to an increased risk of collapse and consequently, disrupted nighttime sleep. Dental hygienists are lacking education on sleep-disordered breathing, OSA, and orofacial myofunctional disorders as risk factors for OSA, preventing them from screening for OSA and feeling confident in making referrals. Including orofacial myofunctional disorders as risk factors for OSA into the dental hygiene curriculum would be beneficial. Conclusions: The link between orofacial myofunctional disorders and obstructive sleep apnea is clear. Dental hygienists are not provided adequate education on OSA, or orofacial myofunctional disorders as risk factors for OSA. Including OSA identification and screening into the dental hygiene examination will increase diagnosis and treatment. Including preventative medical screening into the dental appointment reduces the risk of medical comorbidities and increases medical evaluation and treatment, therefore, it has the potential for reducing costs to the healthcare system over time.",
+      "authors": [
+        {
+          "name": "Janice I. Schmitz",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2021,
+      "venue": "University of Bridgeport ScholarWorks (University of Bridgeport)",
+      "issn": null,
+      "type": "dissertation",
+      "citation_count": 0,
+      "referenced_works_count": null,
+      "fwci": null,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T10234",
+          "name": "Obstructive Sleep Apnea Research",
+          "score": 0.9901999831199646
+        },
+        {
+          "id": "T13770",
+          "name": "Pediatric health and respiratory diseases",
+          "score": 0.9664000272750854
+        },
+        {
+          "id": "T11358",
+          "name": "Dysphagia Assessment and Management",
+          "score": 0.9088000059127808
+        }
+      ],
+      "keywords": [
+        "Obstructive sleep apnea",
+        "Medicine",
+        "Dentistry",
+        "Clinical significance",
+        "Relevance (law)",
+        "Sleep hygiene",
+        "Dental hygiene",
+        "Orthodontics",
+        "Physical therapy",
+        "Sleep quality"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.4000000059604645,
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": null,
+      "openalex_url": "https://openalex.org/W3139750380",
+      "pdf_url": "https://scholarworks.bridgeport.edu/xmlui/handle/123456789/4438",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://scholarworks.bridgeport.edu/xmlui/handle/123456789/4438"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.08,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 0.8
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.1080/19424396.2009.12223017",
+      "arxiv_id": null,
+      "openalex_id": "W4324114967",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Cone Beam Computed Tomography — Anatomic Assessment and Legal Issues: The New Standards of Care",
+      "abstract": "Until the recent introduction of cone beam computed tomography scanners, standard 2-D imaging provided a moderate contribution to overall treatment planning when considering the diagnostic potential, costs of study, and risks to the patient. Cone beam computed tomography-dedicated maxillofacial imaging scanners provide broader imaging tools for anatomic assessment and have become widely available. This article discusses the uses and benefits of 3-D imaging, as well as the impact on the standard of care.",
+      "authors": [
+        {
+          "name": "Arthur Curley",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "David C. Hatcher",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2009,
+      "venue": "Journal of the California Dental Association",
+      "issn": "0091-4231",
+      "type": "article",
+      "citation_count": 10,
+      "referenced_works_count": 17,
+      "fwci": 1.7155,
+      "cited_by_percentile_year": 96,
+      "topics": [
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.9998000264167786
+        },
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.9937000274658203
+        },
+        {
+          "id": "T12386",
+          "name": "Advanced X-ray and CT Imaging",
+          "score": 0.9860000014305115
+        }
+      ],
+      "keywords": [
+        "Cone beam computed tomography",
+        "Medical physics",
+        "Computed tomography",
+        "Medicine",
+        "Tomography",
+        "Standard of care",
+        "Radiation treatment planning",
+        "Medical imaging",
+        "Radiology",
+        "Beam (structure)"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.6700000166893005,
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1080/19424396.2009.12223017",
+      "openalex_url": "https://openalex.org/W4324114967",
+      "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/19424396.2009.12223017?download=true",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.tandfonline.com/doi/pdf/10.1080/19424396.2009.12223017?download=true"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.0793,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.3155,
+          "recency_signal": 0.32
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.5614754098360656,
+          "h_index": 55
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    }
+  ],
+  "meta": {
+    "query": {
+      "topic": "laser dentistry malpractice litigation",
+      "search_query": "laser dentistry malpractice litigation",
+      "year_min": null,
+      "year_max": null,
+      "per_strategy": 40,
+      "terms": [
+        "laser",
+        "dentistry",
+        "malpractice",
+        "litigation"
+      ]
+    },
+    "counts": {
+      "retrieved_raw": 120,
+      "after_dedup": 44,
+      "after_relevance_filter": 44,
+      "after_journal_filter": 44,
+      "after_rank_filter": 44,
+      "returned": 30
+    },
+    "rank": {
+      "platform": "jcr",
+      "platform_source": "default",
+      "keep_tiers": null,
+      "keep_quartiles": null,
+      "top_only": false,
+      "category": null,
+      "applied_filter": false,
+      "ambiguous": false,
+      "candidate_platforms": [],
+      "kept": null,
+      "filtered": null,
+      "no_platform_data": null,
+      "data_loaded": false,
+      "loaded_platforms": [],
+      "switchable_platforms": [],
+      "switch_is_refilter_not_research": true,
+      "stripped_phrases": [],
+      "deepen": {
+        "active": false,
+        "rounds": 0,
+        "saturated": false,
+        "final_per_strategy": 40
+      },
+      "attribution": null,
+      "note": null,
+      "keep_tiers_note": null,
+      "naming": "CAS 区 & SJR best_quartile are PARTITIONS; only JCR impact_factor is a real Impact Factor (R-04/R-09). 切换标准/档位 = 重筛已标注的候选池，不重搜。"
+    },
+    "enrichment": {
+      "enriched": true,
+      "impact_source": "openalex_summary_stats",
+      "impact_attached": 26,
+      "filter_quartiles": null,
+      "filter_min_impact": null,
+      "category": null,
+      "issn_backfill_enabled": true,
+      "issn_backfill_attempted": 0,
+      "issn_backfilled": 0,
+      "note": "Single journal_rank layer. Quartile/影响力 data lives in each paper's journal_rank (CAS/JCR/SJR + openalex). Partition data is cached under ~/.paper-search-pro/ranks/ (run `journal_rank fetch`, no API key needed). Only JCR IF(2024) is a real Impact Factor."
+    },
+    "relevance": {
+      "method": "heuristic_v1",
+      "is_llm_rcs": false,
+      "min_relevance": 0.0,
+      "weights": {
+        "title_coverage": 0.5,
+        "abstract_coverage": 0.25,
+        "citation_signal": 0.15,
+        "recency_signal": 0.1
+      },
+      "note": "Deterministic query-grounded heuristic, NOT the human path's LLM RCS. A signal for self-judgement, computed for every paper."
+    },
+    "saturation": {
+      "method": "heuristic_v1",
+      "advisory": true,
+      "looks_saturated": true,
+      "per_strategy_new_papers": [
+        40,
+        2,
+        2
+      ],
+      "last_strategy_marginal_yield": 0.0455,
+      "score_distribution": {
+        "high": 0,
+        "medium": 2,
+        "low": 42
+      },
+      "note": "Heuristic stop signal (no LLM classification). 'looks_saturated' = later strategies added few new papers. Advisory only."
+    },
+    "ratelimit": {
+      "ok": true,
+      "remaining_usd": 0.7267,
+      "limit_usd": 1.0,
+      "remaining": 7267,
+      "limit": 10000,
+      "reset_seconds": 47514,
+      "retry_after": null,
+      "should_switch": false,
+      "mode": "probe",
+      "error": null,
+      "switched_source": false
+    },
+    "source_used": "openalex",
+    "warnings": []
+  }
+}

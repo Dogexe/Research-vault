@@ -1,0 +1,4004 @@
+{
+  "ok": true,
+  "schema_version": "1.0",
+  "data": [
+    {
+      "doi": "10.3390/prosthesis4040053",
+      "arxiv_id": null,
+      "openalex_id": "W4309315253",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Facial Scanners in Dentistry: An Overview",
+      "abstract": "Purpose: This narrative review aims to explore the current status of facial scanning technology in the dental field; outlining the history, mechanisms, and current evidence regarding its use and limitations within digital dentistry. Methods: Subtopics within facial scanner technology in dentistry were identified and divided among four reviewers. Electronic searches of the Medline (PubMed) database were performed with the following search terms: facial scanner, dentistry, prosthodontics, virtual patient, sleep apnea, maxillofacial prosthetics, accuracy. For this review only studies or review papers evaluating facial scanning technology for dental or medical applications were included. A total of 44 articles were included. Due to the narrative nature of this review, no formal evidence-based quality assessment was performed and the search was limited to the English language. No further restrictions were applied. Results: The significance, applications, limitations, and future directions of facial scanning technology were reviewed. Specific subtopics include significant history of facial scanner use and development for dentistry, different types and mechanisms used in facial scanning technology, accuracy of scanning technology, use as a diagnostic tool, use in creating a virtual patient, virtual articulation, smile design, diagnosing and treating obstructive sleep apnea, limitations of scanning technology, and future directions with artificial intelligence. Conclusions: Despite limitations in scan quality and software operation, 3D facial scanners are rapid and non-invasive tools that can be utilized in multiple facets of dental care. Facial scanners can serve an invaluable role in the digital workflow by capturing facial records to facilitate interdisciplinary communication, virtual articulation, smile design, and obstructive sleep apnea diagnosis and treatment. Looking into the future, facial scanning technology has promising applications in the fields of craniofacial research, and prosthodontic diagnosis and treatment planning.",
+      "authors": [
+        {
+          "name": "Jason D. Lee",
+          "orcid": "https://orcid.org/0000-0002-7792-6659",
+          "affiliation": "Harvard University",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Olivia Nguyen",
+          "orcid": "https://orcid.org/0000-0001-8335-3773",
+          "affiliation": "Harvard University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yu-Chun Lin",
+          "orcid": null,
+          "affiliation": "Harvard University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Dianne Luu",
+          "orcid": "https://orcid.org/0000-0002-3502-6556",
+          "affiliation": "Harvard University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Susie Kim",
+          "orcid": "https://orcid.org/0000-0002-9213-887X",
+          "affiliation": "Harvard University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ashley A. Amini",
+          "orcid": null,
+          "affiliation": "Harvard University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Sang J. Lee",
+          "orcid": "https://orcid.org/0000-0001-7142-2890",
+          "affiliation": "Harvard University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2022,
+      "venue": "Prosthesis",
+      "issn": "2673-1592",
+      "type": "article",
+      "citation_count": 57,
+      "referenced_works_count": 56,
+      "fwci": 9.1602,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.9975000023841858
+        },
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.996399998664856
+        },
+        {
+          "id": "T11866",
+          "name": "Reconstructive Facial Surgery Techniques",
+          "score": 0.9957000017166138
+        }
+      ],
+      "keywords": [
+        "Workflow",
+        "Obstructive sleep apnea",
+        "Prosthodontics",
+        "Medicine",
+        "Computer science",
+        "Medical physics",
+        "Dentistry"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "score": 0.6200000047683716,
+          "display_name": "Quality Education"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/prosthesis4040053",
+      "openalex_url": "https://openalex.org/W4309315253",
+      "pdf_url": "https://www.mdpi.com/2673-1592/4/4/53/pdf?version=1668502794",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2673-1592/4/4/53/pdf?version=1668502794",
+        "https://doaj.org/article/8bf16071aad9427099187c9cef66d432"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3141,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.5342,
+          "recency_signal": 0.84
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.0372340425531914,
+          "h_index": 31
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.5772/intechopen.1012234",
+      "arxiv_id": null,
+      "openalex_id": "W4414629526",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Advanced Laser Applications for Dental Caries Management",
+      "abstract": "Laser therapy is already a viable treatment modality, accessible to many doctors, which is coming to compete with or replace conventional treatments. Laser therapy in managing dental caries has applicability from the diagnosis and prevention stage to the monitoring of pulp vitality and the actual treatment of caries. There are several laser wavelengths, respectively types of laser radiation, that have therapeutic applications following international concepts of minimally invasive dentistry. Nonsurgical lasers have multiple applications: Laser fluorescence sustains the early diagnosis of carious lesions, laser Doppler flowmetry indicates variations in pulpal circulation, antimicrobial photodynamic therapy helps in reducing the microbial activity, and laser biomodulation has reparative effects and reduces postoperative pain and inflammation. Surgical ablative lasers, such as Er: YAG and Er,Cr: YSGG, are used in cavity preparation and surface modification to increase caries resistance, at the same time being able to decontaminate and condition the surface for the adhesion of restorative materials. Increased patient acceptability of laser therapy in the treatment of dental caries is reported, requiring less anesthesia and resulting in less postoperative pain.",
+      "authors": [
+        {
+          "name": "Ruxandra Elena Luca",
+          "orcid": "https://orcid.org/0000-0001-7323-2687",
+          "affiliation": "Victor Babeș University of Medicine and Pharmacy Timișoara",
+          "country": "RO",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Roxana Ioana Munteanu",
+          "orcid": null,
+          "affiliation": "Victor Babeș University of Medicine and Pharmacy Timișoara",
+          "country": "RO",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mariana Miron",
+          "orcid": "https://orcid.org/0000-0002-4904-0885",
+          "affiliation": "Victor Babeș University of Medicine and Pharmacy Timișoara",
+          "country": "RO",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Alexandra Roi",
+          "orcid": "https://orcid.org/0000-0003-4790-4560",
+          "affiliation": "Victor Babeș University of Medicine and Pharmacy Timișoara",
+          "country": "RO",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ciprian Ioan Roi",
+          "orcid": "https://orcid.org/0000-0002-3214-9278",
+          "affiliation": "Victor Babeș University of Medicine and Pharmacy Timișoara",
+          "country": "RO",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2025,
+      "venue": "Dentistry",
+      "issn": "2631-6218",
+      "type": "book-chapter",
+      "citation_count": 1,
+      "referenced_works_count": 83,
+      "fwci": 5.2345,
+      "cited_by_percentile_year": 97,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T10957",
+          "name": "Photodynamic Therapy Research Studies",
+          "score": 0.9980000257492065
+        },
+        {
+          "id": "T11521",
+          "name": "Salivary Gland Disorders and Functions",
+          "score": 0.9854000210762024
+        }
+      ],
+      "keywords": [
+        "Laser",
+        "Laser therapy",
+        "Photodynamic therapy",
+        "Laser treatment",
+        "Chlorhexidine",
+        "Oral cavity",
+        "Dental treatments"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.5772/intechopen.1012234",
+      "openalex_url": "https://openalex.org/W4414629526",
+      "pdf_url": "https://www.intechopen.com/citation-pdf-url/1228296",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.intechopen.com/citation-pdf-url/1228296",
+        "https://www.intechopen.com/chapters/1228296"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3097,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.4,
+          "citation_signal": 0.0912,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.7807017543859649,
+          "h_index": 7
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": null,
+      "arxiv_id": null,
+      "openalex_id": "W140691962",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "The use of diode laser in dentistry - two cases report",
+      "abstract": "Introduction: We present our clinical cases, the use of diode laser in patients with gingival hypertrophy and lower semi impact third molar. An indication for application of our diode laser as in our cases is: At first – periodontal surgery, gingival depigmentation and decontamination and curettage of the sulcus, In the other case, in the area of the third molar, we made operculectomy, circumcision and we got excellent hemostasis. Methods: The patient, a 64 year old man, was a good general health for his age. He presented with a conventional bridge in the maxilla supported by natural abutments and gingival frontal upper hypertrophy. Since the bridge was removed, used the diode laser we made a new gingival contour, following only contact anesthetic. The other patients, a 23 year old woman, right lower semi impact third molar where we make operculectomy with diode laser, like the previous case only with contact anesthetic. Conclusions: The diode laser as a modern therapeutic method helped us to a very fast and simple way, elegant, clean – without bleeding, and in a short time period for treatment and resolution of such situations.",
+      "authors": [
+        {
+          "name": "Kiro Papakoča",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Cena Dimova",
+          "orcid": "https://orcid.org/0009-0009-4514-735X",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ivona Kovacevska",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Papakoca, Gordana",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Radeska, Ana",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2012,
+      "venue": "Goce Delchev University Repository (Goce Delčev University of Štip)",
+      "issn": null,
+      "type": "conference-paper",
+      "citation_count": 0,
+      "referenced_works_count": 0,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9351000189781189
+        },
+        {
+          "id": "T13768",
+          "name": "Oral and gingival health research",
+          "score": 0.015399999916553497
+        },
+        {
+          "id": "T11570",
+          "name": "Periodontal Regeneration and Treatments",
+          "score": 0.008500000461935997
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Dentistry",
+        "Molar",
+        "Laser",
+        "Depigmentation",
+        "Diode",
+        "Surgery",
+        "Materials science",
+        "Optics"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": null,
+      "openalex_url": "https://openalex.org/W140691962",
+      "pdf_url": "http://eprints.ugd.edu.mk/2406/1/Abstrakti%20elektronik%2027.4%2017%20Bass%20Tirana.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "http://eprints.ugd.edu.mk/2406/1/Abstrakti%20elektronik%2027.4%2017%20Bass%20Tirana.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.294,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.4,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.0,
+          "recency_signal": 0.44
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.1002/cre2.374",
+      "arxiv_id": null,
+      "openalex_id": "W3115922445",
+      "ss_paper_id": null,
+      "pmid": "33369213",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Evaluation of upper labial frenectomy: A randomized, controlled comparative study of conventional scalpel technique and Er: YAG laser technique",
+      "abstract": "OBJECTIVES: Abnormalities in the maxillary frenum may lead to esthetic or functional limitations and need to be corrected with a surgical intervention called frenectomy. The aim of the study was to compare frenectomies performed using Er:YAG laser technology with those using a conventional scalpel technique. Comparisons were of patients' experiences, treatment times, bleeding during treatment and wound healing. MATERIAL AND METHODS: The trial was performed as a prospective, randomized and controlled, single-blind investigation. A total of 40 patients requiring frenectomy were randomly assigned to groups which underwent either conventional or Er:YAG laser treatment. Patients' experiences, treatment time, bleeding and wound healing were evaluated immediately after surgery and 5 days, 12 days and 3 months after surgery. RESULTS: Significant increase in time spent in surgery and bleeding was seen with conventional scalpel surgery. Directly after surgery the wound area was significantly larger in the laser group but at the 5-day evaluation no difference could be observed between the groups. Finally, patients were satisfied with both methods, giving them the same assessments. CONCLUSION: In the frenectomy procedure, laser surgery is faster and causes less bleeding and may be advantageous in frenectomies.",
+      "authors": [
+        {
+          "name": "Roxana Sarmadi",
+          "orcid": "https://orcid.org/0000-0002-7110-8284",
+          "affiliation": "Region Stockholm",
+          "country": "SE",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Pia Gabre",
+          "orcid": "https://orcid.org/0000-0003-1031-7143",
+          "affiliation": "Region Stockholm",
+          "country": "SE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Andreas Thor",
+          "orcid": "https://orcid.org/0000-0001-9590-2039",
+          "affiliation": "Uppsala University",
+          "country": "SE",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2020,
+      "venue": "Clinical and Experimental Dental Research",
+      "issn": "2057-4347",
+      "type": "article",
+      "citation_count": 28,
+      "referenced_works_count": 32,
+      "fwci": 3.1041,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T13813",
+          "name": "Oral and Craniofacial Lesions",
+          "score": 0.9470999836921692
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.040300000458955765
+        },
+        {
+          "id": "T12198",
+          "name": "Oral health in cancer treatment",
+          "score": 0.00139999995008111
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Surgery",
+        "Randomized controlled trial",
+        "Laser surgery",
+        "Significant difference",
+        "Single blind",
+        "Dentistry",
+        "Laser"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.7799999713897705,
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1002/cre2.374",
+      "openalex_url": "https://openalex.org/W3115922445",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cre2.374",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cre2.374",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/8404491",
+        "http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-433647",
+        "https://doaj.org/article/772112d30e714168882d9357c1403446"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.2924,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.443,
+          "recency_signal": 0.76
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.849122807017544,
+          "h_index": 43
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1063/5.0135004",
+      "arxiv_id": null,
+      "openalex_id": "W4323049008",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Application of spectral-domain optical coherence tomography technique to in-process measure hole depth during femtosecond laser drilling in different alloys",
+      "abstract": "In this paper, a real-time diagnostic based on the spectral-domain optical coherence technique has been developed to measure the hole depth during femtosecond laser drilling. This diagnostic borrows the idea of a fiber interferometer, and the hole is integrated as a part of the sample arm. By means of investigating the interference fringes detected by the line camera, the hole depth can be extracted. This diagnostic utilizes a broadband small-volume super-luminescent diode as the coherent light source, which has a central wavelength of 833 nm and a full width at half maximum of 24 nm. It has a temporal resolution of 50 µs and a maximal theoretic depth resolution of 12.8 µm. Three kinds of metal samples have been tested, confirming the ability of depth measurement. Copper has been proven to have the best-normalized reflectivity during drilling compared with aluminum alloy and stainless steel.",
+      "authors": [
+        {
+          "name": "Peng Xu",
+          "orcid": "https://orcid.org/0000-0003-3136-9188",
+          "affiliation": "Xihua University",
+          "country": "CN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yi Yu",
+          "orcid": "https://orcid.org/0000-0002-3395-7744",
+          "affiliation": "Sun Yat-sen University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "R. J. Liu",
+          "orcid": null,
+          "affiliation": "Xihua University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Kaixiang Zha",
+          "orcid": null,
+          "affiliation": "Xihua University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Lan Zhou",
+          "orcid": "https://orcid.org/0000-0002-7052-266X",
+          "affiliation": "Xihua University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Y. T. Liu",
+          "orcid": null,
+          "affiliation": "Xihua University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Zhengyang Xu",
+          "orcid": "https://orcid.org/0000-0001-7396-4968",
+          "affiliation": "Xihua University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2023,
+      "venue": "AIP Advances",
+      "issn": "2158-3226",
+      "type": "article",
+      "citation_count": 4,
+      "referenced_works_count": 20,
+      "fwci": 0.6431,
+      "cited_by_percentile_year": 96,
+      "topics": [
+        {
+          "id": "T10732",
+          "name": "Laser Material Processing Techniques",
+          "score": 0.9995999932289124
+        },
+        {
+          "id": "T11569",
+          "name": "Optical Coherence Tomography Applications",
+          "score": 0.9991000294685364
+        },
+        {
+          "id": "T11301",
+          "name": "Advanced Surface Polishing Techniques",
+          "score": 0.9957000017166138
+        }
+      ],
+      "keywords": [
+        "Femtosecond",
+        "Materials science",
+        "Optics",
+        "Interferometry",
+        "Laser",
+        "Optical coherence tomography",
+        "Laser drilling",
+        "Wavelength",
+        "Coherence (philosophical gambling strategy)",
+        "Optical fiber"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1063/5.0135004",
+      "openalex_url": "https://openalex.org/W4323049008",
+      "pdf_url": "https://aip.scitation.org/doi/pdf/10.1063/5.0135004",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://aip.scitation.org/doi/pdf/10.1063/5.0135004",
+        "https://doaj.org/article/b75d7c1cac3a4a4c8d8fa0ca53aefc3d"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.2698,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.2117,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.4560954816709293,
+          "h_index": 105
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.7860/jcdr/2017/28498.10622",
+      "arxiv_id": null,
+      "openalex_id": "W2766815482",
+      "ss_paper_id": null,
+      "pmid": "29207849",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Management of Paediatric Oral Ranula: A Systematic Review",
+      "abstract": "INTRODUCTION: Ranula is mucous extravasation cyst that occurs in the floor of the mouth. There are various methods of management of paediatric oral ranula each of which has their own advantage and disadvantage. AIM: The aim of this paper was to systematically review the available literature on the management of paediatric oral ranula. MATERIALS AND METHODS: A total of 64 articles were retrieved by electronic search. Based on the preset inclusion and exclusion criteria, a total of 21 articles were retrieved for full text analysis. The following characteristics were assessed from the retrieved articles: author, year of publication, study design, sample size, intervention, adverse effects and follow up period. RESULTS: The included studies consisted of the following study design: Seven articles were prospective clinical study, four articles were retrospective review, five articles were case series and five articles were case report. The mode of care varied from surgical excision to drug administration and lasers. CONCLUSION: The data obtained from the review, display a lack of high quality study, with proper sample size and adequate follow up period. Further, randomized clinical trials are required to help the clinicians devise a best treatment approach for the management of paediatric oral ranula.",
+      "authors": [
+        {
+          "name": "Saraniya Packiri",
+          "orcid": null,
+          "affiliation": "Saveetha University",
+          "country": "IN",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2017,
+      "venue": "JOURNAL OF CLINICAL AND DIAGNOSTIC RESEARCH",
+      "issn": "0973-709X",
+      "type": "review",
+      "citation_count": 195,
+      "referenced_works_count": 38,
+      "fwci": 6.5585,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11787",
+          "name": "Oral and Maxillofacial Pathology",
+          "score": 0.25189998745918274
+        },
+        {
+          "id": "T11035",
+          "name": "Salivary Gland Tumors Diagnosis and Treatment",
+          "score": 0.20589999854564667
+        },
+        {
+          "id": "T13813",
+          "name": "Oral and Craniofacial Lesions",
+          "score": 0.1914999932050705
+        }
+      ],
+      "keywords": [
+        "Ranula",
+        "Medicine",
+        "Inclusion and exclusion criteria",
+        "Clinical trial",
+        "Dentistry",
+        "Adverse effect",
+        "Systematic review",
+        "Surgery",
+        "MEDLINE",
+        "Alternative medicine"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/10",
+          "score": 0.6700000166893005,
+          "display_name": "Reduced inequalities"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.7860/jcdr/2017/28498.10622",
+      "openalex_url": "https://openalex.org/W2766815482",
+      "pdf_url": "http://jcdr.net/pdf_download.asp?issn=&year=2017&month=September&volume=11&issue=9&page=ZE06&id=10622",
+      "pmc_url": null,
+      "oa_locations": [
+        "http://jcdr.net/pdf_download.asp?issn=&year=2017&month=September&volume=11&issue=9&page=ZE06&id=10622",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/5713871",
+        "https://doaj.org/article/3d4bb7b5899d444c9dd100549d9a4358"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.2682,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.4,
+          "citation_signal": 0.6944,
+          "recency_signal": 0.64
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.14362368091575747,
+          "h_index": 101
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.25289/ml.26.005",
+      "arxiv_id": null,
+      "openalex_id": "W7140564558",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Artificial intelligence for optimizing medical laser procedure parameters: a data pipeline, performance metrics, and safety-first framework",
+      "abstract": "Medical laser procedures require careful selection and control of parameters such as wavelength, pulse duration, fluence, spot size, repetition rate, scanning pattern, and exposure time to balance efficacy, tissue selectivity, and safety.Artificial intelligence (AI), including machine learning and control-oriented learning, is increasingly positioned to support quality management, automatic tuning, and real-time feedback during laserbased interventions.This review synthesizes the role of AI across the total product life cycle for laser parameter optimization, emphasizing end-to-end data pipelines, clinically meaningful performance metrics, and layered safety mechanisms, rather than device-centric feature descriptions.We propose a structured framework that links data provenance, model objectives, uncertainty handling, and deployment monitoring to risk management processes and clinical evaluation standards.Key considerations include multimodal data integration from device telemetry and sensing, definition of optimization targets that reflect both outcomes and adverse events, calibration and robustness testing under domain shift, and implementation of safety constraints with hard limits and human override.Regulatory-aligned practices such as Good Machine Learning Practice and transparency principles, as well as reporting and bias-assessment guidelines for clinical AI, are mapped to the laser workflow to support reproducibility and safer translation.",
+      "authors": [
+        {
+          "name": "Jae Soo Hong",
+          "orcid": "https://orcid.org/0000-0001-8564-8647",
+          "affiliation": "Korea Institute of Industrial Technology",
+          "country": "KR",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2026,
+      "venue": "Medical Lasers",
+      "issn": "2287-8300",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 0,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11636",
+          "name": "Artificial Intelligence in Healthcare and Education",
+          "score": 0.41920000314712524
+        },
+        {
+          "id": "T11773",
+          "name": "Healthcare Operations and Scheduling Optimization",
+          "score": 0.039000000804662704
+        },
+        {
+          "id": "T10916",
+          "name": "Surgical Simulation and Training",
+          "score": 0.030700000002980232
+        }
+      ],
+      "keywords": [
+        "Expert system",
+        "Component (thermodynamics)",
+        "Laser",
+        "Key (lock)"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.25289/ml.26.005",
+      "openalex_url": "https://openalex.org/W7140564558",
+      "pdf_url": "https://www.jkslms.or.kr/journal/download_pdf.php?doi=10.25289/ML.26.005",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.jkslms.or.kr/journal/download_pdf.php?doi=10.25289/ML.26.005"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.25,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.5180722891566265,
+          "h_index": 12
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.55248/gengpi.06.1025.3736",
+      "arxiv_id": null,
+      "openalex_id": "W7105808295",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Soldering and Welding- In Dentistry: A Review.",
+      "abstract": "In prosthodontics and orthodontics, dental soldering and welding are the basic ways to combine metal parts.When you solder, you use a filler alloy that melts at a lower temperature than the metal you are working with.When you weld, you utilize localized heat to combine metals with or without filler.Soldering is a common way to make and fix fixed partial dentures, orthodontic appliances, and removable prostheses.It uses solders, fluxes, and antifluxes to make sure that the joints are correct and that the distortion is kept to a minimum.Welding, especially laser and micro-pulse welding, is more accurate, doesn't cause much thermal distortion, and lets you combine materials like titanium and cobalt-chromium without using flux.Recent improvements include the use of laser and micro-pulse technologies, the creation of universal solders with built-in flux, the integration of CAD/CAM and additive manufacturing workflows, and better parameters for specific alloys.Future developments suggest an increased dependence on digital planning, intraoral welding, biocompatible and corrosion-resistant materials, and smaller devices equipped with automated presets.The goal of this review paper was to give an overview of the rules, tools, methods, recent developments, and future directions of dental soldering and welding.",
+      "authors": [
+        {
+          "name": "Dr.B. Lakshmana Rao",
+          "orcid": null,
+          "affiliation": "Central Tobacco Research Institute",
+          "country": "IN",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2025,
+      "venue": "International Journal of Research Publication and Reviews",
+      "issn": "2582-7421",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 0,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11958",
+          "name": "Dental Erosion and Treatment",
+          "score": 0.2565000057220459
+        },
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.15410000085830688
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.03480000048875809
+        }
+      ],
+      "keywords": [
+        "Soldering",
+        "Welding",
+        "Laser beam welding",
+        "Titanium alloy",
+        "Fixed prosthodontics",
+        "Titanium",
+        "Solder paste",
+        "Filler (materials)"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.55248/gengpi.06.1025.3736",
+      "openalex_url": "https://openalex.org/W7105808295",
+      "pdf_url": "https://doi.org/10.55248/gengpi.06.1025.3736",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.55248/gengpi.06.1025.3736"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.246,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.0,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.38135420902806016,
+          "h_index": 28
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1111/cns.13690",
+      "arxiv_id": null,
+      "openalex_id": "W3166331373",
+      "ss_paper_id": null,
+      "pmid": "34101365",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Potential surgical therapies for drug‐resistant focal epilepsy",
+      "abstract": "Drug-resistant focal epilepsy (DRFE), defined by failure of two antiepileptic drugs, affects 30% of epileptic patients. Epilepsy surgeries are alternative options for this population. Preoperative evaluation is critical to include potential candidates, and to choose the most appropriate procedure to maximize efficacy and simultaneously minimize side effects. Traditional procedures involve open skull surgeries and epileptic focus resection. Alternatively, neuromodulation surgeries use peripheral nerve or deep brain stimulation to reduce the activities of epileptogenic focus. With the advanced improvement of laser-induced thermal therapy (LITT) technique and its utilization in neurosurgery, magnetic resonance-guided LITT (MRgLITT) emerges as a minimal invasive approach for drug-resistant focal epilepsy. In the present review, we first introduce drug-resistant focal epilepsy and summarize the indications, pros and cons of traditional surgical procedures and neuromodulation procedures. And then, focusing on MRgLITT, we thoroughly discuss its history, its technical details, its safety issues, and current evidence on its clinical applications. A case report on MRgLITT is also included to illustrate the preoperational evaluation. We believe that MRgLITT is a promising approach in selected patients with drug-resistant focal epilepsy, although large prospective studies are required to evaluate its efficacy and side effects, as well as to implement a standardized protocol for its application.",
+      "authors": [
+        {
+          "name": "Wei Shan",
+          "orcid": "https://orcid.org/0000-0002-8616-2670",
+          "affiliation": "Capital Medical University",
+          "country": "CN",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Xuewei Mao",
+          "orcid": "https://orcid.org/0000-0002-2300-5723",
+          "affiliation": "Qingdao University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Wang Xiu",
+          "orcid": "https://orcid.org/0000-0003-3167-0122",
+          "affiliation": "National Center for Clinical Laboratories",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "R. Edward Hogan",
+          "orcid": "https://orcid.org/0000-0003-2272-5005",
+          "affiliation": "Washington University in St. Louis",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Qun Wang",
+          "orcid": "https://orcid.org/0000-0002-5946-2918",
+          "affiliation": "Capital Medical University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2021,
+      "venue": "CNS Neuroscience & Therapeutics",
+      "issn": "1755-5930",
+      "type": "article",
+      "citation_count": 24,
+      "referenced_works_count": 207,
+      "fwci": 2.5153,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T10094",
+          "name": "Epilepsy research and treatment",
+          "score": 1.0
+        },
+        {
+          "id": "T10919",
+          "name": "Neurological disorders and treatments",
+          "score": 0.9994000196456909
+        },
+        {
+          "id": "T11406",
+          "name": "Cerebrospinal fluid and hydrocephalus",
+          "score": 0.996999979019165
+        }
+      ],
+      "keywords": [
+        "Epilepsy",
+        "Drug Resistant Epilepsy",
+        "Neuromodulation",
+        "Medicine",
+        "Epilepsy surgery",
+        "Neurosurgery",
+        "Deep brain stimulation",
+        "Intensive care medicine",
+        "Medical physics",
+        "Surgery"
+      ],
+      "sdgs": [
+        {
+          "score": 0.7799999713897705,
+          "display_name": "Good health and well-being",
+          "id": "https://metadata.un.org/sdg/3"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1111/cns.13690",
+      "openalex_url": "https://openalex.org/W3166331373",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cns.13690",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cns.13690",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/8339538"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.2435,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.4,
+          "citation_signal": 0.4235,
+          "recency_signal": 0.8
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 6.024643320363165,
+          "h_index": 121
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": null,
+      "arxiv_id": null,
+      "openalex_id": "W3097222430",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Nanosecond laser processing of a Zr-based bulk metallic glass for potential orthopaedic implant applications",
+      "abstract": "With continuously improving living standards, the demand for biomaterials in \\northopaedic implant applications has increased substantially in recent years. Bulk \\nmetallic glasses (BMGs) have recently emerged as promising candidate \\nbiomaterials due to their unique mechanical and chemical properties as well as \\nattractive processing capabilities, which result from their amorphous nature. A \\nnumber of studies exploring the bio-compatibility of BMGs have been reported in \\nthe literature, the outcome of which has generally shown the potential of Zr-based, \\nMg-based and Ti-based BMGs for bio-medical applications. At the same time, \\nsurface treatments have also been successfully used on traditional biomedical \\nalloys, especially titanium alloys, to further enhance their bio-compatibility. In this \\ncontext, the focus of this Thesis was on applying a number of nanosecond (ns) \\nlaser surface processing techniques on a specific type of Zr-based BMG, also \\nknown as Vitreloy 105, to investigate the potential of this combination of material \\nand surface treatments for the development of a new candidate biomaterial. \\nIn the first part of the thesis, reported in Chapter 4, a 2D theoretical model was \\ndeveloped to simulate the thermal history within a Vitreloy 105 workpiece in the \\ncontext of multiple and moving ns pulses irradiation. In particular, the model was \\nused to predict the ablated feature dimensions and to reveal possible thermal \\nevents occurring during the laser micromachining process that could explain the \\nformation of the resulting topography. The combined experimental and theoretical \\napproach also enabled the identification of a suitable set of laser parameters with \\nrespect to the process efficiency over a range of pulse durations, fluence values, \\nscanning speeds and track distances between machined grooves. \\nAbstract \\niii \\n \\nIn the second part of the thesis, which is the focus of Chapter 5 and 6, laser surface \\ntexturing was employed to fabricate two types of surface patterns, dimple and \\ngroove, to study the resulting wettability of Vitreloy 105, and associated bio \\ncompatibility characteristics. Firstly, the effect of different laser parameters, \\nincluding laser fluence, scanning speed, surface texture type and track distance, \\non the wettability of this BMG was investigated. Following this, through in-vitro cell \\nculture experiments, the bio-compatibility of Vitreloy 105 samples with different \\nsurface textures was assessed. The underlying mechanism associated with laser \\nsurface texturing which affected the in-vitro bio-compatibility of the material was \\ndiscussed based on the laser-induced modifications to surface chemistry and \\nsurface roughness. In line with the obtained wettability results, the bio-compatibility \\nfindings showed that cells on groove-textured surfaces had a higher viability and \\nbetter adhesion compared to those on the as-cast and dimple-textured surfaces. \\nMoreover, it was also found that cells aligned along the direction of laser-induced \\ngroove patterns. \\nIn the last part of the thesis, presented in Chapter 7, it was confirmed that laser \\nsurface melting (LSM) could be employed to modify the hardness and the shear \\nbanding behaviour of Vitreloy 105. More specifically, by conducting ns LSM \\noperations in ambient atmosphere, it was found that surface hardening could be \\nachieved, in addition to the well-known surface softening effect. In addition, it was \\nfound that the presence of compressive residual stress and an increased \\nintroduction of crystalline precipitates accompanied LSM-induced surface \\nhardening. On the contrary, tensile residual stress and a reduced fraction of \\ncrystalline precipitates were observed for the softened surface post-LSM. Finally, \\ndifferences in shear-banding mechanisms were detected near the surface of the \\nlaser irradiated regions. More specifically, overall reduced serrated flow but \\nimportant surface shear bands events were observed following the LSM-based \\nintroduction of compressive residual stress. In contrast, more pronounced serrated \\nAbstract \\niv \\n \\nflows and the likely distribution of shear banding activity well beneath the irradiated \\nBMG surface was promoted when LSM resulted in the introduction of tensile \\nresidual stress. \\nOverall, the results reported in this thesis suggest that nanosecond laser-based \\nsurface micromachining, texturing and melting represent promising methods for \\npromoting the potential application of Vitreloy 105 as orthopaedic implants.",
+      "authors": [
+        {
+          "name": "Yang Jiao",
+          "orcid": "https://orcid.org/0000-0002-8079-7392",
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2020,
+      "venue": "ORCA Online Research @Cardiff (Cardiff University)",
+      "issn": null,
+      "type": "dissertation",
+      "citation_count": 1,
+      "referenced_works_count": 0,
+      "fwci": null,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T10732",
+          "name": "Laser Material Processing Techniques",
+          "score": 0.9878000020980835
+        },
+        {
+          "id": "T13049",
+          "name": "Surface Roughness and Optical Measurements",
+          "score": 0.9724000096321106
+        },
+        {
+          "id": "T11799",
+          "name": "Adhesion, Friction, and Surface Interactions",
+          "score": 0.9635999798774719
+        }
+      ],
+      "keywords": [
+        "Materials science",
+        "Amorphous metal",
+        "Context (archaeology)",
+        "Amorphous solid",
+        "Biomaterial",
+        "Laser",
+        "Titanium",
+        "Surface modification",
+        "Titanium alloy",
+        "Nanotechnology"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": null,
+      "openalex_url": "https://openalex.org/W3097222430",
+      "pdf_url": "https://orca.cardiff.ac.uk/134815/1/2020JiaoYPhD.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://orca.cardiff.ac.uk/134815/1/2020JiaoYPhD.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.2397,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.0912,
+          "recency_signal": 0.76
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.3897/folmed.65.e111609",
+      "arxiv_id": null,
+      "openalex_id": "W4390428164",
+      "ss_paper_id": null,
+      "pmid": "38351790",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Laser biomodification of the bone bed surface for placement of spiral dental implants: a study based on scanning electron microscopy",
+      "abstract": "Introduction: Various rotary and mechanical instruments are used in conventional oral surgery for osteotomies. Despite the implementation of effective cooling systems, it is difficult to prevent thermal damage to the adjacent bone caused by heat generated during the procedure. A smear layer forms on the surface, which can impede the interaction of blood elements with the underlying tissue, resulting in a delayed healing process. Aim: This study explores the possibility of overcoming these drawbacks by combining conventional methods with a pulsed Er:YAG laser. By examining the osteotomy surfaces using scanning electron microscopy (SEM), we investigated the potential synergistic effects that could benefit conventional implantology. Materials and methods: Split osteotomies were performed on mandibles of freshly euthanized domestic pigs (Sus scrofa domestica). With osteotomy surface examination, the experimental comparison involved two groups: group A - standard technique, and group B - surface ablation using an Er:YAG laser by applying our own method. The samples from both groups were examined using scanning electron microscopy (SEM). Results: In group A samples, the bone surface was smooth, with an amorphous layer and microcracks all over it. The thickness of this layer ranged from 21.77 µm to 136.2 µm, completely obstructing the Volkmann’s and Haversian canals. In group B, the borders were smooth and well defined. The bone structure remained unchanged, with empty intratrabecular spaces, no signs of carbonization, and open canals reaching the surface. The smear layer measured between 3.054 µm and 47.26 µm, with complete absence observed in some places. Conclusions: The present study provides evidence that ablation of the osteotomy surface using an Er:YAG laser leads to biomodification by eliminating the smear layer without altering the parameters of the bone bed.",
+      "authors": [
+        {
+          "name": "Nikolay Kanazirski",
+          "orcid": "https://orcid.org/0000-0002-7138-4617",
+          "affiliation": "Medical University Plovdiv",
+          "country": "BG",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Deyan Neychev",
+          "orcid": "https://orcid.org/0000-0001-6792-4652",
+          "affiliation": "Medical University Plovdiv",
+          "country": "BG",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ralitsa Raycheva",
+          "orcid": "https://orcid.org/0000-0002-6417-5681",
+          "affiliation": "Medical University Plovdiv",
+          "country": "BG",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Nikolay Zahariev",
+          "orcid": "https://orcid.org/0000-0002-4508-8443",
+          "affiliation": "Medical University Plovdiv",
+          "country": "BG",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2023,
+      "venue": "Folia Medica",
+      "issn": "0204-8043",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 15,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.9911999702453613
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.9907000064849854
+        }
+      ],
+      "keywords": [
+        "Scanning electron microscope",
+        "Materials science",
+        "Dentistry",
+        "Laser",
+        "Biomedical engineering",
+        "Osteotomy",
+        "Osseointegration",
+        "Spiral (railway)",
+        "Composite material",
+        "Implant"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3897/folmed.65.e111609",
+      "openalex_url": "https://openalex.org/W4390428164",
+      "pdf_url": "https://doi.org/10.3897/folmed.65.e111609",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.3897/folmed.65.e111609",
+        "https://foliamedica.bg/article/111609/download/pdf/",
+        "https://doaj.org/article/6900e03edb07424490669b8ab8b5bbf4"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.238,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.0,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.006060606060606,
+          "h_index": 30
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1002/cap.70042",
+      "arxiv_id": null,
+      "openalex_id": "W7125707388",
+      "ss_paper_id": null,
+      "pmid": "41582823",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Innovations in microsurgery: The role of non‐invasive blood perfusion imaging—A review and framework",
+      "abstract": "BACKGROUND: This review evaluates current literature on non-invasive blood perfusion imaging in periodontology, with a focus on applications in periodontal microsurgery. METHODS: A hypothesis-building review was conducted by two reviewers from January 2022 to April 2025 across multiple databases. RESULTS: Laser speckle contrast imaging (LSCI) and ultrasound (US) emerged as the most promising modalities. LSCI measures superficial gingival perfusion with high spatial resolution, demonstrating sensitivity to vascular dynamics and sex-related differences during tissue compression. US, using B-mode and color flow-based imaging, provides both anatomical and functional assessment of gingival and peri-implant tissues, showing correlations with inflammation and healing outcomes. Both techniques have been validated in clinical and preclinical settings as reliable tools for assessing perfusion during regenerative procedures. A clinical case illustrates the use of LSCI and US to evaluate blood perfusion in a grafted alveolar ridge. CONCLUSIONS: Blood perfusion is a key factor in wound healing, heavily influenced by surgical trauma and flap tension. Microsurgical techniques may improve outcomes by minimizing soft tissue trauma and preserving vascular integrity during flap procedures. LSCI and US together could offer complementary, real-time, chairside imaging to monitor perfusion, advancing personalized treatment strategies and improving prediction of healing outcomes in periodontal and peri-implant therapy. KEY POINTS: Laser speckle contrast imaging (LSCI) and ultrasound (US) emerge as the leading non-invasive modalities for assessing periodontal tissue perfusion, with LSCI capturing superficial microvascular flow and US providing complementary anatomical and functional detail. Evidence from recent clinical and preclinical studies, and an illustrative case example, demonstrates that both technologies reliably evaluate perfusion during regenerative and microsurgical procedures, including grafted alveolar ridges. Because adequate perfusion is essential for wound healing, integrating LSCI and US into periodontal practice may support real-time, personalized, data-driven clinical decision making and help optimize outcomes in periodontal and peri-implant therapy. PLAIN LANGUAGE SUMMARY: This review examines the use of non-invasive imaging technologies to assess blood flow (perfusion) in periodontal tissues, with a focus on their application in periodontal microsurgery. A literature search covering studies published from January 2022 to April 2025 identified laser speckle contrast imaging (LSCI) and ultrasound (US) as the most promising modalities. LSCI provides high-resolution assessment of superficial gingival perfusion and is sensitive to vascular changes, while US, using B-mode and color Doppler, offers both anatomical and functional insights into gingival and peri-implant tissues. Both techniques have demonstrated clinical and preclinical reliability in evaluating perfusion during regenerative procedures, as seen in the literature review. A case example presented by the authors illustrates how LSCI and US can be used in combination to assess blood flow in a grafted alveolar ridge. Adequate perfusion is essential for wound healing and may be compromised by surgical trauma and flap tension. Microsurgical techniques, which aim to minimize tissue trauma and preserve vascular integrity, may enhance healing outcomes. The integration of LSCI and US into clinical practice could enable real-time, chairside assessment of tissue perfusion, supporting more personalized, data-driven decision making in periodontal and peri-implant therapies.",
+      "authors": [
+        {
+          "name": "Amanda B. Rodriguez",
+          "orcid": null,
+          "affiliation": "University of Illinois Chicago",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Oliver D. Kripfgans",
+          "orcid": "https://orcid.org/0000-0003-2905-1496",
+          "affiliation": "University of Michigan",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Diego Velasquez-Plata",
+          "orcid": "https://orcid.org/0000-0002-2780-8355",
+          "affiliation": "Aurora Periodontics and Implant Dentistry",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hsun‐Liang Chan",
+          "orcid": null,
+          "affiliation": "The Ohio State University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2026,
+      "venue": "Clinical Advances in Periodontics",
+      "issn": "2163-0097",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 52,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.6187000274658203
+        },
+        {
+          "id": "T11570",
+          "name": "Periodontal Regeneration and Treatments",
+          "score": 0.12479999661445618
+        },
+        {
+          "id": "T10599",
+          "name": "Reconstructive Surgery and Microvascular Techniques",
+          "score": 0.039000000804662704
+        }
+      ],
+      "keywords": [
+        "Perfusion",
+        "Blood flow",
+        "Clinical Practice",
+        "Wound healing",
+        "Speckle pattern",
+        "Perfusion scanning",
+        "Microcirculation"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1002/cap.70042",
+      "openalex_url": "https://openalex.org/W7125707388",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cap.70042",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cap.70042",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13080419/pdf/CAP-16-S22.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.2,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.4,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.7961165048543689,
+          "h_index": 20
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.56808/2985-1130.3188",
+      "arxiv_id": null,
+      "openalex_id": "W4386109443",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Transcutaneous light penetration of simultaneous superpulsed and multiple wavelength photobiomodulation therapy in living dog tissue",
+      "abstract": "Photobiomodulation therapy (PBMT) is used as an adjunctive therapy for wound healing, pain relief and rehabilitation. The penetration of light to the target tissue is the crucial factor. The aim of this study was to investigate the potential penetration of simultaneous superpulsed and multiple wavelength (SPMW) PBMT on living tissue in dogs. Twenty client-owned dogs were anesthetized and underwent abdominal surgery. The PMBT device was set at 50 Hz and delivered light for 60 sec at different distances; at 0 cm (contact) and 1 cm tissue-device distance (non-contact). The power meter was placed and measured the mean output power (MOP) under the skin tissue only and the combination of skin and muscle tissue. The average thickness of skin was 2.97 mm (ranging from 1.7 to 4.3 mm) and the combination of skin and muscle tissue thickness was 15.87 mm (ranging from 10.0 to 30.0 mm). For skin tissue, MOP was found to be at 13.00±4.99 mW and 3.47±1.79 mW using the skin contact and non-contact mode, respectively. For the combination of skin and muscle tissue, MOP was found to be at 1.46±1.11 mW and 0.35±0.51 mW using the skin contact and non-contact mode, respectively. The MOP of skin contact was significantly greater than the non-contact both on skin tissue only and the combination of skin and muscle tissue (P<0.05). Based on these results, transcutaneous SPMW PBMT with a preset parameter of 50 Hz has been proven to be appropriate for target tissue thickness up to approximately 30.0 mm.",
+      "authors": [
+        {
+          "name": "Somphong Hoisang",
+          "orcid": "https://orcid.org/0000-0001-5924-207X",
+          "affiliation": "Khon Kaen University",
+          "country": "TH",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Suvaluk Seesupa",
+          "orcid": "https://orcid.org/0000-0003-1408-0593",
+          "affiliation": "Khon Kaen University",
+          "country": "TH",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Supranee Jitpean",
+          "orcid": "https://orcid.org/0000-0003-3355-3042",
+          "affiliation": "Khon Kaen University",
+          "country": "TH",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Naruepon Kampa",
+          "orcid": "https://orcid.org/0000-0002-2252-2956",
+          "affiliation": "Khon Kaen University",
+          "country": "TH",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2022,
+      "venue": "The Thai Journal of Veterinary Medicine",
+      "issn": "0125-6491",
+      "type": "article",
+      "citation_count": 1,
+      "referenced_works_count": 43,
+      "fwci": 0.1315,
+      "cited_by_percentile_year": 93,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9998000264167786
+        },
+        {
+          "id": "T11172",
+          "name": "Dermatologic Treatments and Research",
+          "score": 0.9776999950408936
+        },
+        {
+          "id": "T11386",
+          "name": "Bee Products Chemical Analysis",
+          "score": 0.9750999808311462
+        }
+      ],
+      "keywords": [
+        "Penetration (warfare)",
+        "Biomedical engineering",
+        "Muscle tissue",
+        "Medicine",
+        "Human skin",
+        "Materials science",
+        "Surgery",
+        "Anatomy"
+      ],
+      "sdgs": [
+        {
+          "display_name": "Good health and well-being",
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.7400000095367432
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.56808/2985-1130.3188",
+      "openalex_url": "https://openalex.org/W4386109443",
+      "pdf_url": "https://digital.car.chula.ac.th/cgi/viewcontent.cgi?article=3188&context=tjvm",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://digital.car.chula.ac.th/cgi/viewcontent.cgi?article=3188&context=tjvm"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1977,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.4,
+          "citation_signal": 0.0912,
+          "recency_signal": 0.84
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.4767932489451477,
+          "h_index": 23
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1002/9781394205356.ch4",
+      "arxiv_id": null,
+      "openalex_id": "W4406258178",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "General Principles of Laser Therapy",
+      "abstract": "This chapter discusses the general principles of using photobiomodulation in a clinical setting including practical safety, principles of calculating dosing, and how various parameters such as wavelengths, pulsing, beam delivery methods, and other parameters may affect results. Additional principles such as treatment session frequency, how to make dosing adjustments, formulating a treatment plan, application techniques, and how to treat acute vs. chronic conditions are discussed.",
+      "authors": [
+        {
+          "name": "Lisa A. Miller",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2025,
+      "venue": null,
+      "issn": null,
+      "type": "other",
+      "citation_count": 0,
+      "referenced_works_count": 34,
+      "fwci": null,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T11127",
+          "name": "Solid State Laser Technologies",
+          "score": 0.9075999855995178
+        }
+      ],
+      "keywords": [
+        "Dosing",
+        "Session (web analytics)",
+        "Medical physics",
+        "Intensive care medicine",
+        "Plan (archaeology)",
+        "Medicine",
+        "Computer science",
+        "Internal medicine"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1002/9781394205356.ch4",
+      "openalex_url": "https://openalex.org/W4406258178",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/9781394205356.ch4",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/9781394205356.ch4"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.196,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.1038/s43586-023-00231-0",
+      "arxiv_id": null,
+      "openalex_id": "W4381615795",
+      "ss_paper_id": null,
+      "pmid": "40909236",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Light-based vat-polymerization bioprinting",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Riccardo Levato",
+          "orcid": "https://orcid.org/0000-0002-3795-3804",
+          "affiliation": "Utrecht University",
+          "country": "NL",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Oksana Y. Dudaryeva",
+          "orcid": "https://orcid.org/0000-0002-9587-7053",
+          "affiliation": "University Medical Center Utrecht",
+          "country": "NL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Carlos Ezio Garciamendez‐Mijares",
+          "orcid": "https://orcid.org/0000-0003-2433-9773",
+          "affiliation": "Brigham and Women's Hospital",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Bruce E. Kirkpatrick",
+          "orcid": "https://orcid.org/0000-0003-2862-3843",
+          "affiliation": "University of Colorado Boulder",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Riccardo Rizzo",
+          "orcid": "https://orcid.org/0000-0001-8297-6776",
+          "affiliation": "Harvard University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jacob Schimelman",
+          "orcid": "https://orcid.org/0000-0002-9028-2632",
+          "affiliation": "University of California San Diego",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Kristi S. Anseth",
+          "orcid": "https://orcid.org/0000-0002-5725-5691",
+          "affiliation": "University of Colorado Boulder",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Shaochen Chen",
+          "orcid": "https://orcid.org/0000-0001-6876-497X",
+          "affiliation": "University of California San Diego",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Marcy Zenobi‐Wong",
+          "orcid": "https://orcid.org/0000-0002-8522-9909",
+          "affiliation": "ETH Zurich",
+          "country": "CH",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yu Shrike Zhang",
+          "orcid": "https://orcid.org/0000-0002-0045-0808",
+          "affiliation": "Brigham and Women's Hospital",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2023,
+      "venue": "Nature Reviews Methods Primers",
+      "issn": "2662-8449",
+      "type": "review",
+      "citation_count": 172,
+      "referenced_works_count": 226,
+      "fwci": 5.2935,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11190",
+          "name": "3D Printing in Biomedical Research",
+          "score": 1.0
+        },
+        {
+          "id": "T10783",
+          "name": "Additive Manufacturing and 3D Printing Technologies",
+          "score": 0.9958999752998352
+        },
+        {
+          "id": "T11407",
+          "name": "Innovative Microfluidic and Catalytic Techniques Innovation",
+          "score": 0.9908999800682068
+        }
+      ],
+      "keywords": [
+        "Polymerization",
+        "Stereolithography",
+        "Nanotechnology",
+        "Computer science",
+        "Layer (electronics)",
+        "Materials science",
+        "Point (geometry)",
+        "Process engineering",
+        "Engineering",
+        "Composite material"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1038/s43586-023-00231-0",
+      "openalex_url": "https://openalex.org/W4381615795",
+      "pdf_url": "https://escholarship.org/content/qt5zq3886n/qt5zq3886n.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://escholarship.org/content/qt5zq3886n/qt5zq3886n.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12407150/pdf/nihms-2104934.pdf",
+        "https://dspace.library.uu.nl/handle/1874/430341",
+        "https://dspace.library.uu.nl/handle/1874/453922",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12407150/"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1897,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.6779,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 28.222689075630253,
+          "h_index": 111
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": null,
+      "arxiv_id": null,
+      "openalex_id": "W7112935945",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Утицај избора протокола на тачност тродимензионалних медицинских модела, хируршких водича и коштаних заменика",
+      "abstract": "Bone defect reconstruction in contemporary medicine increasingly relies on 3D printing. This fast-evolving technology involves areas such as software engineering, 3D modeling, 3D printer, and bio-printer engineering and has a significant impact on biomedicine. There are two main research directions in biomedical 3D printing: 1) 3D reconstruction of radiological images for guided surgery, creation of medical models (MM) and surgical guides (SG), and 2) tissue engineering for a bone replacement material, tissue scaffolds, cells, and implants. To achieve both tasks, appropriate surgery navigation systems and software are needed. However, these software are lacking for complex operations on digital radiological images for various types of surgery, resulting in the slow clinical application of this advanced method. Still, numerous studies point out that computer-aided design and manufacturing are beneficial for surgery, resulting in more predictable surgery outcomes, less operation time, shorter ischemia periods, reduced complication risks, and lower healthcare costs. Aims: In this thesis, we aimed to include both main research directions in biomedical 3D printing. Specifically, our first objective was to test whether different radiological scanning protocols, various kernel and window settings, and different equipment influence linear and volumetric measures of both radiological images and 3D printed ММ of the human mandible. The second study phase involved the use of 3D printed bone scaffolds for over-critical size long bone reconstruction on an animal model to achieve regeneration using novel bone mimicking resorptive substitutes based on nanohydroxyapatite and polylactide-co-glycolide, without using stem cells, growth factors, and external fixation. In the final phase of research, we implemented the methods of MM and SG fabrication, determined in the first phase of the research, in clinical practice, for the reconstructive surgery of the mandible, aiming to improve standard surgical procedures at the Clinic of Maxillofacial Surgery, Faculty of Dentistry, University of Belgrade: by achieving shortened operation and postoperative time as well as improving the functional and aesthetic result of the procedure. In this phase, we also aimed to highlight the benefits of utilizing of “in-house 3D printing” concept. Material and methods: In the first phase of research, one dry human mandible from Center of Bone Biology osteological collection, was scanned with six multi-slice computed tomography (MSCT) and two cone beam computed tomography (CBCT) scanning protocols...",
+      "authors": [
+        {
+          "name": "Mićić, Milutin",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2023,
+      "venue": "National Repository of Dissertations in Serbia",
+      "issn": null,
+      "type": "dissertation",
+      "citation_count": 0,
+      "referenced_works_count": 0,
+      "fwci": null,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11984",
+          "name": "Anatomy and Medical Technology",
+          "score": 0.5178999900817871
+        },
+        {
+          "id": "T10059",
+          "name": "Bone Tissue Engineering Materials",
+          "score": 0.06549999862909317
+        },
+        {
+          "id": "T12900",
+          "name": "Organ and Tissue Transplantation Research",
+          "score": 0.044599998742341995
+        }
+      ],
+      "keywords": [
+        "Radiological weapon",
+        "Software",
+        "3d printed",
+        "3d model",
+        "Imaging technology",
+        "Regenerative medicine",
+        "Medical imaging"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": null,
+      "openalex_url": "https://openalex.org/W7112935945",
+      "pdf_url": "https://fedorabg.bg.ac.rs/fedora/get/o:31360/bdef:Content/get",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://fedorabg.bg.ac.rs/fedora/get/o:31360/bdef:Content/get"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.188,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.4,
+          "citation_signal": 0.0,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.2147/ccide.s130803",
+      "arxiv_id": null,
+      "openalex_id": "W2614415515",
+      "ss_paper_id": null,
+      "pmid": "28652817",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Effect of preheating and light-curing unit on physicochemical properties of a bulk fill composite",
+      "abstract": "OBJECTIVE: The aim of this study is to evaluate the effect of composite preheating and polymerization mode on degree of conversion (DC), microhardness (KHN), plasticization (P), and depth of polymerization (DP) of a bulk fill composite. METHODS: Forty disc-shaped samples (n = 5) of a bulk fill composite were prepared (5 × 4 mm thick) and randomly divided into 4 groups according to light-curing unit (quartz-tungsten-halogen [QTH] or light-emitting diode [LED]) and preheating temperature (23 or 54 °C). A control group was prepared with a flowable composite at room temperature. DC was determined using a Fourier transform infrared spectrometer, KHN was measured with a Knoop indenter, P was evaluated by percentage reduction of hardness after 24 h of ethanol storage, and DP was obtained by bottom/top ratio. Data were statistically analyzed by analysis of variance and Tukey's test (α = 0.05). RESULTS: Regardless of light-curing, the highest preheating temperature increased DC compared to room temperature on bottom surface. LED showed a higher DC compared to QTH. Overall, DC was higher on top surface than bottom. KHN, P, and DP were not affected by curing mode and temperature, and flowable composite showed similar KHN, and lower DC and P, compared to bulk fill. CONCLUSION: Composite preheating increased the polymerization degree of 4-mm-increment bulk fill, but it led to a higher plasticization compared to the conventional flowable composite evaluated.",
+      "authors": [
+        {
+          "name": "Jéssica Dias Theobaldo",
+          "orcid": "https://orcid.org/0000-0002-7470-230X",
+          "affiliation": "Universidade Estadual de Campinas (UNICAMP)",
+          "country": "BR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Flávio Henrique Baggio Aguiar",
+          "orcid": "https://orcid.org/0000-0003-3389-5536",
+          "affiliation": "Universidade Estadual de Campinas (UNICAMP)",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Núbia Inocêncya Pavesi Pini",
+          "orcid": "https://orcid.org/0000-0001-8604-3201",
+          "affiliation": "Universidade Estadual de Maringá",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Débora Alves Nunes Leite Lima",
+          "orcid": "https://orcid.org/0000-0001-5457-3347",
+          "affiliation": "Universidade Estadual de Campinas (UNICAMP)",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Priscila Christiane Suzy Liporoni",
+          "orcid": "https://orcid.org/0000-0001-6787-1167",
+          "affiliation": "Universidade de Taubaté",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Anderson Catelan",
+          "orcid": "https://orcid.org/0000-0002-5916-8655",
+          "affiliation": "Universidade de Taubaté",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2017,
+      "venue": "Clinical Cosmetic and Investigational Dentistry",
+      "issn": "1179-1357",
+      "type": "article",
+      "citation_count": 37,
+      "referenced_works_count": 30,
+      "fwci": 2.3045,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.2874000072479248
+        },
+        {
+          "id": "T13140",
+          "name": "Materials Engineering and Processing",
+          "score": 0.12999999523162842
+        },
+        {
+          "id": "T12080",
+          "name": "Injection Molding Process and Properties",
+          "score": 0.0697999969124794
+        }
+      ],
+      "keywords": [
+        "Knoop hardness test",
+        "Composite number",
+        "Materials science",
+        "Polymerization",
+        "Curing (chemistry)",
+        "Composite material",
+        "Indentation hardness",
+        "Polymer",
+        "Microstructure"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.2147/ccide.s130803",
+      "openalex_url": "https://openalex.org/W2614415515",
+      "pdf_url": "https://www.dovepress.com/getfile.php?fileID=36526",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.dovepress.com/getfile.php?fileID=36526",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/5477166",
+        "https://doaj.org/article/069ece1cb3e64243ab5dbdaa6bf8f4f9",
+        "https://www.dovepress.com/effect-of-preheating-and-light-curing-unit-on-physicochemical-properti-peer-reviewed-article-CCIDE"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1858,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.4785,
+          "recency_signal": 0.64
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.8395061728395061,
+          "h_index": 51
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/app11114950",
+      "arxiv_id": null,
+      "openalex_id": "W3166475599",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Need for Standardization: Influence of Artificial Canal Size on Cyclic Fatigue Tests of Endodontic Instruments",
+      "abstract": "The aim was to evaluate the influence of artificial canal size on the results of cyclic fatigue tests for endodontic instruments. Dynamic cyclic fatigue at body temperature using continuous tapered nickel–titanium F6-SkyTaper instruments (Komet, Lemgo, Germany), size 25/.06 with an amplitude of 3 mm, was tested in four different simulated root canals: (A) size of the instrument +0.02 mm (within the tolerances of the instruments); (B) +0.05 mm; (C) +0.10 mm; (D) parallel tube with 1.25 mm in diameter. The artificial canals (angle of curvature 60°, radius 5.0 mm, center of curvature 5.0 mm) were produced by a LASER-melting technique. Time and cycles to fracture, and lengths of the fractured instruments were recorded and statistically analyzed (Student–Newman–Keuls; Kruskal–Wallis test). Time to fracture significantly increased with increasing size of the artificial canals in the following order: A < B, C < D (p < 0.05). Length of separated instruments continuously decreased with increasing canal sizes. The parallel tube produced the significantly shortest fragments (p < 0.05). Within the limitations of this study, dynamic cyclic fatigue of endodontic instruments depends on the congruency of the instruments’ dimensions with that of the artificial canals. In future cyclic fatigue testing, due to the closer match of canal and instrument parameters, it is necessary to adjust the artificial canal sizes to the size of the instruments within the manufacturing tolerances of the instruments.",
+      "authors": [
+        {
+          "name": "Sebastian Bürklein",
+          "orcid": "https://orcid.org/0000-0003-4886-4759",
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Paul Maßmann",
+          "orcid": "https://orcid.org/0000-0002-9027-5440",
+          "affiliation": "University of Münster",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "David Donnermeyer",
+          "orcid": "https://orcid.org/0000-0001-7162-9795",
+          "affiliation": "University of Münster",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Karsten Tegtmeyer",
+          "orcid": null,
+          "affiliation": "University of Münster",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Edgar Schäfer",
+          "orcid": "https://orcid.org/0000-0002-4443-2345",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2021,
+      "venue": "Applied Sciences",
+      "issn": "2076-3417",
+      "type": "article",
+      "citation_count": 14,
+      "referenced_works_count": 46,
+      "fwci": 1.9895,
+      "cited_by_percentile_year": 98,
+      "topics": [
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.9998000264167786
+        },
+        {
+          "id": "T13866",
+          "name": "Occupational health in dentistry",
+          "score": 0.9872999787330627
+        },
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.9413999915122986
+        }
+      ],
+      "keywords": [
+        "Root canal",
+        "Cyclic stress",
+        "Materials science",
+        "RADIUS",
+        "Dental instruments",
+        "Dentistry",
+        "Composite material",
+        "Medicine",
+        "Computer science"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/app11114950",
+      "openalex_url": "https://openalex.org/W3166475599",
+      "pdf_url": "https://www.mdpi.com/2076-3417/11/11/4950/pdf?version=1622196801",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2076-3417/11/11/4950/pdf?version=1622196801",
+        "https://doaj.org/article/b8c13875d3fd422d97cebec6a731f8e1"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1834,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.3563,
+          "recency_signal": 0.8
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.9416370941725076,
+          "h_index": 228
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1016/j.heliyon.2023.e19363",
+      "arxiv_id": null,
+      "openalex_id": "W4386024350",
+      "ss_paper_id": null,
+      "pmid": "37662765",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "3D and 4D printing hydroxyapatite-based scaffolds for bone tissue engineering and regeneration",
+      "abstract": "The osseous tissue can be classified as a nanocomposite that encompasses a complex interweaving of organic and inorganic matrices. This intricate amalgamation consists of a collagen component and a mineral phase that are intricately arranged to form elaborate and perforated configurations. Hydroxyapatite, whether synthesized artificially or obtained from natural sources, has garnered considerable attention as a composite material in the field of bone tissue engineering due to its striking resemblance to bone in terms of structure and characteristics. Hydroxyapatite (HA) constitutes the predominant ceramic biomaterial for biomedical applications due to its ability to replicate the mineral composition of vertebrate bone. Nonetheless, it is noteworthy that the present biomimetic substance exhibits unfavorable mechanical characteristics, characterized by insufficient tensile and compressive strength, thus rendering it unsuitable for effective employment in the field of bone tissue engineering. Due to its beneficial attributes, hydroxyapatite (HA) is frequently employed in conjunction with various polymers and crosslinkers as composites to enhance mechanical properties and overall efficacy of implantable biomaterials engineered. The restoration of skeletal defects through the use of customized replacements is an effective way to replace damaged or lost bone structures. This method not only restores the bones' original functions but also reinstates their initial aesthetic appearance. The utilization of hydroxyapatite-polymer composites within 3D-printed grafts necessitates meticulous optimization of both mechanical and biological properties, in order to ensure their suitability for employment in medical devices. The utilization of 3D-printing technology represents an innovative approach in the manufacturing of HA-based scaffolds, which offers advantageous prospects for personalized bone regeneration. The expeditious prototyping method, with emphasis on the application of 3D printing, presents a viable approach in the development of bespoke prosthetic implants, grounded on healthcare data sets. 4D printing approach is an evolved form of 3D printing that utilizes programmable materials capable of altering the intended shape of printed structures, contingent upon single or dual stimulating factors. These factors include aspects such as pH level, temperature, humidity, crosslinking degree, and leaching factors.",
+      "authors": [
+        {
+          "name": "Sina Soleymani",
+          "orcid": "https://orcid.org/0000-0002-0216-3095",
+          "affiliation": "Iran University of Science and Technology",
+          "country": "IR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Seyed Morteza Naghib",
+          "orcid": "https://orcid.org/0000-0003-4612-030X",
+          "affiliation": "Iran University of Science and Technology",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2023,
+      "venue": "Heliyon",
+      "issn": "2405-8440",
+      "type": "article",
+      "citation_count": 120,
+      "referenced_works_count": 185,
+      "fwci": 9.5873,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10059",
+          "name": "Bone Tissue Engineering Materials",
+          "score": 0.9997000098228455
+        },
+        {
+          "id": "T10783",
+          "name": "Additive Manufacturing and 3D Printing Technologies",
+          "score": 0.9969000220298767
+        },
+        {
+          "id": "T11190",
+          "name": "3D Printing in Biomedical Research",
+          "score": 0.9962000250816345
+        }
+      ],
+      "keywords": [
+        "Regeneration (biology)",
+        "Tissue engineering",
+        "Biomedical engineering",
+        "3D printing",
+        "Engineering",
+        "Biology",
+        "Mechanical engineering",
+        "Cell biology"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/2",
+          "score": 0.5199999809265137,
+          "display_name": "Zero hunger"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/j.heliyon.2023.e19363",
+      "openalex_url": "https://openalex.org/W4386024350",
+      "pdf_url": "https://doi.org/10.1016/j.heliyon.2023.e19363",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.1016/j.heliyon.2023.e19363",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10474476/pdf/main.pdf",
+        "https://doaj.org/article/4a94d65514d14286ad8ac9ccf658c92e"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1826,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.6309,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 9.111074612857813,
+          "h_index": 190
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1186/s12967-024-06008-7",
+      "arxiv_id": null,
+      "openalex_id": "W4406152772",
+      "ss_paper_id": null,
+      "pmid": "39780194",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "High-intensity focused ultrasound: an innovative approach for micro-manipulation of demineralized dentine",
+      "abstract": "BACKGROUND: Treatment of deep carious lesions poses significant challenges in dentistry, as complete lesion removal risks compromising pulp vitality, while selective removal often reduces the longevity of restorations. Herein, we propose a minimally invasive approach using High-Intensity Focused Ultrasound (HIFU) for microscale removal of carious dentine. Concurrently, HIFU's antimicrobial effects against associated cariogenic biofilms and the corresponding thermal and biological impacts on surrounding tissues were investigated. METHODS: A total of 238 sound human molars were utilized, with 203 samples of artificial carious-simulated dentine (ACSD) prepared for HIFU exposure. HIFU (250 kHz) was applied at 20 W for varying durations (60, 120, and 180 s). The acoustic waves were administered via a collimated cone coupled to the dentine surface using ultrasonic gel. RESULTS: Advanced characterization techniques including scanning electron microscopy (n = 5/group), Raman spectroscopy, atomic force microscopy, and nano-indentation (n = 5/group), demonstrated HIFU's effectiveness in removing demineralized collagen-fibrils. This was reflected in the increased mineral content, nano-hardness, and reduced elastic-modulus of ACSD lesions. Micro-CT (n = 6/group) confirmed the increase in mineral density post-HIFU exposure. Confocal microscopy of Rhodamine-B stained ACSD (n = 5/group) quantified the depth of dentine microscale removal post-HIFU exposure in a time-dependent manner. HIFU's potent anti-biofilm effect (n = 9/group) against Streptococcus mutans biofilms was evidenced by microscopic characterizations and significant reductions in metabolic-activity and colony-forming units. Furthermore, HIFU promoted the proliferation of dental pulp stem cells (n = 3/group) while maintaining the associated temperature-rise within the physiological tolerance. CONCLUSION: HIFU's potential as an innovative, minimally invasive, non-ionizing tool for dentine carious lesion micromanipulation was demonstrated through the interaction between focused acoustic waves and dentine, warranting further studies for future clinical translation in restorative and/or preventive dentistry.",
+      "authors": [
+        {
+          "name": "Sheetal Maria Rajan",
+          "orcid": "https://orcid.org/0000-0002-1119-0239",
+          "affiliation": "The University of Western Australia",
+          "country": "AU",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Barsha Shrestha",
+          "orcid": "https://orcid.org/0009-0004-2769-6025",
+          "affiliation": "The University of Western Australia",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Amr Fawzy",
+          "orcid": "https://orcid.org/0000-0001-6357-0535",
+          "affiliation": "The University of Western Australia",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2025,
+      "venue": "Journal of Translational Medicine",
+      "issn": "1479-5876",
+      "type": "article",
+      "citation_count": 5,
+      "referenced_works_count": 61,
+      "fwci": 1.5472,
+      "cited_by_percentile_year": 98,
+      "topics": [
+        {
+          "id": "T10958",
+          "name": "Ultrasound and Hyperthermia Applications",
+          "score": 0.29829999804496765
+        },
+        {
+          "id": "T11842",
+          "name": "Ultrasound and Cavitation Phenomena",
+          "score": 0.20980000495910645
+        },
+        {
+          "id": "T10593",
+          "name": "Bacterial biofilms and quorum sensing",
+          "score": 0.12160000205039978
+        }
+      ],
+      "keywords": [
+        "Biomedical engineering",
+        "Molar",
+        "Demineralization",
+        "Dentistry",
+        "Materials science",
+        "Dentin",
+        "High-intensity focused ultrasound",
+        "Pulp (tooth)",
+        "Ultrasound",
+        "Medicine"
+      ],
+      "sdgs": [
+        {
+          "score": 0.4300000071525574,
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1186/s12967-024-06008-7",
+      "openalex_url": "https://openalex.org/W4406152772",
+      "pdf_url": "https://translational-medicine.biomedcentral.com/counter/pdf/10.1186/s12967-024-06008-7",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://translational-medicine.biomedcentral.com/counter/pdf/10.1186/s12967-024-06008-7",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11708248/pdf/12967_2024_Article_6008.pdf",
+        "https://doaj.org/article/a353c340d6c2456a8845ffec5a46d263"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1814,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.2357,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 8.00779347296639,
+          "h_index": 192
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1111/iej.13698",
+      "arxiv_id": null,
+      "openalex_id": "W4210244190",
+      "ss_paper_id": null,
+      "pmid": "35118683",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Present status and future directions: Canal shaping",
+      "abstract": "This narrative review will focus on the evolution, present and future of engine-driven root canal preparation. Root canal preparation changed drastically when Walia in 1988 introduced the use of nickel-titanium (NiTi) alloys in Endodontics. In 2013, five generations of NiTi endodontic instruments had been established based on their metallurgical, mechanical properties and design features. Since then, manufacturers have been introducing further major changes in instrument design and characteristics that have not been translated in new recognized generations of instruments. In general, those changes have demonstrated enhanced instrument properties, but it is not clear yet if all those improvements are directly translated to an improvement in clinical success. This narrative review attempts to address the present status of engine-driven instruments in terms of both evidence from laboratory-based studies and clinical data, to identify potential further generations of instruments, and last to anticipate future directions for research and development.",
+      "authors": [
+        {
+          "name": "Ana Arias",
+          "orcid": "https://orcid.org/0000-0003-2270-8096",
+          "affiliation": "Universidad Complutense de Madrid",
+          "country": "ES",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ove A. Peters",
+          "orcid": "https://orcid.org/0000-0001-5222-8718",
+          "affiliation": "The University of Queensland",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2022,
+      "venue": "International Endodontic Journal",
+      "issn": "0143-2885",
+      "type": "article",
+      "citation_count": 117,
+      "referenced_works_count": 137,
+      "fwci": 18.2632,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.9998000264167786
+        },
+        {
+          "id": "T13866",
+          "name": "Occupational health in dentistry",
+          "score": 0.972599983215332
+        },
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.9557999968528748
+        }
+      ],
+      "keywords": [
+        "Narrative review",
+        "Nickel titanium",
+        "Root canal",
+        "Endodontics",
+        "Root (linguistics)",
+        "Narrative",
+        "Focus (optics)",
+        "Computer science",
+        "Engineering",
+        "Engineering ethics"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.4000000059604645,
+          "display_name": "Industry, innovation and infrastructure"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1111/iej.13698",
+      "openalex_url": "https://openalex.org/W4210244190",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/iej.13698",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/iej.13698",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/9303733"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1781,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.6276,
+          "recency_signal": 0.84
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 4.7075306479859895,
+          "h_index": 210
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.20944/preprints202502.0199.v1",
+      "arxiv_id": null,
+      "openalex_id": "W4407166791",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Comparative Evaluation of Shear Bond Strength of Aesthetic Orthodontic Brackets Bonded to Aged Composite Restorative Resin Materials",
+      "abstract": "Background: Patients demand for aesthetic orthodontic brackets (OBs) has increased since orthodontic treatments are of long duration. Clinicians encounter old composite restorations frequently, against which OBs need to be bonded. Aims and objectives: This study aims to determine the shear bond strength (SBS) of two aesthetic OBs (ceramic and resin) against aged composite resins (flowable and packable) after standard surface treatment. Materials and methods: 96 disc-shaped specimens of two aged (A) composite resins [flowable (F) and packable (P)] were divided into 8 groups, using ceramic (C) and plastic (P) brackets, out of which four subgroups served as control [non-aged (N)FC, NPC, NFR, NPR] and four as experimental [AFC, APC, AFR, APR]. Surface treatment included mechanical [air abrasion] and chemical [Assure Plus and Transbond XT]. After 24 h of storage, the specimens were tested for SBS and observed for failure mode using adhesive remnant index (ARI) scores. Mean values of SBS in each subgroup were analysed statistically using a one-way analysis of variance (ANOVA) test and Tukey (HSD) post hoc test. All probability ‘p’ differences were significant at a value of 0.05 and less. Results: All aged composite resin subgroups had decreased bond strength than controls, with all subgroups bonded with plastic brackets having the least bond strengths that were clinically nonacceptable [≤7 to 10 MPa]. Flowable composites when bonded with either ceramic or plastic brackets had higher strength than packable composites. Ceramic brackets had higher SBS than plastic brackets for both flowable and packable composites. Significant differences in bond strength were observed among subgroups of plastic brackets. Ceramic brackets were associated with higher residue of adhesives on the composite surface. Conclusion: Aged composite resins exhibit significantly lower SBS than fresh composites, with ceramic brackets and flowable composites producing better bond strength values than plastic brackets and packable composites.",
+      "authors": [
+        {
+          "name": "Mohammed E. Sayed",
+          "orcid": "https://orcid.org/0000-0001-8667-8987",
+          "affiliation": "Jazan University",
+          "country": "SA",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2025,
+      "venue": "Preprints.org",
+      "issn": null,
+      "type": "preprint",
+      "citation_count": 3,
+      "referenced_works_count": 0,
+      "fwci": null,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.9297999739646912
+        },
+        {
+          "id": "T13113",
+          "name": "Engineering Technology and Methodologies",
+          "score": 0.9175999760627747
+        }
+      ],
+      "keywords": [
+        "Composite number",
+        "Materials science",
+        "Composite material",
+        "Shear (geology)",
+        "Bond strength",
+        "Shear strength (soil)",
+        "Adhesive",
+        "Geology",
+        "Layer (electronics)"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.20944/preprints202502.0199.v1",
+      "openalex_url": "https://openalex.org/W4407166791",
+      "pdf_url": "https://www.preprints.org/frontend/manuscript/34a616ecdc2aa2112d4102c7d1d406a0/download_pub",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.preprints.org/frontend/manuscript/34a616ecdc2aa2112d4102c7d1d406a0/download_pub"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1734,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.1824,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.1111/ffe.14265",
+      "arxiv_id": null,
+      "openalex_id": "W4391817449",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Effect of printing orientation on mechanical properties of SLA 3D‐printed photopolymer",
+      "abstract": "Abstract Herein, we conducted tensile and fracture tests on a photopolymer produced with a stereolithography apparatus (SLA), utilizing dog‐bone and semi‐circular bending specimens fabricated in five different orientations. The analysis revealed a direct linear correlation between the tensile strength and printing orientation, highlighting a decrease in tensile strength with an increase in orientation angle. Young's modulus of the printed material remained insensitive to the printing orientation. Conversely, fracture toughness demonstrated a distinct cubic polynomial relationship with the printing orientation. The equivalent material concept in conjunction with the maximum tangential stress criterion was used to predict the fracture behavior of SLA printed polymer. This research sheds light on the significant effect of printing orientation on the mechanical properties of SLA printed materials, offering pivotal insights for optimizing SLA printing across various applications and catalyzing progress in this research field.",
+      "authors": [
+        {
+          "name": "Yifan Li",
+          "orcid": "https://orcid.org/0000-0002-1376-4697",
+          "affiliation": "Southern University of Science and Technology",
+          "country": "CN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Zhenjie Teng",
+          "orcid": "https://orcid.org/0000-0003-0305-9094",
+          "affiliation": "University of Münster",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2024,
+      "venue": "Fatigue & Fracture of Engineering Materials & Structures",
+      "issn": "1460-2695",
+      "type": "article",
+      "citation_count": 59,
+      "referenced_works_count": 33,
+      "fwci": 6.4913,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10783",
+          "name": "Additive Manufacturing and 3D Printing Technologies",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T12190",
+          "name": "Innovations in Concrete and Construction Materials",
+          "score": 0.9778000116348267
+        },
+        {
+          "id": "T12570",
+          "name": "Photopolymerization techniques and applications",
+          "score": 0.9639000296592712
+        }
+      ],
+      "keywords": [
+        "Stereolithography",
+        "Materials science",
+        "Ultimate tensile strength",
+        "Composite material",
+        "3D printing",
+        "Orthotropic material",
+        "Fracture toughness",
+        "Photopolymer",
+        "Fused deposition modeling",
+        "Orientation (vector space)"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1111/ffe.14265",
+      "openalex_url": "https://openalex.org/W4391817449",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ffe.14265",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ffe.14265"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1728,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.5386,
+          "recency_signal": 0.92
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.978328173374613,
+          "h_index": 124
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1186/s13036-023-00371-7",
+      "arxiv_id": null,
+      "openalex_id": "W4386257015",
+      "ss_paper_id": null,
+      "pmid": "37644461",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Recent advances in 3D printing of biodegradable metals for orthopaedic applications",
+      "abstract": "The use of biodegradable polymers for treating bone-related diseases has become a focal point in the field of biomedicine. Recent advancements in material technology have expanded the range of materials suitable for orthopaedic implants. Three-dimensional (3D) printing technology has become prevalent in healthcare, and while organ printing is still in its early stages and faces ethical and technical hurdles, 3D printing is capable of creating 3D structures that are supportive and controllable. The technique has shown promise in fields such as tissue engineering and regenerative medicine, and new innovations in cell and bio-printing and printing materials have expanded its possibilities. In clinical settings, 3D printing of biodegradable metals is mainly used in orthopedics and stomatology. 3D-printed patient-specific osteotomy instruments, orthopedic implants, and dental implants have been approved by the US FDA for clinical use. Metals are often used to provide support for hard tissue and prevent complications. Currently, 70-80% of clinically used implants are made from niobium, tantalum, nitinol, titanium alloys, cobalt-chromium alloys, and stainless steels. However, there has been increasing interest in biodegradable metals such as magnesium, calcium, zinc, and iron, with numerous recent findings. The advantages of 3D printing, such as low manufacturing costs, complex geometry capabilities, and short fabrication periods, have led to widespread adoption in academia and industry. 3D printing of metals with controllable structures represents a cutting-edge technology for developing metallic implants for biomedical applications. This review explores existing biomaterials used in 3D printing-based orthopedics as well as biodegradable metals and their applications in developing metallic medical implants and devices. The challenges and future directions of this technology are also discussed.",
+      "authors": [
+        {
+          "name": "Wenqing Liang",
+          "orcid": "https://orcid.org/0000-0001-9770-882X",
+          "affiliation": "Zhejiang Chinese Medical University",
+          "country": "CN",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Chao Zhou",
+          "orcid": "https://orcid.org/0000-0003-1785-3969",
+          "affiliation": "Shanghai Guanghua Hospital of Integrated Traditional Chinese and Western Medicine",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hongwei Zhang",
+          "orcid": "https://orcid.org/0000-0002-9938-4272",
+          "affiliation": "Zhejiang Chinese Medical University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Juqin Bai",
+          "orcid": null,
+          "affiliation": "Zhejiang Chinese Medical University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Bo Jiang",
+          "orcid": "https://orcid.org/0009-0000-7143-3733",
+          "affiliation": "Zhejiang Chinese Medical University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Chanyi Jiang",
+          "orcid": null,
+          "affiliation": "Zhejiang Chinese Medical University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Wenyi Ming",
+          "orcid": null,
+          "affiliation": "Zhejiang Chinese Medical University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hengjian Zhang",
+          "orcid": null,
+          "affiliation": "Zhejiang Chinese Medical University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hengguo Long",
+          "orcid": "https://orcid.org/0000-0002-3921-8889",
+          "affiliation": "Zhejiang Chinese Medical University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Xiaogang Huang",
+          "orcid": "https://orcid.org/0000-0002-1267-8498",
+          "affiliation": "Zhejiang Chinese Medical University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jiayi Zhao",
+          "orcid": "https://orcid.org/0000-0001-7276-2483",
+          "affiliation": "Zhejiang Chinese Medical University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2023,
+      "venue": "Journal of Biological Engineering",
+      "issn": "1754-1611",
+      "type": "article",
+      "citation_count": 67,
+      "referenced_works_count": 168,
+      "fwci": 5.3583,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10059",
+          "name": "Bone Tissue Engineering Materials",
+          "score": 0.9997000098228455
+        },
+        {
+          "id": "T10783",
+          "name": "Additive Manufacturing and 3D Printing Technologies",
+          "score": 0.9983000159263611
+        },
+        {
+          "id": "T11984",
+          "name": "Anatomy and Medical Technology",
+          "score": 0.9959999918937683
+        }
+      ],
+      "keywords": [
+        "3D printing",
+        "Computer science",
+        "Biomedical engineering",
+        "Nanotechnology",
+        "Biochemical engineering",
+        "Engineering",
+        "Mechanical engineering",
+        "Materials science"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.5299999713897705,
+          "display_name": "Industry, innovation and infrastructure"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1186/s13036-023-00371-7",
+      "openalex_url": "https://openalex.org/W4386257015",
+      "pdf_url": "https://jbioleng.biomedcentral.com/counter/pdf/10.1186/s13036-023-00371-7",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://jbioleng.biomedcentral.com/counter/pdf/10.1186/s13036-023-00371-7",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10466721/pdf/13036_2023_Article_371.pdf",
+        "https://doaj.org/article/f3fd27eca346406e8833b49c904a4315"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1713,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.5551,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 4.413043478260869,
+          "h_index": 80
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1038/s41551-022-00849-7",
+      "arxiv_id": null,
+      "openalex_id": "W4220802999",
+      "ss_paper_id": null,
+      "pmid": "35347275",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "High-speed light-sheet microscopy for the in-situ acquisition of volumetric histological images of living tissue",
+      "abstract": "Histological examinations typically require the excision of tissue, followed by its fixation, slicing, staining, mounting and imaging, with timeframes ranging from minutes to days. This process may remove functional tissue, may miss abnormalities through under-sampling, prevents rapid decision-making, and increases costs. Here, we report the feasibility of microscopes based on swept confocally aligned planar excitation technology for the volumetric histological imaging of intact living tissue in real time. The systems' single-objective, light-sheet geometry and 3D imaging speeds enable roving image acquisition, which combined with 3D stitching permits the contiguous analysis of large tissue areas, as well as the dynamic assessment of tissue perfusion and function. Implemented in benchtop and miniaturized form factors, the microscopes also have high sensitivity, even for weak intrinsic fluorescence, allowing for the label-free imaging of diagnostically relevant histoarchitectural structures, as we show for pancreatic disease in living mice, for chronic kidney disease in fresh human kidney tissues, and for oral mucosa in a healthy volunteer. Miniaturized high-speed light-sheet microscopes for in-situ volumetric histological imaging may facilitate the point-of-care detection of diverse cellular-level biomarkers.",
+      "authors": [
+        {
+          "name": "Kripa Patel",
+          "orcid": "https://orcid.org/0000-0001-8470-714X",
+          "affiliation": "Columbia University",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Wenxuan Liang",
+          "orcid": "https://orcid.org/0000-0001-9143-7256",
+          "affiliation": "Columbia University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Malte Casper",
+          "orcid": "https://orcid.org/0000-0002-6879-691X",
+          "affiliation": "Columbia University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Venkatakaushik Voleti",
+          "orcid": "https://orcid.org/0000-0002-0387-6599",
+          "affiliation": "Columbia University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Wenze Li",
+          "orcid": "https://orcid.org/0000-0001-5256-7787",
+          "affiliation": "Columbia University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Alexis J. Yagielski",
+          "orcid": null,
+          "affiliation": "Columbia University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hanzhi Zhao",
+          "orcid": "https://orcid.org/0000-0001-6616-7039",
+          "affiliation": "Columbia University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Citlali Pérez Campos",
+          "orcid": "https://orcid.org/0000-0003-0467-6940",
+          "affiliation": "Columbia University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Grace Sooyeon Lee",
+          "orcid": null,
+          "affiliation": "Columbia University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Joyce M. Liu",
+          "orcid": null,
+          "affiliation": "Columbia University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Elizabeth Philipone",
+          "orcid": "https://orcid.org/0000-0001-8956-3923",
+          "affiliation": "Columbia University Irving Medical Center",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Angela J. Yoon",
+          "orcid": "https://orcid.org/0000-0002-0529-7195",
+          "affiliation": "Columbia University Irving Medical Center",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Kenneth P. Olive",
+          "orcid": "https://orcid.org/0000-0002-3392-8994",
+          "affiliation": "Columbia University Irving Medical Center",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Shana M. Coley",
+          "orcid": "https://orcid.org/0000-0002-2152-5469",
+          "affiliation": "Columbia University Irving Medical Center",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Elizabeth M. C. Hillman",
+          "orcid": "https://orcid.org/0000-0001-5511-1451",
+          "affiliation": "Columbia University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2022,
+      "venue": "Nature Biomedical Engineering",
+      "issn": "2157-846X",
+      "type": "article",
+      "citation_count": 81,
+      "referenced_works_count": 56,
+      "fwci": 16.8179,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T12859",
+          "name": "Cell Image Analysis Techniques",
+          "score": 0.9995999932289124
+        },
+        {
+          "id": "T10540",
+          "name": "Advanced Fluorescence Microscopy Techniques",
+          "score": 0.9988999962806702
+        },
+        {
+          "id": "T11897",
+          "name": "Digital Holography and Microscopy",
+          "score": 0.9986000061035156
+        }
+      ],
+      "keywords": [
+        "Image stitching",
+        "Biomedical engineering",
+        "Microscope",
+        "Microscopy",
+        "Light sheet fluorescence microscopy",
+        "In situ",
+        "Pathology",
+        "Slicing",
+        "Fixation (population genetics)",
+        "Medicine"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/16",
+          "score": 0.6800000071525574,
+          "display_name": "Peace, Justice and strong institutions"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1038/s41551-022-00849-7",
+      "openalex_url": "https://openalex.org/W4220802999",
+      "pdf_url": "https://doi.org/10.1038/s41551-022-00849-7",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.1038/s41551-022-00849-7",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10353946/pdf/nihms-1910682.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.171,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.5797,
+          "recency_signal": 0.84
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 14.216393442622952,
+          "h_index": 200
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1117/1.3563637",
+      "arxiv_id": null,
+      "openalex_id": "W2129854070",
+      "ss_paper_id": null,
+      "pmid": "21529099",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Performance assessment of novel side firing safe tips for endodontic applications",
+      "abstract": "During root canal or periodontal treatment, directing laser energy onto the walls of the root canal is essential for effective disinfection. This study assessed the performance of four different fiber modifications that have increased lateral emission, including three designs with safe tips to reduce irradiation directed toward the root apex. Free-running pulsed infrared lasers (Nd:YAG, Er:YAG, and Er,Cr:YSGG) and a diode laser (980 nm) were used in combination with plain ended (forward emitting) laser fibers; conical laser fibers, side firing honeycomb pattern fibers without a safe end; honeycomb fibers with silver coated ends, conical fibers with selectively abraded tips, and selectively abraded honeycomb fibers with silver coated tips (20 fibers for each laser type). Laser emissions forward and laterally were measured, and digital photographs and thermally sensitive paper used to record the emission profiles. Thermochromic dyes painted onto the root surface of an extracted tooth were used to explore the distribution of laser energy with different tips designs. All three safe tipped ends gave reduced emissions in the forward direction (range 17-59%), but had similar lateral emission characteristics. Fiber designs with reduced forward emission may be useful for various dental laser procedures.",
+      "authors": [
+        {
+          "name": "Roy George",
+          "orcid": "https://orcid.org/0000-0001-7876-1334",
+          "affiliation": "Griffith University",
+          "country": "AU",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Laurence J. Walsh",
+          "orcid": "https://orcid.org/0000-0001-5874-5687",
+          "affiliation": "The University of Queensland",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2011,
+      "venue": "Journal of Biomedical Optics",
+      "issn": "1083-3668",
+      "type": "article",
+      "citation_count": 41,
+      "referenced_works_count": 28,
+      "fwci": 3.0976,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.9990000128746033
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9983999729156494
+        },
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.9890999794006348
+        }
+      ],
+      "keywords": [
+        "Materials science",
+        "Laser",
+        "Root canal",
+        "Er:YAG laser",
+        "Fiber laser",
+        "Optical fiber",
+        "Optics",
+        "Fiber",
+        "Diode",
+        "Ultraviolet"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8799999952316284,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1117/1.3563637",
+      "openalex_url": "https://openalex.org/W2129854070",
+      "pdf_url": "https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-16/issue-4/048004/Performance-assessment-of-novel-side-firing-safe-tips-for-endodontic/10.1117/1.3563637.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-16/issue-4/048004/Performance-assessment-of-novel-side-firing-safe-tips-for-endodontic/10.1117/1.3563637.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1638,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.4917,
+          "recency_signal": 0.4
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.495201535508637,
+          "h_index": 183
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": null,
+      "arxiv_id": null,
+      "openalex_id": "W4412332287",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "History of dental radiography:Evolution of 2D and 3D imaging modalities",
+      "abstract": "Dental radiography is one of the most frequently performed type of medical imaging. The teeth and associated structures form a unique anatomical complex, being in direct contact with an extensive intra-oral microbiome as well as outside agents. Oral pathology covers a wide array of diseases and trauma to the teeth, gums, jaw bones, and associated structures such as salivary glands and temporomandibular joint. Dentistry has evolved into a highly specialized profession, comprising general practitioners, orthodontists, periodontists, prosthodontists, endodontists, oral & maxillofacial surgeons, pediatric dentists, and others. Furthermore, in many countries, oral radiology is recognized as a specialty, acknowledging the need for adequate training and experience in the diagnosis and treatment planning of the wide array of oral diseases. Nowadays, several dental radiographic techniques are used in practice to complement the clinical examination, with the most frequent modalities being unique to this profession (i.e. intra-oral and panoramic radiography). Considering the high diagnostic efficacy of dental radiographs, it is to no surprise that they were among the first X-ray images obtained of humans, and that this occurred mere days after Röntgen’s report regarding his discovery. Whereas the first recorded dental radiograph was not considered to be of diagnostic image quality, and required an exposure time of 25 min, it took only a few weeks until images with demonstrable diagnostic benefit were produced. After the initial hype of medical X-ray application had passed, it took several years before radiography became an integral part of dental practice. When it did, however, rapid improvements were made to each aspect of the radiographic imaging chain, and new techniques were developed to address specific practical or diagnostic challenges in dentistry. This review covers the history of dental radiography, and the evolution of 2D and 3D imaging modalities used in dentistry throughout the past 125 years.",
+      "authors": [
+        {
+          "name": "Ruben Pauwels",
+          "orcid": "https://orcid.org/0000-0002-9462-7546",
+          "affiliation": "Aarhus University",
+          "country": "DK",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2020,
+      "venue": null,
+      "issn": null,
+      "type": "article",
+      "citation_count": 4,
+      "referenced_works_count": 0,
+      "fwci": 0.2324,
+      "cited_by_percentile_year": 97,
+      "topics": [
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.9810000061988831
+        },
+        {
+          "id": "T11894",
+          "name": "Radiology practices and education",
+          "score": 0.9492999911308289
+        },
+        {
+          "id": "T13953",
+          "name": "Digital Imaging in Medicine",
+          "score": 0.9096999764442444
+        }
+      ],
+      "keywords": [
+        "Radiography",
+        "Modalities",
+        "Medical physics",
+        "Medicine",
+        "Nuclear medicine",
+        "Radiology",
+        "Anthropology"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": null,
+      "openalex_url": "https://openalex.org/W4412332287",
+      "pdf_url": "http://mpijournal.org/pdf/2020-SI-03/MPI-2020-01-p235.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "http://mpijournal.org/pdf/2020-SI-03/MPI-2020-01-p235.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1578,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.2117,
+          "recency_signal": 0.76
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.3390/diagnostics11060932",
+      "arxiv_id": null,
+      "openalex_id": "W3164662766",
+      "ss_paper_id": null,
+      "pmid": "34067332",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "The Chairside Periodontal Diagnostic Toolkit: Past, Present, and Future",
+      "abstract": "Periodontal diseases comprise a group of globally prevalent, chronic oral inflammatory conditions caused by microbial dysbiosis and the host immune response. These diseases specifically affect the tooth-supporting tissues (i.e., the periodontium) but are also known to contribute to systemic inflammation. If left untreated, periodontal diseases can ultimately progress to tooth loss, lead to compromised oral function, and negatively impact the overall quality of life. Therefore, it is important for the clinician to accurately diagnose these diseases both early and accurately chairside. Currently, the staging and grading of periodontal diseases are based on recording medical and dental histories, thorough oral examination, and multiple clinical and radiographic analyses of the periodontium. There have been numerous attempts to improve, automate, and digitize the collection of this information with varied success. Recent studies focused on the subgingival microbiome and the host immune response suggest there is an untapped potential for non-invasive oral sampling to assist clinicians in the chairside diagnosis and, potentially, prognosis. Here, we review the available toolkit available for diagnosing periodontal diseases, discuss commercially available options, and highlight the need for collaborative research initiatives and state-of-the-art technology development across disciplines to overcome the challenges of rapid periodontal disease diagnosis.",
+      "authors": [
+        {
+          "name": "Tae‐Jun Ko",
+          "orcid": "https://orcid.org/0000-0001-8763-445X",
+          "affiliation": "American Dental Association",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Kevin M. Byrd",
+          "orcid": "https://orcid.org/0000-0002-5565-0524",
+          "affiliation": "American Dental Association",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Shin Ae Kim",
+          "orcid": null,
+          "affiliation": "American Dental Association",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2021,
+      "venue": "Diagnostics",
+      "issn": "2075-4418",
+      "type": "article",
+      "citation_count": 50,
+      "referenced_works_count": 174,
+      "fwci": 5.268,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T10257",
+          "name": "Oral microbiology and periodontitis research",
+          "score": 1.0
+        },
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.9995999932289124
+        },
+        {
+          "id": "T11452",
+          "name": "Oral Health Pathology and Treatment",
+          "score": 0.9980999827384949
+        }
+      ],
+      "keywords": [
+        "Periodontium",
+        "Medicine",
+        "Dysbiosis",
+        "Oral Microbiome",
+        "Dentistry",
+        "Periodontitis",
+        "Intensive care medicine",
+        "Periodontology",
+        "Disease",
+        "Pathology"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/17",
+          "score": 0.46000000834465027,
+          "display_name": "Partnerships for the goals"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/diagnostics11060932",
+      "openalex_url": "https://openalex.org/W3164662766",
+      "pdf_url": "https://www.mdpi.com/2075-4418/11/6/932/pdf?version=1621850070",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2075-4418/11/6/932/pdf?version=1621850070",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/8224643",
+        "https://doaj.org/article/a87896d9b5e445d2a4829611de2132f5"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1576,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.5173,
+          "recency_signal": 0.8
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.8030387046689587,
+          "h_index": 128
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": null,
+      "arxiv_id": null,
+      "openalex_id": "W3207996705",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "The influence of cyclic shear fatigue on the bracket-adhesive complex",
+      "abstract": "A commonly encountered problem in orthodontics is the bond failure of brackets during treatment. The forces applied in the oral environment are more likely to be of a cyclical nature, well below the ultimate shear strengths reported in in vitro studies. Isolated or initial powerful impacts are seldom. The failure over time is much likely to be the result of fatigue. Powerful impacts may occur and lead to failure, particularly if the system has undergone fatigue loading. The purpose of this study was to evaluate the influence of cyclic shear fatigue on the bracket-adhesive complex. Brackets with laser structured bases (Discovery®, Dentaurum) and with foil mesh bases (Ultra–Minitrim®, Dentaurum) were bonded on silanised stainless steel flat plates with a two-component (No-Mix Bonding System, Dentaurum) and a four-component (Con-cise™, 3M Unitek) chemically-curing adhesive. The specimens were aged in distilled water at 37°C for 3 days. One group of the specimens was used as control to determine the ultimate shear bond strength without any fatigue procedure. The brackets of the second group underwent fatigue testing with a testing machine Zwick 1445 (Zwick GmbH & Co) according to the staircase method for 1,000 cycles. The survived fatigued specimens of the second group were subjected to shear strength testing. Comparisons between the values taken for fatigued and nonfatigued specimens were made to extrapolate the effect of fatigue on the shear bond strength. The shear fatigue limit and the fatigue ratio were calculated. The bracket bases were examined and photographed under 25x magnification with a scanning electron microscope. The distribution of the remaining adhesive on the bracket bases was analysed numerically and visually. Shear fatigue of the bracket-adhesive complex for 1,000 cycles showed a variable influence on the shear strength of the bracket-adhesive complex, which was strongly dependent on the material combinations tested. Fatigued specimens showed an increase in shear strength of 8% in material group A (bracket Discovery® / adhesive No-Mix) and a decrease of 10 % in material group D (bracket Ultra-Minitrim® / adhesive Concise™). In material groups B (bracket Ultra-Minitrim® / adhesive No-Mix) and C (bracket Discovery® / adhesive Concise™) no statistically significant differences between the fatigued and nonfatigued specimens were found. The fatigue ratio was about 60 % for material groups A, B & C and 67 % for material group D, indicating a better fatigue behaviour of the combination Ultra-Minitrim® / Concise™. Among the nonfatigued specimens, the laser-structured bracket Discovery® showed about 59 % higher shear strength than the foilmesh bracket Ultra-Minitrim®. The four-component adhesive Concise™ showed about 66 % higher shear strength than the two-component adhesive No-Mix. Concerning the distribution of residual resin on the bracket bases, fatigue was found to have different influence depending on the fracture mode tested. Fatigue played the same role on the area of favourable fracture mode (sum of fracture between bracket / resin and cohesive fracture) independently of the material combinations tested, but statistical significant differences were not always present. The area of favourable fracture mode was not significantly different between the nonfatigued and fatigued specimens. Yet when examining the fatigued specimens that failed without completing 1,000 cycles in comparison to the ones that survived and were sheared after that, a significant larger area of favourable fracture was found in groups B, C and D. In group D the area was also significantly larger compared to the nonfatigued specimens. The most favourable fracture mode, the cohesive fracture, was also fatigue-dependant, but fatigue had a different influence depending on the material groups. In groups A and B no significant influence of fatigue was found. Fatigue showed a significant increase in cohesive fracture in group D and the failed-during-fatigue specimens showed a smaller area than the survived ones. In material group C the failed-during-fatigue specimens showed a significantly higher cohesive fracture that the survived ones – in contrast to group D. Concerning the nonfatigued specimens, the influence of the bracket type on the distribution of residual resin was the same for both fracture modes and depended on the material combinations. Bracket 2 (Ultra-Minitrim®) showed a higher favourable and most favourable fracture mode than bracket 1 (Discovery®) when tested with adhesive 2 (Concise™) and no differences with adhesive 1 (No-Mix). The influence of the adhesive type was not the same for the two fracture modes and depended on the material combinations. Adhesive 1 and 2 showed no difference in the distribution of the favourable fracture area with either bracket. The most favourable fracture area was lower for adhesive 2 when tested with bracket 2 and no differences were found with bracket 1. In general, fatigue had a variable influence on shear strength and on the distribution of the residual resin on the bracket base. Its influence depended on the material combinations tested. The distribution of the residual resin on the nonfatigued specimens was also material-dependant. Only the shear strength of the nonfatigued specimens showed similar behaviour for all combinations tested. The staircase method can provide an easily utilised, reproducible experimental protocol for the standardisation of fatigue studies, if the influence of a load near the fatigue limit is to be evaluated.",
+      "authors": [
+        {
+          "name": "Nikolaos Daratsianos",
+          "orcid": "https://orcid.org/0000-0003-2098-0379",
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2008,
+      "venue": "bonndoc (University of Bonn)",
+      "issn": null,
+      "type": "dissertation",
+      "citation_count": 3,
+      "referenced_works_count": 0,
+      "fwci": null,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T13113",
+          "name": "Engineering Technology and Methodologies",
+          "score": 0.9771000146865845
+        },
+        {
+          "id": "T13129",
+          "name": "Material Properties and Applications",
+          "score": 0.9664000272750854
+        },
+        {
+          "id": "T14454",
+          "name": "Polymer Science and Applications",
+          "score": 0.9362000226974487
+        }
+      ],
+      "keywords": [
+        "Bracket",
+        "Adhesive",
+        "Shear (geology)",
+        "Structural engineering",
+        "Materials science",
+        "Composite material",
+        "Fatigue testing",
+        "Engineering"
+      ],
+      "sdgs": [
+        {
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6800000071525574
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": null,
+      "openalex_url": "https://openalex.org/W3207996705",
+      "pdf_url": "http://hdl.handle.net/20.500.11811/3752",
+      "pmc_url": null,
+      "oa_locations": [
+        "http://hdl.handle.net/20.500.11811/3752"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1554,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.4,
+          "citation_signal": 0.1824,
+          "recency_signal": 0.28
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.3390/s19235199",
+      "arxiv_id": null,
+      "openalex_id": "W2990641478",
+      "ss_paper_id": null,
+      "pmid": "31783631",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Recent Trends, Technical Concepts and Components of Computer-Assisted Orthopedic Surgery Systems: A Comprehensive Review",
+      "abstract": "Computer-assisted orthopedic surgery (CAOS) systems have become one of the most important and challenging types of system in clinical orthopedics, as they enable precise treatment of musculoskeletal diseases, employing modern clinical navigation systems and surgical tools. This paper brings a comprehensive review of recent trends and possibilities of CAOS systems. There are three types of the surgical planning systems, including: systems based on the volumetric images (computer tomography (CT), magnetic resonance imaging (MRI) or ultrasound images), further systems utilize either 2D or 3D fluoroscopic images, and the last one utilizes the kinetic information about the joints and morphological information about the target bones. This complex review is focused on three fundamental aspects of CAOS systems: their essential components, types of CAOS systems, and mechanical tools used in CAOS systems. In this review, we also outline the possibilities for using ultrasound computer-assisted orthopedic surgery (UCAOS) systems as an alternative to conventionally used CAOS systems.",
+      "authors": [
+        {
+          "name": "Jan Kubíček",
+          "orcid": "https://orcid.org/0000-0003-0185-422X",
+          "affiliation": "VSB - Technical University of Ostrava",
+          "country": "CZ",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Filip Tomanec",
+          "orcid": "https://orcid.org/0000-0002-2104-8439",
+          "affiliation": "VSB - Technical University of Ostrava",
+          "country": "CZ",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Martin Černý",
+          "orcid": "https://orcid.org/0000-0002-8893-2587",
+          "affiliation": "VSB - Technical University of Ostrava",
+          "country": "CZ",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Dominik Vilímek",
+          "orcid": "https://orcid.org/0000-0003-3781-1280",
+          "affiliation": "VSB - Technical University of Ostrava",
+          "country": "CZ",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Martina Kalová",
+          "orcid": null,
+          "affiliation": "VSB - Technical University of Ostrava",
+          "country": "CZ",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "David Oczka",
+          "orcid": "https://orcid.org/0000-0001-7626-3673",
+          "affiliation": "VSB - Technical University of Ostrava",
+          "country": "CZ",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2019,
+      "venue": "Sensors",
+      "issn": "1424-8220",
+      "type": "article",
+      "citation_count": 66,
+      "referenced_works_count": 301,
+      "fwci": 2.8911,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T14510",
+          "name": "Medical Imaging and Analysis",
+          "score": 0.9991000294685364
+        },
+        {
+          "id": "T10916",
+          "name": "Surgical Simulation and Training",
+          "score": 0.9882000088691711
+        },
+        {
+          "id": "T11984",
+          "name": "Anatomy and Medical Technology",
+          "score": 0.9882000088691711
+        }
+      ],
+      "keywords": [
+        "Orthopedic surgery",
+        "Computer science",
+        "Magnetic resonance imaging",
+        "Medical physics",
+        "Orthopedic Procedures",
+        "Medicine",
+        "Radiology",
+        "Surgery"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/s19235199",
+      "openalex_url": "https://openalex.org/W2990641478",
+      "pdf_url": "https://www.mdpi.com/1424-8220/19/23/5199/pdf?version=1574855791",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/1424-8220/19/23/5199/pdf?version=1574855791",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/6929084",
+        "http://hdl.handle.net/10084/139332"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.155,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.5531,
+          "recency_signal": 0.72
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 5.456927794814608,
+          "h_index": 337
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    }
+  ],
+  "meta": {
+    "query": {
+      "topic": "guided mode laser dentistry preset",
+      "search_query": "guided mode laser dentistry preset",
+      "year_min": null,
+      "year_max": null,
+      "per_strategy": 40,
+      "terms": [
+        "guided",
+        "mode",
+        "laser",
+        "dentistry",
+        "preset"
+      ]
+    },
+    "counts": {
+      "retrieved_raw": 120,
+      "after_dedup": 72,
+      "after_relevance_filter": 72,
+      "after_journal_filter": 72,
+      "after_rank_filter": 72,
+      "returned": 30
+    },
+    "rank": {
+      "platform": "jcr",
+      "platform_source": "default",
+      "keep_tiers": null,
+      "keep_quartiles": null,
+      "top_only": false,
+      "category": null,
+      "applied_filter": false,
+      "ambiguous": false,
+      "candidate_platforms": [],
+      "kept": null,
+      "filtered": null,
+      "no_platform_data": null,
+      "data_loaded": false,
+      "loaded_platforms": [],
+      "switchable_platforms": [],
+      "switch_is_refilter_not_research": true,
+      "stripped_phrases": [],
+      "deepen": {
+        "active": false,
+        "rounds": 0,
+        "saturated": false,
+        "final_per_strategy": 40
+      },
+      "attribution": null,
+      "note": null,
+      "keep_tiers_note": null,
+      "naming": "CAS 区 & SJR best_quartile are PARTITIONS; only JCR impact_factor is a real Impact Factor (R-04/R-09). 切换标准/档位 = 重筛已标注的候选池，不重搜。"
+    },
+    "enrichment": {
+      "enriched": true,
+      "impact_source": "openalex_summary_stats",
+      "impact_attached": 58,
+      "filter_quartiles": null,
+      "filter_min_impact": null,
+      "category": null,
+      "issn_backfill_enabled": true,
+      "issn_backfill_attempted": 0,
+      "issn_backfilled": 0,
+      "note": "Single journal_rank layer. Quartile/影响力 data lives in each paper's journal_rank (CAS/JCR/SJR + openalex). Partition data is cached under ~/.paper-search-pro/ranks/ (run `journal_rank fetch`, no API key needed). Only JCR IF(2024) is a real Impact Factor."
+    },
+    "relevance": {
+      "method": "heuristic_v1",
+      "is_llm_rcs": false,
+      "min_relevance": 0.0,
+      "weights": {
+        "title_coverage": 0.5,
+        "abstract_coverage": 0.25,
+        "citation_signal": 0.15,
+        "recency_signal": 0.1
+      },
+      "note": "Deterministic query-grounded heuristic, NOT the human path's LLM RCS. A signal for self-judgement, computed for every paper."
+    },
+    "saturation": {
+      "method": "heuristic_v1",
+      "advisory": true,
+      "looks_saturated": true,
+      "per_strategy_new_papers": [
+        40,
+        26,
+        6
+      ],
+      "last_strategy_marginal_yield": 0.0833,
+      "score_distribution": {
+        "high": 0,
+        "medium": 0,
+        "low": 72
+      },
+      "note": "Heuristic stop signal (no LLM classification). 'looks_saturated' = later strategies added few new papers. Advisory only."
+    },
+    "ratelimit": {
+      "ok": true,
+      "remaining_usd": 0.7043,
+      "limit_usd": 1.0,
+      "remaining": 7043,
+      "limit": 10000,
+      "reset_seconds": 47383,
+      "retry_after": null,
+      "should_switch": false,
+      "mode": "probe",
+      "error": null,
+      "switched_source": false
+    },
+    "source_used": "openalex",
+    "warnings": []
+  }
+}

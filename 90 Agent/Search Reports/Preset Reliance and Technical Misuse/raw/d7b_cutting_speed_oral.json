@@ -1,0 +1,4503 @@
+{
+  "ok": true,
+  "schema_version": "1.0",
+  "data": [
+    {
+      "doi": "10.1117/1.jbo.20.10.105007",
+      "arxiv_id": null,
+      "openalex_id": "W2121693383",
+      "ss_paper_id": null,
+      "pmid": "26469563",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Laser cutting of bone tissue under bulk water with a pulsed ps-laser at 532 nm",
+      "abstract": "Hard-tissue ablation was already investigated for a broad variety of pulsed laser systems, which cover almost the entire range of available wavelengths and pulse parameters. Most effective in hard-tissue ablation are Er:YAG and CO2 lasers, both utilizing the effect of absorption of infrared wavelengths by water and so-called explosive vaporization, when a thin water film or water–air spray is supplied. The typical flow rates and the water layer thicknesses are too low for surgical applications where bleeding occurs and wound flushing is necessary. We studied a 20 W ps-laser with 532 nm wavelength and a pulse energy of 1 mJ to effectively ablate bones that are submerged 14 mm under water. For these laser parameters, the plasma-mediated ablation mechanism is dominant. Simulations based on the blow-off model predict the cut depth and cross-sectional shape of the incision. The model is modified considering the cross section of the Gaussian beam, the incident angle, and reflections. The ablation rate amounts to 0.2 mm3/s, corresponding to an increase by at least 50% of the highest values published so far for ultrashort laser ablation of hard tissue.",
+      "authors": [
+        {
+          "name": "Cristian-Alexander Tulea",
+          "orcid": null,
+          "affiliation": "Fraunhofer Institute for Laser Technology",
+          "country": "DE",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jan Caron",
+          "orcid": "https://orcid.org/0000-0002-0873-889X",
+          "affiliation": "Fraunhofer Institute for Laser Technology",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Nils Gehlich",
+          "orcid": null,
+          "affiliation": "Fraunhofer Institute for Laser Technology",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Achim Lenenbach",
+          "orcid": null,
+          "affiliation": "Fraunhofer Institute for Laser Technology",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Reinhard Noll",
+          "orcid": "https://orcid.org/0000-0002-9572-2350",
+          "affiliation": "Fraunhofer Institute for Laser Technology",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Peter Loosen",
+          "orcid": null,
+          "affiliation": "Fraunhofer Institute for Laser Technology",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2015,
+      "venue": "Journal of Biomedical Optics",
+      "issn": "1083-3668",
+      "type": "article",
+      "citation_count": 28,
+      "referenced_works_count": 42,
+      "fwci": 2.6715,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T10732",
+          "name": "Laser Material Processing Techniques",
+          "score": 0.9988999962806702
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9977999925613403
+        },
+        {
+          "id": "T11854",
+          "name": "Laser-induced spectroscopy and plasma",
+          "score": 0.9962999820709229
+        }
+      ],
+      "keywords": [
+        "Ablation",
+        "Materials science",
+        "Laser",
+        "Vaporization",
+        "Optics",
+        "Laser ablation",
+        "Wavelength",
+        "Absorption (acoustics)",
+        "Shadowgraphy",
+        "Optoelectronics"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation",
+          "score": 0.800000011920929
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1117/1.jbo.20.10.105007",
+      "openalex_url": "https://openalex.org/W2121693383",
+      "pdf_url": "https://www.spiedigitallibrary.org/journals/Journal-of-Biomedical-Optics/volume-20/issue-10/105007/Laser-cutting-of-bone-tissue-under-bulk-water-with-a/10.1117/1.JBO.20.10.105007.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.spiedigitallibrary.org/journals/Journal-of-Biomedical-Optics/volume-20/issue-10/105007/Laser-cutting-of-bone-tissue-under-bulk-water-with-a/10.1117/1.JBO.20.10.105007.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.5224,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.6,
+          "abstract_coverage": 0.4,
+          "citation_signal": 0.443,
+          "recency_signal": 0.56
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.495201535508637,
+          "h_index": 183
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.4317/jced.53795",
+      "arxiv_id": null,
+      "openalex_id": "W2638930663",
+      "ss_paper_id": null,
+      "pmid": "28828162",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "The application of diode laser in the treatment of oral soft tissues lesions. A literature review",
+      "abstract": "BACKGROUND: Since its appearance in the dental area, the laser has become a treatment of choice in the removal of lesions in the oral soft tissues, due to the numerous advantages they offer, being one of the most used currently the diode laser. The aim of this review was to determine the efficacy and predictability of diode laser as a treatment of soft tissue injuries compared to other surgical methods. MATERIAL AND METHODS: A literature review of articles published in PubMed/MEDLINE, Scopus and the Cochrane Library databases between 2007 and 2017 was performed. \"Diode laser\", \"soft tissue\", \"oral cavity\" and \"oral surgery\" were employed for the search strategy. Only articles published English or Spanish were selected. RESULTS: The diode laser is a minimally invasive technology that offers great advantages, superior to those of the conventional scalpel, such as reduction of bleeding, inflammation and the lower probability of scars. Its effectiveness is comparable to that of other types of lasers, in addition to being an option of lower cost and greater ease of use. Its application in the soft tissues has been evaluated, being a safe and effective method for the excision of lesions like fibromas, epulis fissuratum and the accomplishment of frenectomies. CONCLUSIONS: Diode laser, soft tissues, oral cavity, oral surgery.",
+      "authors": [
+        {
+          "name": "D Ortega-Concepcion",
+          "orcid": null,
+          "affiliation": "Universidad Complutense de Madrid",
+          "country": "ES",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "JA Cano-Duran",
+          "orcid": null,
+          "affiliation": "Universidad Complutense de Madrid",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Juan‐Francisco Peña‐Cardelles",
+          "orcid": "https://orcid.org/0000-0002-7871-0251",
+          "affiliation": "Universidad Complutense de Madrid",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "VM Paredes-Rodriguez",
+          "orcid": null,
+          "affiliation": "Universidad Complutense de Madrid",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "José González‐Serrano",
+          "orcid": "https://orcid.org/0000-0003-1060-5305",
+          "affiliation": "Universidad Complutense de Madrid",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Juan López-Quiles",
+          "orcid": "https://orcid.org/0000-0002-5817-0526",
+          "affiliation": "Universidad Complutense de Madrid",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2017,
+      "venue": "Journal of Clinical and Experimental Dentistry",
+      "issn": "1989-5488",
+      "type": "article",
+      "citation_count": 82,
+      "referenced_works_count": 23,
+      "fwci": 3.9934,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9300000071525574
+        },
+        {
+          "id": "T13813",
+          "name": "Oral and Craniofacial Lesions",
+          "score": 0.03680000081658363
+        },
+        {
+          "id": "T11452",
+          "name": "Oral Health Pathology and Treatment",
+          "score": 0.005400000140070915
+        }
+      ],
+      "keywords": [
+        "Soft tissue",
+        "Medicine",
+        "Laser",
+        "Oral cavity",
+        "Surgery",
+        "Scars",
+        "Dentistry"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being",
+          "score": 0.6000000238418579
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.4317/jced.53795",
+      "openalex_url": "https://openalex.org/W2638930663",
+      "pdf_url": "https://doi.org/10.4317/jced.53795",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.4317/jced.53795",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/5549593",
+        "http://hdl.handle.net/10550/61251"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.5012,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.4,
+          "abstract_coverage": 0.6,
+          "citation_signal": 0.5813,
+          "recency_signal": 0.64
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.4648648648648648,
+          "h_index": 61
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/ma17194792",
+      "arxiv_id": null,
+      "openalex_id": "W4402990747",
+      "ss_paper_id": null,
+      "pmid": "39410363",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Cutting-Edge Hydrogel Technologies in Tissue Engineering and Biosensing: An Updated Review",
+      "abstract": "Hydrogels, known for their unique ability to retain large amounts of water, have emerged as pivotal materials in both tissue engineering and biosensing applications. This review provides an updated and comprehensive examination of cutting-edge hydrogel technologies and their multifaceted roles in these fields. Initially, the chemical composition and intrinsic properties of both natural and synthetic hydrogels are discussed, highlighting their biocompatibility and biodegradability. The manuscript then probes into innovative scaffold designs and fabrication techniques such as 3D printing, electrospinning, and self-assembly methods, emphasizing their applications in regenerating bone, cartilage, skin, and neural tissues. In the realm of biosensing, hydrogels' responsive nature is explored through their integration into optical, electrochemical, and piezoelectric sensors. These sensors are instrumental in medical diagnostics for glucose monitoring, pathogen detection, and biomarker identification, as well as in environmental and industrial applications like pollution and food quality monitoring. Furthermore, the review explores cross-disciplinary innovations, including the use of hydrogels in wearable devices, and hybrid systems, and their potential in personalized medicine. By addressing current challenges and future directions, this review aims to underscore the transformative impact of hydrogel technologies in advancing healthcare and industrial practices, thereby providing a vital resource for researchers and practitioners in the field.",
+      "authors": [
+        {
+          "name": "Nargish Parvin",
+          "orcid": "https://orcid.org/0000-0002-1209-1507",
+          "affiliation": "Yeungnam University",
+          "country": "KR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Vineet Kumar",
+          "orcid": "https://orcid.org/0000-0003-0095-1976",
+          "affiliation": "Yeungnam University",
+          "country": "KR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Sang Woo Joo",
+          "orcid": "https://orcid.org/0000-0001-9102-4224",
+          "affiliation": "Yeungnam University",
+          "country": "KR",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Tapas Kumar Mandal",
+          "orcid": "https://orcid.org/0000-0003-2615-8618",
+          "affiliation": "Yeungnam University",
+          "country": "KR",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2024,
+      "venue": "Materials",
+      "issn": "1996-1944",
+      "type": "article",
+      "citation_count": 71,
+      "referenced_works_count": 200,
+      "fwci": 8.3858,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10338",
+          "name": "Advanced Sensor and Energy Harvesting Materials",
+          "score": 0.9991000294685364
+        },
+        {
+          "id": "T10729",
+          "name": "Electrospun Nanofibers in Biomedical Applications",
+          "score": 0.9975000023841858
+        },
+        {
+          "id": "T11190",
+          "name": "3D Printing in Biomedical Research",
+          "score": 0.9957000017166138
+        }
+      ],
+      "keywords": [
+        "Self-healing hydrogels",
+        "Nanotechnology",
+        "Wearable computer",
+        "Biosensor",
+        "Materials science",
+        "Tissue engineering",
+        "Computer science",
+        "Biochemical engineering",
+        "Biomedical engineering",
+        "Engineering"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production",
+          "score": 0.44999998807907104
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/ma17194792",
+      "openalex_url": "https://openalex.org/W4402990747",
+      "pdf_url": "https://doi.org/10.3390/ma17194792",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.3390/ma17194792",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11477805/pdf/materials-17-04792.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4764,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.4,
+          "abstract_coverage": 0.4,
+          "citation_signal": 0.5626,
+          "recency_signal": 0.92
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 4.597651539193906,
+          "h_index": 248
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.4317/medoral.18156",
+      "arxiv_id": null,
+      "openalex_id": "W2118918126",
+      "ss_paper_id": null,
+      "pmid": "23385496",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Laser treatment of 13 benign oral vascular lesions by three different surgical techniques",
+      "abstract": "OBJECTIVES: Benign Oral Vascular Lesions (BOVLs) are a group of vascular diseases characterized by congenital, inflammatory or neoplastic vascular dilations clinically evidenced as more or less wide masses of commonly dark bluish color. If traumatized BOVLs are characterized by a great risk of hemorrhage and their treatment usually requires great caution to prevent massive bleeding. In the last decades lasers have dramatically changed the way of treatment of BOVLs permitting the application of even peculiar techniques that gave interesting advantages in their management reducing hemorrhage risks. The aim of this study was to evaluate the capabilities and disadvantages of three laser assisted techniques in the management of BOVLs. STUDY DESIGN: In this study 13 BOVLs were treated by three different laser techniques: the traditional excisional biopsy (EB), and two less invasive techniques, the transmucosal thermocoagulation (TMT) and the intralesional photocoagulation (ILP). Two different laser devices were adopted in the study: a KTP laser (DEKA, Florence, Italy, 532 nm) and a GaAlAs laser (Laser Innovation, Castelgandolfo, Italy, 808 nm) selected since their great effectiveness on hemoglobin. RESULTS: In each case, lasers permitted safe treatments of BOVLs without hemorrhages, both during the intervention and in the post-operative period. The minimally invasive techniques (TMT and ILP) permitted even the safe resolution of big lesions without tissue loss. CONCLUSIONS: Laser devices confirm to be the gold standard in BOVLs treatment, permitting even the introduction of minimal invasive surgery principles and reducing the risks of hemorrhage typical of these neoplasms. As usual in laser surgery, it is necessary a clear knowledge of the devices and of the laser-tissue interaction to optimize the results reducing risks and disadvantages.",
+      "authors": [
+        {
+          "name": "Umberto Romeo",
+          "orcid": "https://orcid.org/0000-0003-2439-2187",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Alessandro Del Vecchio",
+          "orcid": "https://orcid.org/0000-0002-9278-8872",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "C. Russo",
+          "orcid": null,
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gaspare Palaia",
+          "orcid": "https://orcid.org/0000-0001-8509-2255",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Gianfranco Gaimari",
+          "orcid": null,
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Josep Arnabat‐Domínguez",
+          "orcid": "https://orcid.org/0000-0003-1653-8043",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "A Espana",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2013,
+      "venue": "Medicina oral, patología oral y cirugía bucal",
+      "issn": "1698-4447",
+      "type": "article",
+      "citation_count": 40,
+      "referenced_works_count": 29,
+      "fwci": 3.0789,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T10980",
+          "name": "Vascular Malformations and Hemangiomas",
+          "score": 0.4677000045776367
+        },
+        {
+          "id": "T11452",
+          "name": "Oral Health Pathology and Treatment",
+          "score": 0.10159999877214432
+        },
+        {
+          "id": "T12199",
+          "name": "Vascular Anomalies and Treatments",
+          "score": 0.08730000257492065
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Laser",
+        "Surgery",
+        "Laser treatment",
+        "Biopsy",
+        "Laser surgery",
+        "Intense pulsed light",
+        "Laser coagulation",
+        "Radiology",
+        "Dermatology"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.5299999713897705
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.4317/medoral.18156",
+      "openalex_url": "https://openalex.org/W2118918126",
+      "pdf_url": "https://doi.org/10.4317/medoral.18156",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.4317/medoral.18156",
+        "https://iris.uniroma1.it/bitstream/11573/547890/4/Romeo_Laser_2013.pdf",
+        "http://europepmc.org/articles/PMC3613881",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/3613881",
+        "http://hdl.handle.net/10550/35596"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4713,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.4,
+          "abstract_coverage": 0.6,
+          "citation_signal": 0.4885,
+          "recency_signal": 0.48
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.2845849802371543,
+          "h_index": 89
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1590/s0103-64402009000200013",
+      "arxiv_id": null,
+      "openalex_id": "W2109859043",
+      "ss_paper_id": null,
+      "pmid": "19738951",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Bone damage induced by different cutting instruments: an in vitro study",
+      "abstract": "The aim of this study was to compare the peripheral bone damage induced by different cutting systems. Four devices were tested: Er:YAG laser (2.94 mm), Piezosurgery, high-speed drill and low-speed drill. Forty-five bone sections, divided into 9 groups according to different parameters, were taken from pig mandibles within 1 h post mortem. Specimens were fixed in 10% buffered formalin, decalcified and cut in thin sections. Four different parameters were analyzed: cut precision, depth of incision, peripheral carbonization and presence of bone fragments. For statistical analysis, the Kruskal-Wallis test was applied to assess equality of sample medians among groups. All sections obtained with the Er:YAG laser showed poor peripheral carbonization. The edges of the incisions were always well-shaped and regular, no melting was observed. Piezosurgery specimens revealed superficial incisions without thermal damage but with irregular edges. The sections obtained by traditional drilling showed poor peripheral carbonization, especially if obtained at lower speed. There was statistically significant differences (p<0.01) among the cutting systems for all analyzed parameters. Er:YAG laser, gave poor peripheral carbonization, and may be considered an effective method in oral bone biopsies and permits to obtain clear and readable tissue specimens.",
+      "authors": [
+        {
+          "name": "Umberto Romeo",
+          "orcid": "https://orcid.org/0000-0003-2439-2187",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Alessandro Del Vecchio",
+          "orcid": "https://orcid.org/0000-0002-9278-8872",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gaspare Palata",
+          "orcid": null,
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gianluca Tenore",
+          "orcid": "https://orcid.org/0000-0001-9963-8052",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Paolo Visca",
+          "orcid": "https://orcid.org/0000-0002-6128-7039",
+          "affiliation": "Deutsches Historisches Institut Rom",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Claudia Maggiore",
+          "orcid": "https://orcid.org/0000-0002-0138-0979",
+          "affiliation": "University of L'Aquila",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2009,
+      "venue": "Brazilian Dental Journal",
+      "issn": "0103-6440",
+      "type": "article",
+      "citation_count": 87,
+      "referenced_works_count": 20,
+      "fwci": 3.4084,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.9980000257492065
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.9973000288009644
+        }
+      ],
+      "keywords": [
+        "Drill",
+        "Carbonization",
+        "Materials science",
+        "Laser",
+        "Biomedical engineering",
+        "Peripheral",
+        "Dentistry",
+        "Hard tissue",
+        "Composite material",
+        "Medicine"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1590/s0103-64402009000200013",
+      "openalex_url": "https://openalex.org/W2109859043",
+      "pdf_url": "https://www.scielo.br/j/bdj/a/W3sgkYCnd8SjrMNbR4LcF7d/?lang=en&format=pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.scielo.br/j/bdj/a/W3sgkYCnd8SjrMNbR4LcF7d/?lang=en&format=pdf",
+        "http://old.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-64402009000200013",
+        "http://americanae.aecid.es/americanae/es/registros/registro.do?tipoRegistro=MTD&idBib=2554193",
+        "https://www.openaccessrepository.it/record/53474",
+        "https://doi.org/10.5281/zenodo.53474"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4704,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 1.0,
+          "citation_signal": 0.589,
+          "recency_signal": 0.32
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.96,
+          "h_index": 84
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/jcm9072238",
+      "arxiv_id": null,
+      "openalex_id": "W3042688822",
+      "ss_paper_id": null,
+      "pmid": "32679657",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "3D Printing Approach in Dentistry: The Future for Personalized Oral Soft Tissue Regeneration",
+      "abstract": "Three-dimensional (3D) printing technology allows the production of an individualized 3D object based on a material of choice, a specific computer-aided design and precise manufacturing. Developments in digital technology, smart biomaterials and advanced cell culturing, combined with 3D printing, provide promising grounds for patient-tailored treatments. In dentistry, the \"digital workflow\" comprising intraoral scanning for data acquisition, object design and 3D printing, is already in use for manufacturing of surgical guides, dental models and reconstructions. 3D printing, however, remains un-investigated for oral mucosa/gingiva. This scoping literature review provides an overview of the 3D printing technology and its applications in regenerative medicine to then describe 3D printing in dentistry for the production of surgical guides, educational models and the biological reconstructions of periodontal tissues from laboratory to a clinical case. The biomaterials suitable for oral soft tissues printing are outlined. The current treatments and their limitations for oral soft tissue regeneration are presented, including \"off the shelf\" products and the blood concentrate (PRF). Finally, tissue engineered gingival equivalents are described as the basis for future 3D-printed oral soft tissue constructs. The existing knowledge exploring different approaches could be applied to produce patient-tailored 3D-printed oral soft tissue graft with an appropriate inner architecture and outer shape, leading to a functional as well as aesthetically satisfying outcome.",
+      "authors": [
+        {
+          "name": "Dobrila Nešić",
+          "orcid": "https://orcid.org/0000-0003-1609-9255",
+          "affiliation": "University of Geneva",
+          "country": "CH",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Birgit M. Schaefer",
+          "orcid": null,
+          "affiliation": "Geistlich Pharma (Switzerland)",
+          "country": "CH",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yue Sun",
+          "orcid": "https://orcid.org/0000-0001-8452-5944",
+          "affiliation": "University of Geneva",
+          "country": "CH",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Nikola Saulačić",
+          "orcid": "https://orcid.org/0000-0003-3960-4920",
+          "affiliation": "University of Bern",
+          "country": "CH",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Irena Sailer",
+          "orcid": "https://orcid.org/0000-0002-4537-7624",
+          "affiliation": "University of Geneva",
+          "country": "CH",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2020,
+      "venue": "Journal of Clinical Medicine",
+      "issn": "2077-0383",
+      "type": "article",
+      "citation_count": 104,
+      "referenced_works_count": 176,
+      "fwci": 4.0596,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11190",
+          "name": "3D Printing in Biomedical Research",
+          "score": 0.9983000159263611
+        },
+        {
+          "id": "T11570",
+          "name": "Periodontal Regeneration and Treatments",
+          "score": 0.9959999918937683
+        },
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.9952999949455261
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Soft tissue",
+        "Regeneration (biology)",
+        "Dentistry",
+        "Orthodontics",
+        "Pathology",
+        "Cell biology"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.46000000834465027
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/jcm9072238",
+      "openalex_url": "https://openalex.org/W3042688822",
+      "pdf_url": "https://www.mdpi.com/2077-0383/9/7/2238/pdf?version=1595213203",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2077-0383/9/7/2238/pdf?version=1595213203",
+        "https://archive-ouverte.unige.ch/unige:143428",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/7408636",
+        "https://boris.unibe.ch/146835/",
+        "https://doaj.org/article/4c489c0ad9934f478a696931cc91cd9d"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4678,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.4,
+          "abstract_coverage": 0.4,
+          "citation_signal": 0.6123,
+          "recency_signal": 0.76
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.716959703878186,
+          "h_index": 189
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1002/adhm.202304537",
+      "arxiv_id": null,
+      "openalex_id": "W4393199983",
+      "ss_paper_id": null,
+      "pmid": "38529835",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Biofabrication Strategies for Oral Soft Tissue Regeneration",
+      "abstract": "Gingival recession, a prevalent condition affecting the gum tissues, is characterized by the exposure of tooth root surfaces due to the displacement of the gingival margin. This review explores conventional treatments, highlighting their limitations and the quest for innovative alternatives. Importantly, it emphasizes the critical considerations in gingival tissue engineering leveraging on cells, biomaterials, and signaling factors. Successful tissue-engineered gingival constructs hinge on strategic choices such as cell sources, scaffold design, mechanical properties, and growth factor delivery. Unveiling advancements in recent biofabrication technologies like 3D bioprinting, electrospinning, and microfluidic organ-on-chip systems, this review elucidates their precise control over cell arrangement, biomaterials, and signaling cues. These technologies empower the recapitulation of microphysiological features, enabling the development of gingival constructs that closely emulate the anatomical, physiological, and functional characteristics of native gingival tissues. The review explores diverse engineering strategies aiming at the biofabrication of realistic tissue-engineered gingival grafts. Further, the parallels between the skin and gingival tissues are highlighted, exploring the potential transfer of biofabrication approaches from skin tissue regeneration to gingival tissue engineering. To conclude, the exploration of innovative biofabrication technologies for gingival tissues and inspiration drawn from skin tissue engineering look forward to a transformative era in regenerative dentistry with improved clinical outcomes.",
+      "authors": [
+        {
+          "name": "Maedeh Rahimnejad",
+          "orcid": "https://orcid.org/0000-0002-2958-1115",
+          "affiliation": "University of Michigan",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hardik Makkar",
+          "orcid": "https://orcid.org/0000-0002-8416-4138",
+          "affiliation": "National University of Singapore",
+          "country": "SG",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Renan Dal‐Fabbro",
+          "orcid": "https://orcid.org/0000-0002-4125-8441",
+          "affiliation": "University of Michigan",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jos Malda",
+          "orcid": "https://orcid.org/0000-0002-9241-7676",
+          "affiliation": "University of Applied Sciences Utrecht",
+          "country": "NL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gopu Sriram",
+          "orcid": "https://orcid.org/0000-0001-8423-5197",
+          "affiliation": "National University of Singapore",
+          "country": "SG",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Marco C. Bottino",
+          "orcid": "https://orcid.org/0000-0001-8740-2464",
+          "affiliation": "University of Michigan",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2024,
+      "venue": "Advanced Healthcare Materials",
+      "issn": "2192-2640",
+      "type": "article",
+      "citation_count": 40,
+      "referenced_works_count": 252,
+      "fwci": 4.6157,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11190",
+          "name": "3D Printing in Biomedical Research",
+          "score": 0.9998000264167786
+        },
+        {
+          "id": "T10059",
+          "name": "Bone Tissue Engineering Materials",
+          "score": 0.996399998664856
+        },
+        {
+          "id": "T10729",
+          "name": "Electrospun Nanofibers in Biomedical Applications",
+          "score": 0.9929999709129333
+        }
+      ],
+      "keywords": [
+        "Biofabrication",
+        "Tissue engineering",
+        "Regeneration (biology)",
+        "Regenerative medicine",
+        "Biomedical engineering",
+        "Dentistry",
+        "Medicine",
+        "Stem cell",
+        "Biology",
+        "Cell biology"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.4099999964237213
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1002/adhm.202304537",
+      "openalex_url": "https://openalex.org/W4393199983",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adhm.202304537",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adhm.202304537",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11254569/pdf/nihms-1980080.pdf",
+        "https://dspace.library.uu.nl/handle/1874/454268"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4153,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.4,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.4885,
+          "recency_signal": 0.92
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 7.846573982125124,
+          "h_index": 195
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1007/978-981-15-1346-6_39",
+      "arxiv_id": null,
+      "openalex_id": "W1875406728",
+      "ss_paper_id": null,
+      "pmid": "11048276",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Lasers in Oral and Maxillofacial Surgery",
+      "abstract": "Because of their many advantages, lasers have become indispensable in OMS as a modality for soft tissue surgery. Based on manufacturer estimates, approximately 10% to 20% of all oral and maxillofacial surgeons have one or more lasers in their offices, and most surgeons have access to lasers in the hospital. Lasers not only enhance the current surgical options for treatment, but also have expanded the scope of practice. There are many uses for lasers in OMS, and the advent of new wavelengths will undoubtedly lead to new procedures that can be performed with them. One [figure: see text] elusive use is hard tissue surgery. Although the Er:YAG has been approved for hard tissue use in the United States and currently is being used in general dentistry, it is still not yet practical or proven for large-volume osseous or extraction surgery, in which the greatest opportunity for innovation and clinical use exists. With future research, it is possible that the right wavelength laser will be developed for this purpose, allowing an increased base of procedures performed with lasers in OMS.",
+      "authors": [
+        {
+          "name": "Shravan Renapurkar",
+          "orcid": "https://orcid.org/0000-0002-1552-3002",
+          "affiliation": "Virginia Commonwealth University Medical Center",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Robert A. Strauss",
+          "orcid": "https://orcid.org/0000-0003-0931-4172",
+          "affiliation": "Virginia Commonwealth University Medical Center",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2021,
+      "venue": null,
+      "issn": null,
+      "type": "book-chapter",
+      "citation_count": 68,
+      "referenced_works_count": 27,
+      "fwci": 3.9403,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9995999932289124
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.9962999820709229
+        },
+        {
+          "id": "T12625",
+          "name": "Sympathectomy and Hyperhidrosis Treatments",
+          "score": 0.987500011920929
+        }
+      ],
+      "keywords": [
+        "Oral and maxillofacial surgery",
+        "Reliability (semiconductor)",
+        "Medicine",
+        "Medical physics",
+        "Dentistry",
+        "Physics"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1007/978-981-15-1346-6_39",
+      "openalex_url": "https://openalex.org/W1875406728",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007%2F978-981-15-1346-6_39.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://link.springer.com/content/pdf/10.1007%2F978-981-15-1346-6_39.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4136,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.6,
+          "citation_signal": 0.557,
+          "recency_signal": 0.8
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.59306/jrd.v14e2202635-42",
+      "arxiv_id": null,
+      "openalex_id": "W7212171836",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Evaluation of tissue reaction after root resection with laser in comparison to different methods: in vivo study.",
+      "abstract": "Aims: To evaluate the tissue reaction promoted after performing apicoectomy with an erbium:YAG laser compared to other methods. Methods: Seventy-two human premolars were submitted to the root resection with 699 bur carbide, 699 bur carbide and finishing with Shofu point, Zekrya bur or erbium:YAG laser. After apicoectomy, roots from the different groups were implanted in the rats subcutaneous for 48 hours, 7 and 30 days. The number of inflammatory (IC) and fibroblast (Fb) cells and the capsule thickness in the tissue adjacent to the implants was measured. Data were submitted to statistical analyses (p<0.05). Results: After 48 hours, a moderate to intense inflammatory reaction was seen in all groups. Within 7 days, a decrease in the number of inflammatory cells and increasing in the Fb adjacent to the 699+Shofu and Laser groups was noted (p<0.05). At 30 days, the comparison amongst groups showed a thinner capsule and a smaller number of IC adjacent to 699+Shofu and Laser (p<0.05). Conclusions: Both the Er:YAG laser and #699 bur with Shofu point finishing caused less intense tissue inflammation and accelerated the repair process compared to other methods.",
+      "authors": [
+        {
+          "name": "Guilherme Ferreira da Silva",
+          "orcid": null,
+          "affiliation": "American University of Europe",
+          "country": "MK",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Murilo Priori Alcalde",
+          "orcid": null,
+          "affiliation": "American University of Europe",
+          "country": "MK",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Anne Rafaella Tenório Vieira",
+          "orcid": null,
+          "affiliation": "American University of Europe",
+          "country": "MK",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Thaine Oliveira Lima",
+          "orcid": "https://orcid.org/0000-0001-5220-9947",
+          "affiliation": "American University of Europe",
+          "country": "MK",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "João Vitor De Oliveira Amorim",
+          "orcid": null,
+          "affiliation": "American University of Europe",
+          "country": "MK",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Marisa Azemi Matsumoto",
+          "orcid": null,
+          "affiliation": "Universidade Estadual Paulista (Unesp)",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Marco Antônio Hungaro Duarte",
+          "orcid": null,
+          "affiliation": "American University of Europe",
+          "country": "MK",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2026,
+      "venue": "Journal of Research in Dentistry",
+      "issn": "2317-5907",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 0,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.5622000098228455
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.3506999909877777
+        },
+        {
+          "id": "T11570",
+          "name": "Periodontal Regeneration and Treatments",
+          "score": 0.023499999195337296
+        }
+      ],
+      "keywords": [
+        "Apicoectomy",
+        "Laser",
+        "Capsule",
+        "Resection",
+        "In vivo",
+        "Soft tissue"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.59306/jrd.v14e2202635-42",
+      "openalex_url": "https://openalex.org/W7212171836",
+      "pdf_url": "https://portaldeperiodicos.animaeducacao.com.br/index.php/JRD/article/download/50319/47140",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://portaldeperiodicos.animaeducacao.com.br/index.php/JRD/article/download/50319/47140"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.4,
+          "abstract_coverage": 0.4,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.15,
+          "h_index": 7
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1016/j.bioactmat.2023.04.003",
+      "arxiv_id": null,
+      "openalex_id": "W4366261646",
+      "ss_paper_id": null,
+      "pmid": "37122902",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Going below and beyond the surface: Microneedle structure, materials, drugs, fabrication, and applications for wound healing and tissue regeneration",
+      "abstract": "Microneedle, as a novel drug delivery system, has attracted widespread attention due to its non-invasiveness, painless and simple administration, controllable drug delivery, and diverse cargo loading capacity. Although microneedles are initially designed to penetrate stratum corneum of skin for transdermal drug delivery, they, recently, have been used to promote wound healing and regeneration of diverse tissues and organs and the results are promising. Despite there are reviews about microneedles, few of them focus on wound healing and tissue regeneration. Here, we review the recent advances of microneedles in this field. We first give an overview of microneedle system in terms of its potential cargos (e.g., small molecules, macromolecules, nucleic acids, nanoparticles, extracellular vesicle, cells), structural designs (e.g., multidrug structures, adhesive structures), material selection, and drug release mechanisms. Then we briefly summarize different microneedle fabrication methods, including their advantages and limitations. We finally summarize the recent progress of microneedle-assisted wound healing and tissue regeneration (e.g., skin, cardiac, bone, tendon, ocular, vascular, oral, hair, spinal cord, and uterine tissues). We expect that our article would serve as a guideline for readers to design their microneedle systems according to different applications, including material selection, drug selection, and structure design, for achieving better healing and regeneration efficacy.",
+      "authors": [
+        {
+          "name": "Shang Lyu",
+          "orcid": "https://orcid.org/0000-0003-0650-5571",
+          "affiliation": "Hong Kong Polytechnic University",
+          "country": "HK",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Zhifei Dong",
+          "orcid": "https://orcid.org/0000-0001-5905-2866",
+          "affiliation": "Hong Kong Polytechnic University",
+          "country": "HK",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Xiaoxiao Xu",
+          "orcid": "https://orcid.org/0000-0003-3884-8667",
+          "affiliation": "Hong Kong Polytechnic University",
+          "country": "HK",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ho‐Pan Bei",
+          "orcid": null,
+          "affiliation": "Hong Kong Polytechnic University",
+          "country": "HK",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ho Yin Yuen",
+          "orcid": "https://orcid.org/0000-0002-1100-343X",
+          "affiliation": "Hong Kong Polytechnic University",
+          "country": "HK",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "James Chung‐Wai Cheung",
+          "orcid": "https://orcid.org/0000-0001-7446-0569",
+          "affiliation": "Hong Kong Polytechnic University",
+          "country": "HK",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Man Sang Wong",
+          "orcid": "https://orcid.org/0000-0002-4157-9528",
+          "affiliation": "Hong Kong Polytechnic University",
+          "country": "HK",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Yong He",
+          "orcid": "https://orcid.org/0000-0002-9099-0831",
+          "affiliation": "Zhejiang University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Xin Zhao",
+          "orcid": "https://orcid.org/0000-0002-9521-7768",
+          "affiliation": "Hong Kong Polytechnic University",
+          "country": "HK",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2023,
+      "venue": "Bioactive Materials",
+      "issn": "2097-1192",
+      "type": "article",
+      "citation_count": 262,
+      "referenced_works_count": 233,
+      "fwci": 21.88,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10704",
+          "name": "Advancements in Transdermal Drug Delivery",
+          "score": 1.0
+        },
+        {
+          "id": "T10837",
+          "name": "Dermatology and Skin Diseases",
+          "score": 0.9926000237464905
+        },
+        {
+          "id": "T10997",
+          "name": "Ocular Surface and Contact Lens",
+          "score": 0.9922999739646912
+        }
+      ],
+      "keywords": [
+        "Transdermal",
+        "Regeneration (biology)",
+        "Stratum corneum",
+        "Wound healing",
+        "Biomedical engineering",
+        "Drug delivery",
+        "Nanotechnology",
+        "Materials science",
+        "Medicine",
+        "Pharmacology"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being",
+          "score": 0.8100000023841858
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/j.bioactmat.2023.04.003",
+      "openalex_url": "https://openalex.org/W4366261646",
+      "pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S2452199X23001214-ga1_lrg.jpg",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://ars.els-cdn.com/content/image/1-s2.0-S2452199X23001214-ga1_lrg.jpg",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/10140753",
+        "https://doaj.org/article/51227a2b072249ceb0c00ad2e9b712aa",
+        "http://hdl.handle.net/10397/99344"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.398,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.4,
+          "citation_signal": 0.733,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 10.363514419852448,
+          "h_index": 157
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1111/j.1834-7819.2003.tb00025.x",
+      "arxiv_id": null,
+      "openalex_id": "W2153586863",
+      "ss_paper_id": null,
+      "pmid": "14640367",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "The current status of laser applications in dentistry",
+      "abstract": "A range of lasers is now available for use in dentistry. This paper summarizes key current and emerging applications for lasers in clinical practice. A major diagnostic application of low power lasers is the detection of caries, using fluorescence elicited from hydroxyapatite or from bacterial by-products. Laser fluorescence is an effective method for detecting and quantifying incipient occlusal and cervical carious lesions, and with further refinement could be used in the same manner for proximal lesions. Photoactivated dye techniques have been developed which use low power lasers to elicit a photochemical reaction. Photoactivated dye techniques can be used to disinfect root canals, periodontal pockets, cavity preparations and sites of peri-implantitis. Using similar principles, more powerful lasers can be used for photodynamic therapy in the treatment of malignancies of the oral mucosa. Laser-driven photochemical reactions can also be used for tooth whitening. In combination with fluoride, laser irradiation can improve the resistance of tooth structure to demineralization, and this application is of particular benefit for susceptible sites in high caries risk patients. Laser technology for caries removal, cavity preparation and soft tissue surgery is at a high state of refinement, having had several decades of development up to the present time. Used in conjunction with or as a replacement for traditional methods, it is expected that specific laser technologies will become an essential component of contemporary dental practice over the next decade.",
+      "authors": [
+        {
+          "name": "LJ Walsh",
+          "orcid": null,
+          "affiliation": "The University of Queensland",
+          "country": "AU",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2003,
+      "venue": "Australian Dental Journal",
+      "issn": "0045-0421",
+      "type": "article",
+      "citation_count": 428,
+      "referenced_works_count": 72,
+      "fwci": 5.5737,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.9987999796867371
+        },
+        {
+          "id": "T11958",
+          "name": "Dental Erosion and Treatment",
+          "score": 0.9947999715805054
+        }
+      ],
+      "keywords": [
+        "Demineralization",
+        "Laser",
+        "Dentistry",
+        "Dental practice",
+        "Photodynamic therapy",
+        "Oral cavity",
+        "Clinical Practice",
+        "Materials science",
+        "Medicine",
+        "Biomedical engineering"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being",
+          "score": 0.6700000166893005
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1111/j.1834-7819.2003.tb00025.x",
+      "openalex_url": "https://openalex.org/W2153586863",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1834-7819.2003.tb00025.x",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1834-7819.2003.tb00025.x"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3776,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.6,
+          "citation_signal": 0.7974,
+          "recency_signal": 0.08
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.8711656441717792,
+          "h_index": 125
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/app7070657",
+      "arxiv_id": null,
+      "openalex_id": "W2720993591",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Laser and Electron Beam Additive Manufacturing Methods of Fabricating Titanium Bone Implants",
+      "abstract": "Additive Manufacturing (AM) methods are generally used to produce an early sample or near net-shape elements based on three-dimensional geometrical modules. To date, publications on AM of metal implants have mainly focused on knee and hip replacements or bone scaffolds for tissue engineering. The direct fabrication of metallic implants can be achieved by methods, such as Selective Laser Melting (SLM) or Electron Beam Melting (EBM). This work compares the SLM and EBM methods used in the fabrication of titanium bone implants by analyzing the microstructure, mechanical properties and cytotoxicity. The SLM process was conducted in an environmental chamber using 0.4–0.6 vol % of oxygen to enhance the mechanical properties of a Ti-6Al-4V alloy. SLM processed material had high anisotropy of mechanical properties and superior UTS (1246–1421 MPa) when compared to the EBM (972–976 MPa) and the wrought material (933–942 MPa). The microstructure and phase composition depended on the used fabrication method. The AM methods caused the formation of long epitaxial grains of the prior β phase. The equilibrium phases (α + β) and non-equilibrium α’ martensite was obtained after EBM and SLM, respectively. Although it was found that the heat transfer that occurs during the layer by layer generation of the component caused aluminum content deviations, neither methods generated any cytotoxic effects. Furthermore, in contrast to SLM, the EBM fabricated material met the ASTMF136 standard for surgical implant applications.",
+      "authors": [
+        {
+          "name": "Bartłomiej Wysocki",
+          "orcid": "https://orcid.org/0000-0002-4119-621X",
+          "affiliation": "Warsaw University of Technology",
+          "country": "PL",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Piotr Maj",
+          "orcid": "https://orcid.org/0000-0002-6739-8362",
+          "affiliation": "Warsaw University of Technology",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ryszard Sitek",
+          "orcid": "https://orcid.org/0000-0002-8426-8068",
+          "affiliation": "Warsaw University of Technology",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Joseph Buhagiar",
+          "orcid": "https://orcid.org/0000-0001-6517-7331",
+          "affiliation": "University of Malta",
+          "country": "MT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Krzysztof J. Kurzydłowski",
+          "orcid": "https://orcid.org/0000-0003-3875-4820",
+          "affiliation": "Warsaw University of Technology",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Wojciech Święszkowski",
+          "orcid": "https://orcid.org/0000-0003-4216-9974",
+          "affiliation": "Warsaw University of Technology",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2017,
+      "venue": "Applied Sciences",
+      "issn": "2076-3417",
+      "type": "article",
+      "citation_count": 299,
+      "referenced_works_count": 85,
+      "fwci": 11.7359,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10705",
+          "name": "Additive Manufacturing Materials and Processes",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T10783",
+          "name": "Additive Manufacturing and 3D Printing Technologies",
+          "score": 0.9993000030517578
+        },
+        {
+          "id": "T10059",
+          "name": "Bone Tissue Engineering Materials",
+          "score": 0.9945999979972839
+        }
+      ],
+      "keywords": [
+        "Materials science",
+        "Selective laser melting",
+        "Fabrication",
+        "Microstructure",
+        "Titanium alloy",
+        "Titanium",
+        "Alloy",
+        "Composite material",
+        "Layer (electronics)",
+        "Metallurgy"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/app7070657",
+      "openalex_url": "https://openalex.org/W2720993591",
+      "pdf_url": "https://www.mdpi.com/2076-3417/7/7/657/pdf?version=1499081979",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2076-3417/7/7/657/pdf?version=1499081979",
+        "https://www.um.edu.mt/library/oar/handle/123456789/103939",
+        "https://doaj.org/article/24a7d887d7de48c2a4eee4328adf7eaa"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3766,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.4,
+          "citation_signal": 0.7504,
+          "recency_signal": 0.64
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.9416370941725076,
+          "h_index": 228
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1186/s12951-023-02115-7",
+      "arxiv_id": null,
+      "openalex_id": "W4387136541",
+      "ss_paper_id": null,
+      "pmid": "37770928",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Novel scaffold platforms for simultaneous induction osteogenesis and angiogenesis in bone tissue engineering: a cutting-edge approach",
+      "abstract": "Despite the recent advances in the development of bone graft substitutes, treatment of critical size bone defects continues to be a significant challenge, especially in the elderly population. A current approach to overcome this challenge involves the creation of bone-mimicking scaffolds that can simultaneously promote osteogenesis and angiogenesis. In this context, incorporating multiple bioactive agents like growth factors, genes, and small molecules into these scaffolds has emerged as a promising strategy. To incorporate such agents, researchers have developed scaffolds incorporating nanoparticles, including nanoparticulate carriers, inorganic nanoparticles, and exosomes. Current paper provides a summary of the latest advancements in using various bioactive agents, drugs, and cells to synergistically promote osteogenesis and angiogenesis in bone-mimetic scaffolds. It also discusses scaffold design properties aimed at maximizing the synergistic effects of osteogenesis and angiogenesis, various innovative fabrication strategies, and ongoing clinical studies.",
+      "authors": [
+        {
+          "name": "Arezoo Saberi",
+          "orcid": "https://orcid.org/0000-0002-3588-5369",
+          "affiliation": "Mashhad University of Medical Sciences",
+          "country": "IR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Maryam Kouhjani",
+          "orcid": null,
+          "affiliation": "Mashhad University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Marzieh Mohammadi",
+          "orcid": "https://orcid.org/0000-0002-4299-4520",
+          "affiliation": "Mashhad University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Leticia Hosta‐Rigau",
+          "orcid": "https://orcid.org/0000-0001-8177-4806",
+          "affiliation": "Technical University of Denmark",
+          "country": "DK",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2023,
+      "venue": "Journal of Nanobiotechnology",
+      "issn": "1477-3155",
+      "type": "article",
+      "citation_count": 79,
+      "referenced_works_count": 224,
+      "fwci": 6.2138,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10059",
+          "name": "Bone Tissue Engineering Materials",
+          "score": 0.9986000061035156
+        },
+        {
+          "id": "T14134",
+          "name": "Medical and Biological Sciences",
+          "score": 0.927299976348877
+        }
+      ],
+      "keywords": [
+        "Scaffold",
+        "Angiogenesis",
+        "Tissue engineering",
+        "Biomedical engineering",
+        "Regenerative medicine",
+        "Enhanced Data Rates for GSM Evolution",
+        "Chemistry",
+        "Computer science",
+        "Cell biology",
+        "Engineering"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.4099999964237213
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1186/s12951-023-02115-7",
+      "openalex_url": "https://openalex.org/W4387136541",
+      "pdf_url": "https://jnanobiotechnology.biomedcentral.com/counter/pdf/10.1186/s12951-023-02115-7",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://jnanobiotechnology.biomedcentral.com/counter/pdf/10.1186/s12951-023-02115-7",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10536787/pdf/12951_2023_Article_2115.pdf",
+        "https://doaj.org/article/322e1b789b534b40b795e09eba935c33",
+        "https://orbit.dtu.dk/en/publications/2ddc4352-40a3-4c11-8dbd-21a965580c6b"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3745,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.4,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.5765,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 12.829056740151788,
+          "h_index": 173
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1108/rpj-04-2018-0088",
+      "arxiv_id": null,
+      "openalex_id": "W3029441187",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "A review of laser engineered net shaping (LENS) build and process parameters of metallic parts",
+      "abstract": "Purpose This paper aims to present a comprehensive review of the laser engineered net shaping (LENS) process in an attempt to provide the reader with a deep understanding of the controllable and fixed build parameters of metallic parts. The authors discuss the effect and interplay between process parameters, including: laser power, scan speed and powder feed rate. Further, the authors show the interplay between process parameters is pivotal in achieving the desired microstructure, macrostructure, geometrical accuracy and mechanical properties. Design/methodology/approach In this manuscript, the authors review current research examining the process inputs and their influences on the final product when manufacturing with the LENS process. The authors also discuss how these parameters relate to important build aspects such as melt-pool dimensions, the volume of porosity and geometry accuracy. Findings The authors conclude that studies have greatly enriched the understanding of the LENS build process, however, much studies remains to be done. Importantly, the authors reveal that to date there are a number of detailed theoretical models that predict the end properties of deposition, however, much more study is necessary to allow for reasonable prediction of the build process for standard industrial parts, based on the synchronistic behavior of the input parameters. Originality/value This paper intends to raise questions about the possible research areas that could potentially promote the effectiveness of this LENS technology.",
+      "authors": [
+        {
+          "name": "Mojtaba Izadi",
+          "orcid": null,
+          "affiliation": "Deakin University",
+          "country": "AU",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Aidin Farzaneh",
+          "orcid": null,
+          "affiliation": "Deakin University",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mazher Iqbal Mohammed",
+          "orcid": "https://orcid.org/0000-0003-2177-9845",
+          "affiliation": "Loughborough University",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ian Gibson",
+          "orcid": "https://orcid.org/0000-0002-4149-9122",
+          "affiliation": "University of Twente",
+          "country": "NL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Bernard Rolfe",
+          "orcid": "https://orcid.org/0000-0001-8516-6170",
+          "affiliation": "Deakin University",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2020,
+      "venue": "Rapid Prototyping Journal",
+      "issn": "1355-2546",
+      "type": "article",
+      "citation_count": 137,
+      "referenced_works_count": 117,
+      "fwci": 7.3705,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10705",
+          "name": "Additive Manufacturing Materials and Processes",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T10783",
+          "name": "Additive Manufacturing and 3D Printing Technologies",
+          "score": 0.9994999766349792
+        },
+        {
+          "id": "T11143",
+          "name": "High Entropy Alloys Studies",
+          "score": 0.994700014591217
+        }
+      ],
+      "keywords": [
+        "Process (computing)",
+        "Lens (geology)",
+        "Mechanical engineering",
+        "Computer science",
+        "Near net shape",
+        "Laser power scaling",
+        "Volume (thermodynamics)",
+        "Laser",
+        "Process engineering",
+        "Manufacturing engineering"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.5600000023841858
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1108/rpj-04-2018-0088",
+      "openalex_url": "https://openalex.org/W3029441187",
+      "pdf_url": "https://doi.org/10.1108/rpj-04-2018-0088",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.1108/rpj-04-2018-0088",
+        "https://ris.utwente.nl/ws/files/508758324/rpj-04-2018-0088.pdf",
+        "https://figshare.com/articles/journal_contribution/A_review_of_laser_engineered_net_shaping_LENS_build_and_process_parameters_of_metallic_parts/12625394",
+        "https://figshare.com/articles/journal_contribution/A_review_of_laser_engineered_net_shaping_LENS_build_and_process_parameters_of_metallic_parts/20705440",
+        "https://research.utwente.nl/en/publications/aa0cac31-8efe-488c-8bd4-16311d025c1a"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3732,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.4,
+          "citation_signal": 0.6482,
+          "recency_signal": 0.76
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.255434782608696,
+          "h_index": 140
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.15171/jlms.2019.52",
+      "arxiv_id": null,
+      "openalex_id": "W2980661788",
+      "ss_paper_id": null,
+      "pmid": "31875126",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Lasers: A Review With Their Applications in Oral Medicine",
+      "abstract": "Lasers in dentistry began to gain popularity in the 1990s. Lasers in dentistry are used as a treatment tool or as an adjunct tool. By using the laser in the field of dentistry, the main goal is to overcome the disadvantages, which are currently being experienced in conventional dental treatment procedures. Many specialties in dentistry including oral surgery, implants, oral medicine, periodontics, pediatrics, and operative use the current new laser technology. The ability of lasers to provide minimally invasive procedures with less discomfort to the patient has been useful in the patient delivery system in dental practice. This article describes in brief on the uses of lasers in oral mucosal lesions.",
+      "authors": [
+        {
+          "name": "Alexander Maniangat Luke",
+          "orcid": "https://orcid.org/0000-0002-5885-7694",
+          "affiliation": "Ajman University",
+          "country": "AE",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Simy Mathew",
+          "orcid": "https://orcid.org/0000-0001-6528-126X",
+          "affiliation": "Ajman University",
+          "country": "AE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Maram Majed Altawash",
+          "orcid": "https://orcid.org/0000-0002-3147-0369",
+          "affiliation": "Ajman University",
+          "country": "AE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Bayan Mohammed Madan",
+          "orcid": "https://orcid.org/0000-0001-7386-9100",
+          "affiliation": "Ajman University",
+          "country": "AE",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2019,
+      "venue": "Journal of lasers in medical sciences",
+      "issn": "2008-9783",
+      "type": "article",
+      "citation_count": 138,
+      "referenced_works_count": 19,
+      "fwci": 9.2525,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T11452",
+          "name": "Oral Health Pathology and Treatment",
+          "score": 0.9674999713897705
+        },
+        {
+          "id": "T11521",
+          "name": "Salivary Gland Disorders and Functions",
+          "score": 0.9513000249862671
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Periodontology",
+        "Dentistry",
+        "Laser therapy",
+        "Oral surgery",
+        "Laser",
+        "Medical physics"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being",
+          "score": 0.5799999833106995
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.15171/jlms.2019.52",
+      "openalex_url": "https://openalex.org/W2980661788",
+      "pdf_url": "https://journals.sbmu.ac.ir/jlms/article/download/23044/pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://journals.sbmu.ac.ir/jlms/article/download/23044/pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/6885906"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3694,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.4,
+          "citation_signal": 0.6492,
+          "recency_signal": 0.72
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.6163522012578617,
+          "h_index": 41
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1126/sciadv.adh4327",
+      "arxiv_id": null,
+      "openalex_id": "W4385860583",
+      "ss_paper_id": null,
+      "pmid": "37585520",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Injectable, self-healing hydrogel adhesives with firm tissue adhesion and on-demand biodegradation for sutureless wound closure",
+      "abstract": "Tissue adhesives have garnered extensive interest as alternatives and supplements to sutures, whereas major challenges still remain, including weak tissue adhesion, inadequate biocompatibility, and uncontrolled biodegradation. Here, injectable and biocompatible hydrogel adhesives are developed via catalyst-free o- phthalaldehyde/amine (hydrazide) cross-linking reaction. The hydrogels demonstrate rapid and firm adhesion to various tissues, and an o- phthalaldehyde–mediated tissue adhesion mechanism is established. The hydrogel adhesives show controlled degradation profiles of 6 to 22 weeks in vivo through the incorporation of disulfide bonds into hydrogel network. In liver and blood vessel injury, the hydrogels effectively seal the incisions and rapidly stop bleeding. In rat and rabbit models of full-thickness skin incision, the hydrogel adhesives quickly close the incisions and accelerate wound healing, which exhibit efficacies superior to those of commercially available fibrin glue and cyanoacrylate glue. Thus, the hydrogel adhesives show great potential for sutureless wound closure, hemostasis sealing, and prevention of leakage in surgical applications.",
+      "authors": [
+        {
+          "name": "Hui Ping Ren",
+          "orcid": "https://orcid.org/0009-0009-5453-2292",
+          "affiliation": "University of Science and Technology of China",
+          "country": "CN",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Zhen Zhang",
+          "orcid": "https://orcid.org/0009-0005-6430-3857",
+          "affiliation": "Chinese Academy of Sciences",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Xueliang Cheng",
+          "orcid": "https://orcid.org/0000-0001-6285-1175",
+          "affiliation": "Second Affiliated Hospital of Jilin University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Zheng Zou",
+          "orcid": "https://orcid.org/0000-0002-0417-4986",
+          "affiliation": "University of Science and Technology of China",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Xuesi Chen",
+          "orcid": "https://orcid.org/0000-0003-3542-9256",
+          "affiliation": "University of Science and Technology of China",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Chaoliang He",
+          "orcid": "https://orcid.org/0000-0001-6407-1367",
+          "affiliation": "University of Science and Technology of China",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2023,
+      "venue": "Science Advances",
+      "issn": "2375-2548",
+      "type": "article",
+      "citation_count": 423,
+      "referenced_works_count": 81,
+      "fwci": 105.4807,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T12906",
+          "name": "Surgical Sutures and Adhesives",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T12548",
+          "name": "Hemostasis and retained surgical items",
+          "score": 0.9925000071525574
+        },
+        {
+          "id": "T10771",
+          "name": "Wound Healing and Treatments",
+          "score": 0.9872000217437744
+        }
+      ],
+      "keywords": [
+        "Self-healing hydrogels",
+        "Cyanoacrylate",
+        "Adhesive",
+        "Fibrin glue",
+        "Wound healing",
+        "Tissue Adhesion",
+        "Biocompatibility",
+        "Adhesion",
+        "Hemostasis",
+        "Biomedical engineering"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation",
+          "score": 0.550000011920929
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1126/sciadv.adh4327",
+      "openalex_url": "https://openalex.org/W4385860583",
+      "pdf_url": "https://www.science.org/doi/pdf/10.1126/sciadv.adh4327?download=true",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.science.org/doi/pdf/10.1126/sciadv.adh4327?download=true",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10431709/pdf/sciadv.adh4327.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3574,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.7959,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 12.780206134359865,
+          "h_index": 381
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1016/j.ijbiomac.2022.07.140",
+      "arxiv_id": null,
+      "openalex_id": "W4286792084",
+      "ss_paper_id": null,
+      "pmid": "35896130",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Recent advances in 3D-printed polylactide and polycaprolactone-based biomaterials for tissue engineering applications",
+      "abstract": "The three-dimensional printing (3DP) also known as the additive manufacturing (AM), a novel and futuristic technology that facilitates the printing of multiscale, biomimetic, intricate cytoarchitecture, function-structure hierarchy, multi-cellular tissues in the complicated micro-environment, patient-specific scaffolds, and medical devices. There is an increasing demand for developing 3D-printed products that can be utilized for organ transplantations due to the organ shortage. Nowadays, the 3DP has gained considerable interest in the tissue engineering (TE) field. Polylactide (PLA) and polycaprolactone (PCL) are exemplary biomaterials with excellent physicochemical properties and biocompatibility, which have drawn notable attraction in tissue regeneration. Herein, the recent advancements in the PLA and PCL biodegradable polymer-based composites as well as their reinforcement with hydrogels and bio-ceramics scaffolds manufactured through 3DP are systematically summarized and the applications of bone, cardiac, neural, vascularized and skin tissue regeneration are thoroughly elucidated. The interaction between implanted biodegradable polymers, in-vivo and in-vitro testing models for possible evaluation of degradation and biological properties are also illustrated. The final section of this review incorporates the current challenges and future opportunities in the 3DP of PCL- and PLA-based composites that will prove helpful for biomedical engineers to fulfill the demands of the clinical field.",
+      "authors": [
+        {
+          "name": "Zia Ullah Arif",
+          "orcid": "https://orcid.org/0000-0002-9254-7606",
+          "affiliation": "University of Management and Technology",
+          "country": "PK",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Muhammad Yasir Khalid",
+          "orcid": "https://orcid.org/0000-0002-4462-7951",
+          "affiliation": "University of Management and Technology",
+          "country": "PK",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Reza Noroozi",
+          "orcid": null,
+          "affiliation": "University of Tehran",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ali Sadeghianmaryan",
+          "orcid": "https://orcid.org/0000-0002-2825-0189",
+          "affiliation": "University of Memphis",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Meisam Jalalvand",
+          "orcid": "https://orcid.org/0000-0003-4691-6252",
+          "affiliation": "University of Southampton",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mokarram Hossain",
+          "orcid": "https://orcid.org/0000-0002-4616-1104",
+          "affiliation": "Swansea University",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2022,
+      "venue": "International Journal of Biological Macromolecules",
+      "issn": "0141-8130",
+      "type": "article",
+      "citation_count": 387,
+      "referenced_works_count": 455,
+      "fwci": 24.6585,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11190",
+          "name": "3D Printing in Biomedical Research",
+          "score": 0.9994999766349792
+        },
+        {
+          "id": "T10059",
+          "name": "Bone Tissue Engineering Materials",
+          "score": 0.9984999895095825
+        },
+        {
+          "id": "T10783",
+          "name": "Additive Manufacturing and 3D Printing Technologies",
+          "score": 0.998199999332428
+        }
+      ],
+      "keywords": [
+        "Polycaprolactone",
+        "Biofabrication",
+        "Tissue engineering",
+        "Self-healing hydrogels",
+        "Biocompatibility",
+        "Materials science",
+        "Biomedical engineering",
+        "Biocompatible material",
+        "3d printed",
+        "Nanotechnology"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.46000000834465027
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/j.ijbiomac.2022.07.140",
+      "openalex_url": "https://openalex.org/W4286792084",
+      "pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0141813022015720-ga1_lrg.jpg",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://ars.els-cdn.com/content/image/1-s2.0-S0141813022015720-ga1_lrg.jpg",
+        "https://cronfa.swan.ac.uk/Record/cronfa60637"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3516,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.7842,
+          "recency_signal": 0.84
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 8.923664122137405,
+          "h_index": 272
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1007/s10103-026-05011-2",
+      "arxiv_id": null,
+      "openalex_id": "W7204494684",
+      "ss_paper_id": null,
+      "pmid": "42661013",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Learning curve and target-based accuracy of diode laser versus scalpel incisions in a porcine skin model: a preclinical feasibility study with undergraduate dental students",
+      "abstract": "PURPOSE: Despite the growing clinical application of diode lasers in oral surgery, laser training remains underrepresented in dental curricula. This study evaluated the feasibility of structured preclinical diode-laser training and characterized the early learning curve of undergraduate dental students without prior laser experience, using target-based accuracy of laser incisions compared with a familiar scalpel reference condition. METHODS: 22 dental students performed standardized linear incisions on porcine skin at three time points. Each session comprised five incisions (target: 10 mm length, 2 mm depth, minimal width): four diode-laser settings (1 W/pulsed, 3 W/pulsed, 1 W/continuous, 3 W/continuous; 445 nm wavelength; 320 μm fiber) and one scalpel incision. Incision morphology was assessed by micro-computed tomography. Operative time was recorded per incision, and subjective workload was evaluated using the NASA-TLX questionnaire. RESULTS: Total operative time decreased significantly across sessions (p = 0.006). Per-method reductions were significant only for the two pulsed settings. Four of six NASA-TLX subscales improved (all p ≤ 0.013). Length accuracy improved significantly over time (main effect of time p < 0.001) with no method-time interaction and comparable, significant within-method gains for all methods. Depth accuracy showed only a small overall time effect and a significant within-method gain for a single laser setting (1 W pulsed). Incision width did not change significantly over sessions for any method. Laser incisions were consistently wider than scalpel incisions. CONCLUSION: Structured preclinical laser training on porcine skin is feasible and is associated with early gains in operative efficiency, perceived workload and length accuracy. These gains largely reflect general task familiarisation rather than a laser-specific learning advantage. The findings support integrating structured laser training using animal-tissue models into dental education but cannot establish clinical competence, equivalence to scalpel surgery, or transfer to intraoral patient care.",
+      "authors": [
+        {
+          "name": "Dorothee Spille",
+          "orcid": null,
+          "affiliation": "Universität Hamburg",
+          "country": "DE",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Sophia Lymperopoulos",
+          "orcid": null,
+          "affiliation": "University Hospital Schleswig-Holstein",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Juliane Wagner",
+          "orcid": "https://orcid.org/0000-0003-4737-5953",
+          "affiliation": "University Hospital Schleswig-Holstein",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Clemens Mohr",
+          "orcid": null,
+          "affiliation": "University Hospital Schleswig-Holstein",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Felix Lorich",
+          "orcid": null,
+          "affiliation": "University Hospital Schleswig-Holstein",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Tim Kalsberger",
+          "orcid": null,
+          "affiliation": "Christian-Albrechts-Universität zu Kiel",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jörg Wiltfang",
+          "orcid": null,
+          "affiliation": "University Hospital Schleswig-Holstein",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Johannes Spille",
+          "orcid": "https://orcid.org/0000-0002-6785-2676",
+          "affiliation": "University Hospital Schleswig-Holstein",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2026,
+      "venue": "Lasers in Medical Science",
+      "issn": "0268-8921",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 27,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.5077999830245972
+        },
+        {
+          "id": "T12439",
+          "name": "Dental Research and COVID-19",
+          "score": 0.2797999978065491
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.046799998730421066
+        }
+      ],
+      "keywords": [
+        "Laser",
+        "Workload",
+        "Diode",
+        "Laser therapy",
+        "Pig skin",
+        "Low level laser therapy"
+      ],
+      "sdgs": [
+        {
+          "score": 0.5948444604873657,
+          "display_name": "Quality Education",
+          "id": "https://metadata.un.org/sdg/4"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1007/s10103-026-05011-2",
+      "openalex_url": "https://openalex.org/W7204494684",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10103-026-05011-2.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://link.springer.com/content/pdf/10.1007/s10103-026-05011-2.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13522085/pdf/10103_2026_Article_5011.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.35,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.6,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.7476190476190476,
+          "h_index": 109
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1007/s00170-021-08596-w",
+      "arxiv_id": null,
+      "openalex_id": "W4210369976",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Current research and industrial application of laser powder directed energy deposition",
+      "abstract": "Abstract Additive Manufacturing (AM) technologies are recognized as the future of the manufacturing industry thanks to their possibilities in terms of shape design, part functionality, and material efficiency. The use of AM technologies in many industrial sectors is growing, also due to the increasing knowledge regarding the AM processes and the characteristics of the final part. One of the most promising AM techniques is the Directed Energy Deposition (DED) that uses a thermal source to generate a melt pool on a substrate into which metal powder is injected. The potentialities of DED technology are the ability to process large build volumes (> 1000 mm in size), the ability to deliver the material directly into the melt pool, the possibility to repair existing parts, and the opportunity to change the material during the building process, thus creating functionally graded material. In this paper, a review of the industrial applications of Laser Powder Directed Energy Deposition (LP-DED) is presented. Three main applications are identified in repairing, designed material, and production. Despite the enormous advantages of LP-DED, from the literature, it emerges that the most relevant application refers to the repairing process of high-value components.",
+      "authors": [
+        {
+          "name": "Gabriele Piscopo",
+          "orcid": "https://orcid.org/0000-0001-5041-5720",
+          "affiliation": "Politecnico di Torino",
+          "country": "IT",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Luca Iuliano",
+          "orcid": "https://orcid.org/0000-0003-2029-8310",
+          "affiliation": "Politecnico di Torino",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2022,
+      "venue": "The International Journal of Advanced Manufacturing Technology",
+      "issn": "0268-3768",
+      "type": "article",
+      "citation_count": 241,
+      "referenced_works_count": 162,
+      "fwci": 15.1996,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10705",
+          "name": "Additive Manufacturing Materials and Processes",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T10783",
+          "name": "Additive Manufacturing and 3D Printing Technologies",
+          "score": 0.9995999932289124
+        },
+        {
+          "id": "T11159",
+          "name": "Manufacturing Process and Optimization",
+          "score": 0.9684000015258789
+        }
+      ],
+      "keywords": [
+        "Deposition (geology)",
+        "Process (computing)",
+        "Process engineering",
+        "High energy",
+        "Manufacturing engineering",
+        "Substrate (aquarium)",
+        "Mechanical engineering",
+        "Materials science",
+        "Computer science",
+        "Engineering"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.49000000953674316
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1007/s00170-021-08596-w",
+      "openalex_url": "https://openalex.org/W4210369976",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00170-021-08596-w.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://link.springer.com/content/pdf/10.1007/s00170-021-08596-w.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3423,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.7221,
+          "recency_signal": 0.84
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 4.05249513933895,
+          "h_index": 199
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1038/s41378-022-00414-x",
+      "arxiv_id": null,
+      "openalex_id": "W4284897849",
+      "ss_paper_id": null,
+      "pmid": "35818382",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Moisture-resistant, stretchable NOx gas sensors based on laser-induced graphene for environmental monitoring and breath analysis",
+      "abstract": "Abstract The accurate, continuous analysis of healthcare-relevant gases such as nitrogen oxides (NO x ) in a humid environment remains elusive for low-cost, stretchable gas sensing devices. This study presents the design and demonstration of a moisture-resistant, stretchable NO x gas sensor based on laser-induced graphene (LIG). Sandwiched between a soft elastomeric substrate and a moisture-resistant semipermeable encapsulant, the LIG sensing and electrode layer is first optimized by tuning laser processing parameters such as power, image density, and defocus distance. The gas sensor, using a needlelike LIG prepared with optimal laser processing parameters, exhibits a large response of 4.18‰ ppm −1 to NO and 6.66‰ ppm −1 to NO 2 , an ultralow detection limit of 8.3 ppb to NO and 4.0 ppb to NO 2 , fast response/recovery, and excellent selectivity. The design of a stretchable serpentine structure in the LIG electrode and strain isolation from the stiff island allows the gas sensor to be stretched by 30%. Combined with a moisture-resistant property against a relative humidity of 90%, the reported gas sensor has further been demonstrated to monitor the personal local environment during different times of the day and analyze human breath samples to classify patients with respiratory diseases from healthy volunteers. Moisture-resistant, stretchable NO x gas sensors can expand the capability of wearable devices to detect biomarkers from humans and exposed environments for early disease diagnostics.",
+      "authors": [
+        {
+          "name": "Li Yang",
+          "orcid": "https://orcid.org/0000-0001-6798-3177",
+          "affiliation": "Hebei University of Technology",
+          "country": "CN",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Guanghao Zheng",
+          "orcid": null,
+          "affiliation": "Hebei University of Technology",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yaoqian Cao",
+          "orcid": null,
+          "affiliation": "Tianjin Medical University General Hospital",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Chuizhou Meng",
+          "orcid": "https://orcid.org/0000-0003-4266-3745",
+          "affiliation": "Hebei University of Technology",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yuhang Li",
+          "orcid": "https://orcid.org/0000-0001-9865-5221",
+          "affiliation": "Beihang University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Huadong Ji",
+          "orcid": null,
+          "affiliation": "Hebei University of Technology",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Xue Chen",
+          "orcid": "https://orcid.org/0000-0002-1080-012X",
+          "affiliation": "Hebei University of Technology",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Guangyu Niu",
+          "orcid": null,
+          "affiliation": "Hebei University of Technology",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jiayi Yan",
+          "orcid": "https://orcid.org/0000-0001-7155-3567",
+          "affiliation": "Hebei University of Technology",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ye Xue",
+          "orcid": null,
+          "affiliation": "Hebei University of Technology",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Huanyu Cheng",
+          "orcid": "https://orcid.org/0000-0001-6075-4208",
+          "affiliation": "Pennsylvania State University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2022,
+      "venue": "Microsystems & Nanoengineering",
+      "issn": "2055-7434",
+      "type": "article",
+      "citation_count": 194,
+      "referenced_works_count": 79,
+      "fwci": 12.1281,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10461",
+          "name": "Gas Sensing Nanomaterials and Sensors",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T11472",
+          "name": "Analytical Chemistry and Sensors",
+          "score": 0.9983000159263611
+        },
+        {
+          "id": "T11667",
+          "name": "Advanced Chemical Sensor Technologies",
+          "score": 0.9983000159263611
+        }
+      ],
+      "keywords": [
+        "Materials science",
+        "Graphene",
+        "NOx",
+        "Moisture",
+        "Detection limit",
+        "Electrode",
+        "Laser",
+        "Composite material",
+        "Optoelectronics",
+        "Humidity"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
+          "score": 0.47999998927116394
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1038/s41378-022-00414-x",
+      "openalex_url": "https://openalex.org/W4284897849",
+      "pdf_url": "https://www.nature.com/articles/s41378-022-00414-x.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.nature.com/articles/s41378-022-00414-x.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/9270215",
+        "https://doaj.org/article/b02b48bbcfb4469ab5856845c598cb7d"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3381,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.6937,
+          "recency_signal": 0.84
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 9.357786357786358,
+          "h_index": 94
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/ma8095273",
+      "arxiv_id": null,
+      "openalex_id": "W1536601781",
+      "ss_paper_id": null,
+      "pmid": "28793533",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Biodegradable Materials for Bone Repair and Tissue Engineering Applications",
+      "abstract": "This review discusses and summarizes the recent developments and advances in the use of biodegradable materials for bone repair purposes. The choice between using degradable and non-degradable devices for orthopedic and maxillofacial applications must be carefully weighed. Traditional biodegradable devices for osteosynthesis have been successful in low or mild load bearing applications. However, continuing research and recent developments in the field of material science has resulted in development of biomaterials with improved strength and mechanical properties. For this purpose, biodegradable materials, including polymers, ceramics and magnesium alloys have attracted much attention for osteologic repair and applications. The next generation of biodegradable materials would benefit from recent knowledge gained regarding cell material interactions, with better control of interfacing between the material and the surrounding bone tissue. The next generations of biodegradable materials for bone repair and regeneration applications require better control of interfacing between the material and the surrounding bone tissue. Also, the mechanical properties and degradation/resorption profiles of these materials require further improvement to broaden their use and achieve better clinical results.",
+      "authors": [
+        {
+          "name": "Zeeshan Sheikh",
+          "orcid": "https://orcid.org/0000-0001-5942-9985",
+          "affiliation": "University of Toronto",
+          "country": "CA",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Shariq Najeeb",
+          "orcid": "https://orcid.org/0000-0002-3803-6055",
+          "affiliation": "University of Sheffield",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Zohaib Khurshid",
+          "orcid": "https://orcid.org/0000-0001-7998-7335",
+          "affiliation": "King Faisal University",
+          "country": "SA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Vivek Verma",
+          "orcid": "https://orcid.org/0000-0002-5032-5175",
+          "affiliation": "McGill University",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Haroon Rashid",
+          "orcid": "https://orcid.org/0000-0001-5792-6689",
+          "affiliation": "Ziauddin University",
+          "country": "PK",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Michael Glogauer",
+          "orcid": "https://orcid.org/0000-0002-6248-5977",
+          "affiliation": "University of Toronto",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2015,
+      "venue": "Materials",
+      "issn": "1996-1944",
+      "type": "article",
+      "citation_count": 787,
+      "referenced_works_count": 476,
+      "fwci": 21.7434,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10059",
+          "name": "Bone Tissue Engineering Materials",
+          "score": 0.9997000098228455
+        },
+        {
+          "id": "T10512",
+          "name": "Orthopaedic implants and arthroplasty",
+          "score": 0.9968000054359436
+        },
+        {
+          "id": "T10530",
+          "name": "Magnesium Alloys: Properties and Applications",
+          "score": 0.9929999709129333
+        }
+      ],
+      "keywords": [
+        "Interfacing",
+        "Materials science",
+        "Biodegradable polymer",
+        "Osteosynthesis",
+        "Nanotechnology",
+        "Biomedical engineering",
+        "Polymer",
+        "Computer science",
+        "Engineering",
+        "Composite material"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/ma8095273",
+      "openalex_url": "https://openalex.org/W1536601781",
+      "pdf_url": "https://www.mdpi.com/1996-1944/8/9/5273/pdf?version=1441009965",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/1996-1944/8/9/5273/pdf?version=1441009965",
+        "https://utoronto.scholaris.ca/bitstreams/a4107db1-bb84-43bd-90a2-7973017b45f2/download",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/5512653",
+        "https://doaj.org/article/689fd3fc44dd465e87aa492e90139a19"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3376,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.8774,
+          "recency_signal": 0.56
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 4.597651539193906,
+          "h_index": 248
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1016/j.matdes.2018.12.007",
+      "arxiv_id": null,
+      "openalex_id": "W2905526035",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Continuous graded Gyroid cellular structures fabricated by selective laser melting: Design, manufacturing and mechanical properties",
+      "abstract": "Functional graded cellular materials (FGCMs) have attracted increasing attentions for their improved properties when compared to uniform cellular structures. In this work, graded Gyroid cellular structures (GCSs) with varying gradient directions were designed and manufactured via selective laser melting (SLM). As a reference, uniform structures were also manufactured. The surface morphology and mechanical response of these structures under compressive loads were investigated. Results indicate high manufacturability and repeatability of GCSs manufactured by SLM. Optimized density distribution gives these structures novel deformation and mechanical properties. GCSs with density gradient perpendicular to the loading direction exhibit deformation behaviours similar to uniform ones, while GCSs with the gradient parallel to the loading direction exhibit layer-by-layer deformation and collapse behaviour. A novel phenomenon of sub-layer collapses is found in GCSs with gradient parallel to the loading direction. Furthermore, mathematical models were developed to predict and customize the mechanical properties of graded cellular structures by optimizing the relative density of each layer. These significant findings illustrate that graded cellular structures have high application prospect in various industries, particularly given the fact that additive manufacturing has been an enabler of cellular structure fabrication.",
+      "authors": [
+        {
+          "name": "Lei Yang",
+          "orcid": "https://orcid.org/0000-0001-8860-843X",
+          "affiliation": "Flanders Make (Belgium)",
+          "country": "BE",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Raya Mertens",
+          "orcid": "https://orcid.org/0000-0003-0416-2501",
+          "affiliation": "Flanders Make (Belgium)",
+          "country": "BE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Massimiliano Ferrucci",
+          "orcid": "https://orcid.org/0000-0002-8811-8681",
+          "affiliation": "Flanders Make (Belgium)",
+          "country": "BE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Chunze Yan",
+          "orcid": "https://orcid.org/0000-0001-9052-9175",
+          "affiliation": "Huazhong University of Science and Technology",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Yusheng Shi",
+          "orcid": "https://orcid.org/0000-0002-3793-0493",
+          "affiliation": "Huazhong University of Science and Technology",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Shoufeng Yang",
+          "orcid": "https://orcid.org/0000-0002-3888-3211",
+          "affiliation": "Flanders Make (Belgium)",
+          "country": "BE",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2018,
+      "venue": "Materials & Design",
+      "issn": "0264-1275",
+      "type": "article",
+      "citation_count": 398,
+      "referenced_works_count": 61,
+      "fwci": 14.3772,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10707",
+          "name": "Cellular and Composite Structures",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T11737",
+          "name": "Advanced Materials and Mechanics",
+          "score": 0.9678000211715698
+        },
+        {
+          "id": "T10783",
+          "name": "Additive Manufacturing and 3D Printing Technologies",
+          "score": 0.954800009727478
+        }
+      ],
+      "keywords": [
+        "Gyroid",
+        "Materials science",
+        "Selective laser melting",
+        "Perpendicular",
+        "Deformation (meteorology)",
+        "Composite material",
+        "Fabrication",
+        "Layer (electronics)",
+        "Design for manufacturability",
+        "Mechanical engineering"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/j.matdes.2018.12.007",
+      "openalex_url": "https://openalex.org/W2905526035",
+      "pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0264127518308785-ga1_lrg.jpg",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://ars.els-cdn.com/content/image/1-s2.0-S0264127518308785-ga1_lrg.jpg",
+        "https://lirias.kuleuven.be/retrieve/f55eedf6-4194-4493-8ef4-e99485c2ca78",
+        "https://doaj.org/article/81d58954f1b44120b36495014c857e2b",
+        "https://zenodo.org/record/2586843"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3362,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.7879,
+          "recency_signal": 0.68
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 5.934905874347924,
+          "h_index": 225
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1002/advs.201700513",
+      "arxiv_id": null,
+      "openalex_id": "W2783399708",
+      "ss_paper_id": null,
+      "pmid": "29721408",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Polysaccharide‐Based Controlled Release Systems for Therapeutics Delivery and Tissue Engineering: From Bench to Bedside",
+      "abstract": "Polysaccharides or polymeric carbohydrate molecules are long chains of monosaccharides that are linked by glycosidic bonds. The naturally based structural materials are widely applied in biomedical applications. This article covers four different types of polysaccharides (i.e., alginate, chitosan, hyaluronic acid, and dextran) and emphasizes their chemical modification, preparation approaches, preclinical studies, and clinical translations. Different cargo fabrication techniques are also presented in the third section. Recent progresses in preclinical applications are then discussed, including tissue engineering and treatment of diseases in both therapeutic and monitoring aspects. Finally, clinical translational studies with ongoing clinical trials are summarized and reviewed. The promise of new development in nanotechnology and polysaccharide chemistry helps clinical translation of polysaccharide-based drug delivery systems.",
+      "authors": [
+        {
+          "name": "Tianxin Miao",
+          "orcid": null,
+          "affiliation": "Georgia Institute of Technology",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Junqing Wang",
+          "orcid": "https://orcid.org/0000-0002-9091-9891",
+          "affiliation": "Guangxi Medical University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yun Zeng",
+          "orcid": "https://orcid.org/0000-0002-5747-3349",
+          "affiliation": "Xiamen University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gang Liu",
+          "orcid": "https://orcid.org/0000-0003-2613-7286",
+          "affiliation": "Xiamen University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Xiaoyuan Chen",
+          "orcid": null,
+          "affiliation": "National Institutes of Health",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2018,
+      "venue": "Advanced Science",
+      "issn": "2198-3844",
+      "type": "article",
+      "citation_count": 363,
+      "referenced_works_count": 333,
+      "fwci": 12.367,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10920",
+          "name": "Advanced Drug Delivery Systems",
+          "score": 0.9997000098228455
+        },
+        {
+          "id": "T10343",
+          "name": "Hydrogels: synthesis, properties, applications",
+          "score": 0.9994999766349792
+        },
+        {
+          "id": "T10063",
+          "name": "Nanoparticle-Based Drug Delivery",
+          "score": 0.9976000189781189
+        }
+      ],
+      "keywords": [
+        "Drug delivery",
+        "Polysaccharide",
+        "Tissue engineering",
+        "Glycosidic bond",
+        "Nanotechnology",
+        "Chitosan",
+        "Chemistry",
+        "Hyaluronic acid",
+        "Biomedical engineering",
+        "Materials science"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1002/advs.201700513",
+      "openalex_url": "https://openalex.org/W2783399708",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.201700513",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.201700513",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/5908359"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3344,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.7758,
+          "recency_signal": 0.68
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 9.085002990430622,
+          "h_index": 282
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/jcm11092385",
+      "arxiv_id": null,
+      "openalex_id": "W4224324049",
+      "ss_paper_id": null,
+      "pmid": "35566511",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "3D Printing and Virtual Surgical Planning in Oral and Maxillofacial Surgery",
+      "abstract": "Compared to traditional manufacturing methods, additive manufacturing and 3D printing stand out in their ability to rapidly fabricate complex structures and precise geometries. The growing need for products with different designs, purposes and materials led to the development of 3D printing, serving as a driving force for the 4th industrial revolution and digitization of manufacturing. 3D printing has had a global impact on healthcare, with patient-customized implants now replacing generic implantable medical devices. This revolution has had a particularly significant impact on oral and maxillofacial surgery, where surgeons rely on precision medicine in everyday practice. Trauma, orthognathic surgery and total joint replacement therapy represent several examples of treatments improved by 3D technologies. The widespread and rapid implementation of 3D technologies in clinical settings has led to the development of point-of-care treatment facilities with in-house infrastructure, enabling surgical teams to participate in the 3D design and manufacturing of devices. 3D technologies have had a tremendous impact on clinical outcomes and on the way clinicians approach treatment planning. The current review offers our perspective on the implementation of 3D-based technologies in the field of oral and maxillofacial surgery, while indicating major clinical applications. Moreover, the current report outlines the 3D printing point-of-care concept in the field of oral and maxillofacial surgery.",
+      "authors": [
+        {
+          "name": "Adeeb Zoabi",
+          "orcid": "https://orcid.org/0000-0003-3316-3140",
+          "affiliation": "Bar-Ilan University",
+          "country": "IL",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Idan Redenski",
+          "orcid": "https://orcid.org/0000-0001-5139-9988",
+          "affiliation": "Bar-Ilan University",
+          "country": "IL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Daniel Oren",
+          "orcid": "https://orcid.org/0000-0002-2447-3713",
+          "affiliation": "Bar-Ilan University",
+          "country": "IL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Adi Kasem",
+          "orcid": null,
+          "affiliation": "Bar-Ilan University",
+          "country": "IL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Asaf Zigron",
+          "orcid": null,
+          "affiliation": "Bar-Ilan University",
+          "country": "IL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Shadi Daoud",
+          "orcid": null,
+          "affiliation": "Bar-Ilan University",
+          "country": "IL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Liad Moskovich",
+          "orcid": "https://orcid.org/0000-0002-1122-0821",
+          "affiliation": "Bar-Ilan University",
+          "country": "IL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Fares Kablan",
+          "orcid": "https://orcid.org/0000-0001-7108-0368",
+          "affiliation": "Bar-Ilan University",
+          "country": "IL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Samer Srouji",
+          "orcid": "https://orcid.org/0000-0001-8837-2391",
+          "affiliation": "Bar-Ilan University",
+          "country": "IL",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2022,
+      "venue": "Journal of Clinical Medicine",
+      "issn": "2077-0383",
+      "type": "article",
+      "citation_count": 153,
+      "referenced_works_count": 213,
+      "fwci": 8.8797,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11984",
+          "name": "Anatomy and Medical Technology",
+          "score": 0.9987000226974487
+        },
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.9958999752998352
+        },
+        {
+          "id": "T12439",
+          "name": "Dental Research and COVID-19",
+          "score": 0.9901000261306763
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "3D printing",
+        "Digitization",
+        "Three dimensional printing",
+        "Oral and maxillofacial surgery",
+        "3d printed",
+        "Orthognathic surgery",
+        "Surgical planning",
+        "Emerging technologies",
+        "Medical physics"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.6299999952316284
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/jcm11092385",
+      "openalex_url": "https://openalex.org/W4224324049",
+      "pdf_url": "https://www.mdpi.com/2077-0383/11/9/2385/pdf?version=1650858414",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2077-0383/11/9/2385/pdf?version=1650858414",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/9104292"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3334,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.6626,
+          "recency_signal": 0.84
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.716959703878186,
+          "h_index": 189
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.2341/07-124",
+      "arxiv_id": null,
+      "openalex_id": "W2143415719",
+      "ss_paper_id": null,
+      "pmid": "18389733",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Influence of Er,Cr:YSGG Laser Treatment on Microtensile Bond Strength of Adhesives to Enamel",
+      "abstract": "PURPOSE: In light of the concept of minimally invasive dentistry, erbium lasers have been considered as an alternative technique to the use of diamond burs for cavity preparation. The purpose of this study was to assess the bonding effectiveness of adhesives to Er,Cr:YSGG laser-irradiated dentin using irradiation settings specific for cavity preparation. MATERIALS AND METHODS: Fifty-four midcoronal dentin surfaces, obtained from sound human molars, were irradiated with an Er,Cr:YSGG laser or prepared with a diamond bur using a high-speed turbine. One etch-and-rinse (Optibond FL/Kerr) and three self-etching adhesives (Adper Prompt L-Pop/3M ESPE, Clearfil SE Bond/Kuraray, and Clearfil S3 Bond/Kuraray) were used to bond the composite to dentin. The microtensile bond strength (microTBS) was determined after 24 h of storage in water at 37 degrees C. The Kruskal-Wallis test was used to determine pairwise statistical differences (p < 0.05). Prepared dentin surfaces, adhesive interfaces, and failure patterns were analyzed using a stereomicroscope and Field-emission gun Scanning Electron Microscopy (Feg-SEM). RESULTS: Significantly lower microTBS was observed to laser-irradiated than to bur-cut dentin (p < 0.05), irrespective of the adhesive employed. Feg-SEM photomicrographs of lased dentin revealed an imbricate patterned substrate and the presence of microcracks at the dentin surface. CONCLUSION: Morphological alterations produced by Er,Cr:YSGG laser-irradiation adversely influence the bonding effectiveness of adhesives to dentin.",
+      "authors": [
+        {
+          "name": "Marcio Vivan Cardoso",
+          "orcid": "https://orcid.org/0000-0003-4551-9300",
+          "affiliation": "KU Leuven",
+          "country": "BE",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jan De Munck",
+          "orcid": "https://orcid.org/0000-0003-1005-1090",
+          "affiliation": "Catholic University of America",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Eduardo Coutinho",
+          "orcid": null,
+          "affiliation": "Catholic University of America",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "R. Banu Ermiş",
+          "orcid": "https://orcid.org/0000-0001-5497-5100",
+          "affiliation": "Süleyman Demirel Üniversitesi",
+          "country": "TR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Kirsten Van Landuyt",
+          "orcid": "https://orcid.org/0000-0002-4932-3148",
+          "affiliation": "Süleyman Demirel Üniversitesi",
+          "country": "TR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Rubens Côrte Real de Carvalho",
+          "orcid": null,
+          "affiliation": "Universidade de São Paulo",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Bart Van Meerbeek",
+          "orcid": "https://orcid.org/0000-0002-4097-5836",
+          "affiliation": "H.B. Fuller (United States)",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2008,
+      "venue": "Operative Dentistry",
+      "issn": "0361-7734",
+      "type": "article",
+      "citation_count": 118,
+      "referenced_works_count": 26,
+      "fwci": 6.6598,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.9896000027656555
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.9739000201225281
+        }
+      ],
+      "keywords": [
+        "Enamel paint",
+        "Materials science",
+        "Bond strength",
+        "Molar",
+        "Adhesive",
+        "Ultimate tensile strength",
+        "Laser",
+        "Composite material",
+        "Dentin",
+        "Scanning electron microscope"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/2",
+          "display_name": "Zero hunger",
+          "score": 0.4099999964237213
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.2341/07-124",
+      "openalex_url": "https://openalex.org/W2143415719",
+      "pdf_url": "https://meridian.allenpress.com/operative-dentistry/article-pdf/33/4/448/1821474/07-124.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://meridian.allenpress.com/operative-dentistry/article-pdf/33/4/448/1821474/07-124.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3223,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.4,
+          "citation_signal": 0.6287,
+          "recency_signal": 0.28
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.739795918367347,
+          "h_index": 101
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1016/j.promfg.2019.06.155",
+      "arxiv_id": null,
+      "openalex_id": "W2962941601",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Laser Ablation of Polymers: A Review",
+      "abstract": "Laser Ablation (LA), which employs a pulsed laser to remove materials from a substrate for generating micro/nano structures, has tremendous applications in the fabrication of metals, ceramics, glasses, and polymers. It has become a noteworthy approach to achieve different functional structures in engineering, chemistry, biological, medical and other fields. There are several parameters present during ablation, which affect the quality of the fabricated structures. Such parameters include laser sources, laser power, medium, and substrate materials. The objective of LA is to obtain high-quality, low-cost, repeatable, and reliable parts. This objective leads to plenty of attempts to control laser parameters on various types of materials. Polymers are one such class of materials, they can be melted and vaporized at high temperature during the ablation process. As a result, a number of polymers have been researched as candidate substrates in LA, and many different structures and patterns have been realized by this method. Based on previous works regarding LA, the current states of research and progress were reviewed from basic concept to optimal parameters, polymer types and applications. The significance of this paper is to provide a basis for follow-up research that leads to the development of superior materials and high-quality production through LA. In this review, we first introduced the basic concept of LA, including mechanism, laser types (millisecond, microsecond, nanosecond, picosecond, and femtosecond) and influential parameters (wavelength, repetition rate, fluence, and pulse duration). Then, we focused on several commonly used polymer materials (PTFE, PI, PDMS, PET, and PMMA) and compared them in detail, including the effects of polymer properties, laser parameters, and feature designs. Finally, we summarized the applications of various structures fabricated by LA in different areas along with a proposition of the challenges in this research area. Overall, a thorough review of laser ablation on several polymers has been presented, which could pave the way for characterization of future novel materials.",
+      "authors": [
+        {
+          "name": "Sandeep Ravi‐Kumar",
+          "orcid": null,
+          "affiliation": "Iowa State University",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Benjamin Lies",
+          "orcid": null,
+          "affiliation": "Iowa State University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hao Lyu",
+          "orcid": null,
+          "affiliation": "Qingdao University of Science and Technology",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hantang Qin",
+          "orcid": "https://orcid.org/0000-0003-4180-7911",
+          "affiliation": "Iowa State University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2019,
+      "venue": "Procedia Manufacturing",
+      "issn": "2351-9789",
+      "type": "article",
+      "citation_count": 97,
+      "referenced_works_count": 114,
+      "fwci": 5.1542,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10732",
+          "name": "Laser Material Processing Techniques",
+          "score": 0.9983000159263611
+        },
+        {
+          "id": "T10478",
+          "name": "Diamond and Carbon-based Materials Research",
+          "score": 0.993399977684021
+        },
+        {
+          "id": "T13232",
+          "name": "Laser-Ablation Synthesis of Nanoparticles",
+          "score": 0.9914000034332275
+        }
+      ],
+      "keywords": [
+        "Materials science",
+        "Laser",
+        "Ablation",
+        "Fluence",
+        "Nanosecond",
+        "Laser ablation",
+        "Fabrication",
+        "Millisecond",
+        "Polymer",
+        "Optoelectronics"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/j.promfg.2019.06.155",
+      "openalex_url": "https://openalex.org/W2962941601",
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2351978919308832/pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.sciencedirect.com/science/article/pii/S2351978919308832/pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3125,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.6032,
+          "recency_signal": 0.72
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.0,
+          "h_index": 112
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1016/j.jacc.2003.10.039",
+      "arxiv_id": null,
+      "openalex_id": "W2068252337",
+      "ss_paper_id": null,
+      "pmid": "15028347",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Meta-Analysis of randomized trials of percutaneous transluminal coronary angioplasty versus atherectomy, cutting balloon atherotomy, or laser angioplasty",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "John A. Bittl",
+          "orcid": "https://orcid.org/0000-0003-3254-5198",
+          "affiliation": "Munroe Regional Medical Center",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Derek P. Chew",
+          "orcid": "https://orcid.org/0000-0003-3593-296X",
+          "affiliation": "Flinders Medical Centre",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Eric J. Topol",
+          "orcid": "https://orcid.org/0000-0002-1478-4729",
+          "affiliation": "Cleveland Clinic",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "David F. Kong",
+          "orcid": null,
+          "affiliation": "Clinical Research Institute",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Robert M. Califf",
+          "orcid": "https://orcid.org/0000-0003-0231-3724",
+          "affiliation": "Clinical Research Institute",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2004,
+      "venue": "Journal of the American College of Cardiology",
+      "issn": "0735-1097",
+      "type": "review",
+      "citation_count": 116,
+      "referenced_works_count": 41,
+      "fwci": 0.9143,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T10193",
+          "name": "Coronary Interventions and Diagnostics",
+          "score": 0.9980000257492065
+        },
+        {
+          "id": "T10926",
+          "name": "Peripheral Artery Disease Management",
+          "score": 0.00039999998989515007
+        },
+        {
+          "id": "T11840",
+          "name": "Pain Management and Treatment",
+          "score": 0.0003000000142492354
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Restenosis",
+        "Atherectomy",
+        "Angioplasty",
+        "Cardiology",
+        "Internal medicine",
+        "Balloon",
+        "Cutting balloon",
+        "Revascularization",
+        "Randomized controlled trial"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being",
+          "score": 0.8299999833106995
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/j.jacc.2003.10.039",
+      "openalex_url": "https://openalex.org/W2068252337",
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0735109704000142/pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.sciencedirect.com/science/article/pii/S0735109704000142/pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.306,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.4,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.6265,
+          "recency_signal": 0.12
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.288177968263687,
+          "h_index": 620
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1177/08987564261487257",
+      "arxiv_id": null,
+      "openalex_id": "W7212037329",
+      "ss_paper_id": null,
+      "pmid": "42714397",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Vessel Sealing Systems in Veterinary Oral and Maxillofacial Surgery: Current Evidence and Clinical Applications",
+      "abstract": "Vessel sealing systems (VSSs) are medical devices that use bipolar electrothermal energy to seal blood vessels by denaturing collagen and elastin in the vessel wall, successfully occluding the vessel and reducing blood loss during surgical procedures. These devices eliminate the need for conventional ligatures or surgical clips in many situations and have become widely adopted in both human and veterinary surgery. Reported advantages include reduced operative time, improved hemostasis, decreased blood loss, and the ability to perform dissection and vessel sealing with a single instrument. The objective of this article is to summarize the current evidence regarding vessel sealing technology and discuss its applications in veterinary oral and maxillofacial surgery. Published studies from human head and neck surgery and veterinary surgery demonstrate that VSSs are safe and effective for a variety of procedures, including neck dissection, thyroidectomy, parotidectomy, and tonsillectomy. In veterinary oral and maxillofacial surgery, vessel sealing devices can facilitate maxillectomy, mandibulectomy, glossectomy, sialoadenectomy, tonsillectomy, staphylectomy, lymphadenectomy, and other soft tissue resections where reliable hemostasis is essential. Potential limitations include thermal injury, device cost, and concerns regarding repeated reuse of single-use handpieces. Nevertheless, current evidence and the authors' clinical experience support VSSs as valuable surgical tools that improve surgical efficiency and hemostasis during complex oral and maxillofacial procedures.",
+      "authors": [
+        {
+          "name": "Kristina Feigin",
+          "orcid": "https://orcid.org/0000-0001-9429-6161",
+          "affiliation": "Andover Eye Associates",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "John Lewis",
+          "orcid": null,
+          "affiliation": "Virginia Department of Social Services",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2026,
+      "venue": "Journal of Veterinary Dentistry",
+      "issn": "0898-7564",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 24,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11728",
+          "name": "Thyroid and Parathyroid Surgery",
+          "score": 0.9017000198364258
+        },
+        {
+          "id": "T12548",
+          "name": "Hemostasis and retained surgical items",
+          "score": 0.07569999992847443
+        },
+        {
+          "id": "T10599",
+          "name": "Reconstructive Surgery and Microvascular Techniques",
+          "score": 0.004800000227987766
+        }
+      ],
+      "keywords": [
+        "Hemostasis",
+        "Dissection (medical)",
+        "Head and neck",
+        "CLIPS",
+        "Oral Surgical Procedures",
+        "Oral and maxillofacial surgery",
+        "Seal (emblem)"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1177/08987564261487257",
+      "openalex_url": "https://openalex.org/W7212037329",
+      "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/08987564261487257?download=true",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://journals.sagepub.com/doi/pdf/10.1177/08987564261487257?download=true"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.4,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.528169014084507,
+          "h_index": 45
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1155/2014/461534",
+      "arxiv_id": null,
+      "openalex_id": "W2111764575",
+      "ss_paper_id": null,
+      "pmid": "25525434",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Direct Metal Laser Sintering Titanium Dental Implants: A Review of the Current Literature",
+      "abstract": "Statement of Problem. Direct metal laser sintering (DMLS) is a technology that allows fabrication of complex-shaped objects from powder-based materials, according to a three-dimensional (3D) computer model. With DMLS, it is possible to fabricate titanium dental implants with an inherently porous surface, a key property required of implantation devices. Objective. The aim of this review was to evaluate the evidence for the reliability of DMLS titanium dental implants and their clinical and histologic/histomorphometric outcomes, as well as their mechanical properties. Materials and Methods. Electronic database searches were performed. Inclusion criteria were clinical and radiographic studies, histologic/histomorphometric studies in humans and animals, mechanical evaluations, and in vitro cell culture studies on DMLS titanium implants. Meta-analysis could be performed only for randomized controlled trials (RCTs); to evaluate the methodological quality of observational human studies, the Newcastle-Ottawa scale (NOS) was used. Results. Twenty-seven studies were included in this review. No RCTs were found, and meta-analysis could not be performed. The outcomes of observational human studies were assessed using the NOS: these studies showed medium methodological quality. Conclusions. Several studies have demonstrated the potential for the use of DMLS titanium implants. However, further studies that demonstrate the benefits of DMLS implants over conventional implants are needed.",
+      "authors": [
+        {
+          "name": "Francesco Mangano",
+          "orcid": "https://orcid.org/0000-0001-5488-4268",
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Leandro Chambrone",
+          "orcid": "https://orcid.org/0000-0002-2838-1015",
+          "affiliation": "Guarulhos University",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "R. van Noort",
+          "orcid": null,
+          "affiliation": "University of Sheffield",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Cheryl A. Miller",
+          "orcid": "https://orcid.org/0000-0002-6062-6254",
+          "affiliation": "University of Sheffield",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Paul V. Hatton",
+          "orcid": "https://orcid.org/0000-0001-5234-1104",
+          "affiliation": "University of Sheffield",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Carlo Mangano",
+          "orcid": "https://orcid.org/0000-0002-4419-4674",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2014,
+      "venue": "International Journal of Biomaterials",
+      "issn": "1687-8787",
+      "type": "article",
+      "citation_count": 136,
+      "referenced_works_count": 59,
+      "fwci": 7.9337,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.9987000226974487
+        },
+        {
+          "id": "T10059",
+          "name": "Bone Tissue Engineering Materials",
+          "score": 0.9976999759674072
+        }
+      ],
+      "keywords": [
+        "Direct metal laser sintering",
+        "Observational study",
+        "Titanium",
+        "Dentistry",
+        "Randomized controlled trial",
+        "Medicine",
+        "Materials science",
+        "Biomedical engineering",
+        "Surgery",
+        "Metallurgy"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1155/2014/461534",
+      "openalex_url": "https://openalex.org/W2111764575",
+      "pdf_url": "https://downloads.hindawi.com/journals/ijbm/2014/461534.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://downloads.hindawi.com/journals/ijbm/2014/461534.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/4267165",
+        "https://doaj.org/article/3caba525d1f649e1bc8e9e72fddb44e5"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.2991,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.2,
+          "citation_signal": 0.6472,
+          "recency_signal": 0.52
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 4.071428571428571,
+          "h_index": 58
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1016/j.ijpharm.2020.119594",
+      "arxiv_id": null,
+      "openalex_id": "W3039906429",
+      "ss_paper_id": null,
+      "pmid": "32622811",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "3D printing: Principles and pharmaceutical applications of selective laser sintering",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Atheer Awad",
+          "orcid": "https://orcid.org/0000-0001-5245-0570",
+          "affiliation": "University College London",
+          "country": "GB",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Fabrizio Fina",
+          "orcid": "https://orcid.org/0000-0002-5496-7829",
+          "affiliation": "University College London",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Álvaro Goyanes",
+          "orcid": "https://orcid.org/0000-0002-3378-6797",
+          "affiliation": "Universidade de Santiago de Compostela",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Simon Gaisford",
+          "orcid": "https://orcid.org/0000-0003-1000-3208",
+          "affiliation": "Medway School of Pharmacy",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Abdul W. Basit",
+          "orcid": "https://orcid.org/0000-0002-5368-6603",
+          "affiliation": "Medway School of Pharmacy",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2020,
+      "venue": "International Journal of Pharmaceutics",
+      "issn": "0378-5173",
+      "type": "article",
+      "citation_count": 374,
+      "referenced_works_count": 137,
+      "fwci": 16.6575,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11190",
+          "name": "3D Printing in Biomedical Research",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T10783",
+          "name": "Additive Manufacturing and 3D Printing Technologies",
+          "score": 0.9997000098228455
+        },
+        {
+          "id": "T12080",
+          "name": "Injection Molding Process and Properties",
+          "score": 0.9965000152587891
+        }
+      ],
+      "keywords": [
+        "3D printing",
+        "Bespoke",
+        "Selective laser sintering",
+        "Context (archaeology)",
+        "Nanotechnology",
+        "Computer science",
+        "Rapid prototyping",
+        "Pharmaceutical industry",
+        "Digital printing",
+        "Manufacturing engineering"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/j.ijpharm.2020.119594",
+      "openalex_url": "https://openalex.org/W3039906429",
+      "pdf_url": "https://discovery.ucl.ac.uk/10107342/3/Awad_Manuscript.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://discovery.ucl.ac.uk/10107342/3/Awad_Manuscript.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.293,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.2,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.7797,
+          "recency_signal": 0.76
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 6.739586547361926,
+          "h_index": 301
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    }
+  ],
+  "meta": {
+    "query": {
+      "topic": "laser cutting speed oral tissue",
+      "search_query": "laser cutting speed oral tissue",
+      "year_min": null,
+      "year_max": null,
+      "per_strategy": 40,
+      "terms": [
+        "laser",
+        "cutting",
+        "speed",
+        "oral",
+        "tissue"
+      ]
+    },
+    "counts": {
+      "retrieved_raw": 120,
+      "after_dedup": 119,
+      "after_relevance_filter": 119,
+      "after_journal_filter": 119,
+      "after_rank_filter": 119,
+      "returned": 30
+    },
+    "rank": {
+      "platform": "jcr",
+      "platform_source": "default",
+      "keep_tiers": null,
+      "keep_quartiles": null,
+      "top_only": false,
+      "category": null,
+      "applied_filter": false,
+      "ambiguous": false,
+      "candidate_platforms": [],
+      "kept": null,
+      "filtered": null,
+      "no_platform_data": null,
+      "data_loaded": false,
+      "loaded_platforms": [],
+      "switchable_platforms": [],
+      "switch_is_refilter_not_research": true,
+      "stripped_phrases": [],
+      "deepen": {
+        "active": false,
+        "rounds": 0,
+        "saturated": false,
+        "final_per_strategy": 40
+      },
+      "attribution": null,
+      "note": null,
+      "keep_tiers_note": null,
+      "naming": "CAS 区 & SJR best_quartile are PARTITIONS; only JCR impact_factor is a real Impact Factor (R-04/R-09). 切换标准/档位 = 重筛已标注的候选池，不重搜。"
+    },
+    "enrichment": {
+      "enriched": true,
+      "impact_source": "openalex_summary_stats",
+      "impact_attached": 115,
+      "filter_quartiles": null,
+      "filter_min_impact": null,
+      "category": null,
+      "issn_backfill_enabled": true,
+      "issn_backfill_attempted": 0,
+      "issn_backfilled": 0,
+      "note": "Single journal_rank layer. Quartile/影响力 data lives in each paper's journal_rank (CAS/JCR/SJR + openalex). Partition data is cached under ~/.paper-search-pro/ranks/ (run `journal_rank fetch`, no API key needed). Only JCR IF(2024) is a real Impact Factor."
+    },
+    "relevance": {
+      "method": "heuristic_v1",
+      "is_llm_rcs": false,
+      "min_relevance": 0.0,
+      "weights": {
+        "title_coverage": 0.5,
+        "abstract_coverage": 0.25,
+        "citation_signal": 0.15,
+        "recency_signal": 0.1
+      },
+      "note": "Deterministic query-grounded heuristic, NOT the human path's LLM RCS. A signal for self-judgement, computed for every paper."
+    },
+    "saturation": {
+      "method": "heuristic_v1",
+      "advisory": true,
+      "looks_saturated": false,
+      "per_strategy_new_papers": [
+        40,
+        40,
+        39
+      ],
+      "last_strategy_marginal_yield": 0.3277,
+      "score_distribution": {
+        "high": 0,
+        "medium": 18,
+        "low": 101
+      },
+      "note": "Heuristic stop signal (no LLM classification). 'looks_saturated' = later strategies added few new papers. Advisory only."
+    },
+    "ratelimit": {
+      "ok": true,
+      "remaining_usd": 0.7999,
+      "limit_usd": 1.0,
+      "remaining": 7999,
+      "limit": 10000,
+      "reset_seconds": 48015,
+      "retry_after": null,
+      "should_switch": false,
+      "mode": "probe",
+      "error": null,
+      "switched_source": false
+    },
+    "source_used": "openalex",
+    "warnings": []
+  }
+}

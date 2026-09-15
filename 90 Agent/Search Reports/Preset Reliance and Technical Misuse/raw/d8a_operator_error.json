@@ -1,0 +1,4348 @@
+{
+  "ok": true,
+  "schema_version": "1.0",
+  "data": [
+    {
+      "doi": null,
+      "arxiv_id": null,
+      "openalex_id": "W2403011632",
+      "ss_paper_id": null,
+      "pmid": "2004197",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Use of a scanning laser three-dimensional digitizer for analysis of dental materials.",
+      "abstract": "A scanning laser 3-D digitizer was used to measure dimensions in dental impression materials, and its performance was compared with that of micrometer-based measuring instruments. It was found that the digitizer was precise enough to detect dimensional changes on the order of 40 microns, and it was automated enough to be convenient and almost eliminate operator errors. However, its operation required the services of an engineer for maintenance and a programmer for data analysis.",
+      "authors": [
+        {
+          "name": "D.C. Quick",
+          "orcid": null,
+          "affiliation": "University of Minnesota",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "James R. Holtan",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 1991,
+      "venue": "PubMed",
+      "issn": null,
+      "type": "article",
+      "citation_count": 9,
+      "referenced_works_count": 0,
+      "fwci": 0.9549,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.9229999780654907
+        }
+      ],
+      "keywords": [
+        "Impression",
+        "Laser scanning",
+        "Programmer",
+        "Measure (data warehouse)",
+        "Micrometer",
+        "Laser",
+        "Computer science",
+        "Optics",
+        "Engineering",
+        "Mechanical engineering"
+      ],
+      "sdgs": [],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": null,
+      "openalex_url": "https://openalex.org/W2403011632",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4829,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.5,
+          "abstract_coverage": 0.75,
+          "citation_signal": 0.3029,
+          "recency_signal": 0.0
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.1007/s10103-026-05011-2",
+      "arxiv_id": null,
+      "openalex_id": "W7204494684",
+      "ss_paper_id": null,
+      "pmid": "42661013",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Learning curve and target-based accuracy of diode laser versus scalpel incisions in a porcine skin model: a preclinical feasibility study with undergraduate dental students",
+      "abstract": "PURPOSE: Despite the growing clinical application of diode lasers in oral surgery, laser training remains underrepresented in dental curricula. This study evaluated the feasibility of structured preclinical diode-laser training and characterized the early learning curve of undergraduate dental students without prior laser experience, using target-based accuracy of laser incisions compared with a familiar scalpel reference condition. METHODS: 22 dental students performed standardized linear incisions on porcine skin at three time points. Each session comprised five incisions (target: 10 mm length, 2 mm depth, minimal width): four diode-laser settings (1 W/pulsed, 3 W/pulsed, 1 W/continuous, 3 W/continuous; 445 nm wavelength; 320 μm fiber) and one scalpel incision. Incision morphology was assessed by micro-computed tomography. Operative time was recorded per incision, and subjective workload was evaluated using the NASA-TLX questionnaire. RESULTS: Total operative time decreased significantly across sessions (p = 0.006). Per-method reductions were significant only for the two pulsed settings. Four of six NASA-TLX subscales improved (all p ≤ 0.013). Length accuracy improved significantly over time (main effect of time p < 0.001) with no method-time interaction and comparable, significant within-method gains for all methods. Depth accuracy showed only a small overall time effect and a significant within-method gain for a single laser setting (1 W pulsed). Incision width did not change significantly over sessions for any method. Laser incisions were consistently wider than scalpel incisions. CONCLUSION: Structured preclinical laser training on porcine skin is feasible and is associated with early gains in operative efficiency, perceived workload and length accuracy. These gains largely reflect general task familiarisation rather than a laser-specific learning advantage. The findings support integrating structured laser training using animal-tissue models into dental education but cannot establish clinical competence, equivalence to scalpel surgery, or transfer to intraoral patient care.",
+      "authors": [
+        {
+          "name": "Dorothee Spille",
+          "orcid": null,
+          "affiliation": "Universität Hamburg",
+          "country": "DE",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Sophia Lymperopoulos",
+          "orcid": null,
+          "affiliation": "University Hospital Schleswig-Holstein",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Juliane Wagner",
+          "orcid": "https://orcid.org/0000-0003-4737-5953",
+          "affiliation": "University Hospital Schleswig-Holstein",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Clemens Mohr",
+          "orcid": null,
+          "affiliation": "University Hospital Schleswig-Holstein",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Felix Lorich",
+          "orcid": null,
+          "affiliation": "University Hospital Schleswig-Holstein",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Tim Kalsberger",
+          "orcid": null,
+          "affiliation": "Christian-Albrechts-Universität zu Kiel",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jörg Wiltfang",
+          "orcid": null,
+          "affiliation": "University Hospital Schleswig-Holstein",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Johannes Spille",
+          "orcid": "https://orcid.org/0000-0002-6785-2676",
+          "affiliation": "University Hospital Schleswig-Holstein",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2026,
+      "venue": "Lasers in Medical Science",
+      "issn": "0268-8921",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 27,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.5077999830245972
+        },
+        {
+          "id": "T12439",
+          "name": "Dental Research and COVID-19",
+          "score": 0.2797999978065491
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.046799998730421066
+        }
+      ],
+      "keywords": [
+        "Laser",
+        "Workload",
+        "Diode",
+        "Laser therapy",
+        "Pig skin",
+        "Low level laser therapy"
+      ],
+      "sdgs": [
+        {
+          "score": 0.5948444604873657,
+          "display_name": "Quality Education",
+          "id": "https://metadata.un.org/sdg/4"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1007/s10103-026-05011-2",
+      "openalex_url": "https://openalex.org/W7204494684",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10103-026-05011-2.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://link.springer.com/content/pdf/10.1007/s10103-026-05011-2.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13522085/pdf/10103_2026_Article_5011.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.475,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.5,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.7476190476190476,
+          "h_index": 109
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1186/s41205-019-0046-y",
+      "arxiv_id": null,
+      "openalex_id": "W2948479238",
+      "ss_paper_id": null,
+      "pmid": "31172357",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "A digital workflow for modeling of custom dental implants",
+      "abstract": "Modern dental treatment with standard screw-type implants leave some cases unaddressed in patients with extreme jaw bone resorption. Custom-made subperiosteal dental implant could be an alternative treatment modality to sinus lift, nerve lateralization or zygomatic implant techniques. Subperiosteal dental implants were utilized for many years to treat such patients. A combination of traditional subperiosteal implant designs with current advancements in 3D imaging, design and printing allow to reduces treatment time and provides abutments for prostheses in cases where other techniques do not provide satisfactory results. The data manipulation and design software are important aspects in the manufacturing of custom implants. Programs that are specialized for industrial or medical design typically cost tens of thousands of US dollars. In this work I establish and test steps for design and production of a custom medical device (subperiosteal implant) from patient computed tomography (CT) data. Work stages to be defined are: selection of necessary software, CT data processing, 3D virtual model creation, modeling technique for custom implant and data file preparation for printing. Patient CT data was successfully converted into a watertight STL (Standard Tessellation Language) model of the maxilla. Error corrections and design were completed using freely available programs from Autodesk Inc.. The implant was produced in Ti64 (a type 5 titanium alloy) using three-dimensional (3D) printing DMLS (direct metal laser sintering) process. The avoidance of high cost software makes this treatment modality more accessible to smaller clinics or mid-size production facilities and subsequently more available to patients.",
+      "authors": [
+        {
+          "name": "Andrejus Surovas",
+          "orcid": "https://orcid.org/0000-0002-7822-8131",
+          "affiliation": "Hospital of Lithuanian University of Health Sciences Kaunas Clinics",
+          "country": "LT",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2019,
+      "venue": "3D Printing in Medicine",
+      "issn": "2365-6271",
+      "type": "article",
+      "citation_count": 46,
+      "referenced_works_count": 8,
+      "fwci": 3.3311,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.9986000061035156
+        },
+        {
+          "id": "T10059",
+          "name": "Bone Tissue Engineering Materials",
+          "score": 0.989799976348877
+        },
+        {
+          "id": "T11679",
+          "name": "Craniofacial Disorders and Treatments",
+          "score": 0.9757999777793884
+        }
+      ],
+      "keywords": [
+        "3D printing",
+        "Workflow",
+        "Implant",
+        "Computer science",
+        "Dental implant",
+        "Rapid prototyping",
+        "Selective laser sintering",
+        "Sinus lift",
+        "Direct metal laser sintering",
+        "Computer Aided Design"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1186/s41205-019-0046-y",
+      "openalex_url": "https://openalex.org/W2948479238",
+      "pdf_url": "https://threedmedprint.biomedcentral.com/track/pdf/10.1186/s41205-019-0046-y",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://threedmedprint.biomedcentral.com/track/pdf/10.1186/s41205-019-0046-y",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/6743136",
+        "https://doaj.org/article/cacdc42c28414b40ac565ab6cb876047"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4605,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.75,
+          "citation_signal": 0.5065,
+          "recency_signal": 0.72
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.741007194244604,
+          "h_index": 42
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1371/journal.pone.0179188",
+      "arxiv_id": null,
+      "openalex_id": "W2701170814",
+      "ss_paper_id": null,
+      "pmid": "28636642",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "In vivo evaluation of inter-operator reproducibility of digital dental and conventional impression techniques",
+      "abstract": "PURPOSE: The aim of this study was to evaluate and compare the inter-operator reproducibility of three-dimensional (3D) images of teeth captured by a digital impression technique to a conventional impression technique in vivo. MATERIALS AND METHODS: Twelve participants with complete natural dentition were included in this study. A digital impression of the mandibular molars of these participants was made by two operators with different levels of clinical experience, 3 or 16 years, using an intra-oral scanner (Lava COS, 3M ESPE). A silicone impression also was made by the same operators using the double mix impression technique (Imprint3, 3M ESPE). Stereolithography (STL) data were directly exported from the Lava COS system, while STL data of a plaster model made from silicone impression were captured by a three-dimensional (3D) laboratory scanner (D810, 3shape). The STL datasets recorded by two different operators were compared using 3D evaluation software and superimposed using the best-fit-algorithm method (least-squares method, PolyWorks, InnovMetric Software) for each impression technique. Inter-operator reproducibility as evaluated by average discrepancies of corresponding 3D data was compared between the two techniques (Wilcoxon signed-rank test). RESULTS: The visual inspection of superimposed datasets revealed that discrepancies between repeated digital impression were smaller than observed with silicone impression. Confirmation was forthcoming from statistical analysis revealing significantly smaller average inter-operator reproducibility using a digital impression technique (0.014± 0.02 mm) than when using a conventional impression technique (0.023 ± 0.01 mm). CONCLUSION: The results of this in vivo study suggest that inter-operator reproducibility with a digital impression technique may be better than that of a conventional impression technique and is independent of the clinical experience of the operator.",
+      "authors": [
+        {
+          "name": "Emi Kamimura",
+          "orcid": null,
+          "affiliation": "SHOWA Medical University",
+          "country": "JP",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Shinpei Tanaka",
+          "orcid": "https://orcid.org/0000-0001-6907-2748",
+          "affiliation": "SHOWA Medical University",
+          "country": "JP",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Masayuki Takaba",
+          "orcid": null,
+          "affiliation": "SHOWA Medical University",
+          "country": "JP",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Keita Tachi",
+          "orcid": null,
+          "affiliation": "SHOWA Medical University",
+          "country": "JP",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Kazuyoshi Baba",
+          "orcid": "https://orcid.org/0000-0001-8025-2168",
+          "affiliation": "SHOWA Medical University",
+          "country": "JP",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2017,
+      "venue": "PLoS ONE",
+      "issn": "1932-6203",
+      "type": "article",
+      "citation_count": 48,
+      "referenced_works_count": 44,
+      "fwci": 3.2297,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.7124999761581421
+        },
+        {
+          "id": "T10356",
+          "name": "Orthodontics and Dentofacial Orthopedics",
+          "score": 0.09669999778270721
+        },
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.047600001096725464
+        }
+      ],
+      "keywords": [
+        "Reproducibility",
+        "Impression",
+        "Biomedical engineering",
+        "Computer science",
+        "Medicine",
+        "Dentistry",
+        "Medical physics",
+        "Mathematics",
+        "Statistics",
+        "World Wide Web"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1371/journal.pone.0179188",
+      "openalex_url": "https://openalex.org/W2701170814",
+      "pdf_url": "https://doi.org/10.1371/journal.pone.0179188",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.1371/journal.pone.0179188",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/5479543",
+        "https://doaj.org/article/73b1e57a65d74c99b8d01e5cccece540"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4533,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.5,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.512,
+          "recency_signal": 0.64
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.254920660687472,
+          "h_index": 603
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1038/ijos.2012.2",
+      "arxiv_id": null,
+      "openalex_id": "W2084186341",
+      "ss_paper_id": null,
+      "pmid": "22241375",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "The occlusal plane in the facial context: inter-operator repeatability of a new three-dimensional method",
+      "abstract": "The repeatability of a non-invasive digital protocol proposed to evaluate the three-dimensional (3D) position of the occlusal plane in the face is assessed. Dental virtual models and soft tissue facial morphology of 20 adult subjects were digitally integrated using a 3D stereophotogrammetric imaging system. The digital 3D coordinates of facial and dental landmarks were obtained by two different operators. Camper's (facial) and occlusal (dental) planes were individuated, and their 3D relationships were measured. The repeatability of the protocol was investigated and showed no significant differences in repeated digitizations. The angle between occlusal and Camper's planes was smaller than 2° in the frontal and horizontal projections. In the sagittal projection, the angle was observed to be, on average, 4.9°. The determined occlusal plane pitch, roll and yaw values show good agreement with previously published data obtained by different protocols. The current non-invasive method was repeatable, without inter-operator differences and can facilitate assessment of healthy subjects. A method for imaging facial structures in 3D, without harmful X-rays, has been successfully demonstrated by researchers in Italy. By merging data from stereophotographic images of individual faces with laser scanning information from dental casts, Chiarella Sforza and colleagues at the Universita` degli Studi di Milano accurately determined the orientation of the occlusal plane—where the upper and lower teeth make contact. Two different operators repeated the process in 20 adult volunteers with errors generally less than 1 millimeter. This non-invasive type of imaging, although still technical and expensive, avoids the potential dangers of radiographic techniques such as X-rays and CT scanning. The technique could eventually prove useful for basic dental diagnoses and treatments, monitoring growth in children or even researching healthy volunteers to assess biological variability among populations.",
+      "authors": [
+        {
+          "name": "Riccardo Rosati",
+          "orcid": "https://orcid.org/0000-0001-6149-0427",
+          "affiliation": "University of Milan",
+          "country": "IT",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Alberto Rossetti",
+          "orcid": "https://orcid.org/0009-0009-9266-5328",
+          "affiliation": "University of Milan",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Márcio de Menezes",
+          "orcid": "https://orcid.org/0000-0003-2513-9474",
+          "affiliation": "University of Milan",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Virgilio F. Ferrario",
+          "orcid": "https://orcid.org/0000-0001-5874-2195",
+          "affiliation": "University of Milan",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Chiarella Sforza",
+          "orcid": "https://orcid.org/0000-0001-6532-6464",
+          "affiliation": "University of Milan",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2012,
+      "venue": "International Journal of Oral Science",
+      "issn": "1674-2818",
+      "type": "article",
+      "citation_count": 36,
+      "referenced_works_count": 31,
+      "fwci": 1.93,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T10356",
+          "name": "Orthodontics and Dentofacial Orthopedics",
+          "score": 0.9995999932289124
+        },
+        {
+          "id": "T10852",
+          "name": "Temporomandibular Joint Disorders",
+          "score": 0.9994999766349792
+        },
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.9886000156402588
+        }
+      ],
+      "keywords": [
+        "Repeatability",
+        "Sagittal plane",
+        "Coronal plane",
+        "Context (archaeology)",
+        "Projection (relational algebra)",
+        "Orthodontics",
+        "Face (sociological concept)",
+        "Soft tissue",
+        "Position (finance)",
+        "Dental occlusion"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1038/ijos.2012.2",
+      "openalex_url": "https://openalex.org/W2084186341",
+      "pdf_url": "https://www.nature.com/articles/ijos20122.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.nature.com/articles/ijos20122.pdf",
+        "http://hdl.handle.net/2434/168285",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/3412656"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4278,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.75,
+          "citation_signal": 0.475,
+          "recency_signal": 0.44
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 16.251256281407034,
+          "h_index": 97
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/s21103308",
+      "arxiv_id": null,
+      "openalex_id": "W3163808458",
+      "ss_paper_id": null,
+      "pmid": "34064548",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Dental Robotics: A Disruptive Technology",
+      "abstract": "Robotics is a disruptive technology that will change diagnostics and treatment protocols in dental medicine. Robots can perform repeated workflows for an indefinite length of time while enhancing the overall quality and quantity of patient care. Early robots required a human operator, but robotic systems have advanced significantly over the past decade, and the latest medical robots can perform patient intervention or remote monitoring autonomously. However, little research data on the therapeutic reliability and precision of autonomous robots are available. The present paper reviews the promise and practice of robots in dentistry by evaluating published work on commercial robot systems in dental implantology, oral and maxillofacial surgery, prosthetic and restorative dentistry, endodontics, orthodontics, oral radiology as well as dental education. In conclusion, this review critically addresses the current limitations of dental robotics and anticipates the potential future impact on oral healthcare and the dental profession.",
+      "authors": [
+        {
+          "name": "Paras Ahmad",
+          "orcid": "https://orcid.org/0000-0001-7306-9795",
+          "affiliation": "Akhtar Saeed Medical and Dental College",
+          "country": "PK",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mohammad Khursheed Alam",
+          "orcid": "https://orcid.org/0000-0001-7131-1752",
+          "affiliation": "Jouf University",
+          "country": "SA",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Ali Aldajani",
+          "orcid": null,
+          "affiliation": "Jouf University",
+          "country": "SA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Abdulmajeed Alahmari",
+          "orcid": null,
+          "affiliation": "Jouf University",
+          "country": "SA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Amal Mohamed Alanazi",
+          "orcid": null,
+          "affiliation": "Jouf University",
+          "country": "SA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Martin J. Stoddart",
+          "orcid": "https://orcid.org/0000-0002-9538-1517",
+          "affiliation": "AO Foundation",
+          "country": "CH",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mohammed Ghazi Sghaireen",
+          "orcid": null,
+          "affiliation": "Jouf University",
+          "country": "SA",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2021,
+      "venue": "Sensors",
+      "issn": "1424-8220",
+      "type": "article",
+      "citation_count": 95,
+      "referenced_works_count": 128,
+      "fwci": 4.4093,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10868",
+          "name": "Soft Robotics and Applications",
+          "score": 0.9980000257492065
+        },
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.9725000262260437
+        },
+        {
+          "id": "T12439",
+          "name": "Dental Research and COVID-19",
+          "score": 0.972100019454956
+        }
+      ],
+      "keywords": [
+        "Robotics",
+        "Robot",
+        "Workflow",
+        "Artificial intelligence",
+        "Endodontics",
+        "Medicine",
+        "Oral health",
+        "Telemedicine",
+        "Computer science",
+        "Medical physics"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/s21103308",
+      "openalex_url": "https://openalex.org/W3163808458",
+      "pdf_url": "https://www.mdpi.com/1424-8220/21/10/3308/pdf?version=1620702769",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/1424-8220/21/10/3308/pdf?version=1620702769",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/8151353",
+        "https://doaj.org/article/484640da045b4277978e72c1b7f285a7"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4201,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.6005,
+          "recency_signal": 0.8
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 5.456927794814608,
+          "h_index": 337
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/s21093110",
+      "arxiv_id": null,
+      "openalex_id": "W3159369536",
+      "ss_paper_id": null,
+      "pmid": "33946991",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Panoramic Dental Radiography Image Enhancement Using Multiscale Mathematical Morphology",
+      "abstract": "Panoramic dental radiography is one of the most used images of the different dental specialties. This radiography provides information about the anatomical structures of the teeth. The correct evaluation of these radiographs is associated with a good quality of the image obtained. In this study, 598 patients were consecutively selected to undergo dental panoramic radiography at the Department of Radiology of the Faculty of Dentistry, Universidad Nacional de Asunción. Contrast enhancement techniques are used to enhance the visual quality of panoramic dental radiographs. Specifically, this article presents a new algorithm for contrast, detail and edge enhancement of panoramic dental radiographs. The proposed algorithm is called Multi-Scale Top-Hat transform powered by Geodesic Reconstruction for panoramic dental radiography enhancement (MSTHGR). This algorithm is based on multi-scale mathematical morphology techniques. The proposal extracts multiple features of brightness and darkness, through the reconstruction of the marker (obtained by the Top-Hat transformation by reconstruction) starting from the mask (obtained by the classic Top-Hat transformation). The maximum characteristics of brightness and darkness are added to the dental panoramic radiography. In this way, the contrast, details and edges of the panoramic radiographs of teeth are improved. For the tests, MSTHGR was compared with the following algorithms: Geodesic Reconstruction Multiscale Morphology Contrast Enhancement (GRMMCE), Histogram Equalization (HE), Brightness Preserving Bi-Histogram Equalization (BBHE), Dual Sub-Image Histogram Equalization (DSIHE), Minimum Mean Brightness Error Bi-Histogram Equalization (MMBEBHE), Quadri-Histogram Equalization with Limited Contrast (QHELC), Contrast-Limited Adaptive Histogram Equalization (CLAHE) and Gamma Correction (GC). Experimentally, the numerical results show that the MSTHGR obtained the best results with respect to the Contrast Improvement Ratio (CIR), Entropy (E) and Spatial Frequency (SF) metrics. This indicates that the algorithm performs better local enhancements on panoramic radiographs, improving their details and edges.",
+      "authors": [
+        {
+          "name": "Julio César Mello-Román",
+          "orcid": "https://orcid.org/0000-0002-3698-4043",
+          "affiliation": "Universidad Nacional de Asunción",
+          "country": "PY",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Vicente Fretes",
+          "orcid": "https://orcid.org/0000-0003-3457-9017",
+          "affiliation": "Universidade de São Paulo",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Carlos G. Adorno",
+          "orcid": "https://orcid.org/0000-0002-7118-2361",
+          "affiliation": "Universidad Nacional de Asunción",
+          "country": "PY",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ricardo Gariba Silva",
+          "orcid": "https://orcid.org/0000-0003-2568-7999",
+          "affiliation": "Universidade de São Paulo",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "José Luis Vázquez Noguera",
+          "orcid": "https://orcid.org/0000-0002-9766-4182",
+          "affiliation": "Universidad Nacional de Asunción",
+          "country": "PY",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Horacio Legal-Ayala",
+          "orcid": "https://orcid.org/0000-0002-1790-2559",
+          "affiliation": "Universidad Nacional de Asunción",
+          "country": "PY",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jorge Daniel Mello-Román",
+          "orcid": "https://orcid.org/0000-0003-2821-7538",
+          "affiliation": "Universidad Nacional de Concepción",
+          "country": "PY",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ricardo Daniel Escobar Torres",
+          "orcid": null,
+          "affiliation": "Universidad Nacional de Concepción",
+          "country": "PY",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jacques Facon",
+          "orcid": "https://orcid.org/0000-0002-5711-2826",
+          "affiliation": "Universidade Federal do Espírito Santo",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2021,
+      "venue": "Sensors",
+      "issn": "1424-8220",
+      "type": "article",
+      "citation_count": 62,
+      "referenced_works_count": 45,
+      "fwci": 3.3188,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11019",
+          "name": "Image Enhancement Techniques",
+          "score": 0.9994999766349792
+        },
+        {
+          "id": "T11659",
+          "name": "Advanced Image Fusion Techniques",
+          "score": 0.9955999851226807
+        },
+        {
+          "id": "T11105",
+          "name": "Advanced Image Processing Techniques",
+          "score": 0.9839000105857849
+        }
+      ],
+      "keywords": [
+        "Histogram equalization",
+        "Adaptive histogram equalization",
+        "Radiography",
+        "Brightness",
+        "Computer vision",
+        "Artificial intelligence",
+        "Histogram",
+        "Contrast (vision)",
+        "Equalization (audio)",
+        "Computer science"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/s21093110",
+      "openalex_url": "https://openalex.org/W3159369536",
+      "pdf_url": "https://www.mdpi.com/1424-8220/21/9/3110/pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/1424-8220/21/9/3110/pdf",
+        "http://repositorio.conacyt.gov.py/bitstream/20.500.14066/4590/1/Panoramic%20dental%20radiography%20image%20enhancement%20using%20multiscale%20mathematical%20morphology.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/8124639",
+        "https://doaj.org/article/8dce1d770b4d410cbe8837469338da22"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4118,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.545,
+          "recency_signal": 0.8
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 5.456927794814608,
+          "h_index": 337
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/ma11101801",
+      "arxiv_id": null,
+      "openalex_id": "W2891584782",
+      "ss_paper_id": null,
+      "pmid": "30249000",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Comparative Analysis of Mechanical Properties and Metal-Ceramic Bond Strength of Co-Cr Dental Alloy Fabricated by Different Manufacturing Processes",
+      "abstract": "Cobalt-chromium (Co-Cr) alloy is a widely used base material for dental fixed prostheses. These restorations can be produced through casting technique, subtractive or additive manufacturing technologies. However, limited information is available regarding the influence of manufacturing techniques on the properties of Co-Cr alloy since most studies used different chemical compositions of Co-Cr alloy for different manufacturing methods. This study compares the mechanical properties, metal-ceramic bond strength, and microstructures of specimens produced by casting, milling, and selective laser melting (SLM) from one single Co-Cr alloy composition. The mechanical properties of the alloy were investigated by tensile and Vickers hardness tests, and metal-ceramic bond strength was determined by three-point bending. Scanning electron microscopy (SEM) with backscattered electron (BSE) images and optical microphotographs were used to analyze the surface microstructures. Compared with the casting and milling techniques, SLM Co-Cr alloy specimens indicated enhanced mechanical properties and comparable metal-ceramic bond strength. Besides, the microstructures of the SLM specimens showed finer grains with more second phase particles than the casting and milling specimens. The results of our study indicate that SLM might be superior to traditional techniques for the manufacturing of fixed dental restorations.",
+      "authors": [
+        {
+          "name": "Xingting Han",
+          "orcid": "https://orcid.org/0000-0001-5510-0197",
+          "affiliation": "University Children's Hospital Tübingen",
+          "country": "DE",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Tomofumi Sawada",
+          "orcid": "https://orcid.org/0000-0002-4937-7111",
+          "affiliation": "Iwate Medical University",
+          "country": "JP",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Christine Schille",
+          "orcid": null,
+          "affiliation": "University Children's Hospital Tübingen",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ernst Schweizer",
+          "orcid": null,
+          "affiliation": "University Children's Hospital Tübingen",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Lutz Scheideler",
+          "orcid": "https://orcid.org/0000-0001-6833-0899",
+          "affiliation": "University Children's Hospital Tübingen",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jürgen Geis‐Gerstorfer",
+          "orcid": "https://orcid.org/0000-0002-2098-5172",
+          "affiliation": "University Children's Hospital Tübingen",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Frank Rupp",
+          "orcid": "https://orcid.org/0000-0003-1264-3444",
+          "affiliation": "University Children's Hospital Tübingen",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Sebastian Spintzyk",
+          "orcid": "https://orcid.org/0000-0001-6830-4869",
+          "affiliation": "University Children's Hospital Tübingen",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2018,
+      "venue": "Materials",
+      "issn": "1996-1944",
+      "type": "article",
+      "citation_count": 108,
+      "referenced_works_count": 54,
+      "fwci": 8.9841,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.9993000030517578
+        },
+        {
+          "id": "T10705",
+          "name": "Additive Manufacturing Materials and Processes",
+          "score": 0.9983999729156494
+        },
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.9858999848365784
+        }
+      ],
+      "keywords": [
+        "Materials science",
+        "Alloy",
+        "Microstructure",
+        "Selective laser melting",
+        "Ceramic",
+        "Bond strength",
+        "Casting",
+        "Ultimate tensile strength",
+        "Vickers hardness test",
+        "Scanning electron microscope"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/ma11101801",
+      "openalex_url": "https://openalex.org/W2891584782",
+      "pdf_url": "https://www.mdpi.com/1996-1944/11/10/1801/pdf?version=1538207789",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/1996-1944/11/10/1801/pdf?version=1538207789",
+        "http://europepmc.org/pmc/articles/PMC6213922",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/6213922",
+        "https://doaj.org/article/d53edf2f90af473b9bc6be00a4bc9a29"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4106,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.6172,
+          "recency_signal": 0.68
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 4.597651539193906,
+          "h_index": 248
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1038/s41598-017-06013-5",
+      "arxiv_id": null,
+      "openalex_id": "W2734893206",
+      "ss_paper_id": null,
+      "pmid": "28724930",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Assessment of different techniques for 3D superimposition of serial digital maxillary dental casts on palatal structures",
+      "abstract": "Serial 3-dimensional dental model superimposition provides a risk-free, detailed evaluation of morphological alterations on a patient's mouth. Here, we evaluated accuracy and precision of five palatal areas, used for superimposition of maxillary 3D digital dental casts. Sixteen pre- and post-orthodontic treatment dental casts of growing patients (median time lapse: 15.1 months) were superimposed on each palatal area using the iterative closest point algorithm. Area A (medial 2/3 of the third rugae and a small area dorsal to them) was considered the gold standard, due to high anatomical stability. Areas B, C, and D added a distal extension along the midpalatal raphe, an anterior extension to the second rugae, and the remaining palatal surface, respectively. Area E was similar to A, located more posteriorly. Non parametric multivariate models showed minimal or no effect on accuracy and precision by operator, time point, or software settings. However, the choice of superimposition area resulted in statistically significant differences in accuracy and clinically significant differences in detected tooth movement (95% limits of agreement exceeding 1 mm and 3°). Superimposition on area A provided accurate, reproducible, and precise results. Outcomes were comparable for area B, but deteriorated when alternative areas were used.",
+      "authors": [
+        {
+          "name": "Georgios Vasilakos",
+          "orcid": null,
+          "affiliation": "University of Bern",
+          "country": "CH",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Roman Schilling",
+          "orcid": null,
+          "affiliation": "Friedrich Schiller University Jena",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Demetrios J. Halazonetis",
+          "orcid": "https://orcid.org/0000-0002-6501-8709",
+          "affiliation": "National and Kapodistrian University of Athens",
+          "country": "GR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Nikolaos Gkantidis",
+          "orcid": "https://orcid.org/0000-0002-3180-6272",
+          "affiliation": "University of Bern",
+          "country": "CH",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2017,
+      "venue": "Scientific Reports",
+      "issn": "2045-2322",
+      "type": "article",
+      "citation_count": 108,
+      "referenced_works_count": 26,
+      "fwci": 4.6139,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10356",
+          "name": "Orthodontics and Dentofacial Orthopedics",
+          "score": 0.9991999864578247
+        },
+        {
+          "id": "T11919",
+          "name": "dental development and anomalies",
+          "score": 0.9973999857902527
+        },
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.9973000288009644
+        }
+      ],
+      "keywords": [
+        "Superimposition",
+        "Orthodontics",
+        "Iterative closest point",
+        "Dentistry",
+        "Medicine",
+        "Computer science",
+        "Artificial intelligence"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1038/s41598-017-06013-5",
+      "openalex_url": "https://openalex.org/W2734893206",
+      "pdf_url": "https://www.nature.com/articles/s41598-017-06013-5.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.nature.com/articles/s41598-017-06013-5.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/5517608",
+        "https://boris.unibe.ch/112294/",
+        "https://doaj.org/article/cecbda60a212436ba47a27dd1d614ee0"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4066,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.6172,
+          "recency_signal": 0.64
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 5.053682639353544,
+          "h_index": 465
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1034/j.1600-0722.2001.00064.x",
+      "arxiv_id": null,
+      "openalex_id": "W2161275670",
+      "ss_paper_id": null,
+      "pmid": "11531074",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Clinical wear performance of eight experimental dental composites over three years determined by two measuring methods",
+      "abstract": "The effect of matrix selection, filler composition, filler silanization, operator variations, and test site (dental clinic) on the wear rate of eight composites were evaluated. The wear was measured on replicas using both a microscopic and a laser scanning measuring method. The average wear rate on contact-free surfaces was 9.2 +/- 4.2 microm/month with the microscopic measurement and 8.5 +/- 3.7 microm/ month with the laser scanner over the 36-month period. The urethane-based composites performed significantly better than those which were bisGMA-based. Restorations placed at one dental clinic showed significantly lower initial wear. There was also a significant difference between the operators that was most pronounced during the first 6 months. The other variable (filler composition and silane treatment) did not affect the wear rate significantly.",
+      "authors": [
+        {
+          "name": "Karl‐Johan M. Söderholm",
+          "orcid": null,
+          "affiliation": "University of Florida",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Paul Lambrechts",
+          "orcid": "https://orcid.org/0000-0003-1760-5703",
+          "affiliation": "KU Leuven",
+          "country": "BE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "David C. Sarrett",
+          "orcid": null,
+          "affiliation": "Virginia Commonwealth University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yasuhiko Abe",
+          "orcid": null,
+          "affiliation": "Hiroshima University",
+          "country": "JP",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mark C. K. Yang",
+          "orcid": null,
+          "affiliation": "University of Florida",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "R Labella",
+          "orcid": null,
+          "affiliation": "KU Leuven",
+          "country": "BE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Esra Yıldız",
+          "orcid": "https://orcid.org/0000-0002-4816-0981",
+          "affiliation": "Istanbul University",
+          "country": "TR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Guy Willems",
+          "orcid": "https://orcid.org/0000-0002-2604-0954",
+          "affiliation": "KU Leuven",
+          "country": "BE",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2001,
+      "venue": "European Journal Of Oral Sciences",
+      "issn": "0029-845X",
+      "type": "article",
+      "citation_count": 104,
+      "referenced_works_count": 18,
+      "fwci": 3.8645,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 1.0
+        },
+        {
+          "id": "T11958",
+          "name": "Dental Erosion and Treatment",
+          "score": 0.9975000023841858
+        },
+        {
+          "id": "T10852",
+          "name": "Temporomandibular Joint Disorders",
+          "score": 0.9940999746322632
+        }
+      ],
+      "keywords": [
+        "Silanization",
+        "Filler (materials)",
+        "Materials science",
+        "Composite material",
+        "Abrasive",
+        "Dentistry",
+        "Medicine"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1034/j.1600-0722.2001.00064.x",
+      "openalex_url": "https://openalex.org/W2161275670",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1034/j.1600-0722.2001.00064.x",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1034/j.1600-0722.2001.00064.x"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4043,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.75,
+          "citation_signal": 0.6123,
+          "recency_signal": 0.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.4424778761061947,
+          "h_index": 150
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1155/2009/365785",
+      "arxiv_id": null,
+      "openalex_id": "W1999005307",
+      "ss_paper_id": null,
+      "pmid": "20339575",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Dental Pulp Testing: A Review",
+      "abstract": "Dental pulp testing is a useful and essential diagnostic aid in endodontics. Pulp sensibility tests include thermal and electric tests, which extrapolate pulp health from sensory response. Whilst pulp sensibility tests are the most commonly used in clinical practice, they are not without limitations and shortcomings. Pulp vitality tests attempt to examine the presence of pulp blood flow, as this is viewed as a better measure of true health than sensibility. Laser Doppler flowmetry and pulse oximetry are examples of vitality tests. Whilst the prospect is promising, there are still many practical issues that need to be addressed before vitality tests can replace sensibility tests as the standard clinical pulp diagnostic test. With all pulp tests, the results need to be carefully interpreted and closely scrutinised as false results can lead to misdiagnosis which can then lead to incorrect, inappropriate, or unnecessary treatment.",
+      "authors": [
+        {
+          "name": "Eugene Chen",
+          "orcid": null,
+          "affiliation": "The University of Western Australia",
+          "country": "AU",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Paul V. Abbott",
+          "orcid": "https://orcid.org/0000-0001-5727-4211",
+          "affiliation": "The University of Western Australia",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2009,
+      "venue": "International Journal of Dentistry",
+      "issn": "1687-8728",
+      "type": "article",
+      "citation_count": 199,
+      "referenced_works_count": 104,
+      "fwci": 1.7195,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.9803000092506409
+        },
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.9704999923706055
+        },
+        {
+          "id": "T11656",
+          "name": "Turtle Biology and Conservation",
+          "score": 0.9375
+        }
+      ],
+      "keywords": [
+        "Sensibility",
+        "Pulp (tooth)",
+        "Vitality",
+        "Dentistry",
+        "Medicine",
+        "Endodontics",
+        "Pulp capping"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being",
+          "score": 0.49000000953674316
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1155/2009/365785",
+      "openalex_url": "https://openalex.org/W1999005307",
+      "pdf_url": "https://downloads.hindawi.com/journals/ijd/2009/365785.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://downloads.hindawi.com/journals/ijd/2009/365785.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/2837315"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3866,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.697,
+          "recency_signal": 0.32
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.5295081967213116,
+          "h_index": 82
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1111/j.1601-6343.2006.00338.x",
+      "arxiv_id": null,
+      "openalex_id": "W2104209434",
+      "ss_paper_id": null,
+      "pmid": "16420273",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Effects of low‐level laser therapy on the rate of orthodontic tooth movement",
+      "abstract": "OBJECTIVES: To test the hypothesis that mechanical forces combined with low-level laser therapy stimulate the rate of orthodontic tooth movement. STUDY DESIGN: This study was a double blind, randomized placebo/control matched pairs clinical trial to test the efficacy of GaAlAs low-level laser therapy (LLLT) on 12 young adult patients who required retraction of maxillary canines into first premolar extraction spaces using tension coil springs with fixed edgewise appliance. LLLT was applied on the mucosa buccally, distally and palatally to the canine on the test side and using a pseudo-application on the placebo side. Dental impressions and casts were made at the commencement of the trial and at the end of the first, second and third months after starting the trial. Measurement of tooth movements was made on each stage model using a stereo microscope. RESULTS: There was no significant difference of means of the canine distal movement between the LLLT side and the placebo side for any time periods (p-value = 0.77). CONCLUSION: The energy density of LLLT (GaAlAs) at the surface level in this study (25 J/cm(2)) was probably too low to express either stimulatory effect or inhibitory effect on the rate of orthodontic tooth movement.",
+      "authors": [
+        {
+          "name": "W Limpanichkul",
+          "orcid": null,
+          "affiliation": "Hatyai Hospital",
+          "country": "TH",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Keith Godfrey",
+          "orcid": null,
+          "affiliation": "Khon Kaen University",
+          "country": "TH",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Nitipavee Srisuk",
+          "orcid": null,
+          "affiliation": "Khon Kaen University",
+          "country": "TH",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Charunee Rattanayatikul",
+          "orcid": null,
+          "affiliation": "Khon Kaen University",
+          "country": "TH",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2006,
+      "venue": "Orthodontics and Craniofacial Research",
+      "issn": "1601-6335",
+      "type": "article",
+      "citation_count": 227,
+      "referenced_works_count": 31,
+      "fwci": 2.1565,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9117000102996826
+        },
+        {
+          "id": "T10356",
+          "name": "Orthodontics and Dentofacial Orthopedics",
+          "score": 0.03060000017285347
+        },
+        {
+          "id": "T11958",
+          "name": "Dental Erosion and Treatment",
+          "score": 0.00860000029206276
+        }
+      ],
+      "keywords": [
+        "Premolar",
+        "Low level laser therapy",
+        "Medicine",
+        "Dentistry",
+        "Placebo",
+        "Orthodontics",
+        "Laser therapy",
+        "Stereo microscope",
+        "Laser",
+        "Molar"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
+          "score": 0.44999998807907104
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1111/j.1601-6343.2006.00338.x",
+      "openalex_url": "https://openalex.org/W2104209434",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1601-6343.2006.00338.x",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1601-6343.2006.00338.x"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3771,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.7143,
+          "recency_signal": 0.2
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.7450980392156863,
+          "h_index": 83
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1186/s12903-020-01328-8",
+      "arxiv_id": null,
+      "openalex_id": "W3106844132",
+      "ss_paper_id": null,
+      "pmid": "33246466",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "3D printed complete removable dental prostheses: a narrative review",
+      "abstract": "BACKGROUND: The purpose of this paper is to review the available literature on three-dimensionally printed complete dentures in terms of novel biomaterials, fabrication techniques and workflow, clinical performance and patient satisfaction. METHODS: The methodology included applying a search strategy, defining inclusion and exclusion criteria, selecting studies and forming tables to summarize the results. Searches of PubMed, Scopus, and Embase databases were performed independently by two reviewers to gather literature published between 2010 and 2020. RESULTS: A total of 126 titles were obtained from the electronic database, and the application of exclusion criteria resulted in the identification of 21 articles pertaining to printed technology for complete dentures. Current innovations and developments in digital dentistry have successfully led to the fabrication of removable dental prostheses using CAD/CAM technologies. Milled dentures have been studied more than 3D printed ones in the currently available literature. The limited number of clinical studies, mainly case reports, suggest current indications of 3D printing in denture fabrication process to be custom tray, record bases, trial, interim or immediate dentures but not definitive prostheses fabrication. Limitations include poor esthetics and retention, inability to balance occlusion and low printer resolution. CONCLUSIONS: Initial studies on digital dentures have shown promising short-term clinical performance, positive patient-related results and reasonable cost-effectiveness. 3D printing has potential to modernize and streamline the denture fabrication techniques, materials and workflows. However, more research is required on the existing and developing materials and printers to allow for advancement and increase its application in removable prosthodontics.",
+      "authors": [
+        {
+          "name": "Eva Anadioti",
+          "orcid": null,
+          "affiliation": "University of Pennsylvania",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Leen Musharbash",
+          "orcid": null,
+          "affiliation": "University of Pennsylvania",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Markus B. Blatz",
+          "orcid": "https://orcid.org/0000-0001-6341-7047",
+          "affiliation": "University of Pennsylvania",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "George Papavasiliou",
+          "orcid": "https://orcid.org/0000-0003-4357-8745",
+          "affiliation": "National and Kapodistrian University of Athens",
+          "country": "GR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Phophi Kamposiora",
+          "orcid": "https://orcid.org/0000-0002-6210-9824",
+          "affiliation": "National and Kapodistrian University of Athens",
+          "country": "GR",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2020,
+      "venue": "BMC Oral Health",
+      "issn": "1472-6831",
+      "type": "review",
+      "citation_count": 275,
+      "referenced_works_count": 65,
+      "fwci": 7.0443,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.48350000381469727
+        },
+        {
+          "id": "T10783",
+          "name": "Additive Manufacturing and 3D Printing Technologies",
+          "score": 0.08789999783039093
+        },
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.08609999716281891
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Oral and maxillofacial surgery",
+        "Dentistry",
+        "Narrative review",
+        "3d printed",
+        "Orthodontics",
+        "General surgery",
+        "Intensive care medicine"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1186/s12903-020-01328-8",
+      "openalex_url": "https://openalex.org/W3106844132",
+      "pdf_url": "https://bmcoralhealth.biomedcentral.com/track/pdf/10.1186/s12903-020-01328-8",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://bmcoralhealth.biomedcentral.com/track/pdf/10.1186/s12903-020-01328-8",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/7694312",
+        "https://doaj.org/article/400bf2ef41b8438fa64ca38c9c0ab50e"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3744,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.7394,
+          "recency_signal": 0.76
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.7071713147410357,
+          "h_index": 115
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/jcs7020080",
+      "arxiv_id": null,
+      "openalex_id": "W4320917312",
+      "ss_paper_id": null,
+      "pmid": "38645939",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "3D Printing of Dental Prostheses: Current and Emerging Applications",
+      "abstract": "Revolutionary fabrication technologies such as three-dimensional (3D) printing to develop dental structures are expected to replace traditional methods due to their ability to establish constructs with the required mechanical properties and detailed structures. Three-dimensional printing, as an additive manufacturing approach, has the potential to rapidly fabricate complex dental prostheses by employing a bottom-up strategy in a layer-by-layer fashion. This new technology allows dentists to extend their degree of freedom in selecting, creating, and performing the required treatments. Three-dimensional printing has been narrowly employed in the fabrication of various kinds of prostheses and implants. There is still an on-demand production procedure that offers a reasonable method with superior efficiency to engineer multifaceted dental constructs. This review article aims to cover the most recent applications of 3D printing techniques in the manufacturing of dental prosthetics. More specifically, after describing various 3D printing techniques and their advantages/disadvantages, the applications of 3D printing in dental prostheses are elaborated in various examples in the literature. Different 3D printing techniques have the capability to use different materials, including thermoplastic polymers, ceramics, and metals with distinctive suitability for dental applications, which are discussed in this article. The relevant limitations and challenges that currently limit the efficacy of 3D printing in this field are also reviewed. This review article has employed five major scientific databases, including Google Scholar, PubMed, ScienceDirect, Web of Science, and Scopus, with appropriate keywords to find the most relevant literature in the subject of dental prostheses 3D printing.",
+      "authors": [
+        {
+          "name": "Fereshte Rezaie",
+          "orcid": "https://orcid.org/0000-0003-2556-1229",
+          "affiliation": "Tabriz University of Medical Sciences",
+          "country": "IR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Masoud Farshbaf",
+          "orcid": "https://orcid.org/0000-0003-4260-7380",
+          "affiliation": "Tabriz University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mohammad Dahri",
+          "orcid": "https://orcid.org/0000-0003-1776-7243",
+          "affiliation": "Tabriz University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Moein Masjedi",
+          "orcid": "https://orcid.org/0000-0003-3351-8730",
+          "affiliation": "Shiraz University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Reza Maleki",
+          "orcid": "https://orcid.org/0000-0002-5169-5848",
+          "affiliation": "Iranian Research Organization for Science and Technology",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Fatemeh Amini",
+          "orcid": null,
+          "affiliation": "Shahed University",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jonathan Wirth",
+          "orcid": null,
+          "affiliation": "Marquette University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Keyvan Moharamzadeh",
+          "orcid": "https://orcid.org/0000-0002-8842-4638",
+          "affiliation": "Mohammed Bin Rashid University of Medicine and Health Sciences",
+          "country": "AE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Franz E. Weber",
+          "orcid": "https://orcid.org/0000-0003-1670-2296",
+          "affiliation": "University of Zurich",
+          "country": "CH",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Lobat Tayebi",
+          "orcid": "https://orcid.org/0000-0003-1947-5658",
+          "affiliation": "Marquette University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2023,
+      "venue": "Journal of Composites Science",
+      "issn": "2504-477X",
+      "type": "article",
+      "citation_count": 124,
+      "referenced_works_count": 175,
+      "fwci": 22.3642,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.9983999729156494
+        },
+        {
+          "id": "T10783",
+          "name": "Additive Manufacturing and 3D Printing Technologies",
+          "score": 0.9979000091552734
+        },
+        {
+          "id": "T10059",
+          "name": "Bone Tissue Engineering Materials",
+          "score": 0.9905999898910522
+        }
+      ],
+      "keywords": [
+        "3D printing",
+        "Computer science",
+        "Manufacturing engineering",
+        "Nanotechnology",
+        "Mechanical engineering",
+        "Engineering",
+        "Materials science"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/jcs7020080",
+      "openalex_url": "https://openalex.org/W4320917312",
+      "pdf_url": "https://www.mdpi.com/2504-477X/7/2/80/pdf?version=1676452870",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2504-477X/7/2/80/pdf?version=1676452870",
+        "https://www.zora.uzh.ch/id/eprint/239272/1/ZORA_pdf_version_1676452870.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11031267/pdf/nihms-1936356.pdf",
+        "https://www.zora.uzh.ch/handle/20.500.14742/211885",
+        "https://doi.org/10.5167/uzh-239272"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3708,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.6352,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 5.244521337946943,
+          "h_index": 79
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/dj10100181",
+      "arxiv_id": null,
+      "openalex_id": "W4297464436",
+      "ss_paper_id": null,
+      "pmid": "36285991",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Comparison in Terms of Accuracy between DLP and LCD Printing Technology for Dental Model Printing",
+      "abstract": "Background: The aim of this study is to evaluate the accuracy of a Liquid Crystal Display (LCD) 3D printer compared to a Direct Light Processing (DLP) 3D printer for dental model printing. Methods: Two different printers in terms of 3D printing technology were used in this study. One was a DLP 3D printer and one an LCD 3D printer. The accuracy of the printers was evaluated in terms of trueness and precision. Ten STL reference files were used for this study. For trueness, each STL file was printed once with each 3D printer. For precision, one randomly chosen STL file was printed 10 times with each 3D printer. Afterward, the models were scanned with a model scanner, and reverse engineering software was used for the STL comparisons. Results: In terms of trueness, the comparison between the LCD 3D printer and DLP 3D printer was statistically significant, with a p-value = 0.004. For precision, the comparison between the LCD 3D printer and the DLP 3D printer was statistically significant, with a p-value = 0.011. Conclusions: The DLP 3D printer is more accurate in terms of dental model printing than the LCD 3D printer. However, both DLP and LCD printers can accurately be used to print dental models for the fabrication of orthodontic appliances.",
+      "authors": [
+        {
+          "name": "Ioannis A. Tsolakis",
+          "orcid": "https://orcid.org/0000-0002-5435-4889",
+          "affiliation": "Aristotle University of Thessaloniki",
+          "country": "GR",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "William Papaioannou",
+          "orcid": "https://orcid.org/0000-0001-5146-4399",
+          "affiliation": "National and Kapodistrian University of Athens",
+          "country": "GR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Erofili Papadopoulou",
+          "orcid": null,
+          "affiliation": "National and Kapodistrian University of Athens",
+          "country": "GR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Maria Dalampira",
+          "orcid": "https://orcid.org/0009-0003-1976-7949",
+          "affiliation": "Hellenic Agency for Local Development and Local Government",
+          "country": "GR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Apostolos I. Tsolakis",
+          "orcid": "https://orcid.org/0000-0003-3019-5438",
+          "affiliation": "National and Kapodistrian University of Athens",
+          "country": "GR",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2022,
+      "venue": "Dentistry Journal",
+      "issn": "2304-6767",
+      "type": "article",
+      "citation_count": 144,
+      "referenced_works_count": 40,
+      "fwci": 17.5699,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.7508999705314636
+        },
+        {
+          "id": "T12439",
+          "name": "Dental Research and COVID-19",
+          "score": 0.08460000157356262
+        },
+        {
+          "id": "T10356",
+          "name": "Orthodontics and Dentofacial Orthopedics",
+          "score": 0.05350000038743019
+        }
+      ],
+      "keywords": [
+        "3d printer",
+        "Digital Light Processing",
+        "3D printing",
+        "Liquid-crystal display",
+        "Computer graphics (images)",
+        "Digital printing",
+        "3d model",
+        "Computer science",
+        "Computer hardware",
+        "3d scanning"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/dj10100181",
+      "openalex_url": "https://openalex.org/W4297464436",
+      "pdf_url": "https://www.mdpi.com/2304-6767/10/10/181/pdf?version=1664372105",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2304-6767/10/10/181/pdf?version=1664372105",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/9600557",
+        "https://doaj.org/article/f9299bd00df04481a265d89d66d222f5"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3697,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.6547,
+          "recency_signal": 0.84
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.4295426452410385,
+          "h_index": 63
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1002/14651858.cd001830.pub5",
+      "arxiv_id": null,
+      "openalex_id": "W2741425763",
+      "ss_paper_id": null,
+      "pmid": "28759120",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Pit and fissure sealants for preventing dental decay in permanent teeth",
+      "abstract": "BACKGROUND: Dental sealants were introduced in the 1960s to help prevent dental caries, mainly in the pits and fissures of occlusal tooth surfaces. Sealants act to prevent bacteria growth that can lead to dental decay. Evidence suggests that fissure sealants are effective in preventing caries in children and adolescents compared to no sealants. Effectiveness may, however, be related to caries incidence level of the population. This is an update of a review published in 2004, 2008 and 2013. OBJECTIVES: To compare the effects of different types of fissure sealants in preventing caries in occlusal surfaces of permanent teeth in children and adolescents. SEARCH METHODS: Cochrane Oral Health's Information Specialist searched: Cochrane Oral Health's Trials Register (to 3 August 2016), the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library, 2016, Issue 7), MEDLINE Ovid (1946 to 3 August 2016), and Embase Ovid (1980 to 3 August 2016). We searched ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform for ongoing trials to 3 August 2016. No restrictions were placed on language or date of publication. SELECTION CRITERIA: Randomised controlled trials (RCTs) comparing sealants with no sealant or a different type of sealant material for preventing caries of occlusal surfaces of premolar or molar teeth in children and adolescents aged up to 20 years. Studies required at least 12 months follow-up. We excluded studies that compared compomers to resins/composites. DATA COLLECTION AND ANALYSIS: Two review authors independently screened search results, extracted data and assessed risk of bias of included studies. We presented outcomes for caries or no caries on occlusal surfaces of permanent molar teeth as odds ratio (OR) or risk ratio (RR). We used mean difference (MD) for mean caries increment. All measures were presented with 95% confidence intervals (CI). We conducted meta-analyses using a random-effects model for comparisons where there were more than three trials; otherwise we used the fixed-effect model. We used GRADE methods to assess evidence quality. MAIN RESULTS: We included 38 trials that involved a total of 7924 children; seven trials were new for this update (1693 participants). Fifteen trials evaluated the effects of resin-based sealant versus no sealant (3620 participants in 14 studies plus 575 tooth pairs in one study); three trials with evaluated glass ionomer sealant versus no sealant (905 participants); and 24 trials evaluated one type of sealant versus another (4146 participants). Children were aged from 5 to 16 years. Trials rarely reported background exposure to fluoride of trial participants or baseline caries prevalence. Resin-based sealant versus no sealant: second-, third- and fourth-generation resin-based sealants prevented caries in first permanent molars in children aged 5 to 10 years (at 24 months follow-up: OR 0.12, 95% CI 0.08 to 0.19, 7 trials (5 published in the 1970s; 2 in the 2010s), 1548 children randomised, 1322 children evaluated; moderate-quality evidence). If we were to assume that 16% of the control tooth surfaces were decayed during 24 months of follow-up (160 carious teeth per 1000), then applying a resin-based sealant would reduce the proportion of carious surfaces to 5.2% (95% CI 3.13% to 7.37%). Similarly, assuming that 40% of control tooth surfaces were decayed (400 carious teeth per 1000), then applying a resin-based sealant would reduce the proportion of carious surfaces to 6.25% (95% CI 3.84% to 9.63%). If 70% of control tooth surfaces were decayed, there would be 19% decayed surfaces in the sealant group (95% CI 12.3% to 27.2%). This caries-preventive effect was maintained at longer follow-up but evidence quality and quantity was reduced (e.g. at 48 to 54 months of follow-up: OR 0.21, 95% CI 0.16 to 0.28, 4 trials, 482 children evaluated; RR 0.24, 95% CI 0.12 to 0.45, 203 children evaluated). Although studies were generally well conducted, we assessed blinding of outcome assessment for caries at high risk of bias for all trials (blinding of outcome assessment is not possible in sealant studies because outcome assessors can see and identify sealant). Glass ionomer sealant versus no sealant: was evaluated by three studies. Results at 24 months were inconclusive (very low-quality evidence). One sealant versus another sealant: the relative effectiveness of different types of sealants is unknown (very low-quality evidence). We included 24 trials that directly compared two different sealant materials. Comparisons varied in terms of types of sealant assessed, outcome measures chosen and duration of follow-up. Adverse events: only four trials assessed adverse events. No adverse events were reported. AUTHORS' CONCLUSIONS: Resin-based sealants applied on occlusal surfaces of permanent molars are effective for preventing caries in children and adolescents. Our review found moderate-quality evidence that resin-based sealants reduced caries by between 11% and 51% compared to no sealant, when measured at 24 months. Similar benefit was seen at timepoints up to 48 months; after longer follow-up, the quantity and quality of evidence was reduced. There was insufficient evidence to judge the effectiveness of glass ionomer sealant or the relative effectiveness of different types of sealants. Information on adverse effects was limited but none occurred where this was reported. Further research with long follow-up is needed.",
+      "authors": [
+        {
+          "name": "Anneli Ahovuo-Saloranta",
+          "orcid": null,
+          "affiliation": "Tampere University",
+          "country": "FI",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "H. Forss",
+          "orcid": null,
+          "affiliation": "Tampere University Hospital",
+          "country": "FI",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Tanya Walsh",
+          "orcid": "https://orcid.org/0000-0001-7003-8854",
+          "affiliation": "University of Manchester",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Anne Nordblad",
+          "orcid": null,
+          "affiliation": "Ministry of Social Affairs and Health",
+          "country": "FI",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Marjukka Mākelä",
+          "orcid": "https://orcid.org/0000-0001-5111-1358",
+          "affiliation": "University of Copenhagen",
+          "country": "DK",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Helen V Worthington",
+          "orcid": "https://orcid.org/0000-0002-4851-7469",
+          "affiliation": "University of Manchester",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2017,
+      "venue": "Cochrane Database of Systematic Reviews",
+      "issn": "1361-6137",
+      "type": "article",
+      "citation_count": 386,
+      "referenced_works_count": 212,
+      "fwci": 23.9151,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.7523000240325928
+        },
+        {
+          "id": "T10368",
+          "name": "Dental Health and Care Utilization",
+          "score": 0.21449999511241913
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.007400000002235174
+        }
+      ],
+      "keywords": [
+        "Fissure",
+        "Dentistry",
+        "Dental decay",
+        "Orthodontics",
+        "Medicine",
+        "Materials science",
+        "Composite material",
+        "Oral health"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1002/14651858.cd001830.pub5",
+      "openalex_url": "https://openalex.org/W2741425763",
+      "pdf_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001830.pub5/pdf/full",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001830.pub5/pdf/full",
+        "https://research.manchester.ac.uk/en/publications/3ba02b89-33c6-4eaa-a990-225c10ba906f",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/6483295",
+        "https://researchprofiles.ku.dk/files/189092206/Pit_and_fissure_sealants_for_preventing_dental_decay_in_permanent_teeth.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3691,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.7839,
+          "recency_signal": 0.64
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 7.3023255813953485,
+          "h_index": 461
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1038/s41368-024-00296-x",
+      "arxiv_id": null,
+      "openalex_id": "W4394573904",
+      "ss_paper_id": null,
+      "pmid": "38584185",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "The evolution of robotics: research and application progress of dental implant robotic systems",
+      "abstract": "The use of robots to augment human capabilities and assist in work has long been an aspiration. Robotics has been developing since the 1960s when the first industrial robot was introduced. As technology has advanced, robotic-assisted surgery has shown numerous advantages, including more precision, efficiency, minimal invasiveness, and safety than is possible with conventional techniques, which are research hotspots and cutting-edge trends. This article reviewed the history of medical robot development and seminal research papers about current research progress. Taking the autonomous dental implant robotic system as an example, the advantages and prospects of medical robotic systems would be discussed which would provide a reference for future research.",
+      "authors": [
+        {
+          "name": "Chen Liu",
+          "orcid": "https://orcid.org/0009-0000-1771-5430",
+          "affiliation": "National Clinical Research Center for Digestive Diseases",
+          "country": "CN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yuchen Liu",
+          "orcid": "https://orcid.org/0000-0002-5376-0017",
+          "affiliation": "National Clinical Research Center for Digestive Diseases",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Rui Xie",
+          "orcid": "https://orcid.org/0000-0001-5581-873X",
+          "affiliation": "National Clinical Research Center for Digestive Diseases",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Zhiwen Li",
+          "orcid": "https://orcid.org/0000-0001-6925-2976",
+          "affiliation": "National Clinical Research Center for Digestive Diseases",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Shizhu Bai",
+          "orcid": "https://orcid.org/0000-0002-2439-3211",
+          "affiliation": "National Clinical Research Center for Digestive Diseases",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Yimin Zhao",
+          "orcid": "https://orcid.org/0009-0000-4828-2690",
+          "affiliation": "State Street (United States)",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2024,
+      "venue": "International Journal of Oral Science",
+      "issn": "1674-2818",
+      "type": "article",
+      "citation_count": 91,
+      "referenced_works_count": 106,
+      "fwci": 34.2861,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.9983000159263611
+        },
+        {
+          "id": "T10868",
+          "name": "Soft Robotics and Applications",
+          "score": 0.9927999973297119
+        },
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.9843999743461609
+        }
+      ],
+      "keywords": [
+        "Robotics",
+        "Robot",
+        "Artificial intelligence",
+        "Computer science",
+        "Dental implant",
+        "Robotic paradigms",
+        "Medical research",
+        "Systems engineering",
+        "Engineering",
+        "Implant"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.49000000953674316,
+          "display_name": "Industry, innovation and infrastructure"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1038/s41368-024-00296-x",
+      "openalex_url": "https://openalex.org/W4394573904",
+      "pdf_url": "https://www.nature.com/articles/s41368-024-00296-x.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.nature.com/articles/s41368-024-00296-x.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10999443/pdf/41368_2024_Article_296.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3687,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.5949,
+          "recency_signal": 0.92
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 16.251256281407034,
+          "h_index": 97
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1016/j.dental.2024.02.006",
+      "arxiv_id": null,
+      "openalex_id": "W4392133310",
+      "ss_paper_id": null,
+      "pmid": "38401992",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Recent advances in additive manufacturing of patient-specific devices for dental and maxillofacial rehabilitation",
+      "abstract": "OBJECTIVES: Customization and the production of patient-specific devices, tailoring the unique anatomy of each patient's jaw and facial structures, are the new frontiers in dentistry and maxillofacial surgery. As a technological advancement, additive manufacturing has been applied to produce customized objects based on 3D computerized models. Therefore, this paper presents advances in additive manufacturing strategies for patient-specific devices in diverse dental specialties. METHODS: This paper overviews current 3D printing techniques to fabricate dental and maxillofacial devices. Then, the most recent literature (2018-2023) available in scientific databases reporting advances in 3D-printed patient-specific devices for dental and maxillofacial applications is critically discussed, focusing on the major outcomes, material-related details, and potential clinical advantages. RESULTS: The recent application of 3D-printed customized devices in oral prosthodontics, implantology and maxillofacial surgery, periodontics, orthodontics, and endodontics are presented. Moreover, the potential application of 4D printing as an advanced manufacturing technology and the challenges and future perspectives for additive manufacturing in the dental and maxillofacial area are reported. SIGNIFICANCE: Additive manufacturing techniques have been designed to benefit several areas of dentistry, and the technologies, materials, and devices continue to be optimized. Image-based and accurately printed patient-specific devices to replace, repair, and regenerate dental and maxillofacial structures hold significant potential to maximize the standard of care in dentistry.",
+      "authors": [
+        {
+          "name": "Monireh Kouhi",
+          "orcid": "https://orcid.org/0000-0001-7068-5816",
+          "affiliation": "Isfahan University of Medical Sciences",
+          "country": "IR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Isaac Jordão de Souza Araújo",
+          "orcid": "https://orcid.org/0000-0002-1795-8640",
+          "affiliation": "University of Michigan",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Farah Asa’ad",
+          "orcid": "https://orcid.org/0000-0001-5186-2645",
+          "affiliation": "University of Gothenburg",
+          "country": "SE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Lubna Zeenat",
+          "orcid": "https://orcid.org/0009-0005-5663-5843",
+          "affiliation": "Deakin University",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Sri Sai Ramya Bojedla",
+          "orcid": null,
+          "affiliation": "Indian Institute of Technology Hyderabad",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Falguni Pati",
+          "orcid": "https://orcid.org/0000-0002-3588-1800",
+          "affiliation": "Indian Institute of Technology Hyderabad",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ali Zolfagharian",
+          "orcid": "https://orcid.org/0000-0001-5302-360X",
+          "affiliation": "Deakin University",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "David C. Watts",
+          "orcid": "https://orcid.org/0000-0002-9105-2775",
+          "affiliation": "University of Manchester",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Marco C. Bottino",
+          "orcid": "https://orcid.org/0000-0001-8740-2464",
+          "affiliation": "University of Michigan",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mahdi Bodaghi",
+          "orcid": "https://orcid.org/0000-0002-0707-944X",
+          "affiliation": "University of Nottingham",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2024,
+      "venue": "Dental Materials",
+      "issn": "0109-5641",
+      "type": "article",
+      "citation_count": 78,
+      "referenced_works_count": 164,
+      "fwci": 8.5526,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10783",
+          "name": "Additive Manufacturing and 3D Printing Technologies",
+          "score": 0.27399998903274536
+        },
+        {
+          "id": "T11984",
+          "name": "Anatomy and Medical Technology",
+          "score": 0.24060000479221344
+        },
+        {
+          "id": "T11190",
+          "name": "3D Printing in Biomedical Research",
+          "score": 0.1973000019788742
+        }
+      ],
+      "keywords": [
+        "Prosthodontics",
+        "3D printing",
+        "Periodontology",
+        "Oral and maxillofacial surgery",
+        "Oral and maxillofacial radiology",
+        "Dentistry",
+        "3d printed",
+        "Endodontics",
+        "Three dimensional printing",
+        "Stereolithography"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.4099999964237213,
+          "display_name": "Industry, innovation and infrastructure"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/j.dental.2024.02.006",
+      "openalex_url": "https://openalex.org/W4392133310",
+      "pdf_url": "https://doi.org/10.1016/j.dental.2024.02.006",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.1016/j.dental.2024.02.006",
+        "https://research.manchester.ac.uk/en/publications/9d2a9045-37ca-4670-9eb1-c7b96c173164",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13011888/pdf/nihms-2154586.pdf",
+        "https://figshare.com/articles/journal_contribution/Recent_advances_in_additive_manufacturing_of_patient-specific_devices_for_dental_and_maxillofacial_rehabilitation/25494826",
+        "http://irep.ntu.ac.uk/id/eprint/51002/"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3657,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.5748,
+          "recency_signal": 0.92
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.683453237410072,
+          "h_index": 231
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1186/s40729-023-00507-w",
+      "arxiv_id": null,
+      "openalex_id": "W4387931171",
+      "ss_paper_id": null,
+      "pmid": "37875645",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "A systematic review of the accuracy of digital surgical guides for dental implantation",
+      "abstract": "PURPOSE: This review aimed to reveal the influence of implant guides on surgical accuracy with regard to supporting types, manufacturing methods and design (including fixation screws and sleeves). METHODS: A literature search related to accuracy of surgical guides for dental implantation was performed in Web of Science and PubMed. Studies with in vivo or in vitro deviation data published in recent 5 years (2018-2022) were included and assessed by Newcastle-Ottawa Scale with regard to risk of bias and reliability degree of clinical studies. Accuracy-related deviation data were summarized as forest plots and normal distributions. RESULTS: Forty-one articles were included with high degree of credibility. Data showed that implant surgery accuracy can be achieved with mean distance deviation < 2 mm (most < 1 mm) and angular deviation < 8° (most < 5°). CONCLUSIONS: Bilateral tooth-supported guides exhibited highest in vitro accuracy and similar in vivo accuracy to unilateral tooth-supported guides; mucosa-supported guides exhibit lowest in vivo accuracy, while its in vitro data showed low credibility due to mechanical complexity of living mucosa tissue. Milling exhibited higher in vivo accuracy of guides than 3d-printing, though further data support was needed. Design of fixation screws and sleeves of implant guides affected the surgical accuracy and might remain a research focus in near future. However, lack of universal evaluation standards for implantation accuracy remained a major problem in this field. The influence of implant guides on surgical accuracy revealed in this review might shed light on future development of dental implantology.",
+      "authors": [
+        {
+          "name": "Yiting Shi",
+          "orcid": null,
+          "affiliation": "Shanghai University of Medicine and Health Sciences",
+          "country": "CN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "JunKai Wang",
+          "orcid": null,
+          "affiliation": "Shanghai University of Medicine and Health Sciences",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Chao Ma",
+          "orcid": "https://orcid.org/0000-0001-6980-5833",
+          "affiliation": "Shanghai University of Medicine and Health Sciences",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jiayi Shen",
+          "orcid": "https://orcid.org/0000-0001-5604-7973",
+          "affiliation": "Shanghai University of Medicine and Health Sciences",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Xian Dong",
+          "orcid": "https://orcid.org/0000-0003-2550-2771",
+          "affiliation": "Shanghai University of Medicine and Health Sciences",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Dan Lin",
+          "orcid": "https://orcid.org/0000-0002-0159-7326",
+          "affiliation": "Shanghai University of Medicine and Health Sciences",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2023,
+      "venue": "International Journal of Implant Dentistry",
+      "issn": "2198-4034",
+      "type": "review",
+      "citation_count": 80,
+      "referenced_works_count": 81,
+      "fwci": 6.129,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.9592000246047974
+        },
+        {
+          "id": "T10356",
+          "name": "Orthodontics and Dentofacial Orthopedics",
+          "score": 0.01720000058412552
+        },
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.006399999838322401
+        }
+      ],
+      "keywords": [
+        "Dentistry",
+        "Medicine",
+        "Orthodontics"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5,
+          "display_name": "Life in Land"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1186/s40729-023-00507-w",
+      "openalex_url": "https://openalex.org/W4387931171",
+      "pdf_url": "https://journalimplantdent.springeropen.com/counter/pdf/10.1186/s40729-023-00507-w",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://journalimplantdent.springeropen.com/counter/pdf/10.1186/s40729-023-00507-w",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10597938/pdf/40729_2023_Article_507.pdf",
+        "https://doaj.org/article/01275aa1b5a440a9bbe6b6629471b9d5"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3622,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.5781,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 4.758974358974359,
+          "h_index": 55
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1039/c8ja00319j",
+      "arxiv_id": null,
+      "openalex_id": "W2899284235",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Applications of laser-induced breakdown spectroscopy in cultural heritage and archaeology: a critical review",
+      "abstract": "In this paper, we present a critical review on the applications of the Laser-Induced Breakdown Spectroscopy (LIBS) technique in cultural heritage and archaeology.",
+      "authors": [
+        {
+          "name": "Asia Botto",
+          "orcid": "https://orcid.org/0000-0002-3135-2303",
+          "affiliation": "University of Pisa",
+          "country": "IT",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Beatrice Campanella",
+          "orcid": "https://orcid.org/0000-0002-6389-4035",
+          "affiliation": "Institute for the Chemistry of OrganoMetallic Compounds",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Stefano Legnaioli",
+          "orcid": "https://orcid.org/0000-0002-1871-0647",
+          "affiliation": "Institute for the Chemistry of OrganoMetallic Compounds",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Marco Lezzerini",
+          "orcid": "https://orcid.org/0000-0001-9204-4462",
+          "affiliation": "University of Pisa",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Giulia Lorenzetti",
+          "orcid": "https://orcid.org/0009-0008-6275-0479",
+          "affiliation": "Institute for the Chemistry of OrganoMetallic Compounds",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Stefano Pagnotta",
+          "orcid": "https://orcid.org/0000-0002-6645-4924",
+          "affiliation": "University of Pisa",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Francesco Poggialini",
+          "orcid": "https://orcid.org/0000-0003-0620-842X",
+          "affiliation": "Scuola Normale Superiore",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Vincenzo Palleschi",
+          "orcid": "https://orcid.org/0000-0002-6377-7656",
+          "affiliation": "Institute for the Chemistry of OrganoMetallic Compounds",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2018,
+      "venue": "Journal of Analytical Atomic Spectrometry",
+      "issn": "0267-9477",
+      "type": "article",
+      "citation_count": 203,
+      "referenced_works_count": 205,
+      "fwci": 11.7843,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11854",
+          "name": "Laser-induced spectroscopy and plasma",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T11212",
+          "name": "Cultural Heritage Materials Analysis",
+          "score": 0.9951000213623047
+        },
+        {
+          "id": "T10180",
+          "name": "Analytical chemistry methods development",
+          "score": 0.9781000018119812
+        }
+      ],
+      "keywords": [
+        "Laser-induced breakdown spectroscopy",
+        "Cultural heritage",
+        "Spectroscopy",
+        "Materials science",
+        "Archaeology",
+        "Analytical Chemistry (journal)",
+        "History",
+        "Chemistry",
+        "Environmental chemistry",
+        "Physics"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.7799999713897705,
+          "display_name": "Sustainable cities and communities"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1039/c8ja00319j",
+      "openalex_url": "https://openalex.org/W2899284235",
+      "pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2019/ja/c8ja00319j",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://pubs.rsc.org/en/content/articlepdf/2019/ja/c8ja00319j",
+        "http://hdl.handle.net/11568/952349"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3604,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.6996,
+          "recency_signal": 0.68
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.309017223910841,
+          "h_index": 148
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/ma14061550",
+      "arxiv_id": null,
+      "openalex_id": "W3137985673",
+      "ss_paper_id": null,
+      "pmid": "33809970",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Dimensional Accuracy of Dental Models for Three-Unit Prostheses Fabricated by Various 3D Printing Technologies",
+      "abstract": "Previous studies on accuracy of three-dimensional (3D) printed model focused on full arch measurements at few points. The aim of this study was to examine the dimensional accuracy of 3D-printed models which were teeth-prepped for three-unit fixed prostheses, especially at margin and proximal contact areas. The prepped dental model was scanned with a desktop scanner. Using this reference file, test models were fabricated by digital light processing (DLP), Multi-Jet printing (MJP), and stereo-lithography apparatus (SLA) techniques. We calculated the accuracy (trueness and precision) of 3D-printed models on 3D planes, and deviations of each measured points at buccolingual and mesiodistal planes. We also analyzed the surface roughness of resin printed models. For overall 3D analysis, MJP showed significantly higher accuracy (trueness) than DLP and SLA techniques; however, there was not any statistically significant difference on precision. For deviations on margins of molar tooth and distance to proximal contact, MJP showed significantly accurate results; however, for a premolar tooth, there was no significant difference between the groups. 3D color maps of printed models showed contraction buccolingually, and surface roughness of the models fabricated by MJP technique was observed as the lowest. The accuracy of the 3D-printed resin models by DLP, MJP, and SLA techniques showed a clinically acceptable range to use as a working model for manufacturing dental prostheses.",
+      "authors": [
+        {
+          "name": "Soo-Yeon Yoo",
+          "orcid": "https://orcid.org/0000-0002-5171-6426",
+          "affiliation": "Seoul National University Dental Hospital",
+          "country": "KR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Seong‐Kyun Kim",
+          "orcid": "https://orcid.org/0000-0001-8694-8385",
+          "affiliation": "Seoul National University Dental Hospital",
+          "country": "KR",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Seong‐Joo Heo",
+          "orcid": "https://orcid.org/0000-0003-0699-4141",
+          "affiliation": "Seoul National University Dental Hospital",
+          "country": "KR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jai‐Young Koak",
+          "orcid": "https://orcid.org/0000-0002-0190-0778",
+          "affiliation": "Seoul National University Dental Hospital",
+          "country": "KR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Joung-Gyu Kim",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2021,
+      "venue": "Materials",
+      "issn": "1996-1944",
+      "type": "article",
+      "citation_count": 93,
+      "referenced_works_count": 41,
+      "fwci": 9.4504,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T12439",
+          "name": "Dental Research and COVID-19",
+          "score": 0.9973000288009644
+        },
+        {
+          "id": "T11984",
+          "name": "Anatomy and Medical Technology",
+          "score": 0.9934999942779541
+        }
+      ],
+      "keywords": [
+        "3d printed",
+        "Digital Light Processing",
+        "Premolar",
+        "Scanner",
+        "3D printing",
+        "Materials science",
+        "Surface roughness",
+        "Significant difference",
+        "Biomedical engineering",
+        "Orthodontics"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/ma14061550",
+      "openalex_url": "https://openalex.org/W3137985673",
+      "pdf_url": "https://www.mdpi.com/1996-1944/14/6/1550/pdf?version=1616410465",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/1996-1944/14/6/1550/pdf?version=1616410465",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/8004951",
+        "https://doaj.org/article/0d1c10b8206043ba83b834196fd499a6"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3572,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.5977,
+          "recency_signal": 0.8
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 4.597651539193906,
+          "h_index": 248
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1038/bdj.2007.370",
+      "arxiv_id": null,
+      "openalex_id": "W2062281695",
+      "ss_paper_id": null,
+      "pmid": "17496861",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Laser regulation and safety in general dental practice",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Steven Parker",
+          "orcid": "https://orcid.org/0000-0003-2317-8381",
+          "affiliation": "Harrogate District Hospital",
+          "country": "GB",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2007,
+      "venue": "BDJ",
+      "issn": "0007-0610",
+      "type": "article",
+      "citation_count": 52,
+      "referenced_works_count": 43,
+      "fwci": 1.1799,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T13869",
+          "name": "Ocular and Laser Science Research",
+          "score": 0.9998000264167786
+        },
+        {
+          "id": "T11867",
+          "name": "Traumatic Ocular and Foreign Body Injuries",
+          "score": 0.9301999807357788
+        }
+      ],
+      "keywords": [
+        "Laser safety",
+        "Dental practice",
+        "Laser surgery",
+        "Laser",
+        "Scope (computer science)",
+        "Safety standards",
+        "Dentistry",
+        "Risk analysis (engineering)",
+        "Medicine",
+        "Business"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
+          "score": 0.5199999809265137
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1038/bdj.2007.370",
+      "openalex_url": "https://openalex.org/W2062281695",
+      "pdf_url": "https://www.nature.com/articles/bdj.2007.370.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.nature.com/articles/bdj.2007.370.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3523,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.5,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.5223,
+          "recency_signal": 0.24
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.7198604060913706,
+          "h_index": 158
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1016/j.wear.2026.207036",
+      "arxiv_id": null,
+      "openalex_id": "W7211965109",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Wear assessment of flat lapping tools using laser-based multiple measurement strategies",
+      "abstract": "Single-sided lapping is a precision machining process widely used to achieve the required shape and dimensional accuracy in engineering components. However, the tool's active surface wears over time due to process-induced factors and simultaneously affects dimensional accuracy of the workpiece and process stability. This study employs scan-to-scan and reference-line based measurement strategies through a 3D laser scanner to assess the shape-error of additively fabricated polyamide lapping tools used in free-abrasive machining of Al 2 O 3 ceramics under varying process conditions. A method based on a scan-to-scan measurement strategy made possible evaluation of the geometric deviations across the tool's entire surface through a global map observation. Although a reference-line based measurement technique enabled precise assessment of localized wear variations and forms of shape-error using the extracted multiple cross-sections along the radial axis of the tools. Results demonstrated the capability of both measurement strategies in examining the shape-error that emerges due to wear along the active regions of the lapping tools. Moreover, the measurement techniques revealed that the lapping tools experience heterogeneous shape and wear characteristics, owing to the varying action of three-body abrasion associated with particular process conditions. The measurement strategies support the advancement of measurement techniques to control undesirable process-induced effects that occur during the precision machining process. The findings provide valuable insight into the application of reverse engineering for the measurement and evaluation of lapping tools wear that arises during the precision machining process.",
+      "authors": [
+        {
+          "name": "Sisay Workineh Agebo",
+          "orcid": "https://orcid.org/0000-0002-2977-3125",
+          "affiliation": "Gdańsk University of Technology",
+          "country": "PL",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Dawid Zieliński",
+          "orcid": "https://orcid.org/0000-0003-1953-4064",
+          "affiliation": "Gdańsk University of Technology",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mariusz Deja",
+          "orcid": "https://orcid.org/0000-0002-1874-9015",
+          "affiliation": "Gdańsk University of Technology",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2026,
+      "venue": "Wear",
+      "issn": "0043-1648",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 19,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11301",
+          "name": "Advanced Surface Polishing Techniques",
+          "score": 0.9265999794006348
+        },
+        {
+          "id": "T11583",
+          "name": "Advanced Measurement and Metrology Techniques",
+          "score": 0.025200000032782555
+        },
+        {
+          "id": "T10188",
+          "name": "Advanced machining processes and optimization",
+          "score": 0.02250000089406967
+        }
+      ],
+      "keywords": [
+        "Lapping",
+        "Machining",
+        "Process (computing)",
+        "Scanner",
+        "Abrasion (mechanical)",
+        "System of measurement",
+        "Surface metrology",
+        "Precision engineering"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/j.wear.2026.207036",
+      "openalex_url": "https://openalex.org/W7211965109",
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0043164826005272/pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.sciencedirect.com/science/article/pii/S0043164826005272/pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.35,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 5.730971128608924,
+          "h_index": 243
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1002/14651858.cd012981.pub2",
+      "arxiv_id": null,
+      "openalex_id": "W4211068914",
+      "ss_paper_id": null,
+      "pmid": "35146744",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Sealants for preventing dental caries in primary teeth",
+      "abstract": "BACKGROUND: Pit and fissure sealants are plastic materials that are used to seal deep pits and fissures on the occlusal surfaces of teeth, where decay occurs most often in children and adolescents. Deep pits and fissures can retain food debris and bacteria, making them difficult to clean, thereby causing them to be more susceptible to dental caries. The application of a pit and fissure sealant, a non-invasive preventive approach, can prevent dental caries by forming a protective barrier that reduces food entrapment and bacterial growth. Though moderate-certainty evidence shows that sealants are effective in preventing caries in permanent teeth, the effectiveness of applying pit and fissure sealants to primary teeth has yet to be established. OBJECTIVES: To evaluate the effects of sealants compared to no sealant or a different sealant in preventing pit and fissure caries on the occlusal surfaces of primary molars in children and to report the adverse effects and the retention of different types of sealants. SEARCH METHODS: An information specialist searched four bibliographic databases up to 11 February 2021 and used additional search methods to identify published, unpublished and ongoing studies. Review authors scanned the reference lists of included studies and relevant systematic reviews for further studies. SELECTION CRITERIA: We included parallel-group and split-mouth randomised controlled trials (RCTs) that compared a sealant with no sealant, or different types of sealants, for the prevention of caries in primary molars, with no restriction on follow-up duration. We included studies in which co-interventions such as oral health preventive measures, oral health education or tooth brushing demonstrations were used, provided that the same adjunct was used with the intervention and comparator. We excluded studies with complex interventions for the prevention of dental caries in primary teeth such as preventive resin restorations, or studies that used sealants in cavitated carious lesions. DATA COLLECTION AND ANALYSIS: Two review authors independently screened search results, extracted data and assessed risk of bias of included studies. We presented outcomes for the development of new carious lesions on occlusal surfaces of primary molars as odds ratios (OR) with 95% confidence intervals (CIs). Where studies were similar in clinical and methodological characteristics, we planned to pool effect estimates using a random-effects model where appropriate. We used GRADE methodology to assess the certainty of the evidence. MAIN RESULTS: We included nine studies that randomised 1120 children who ranged in age from 18 months to eight years at the start of the study. One study compared fluoride-releasing resin-based sealant with no sealant (139 tooth pairs in 90 children); two studies compared glass ionomer-based sealant with no sealant (619 children); two studies compared glass ionomer-based sealant with resin-based sealant (278 tooth pairs in 200 children); two studies compared fluoride-releasing resin-based sealant with resin-based sealant (113 tooth pairs in 69 children); one study compared composite with fluoride-releasing resin-based sealant (40 tooth pairs in 40 children); and one study compared autopolymerised sealant with light polymerised sealant (52 tooth pairs in 52 children). Three studies evaluated the effects of sealants versus no sealant and provided data for our primary outcome. Due to differences in study design such as age of participants and duration of follow-up, we elected not to pool the data. At 24 months, there was insufficient evidence of a difference in the development of new caries lesions for the fluoride-releasing sealants or no treatment groups (Becker Balagtas odds ratio (BB OR) 0.76, 95% CI 0.41 to 1.42; 1 study, 85 children, 255 tooth surfaces). For glass ionomer-based sealants, the evidence was equivocal; one study found insufficient evidence of a difference at follow-up between 12 and 30 months (OR 0.97, 95% CI 0.63 to 1.49; 449 children), while another with 12-month follow-up found a large, beneficial effect of sealants (OR 0.03, 95% CI 0.01 to 0.15; 107 children). We judged the certainty of the evidence to be low, downgrading two levels in total for study limitations, imprecision and inconsistency. We included six trials randomising 411 children that directly compared different sealant materials, four of which (221 children) provided data for our primary outcome. Differences in age of the participants and duration of follow-up precluded pooling of the data. The incidence of development of new caries lesions was typically low across the different sealant types evaluated. We judged the certainty of the evidence to be low or very low for the outcome of caries incidence. Only one study assessed and reported adverse events, the nature of which was gag reflex while placing the sealant material. AUTHORS' CONCLUSIONS: The certainty of the evidence for the comparisons and outcomes in this review was low or very low, reflecting the fragility and uncertainty of the evidence base. The volume of evidence for this review was limited, which typically included small studies where the number of events was low. The majority of studies in this review were of split-mouth design, an efficient study design for this research question; however, there were often shortcomings in the analysis and reporting of results that made synthesising the evidence difficult. An important omission from the included studies was the reporting of adverse events. Given the importance of prevention for maintaining good oral health, there exists an important evidence gap pertaining to the caries-preventive effect and retention of sealants in the primary dentition, which should be addressed through robust RCTs.",
+      "authors": [
+        {
+          "name": "Priyadarshini Hesarghatta Ramamurthy",
+          "orcid": null,
+          "affiliation": "SEGi University",
+          "country": "MY",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Avita Rath",
+          "orcid": "https://orcid.org/0000-0002-5151-0794",
+          "affiliation": "SEGi University",
+          "country": "MY",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Preena Sidhu",
+          "orcid": null,
+          "affiliation": "SEGi University",
+          "country": "MY",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Bennete Fernandes",
+          "orcid": "https://orcid.org/0000-0002-6713-2580",
+          "affiliation": "SEGi University",
+          "country": "MY",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Sowmya Nettem",
+          "orcid": "https://orcid.org/0000-0001-9633-6980",
+          "affiliation": "Manipal University College Malaysia",
+          "country": "MY",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Patrick A Fee",
+          "orcid": "https://orcid.org/0000-0002-7188-3416",
+          "affiliation": "University of Dundee",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Carlos Zaror",
+          "orcid": "https://orcid.org/0000-0001-6942-6956",
+          "affiliation": "Universidad de La Frontera",
+          "country": "CL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Tanya Walsh",
+          "orcid": "https://orcid.org/0000-0001-7003-8854",
+          "affiliation": "University of Manchester",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2022,
+      "venue": "Cochrane Database of Systematic Reviews",
+      "issn": "1361-6137",
+      "type": "article",
+      "citation_count": 52,
+      "referenced_works_count": 104,
+      "fwci": 6.4082,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T10368",
+          "name": "Dental Health and Care Utilization",
+          "score": 0.6657000184059143
+        },
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.30219998955726624
+        },
+        {
+          "id": "T11958",
+          "name": "Dental Erosion and Treatment",
+          "score": 0.009600000455975533
+        }
+      ],
+      "keywords": [
+        "Dentistry",
+        "Medicine",
+        "Primary (astronomy)",
+        "Orthodontics",
+        "Physics"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1002/14651858.cd012981.pub2",
+      "openalex_url": "https://openalex.org/W4211068914",
+      "pdf_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012981.pub2/pdf/full",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012981.pub2/pdf/full",
+        "https://discovery.dundee.ac.uk/en/publications/b9b79195-3e61-4321-b8a0-fc6cb5523948",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/8832104",
+        "https://repositorio.ufro.cl/s/repositorio-ufro/item/6908"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3498,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.5223,
+          "recency_signal": 0.84
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 7.3023255813953485,
+          "h_index": 461
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1002/14651858.cd008457.pub2",
+      "arxiv_id": null,
+      "openalex_id": "W1586577331",
+      "ss_paper_id": null,
+      "pmid": "25867816",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Chlorhexidine treatment for the prevention of dental caries in children and adolescents",
+      "abstract": "BACKGROUND: Dental caries (tooth decay) is a common disease that is preventable by reducing the dietary intake of free sugars and using topical sodium fluoride products. An antibacterial agent known as chlorhexidine may also help prevent caries. A number of over-the-counter and professionally administered chlorhexidine-based preparations are available in a variety of formulations and in a range of strengths. Although previous reviews have concluded that some formulations of chlorhexidine may be effective in inhibiting the progression of established caries in children, there is currently a lack of evidence to either claim or refute a benefit for its use in preventing dental caries. OBJECTIVES: To assess the effects of chlorhexidine-containing oral products (toothpastes, mouthrinses, varnishes, gels, gums and sprays) on the prevention of dental caries in children and adolescents. SEARCH METHODS: We searched the Cochrane Oral Health Group Trials Register (25 February 2015), the Cochrane Central Register of Controlled Trials (CENTRAL; 2014, Issue 12), MEDLINE via OVID (1946 to 25 February 2015), EMBASE via OVID (1980 to 25 February 2015) and CINAHL via EBSCO (1937 to 25 February 2015). We handsearched several journals placed no language restrictions on our search. After duplicate citations were removed, the electronic searches retrieved 1075 references to studies. SELECTION CRITERIA: We included parallel-group, randomised controlled trials (RCTs) that compared the caries preventive effects of chlorhexidine gels, toothpastes, varnishes, mouthrinses, chewing gums or sprays with each other, placebo or no intervention in children and adolescents. We excluded trials with combined interventions of chlorhexidine and fluoride or comparisons between chlorhexidine and fluoride interventions. DATA COLLECTION AND ANALYSIS: Two review authors independently extracted trial data and assessed risk of bias. We resolved disagreements by consensus. We contacted trial authors for clarification or additional study details when necessary. The number of included studies that were suitable for meta-analysis was limited due to the clinical diversity of the included studies with respect to age, composition of intervention, and variation in outcome measures and follow-up. Where we were unable to conduct meta-analysis, we elected to present a narrative synthesis of the results. MAIN RESULTS: We included eight RCTs that evaluated the effects of chlorhexidine varnishes (1%, 10% or 40% concentration) and chlorhexidine gel (0.12%) on the primary or permanent teeth, or both, of children from birth to 15 years of age at the start of the study. The studies randomised a total of 2876 participants, of whom 2276 (79%) were evaluated. We assessed six studies as being at high risk of bias overall and two studies as being at unclear risk of bias overall. Follow-up assessment ranged from 6 to 36 months.Six trials compared chlorhexidine varnish with placebo or no treatment. It was possible to pool the data from two trials in the permanent dentition (one study using 10% chlorhexidine and the other, 40%). This led to an increase in the DMFS increment in the varnish group of 0.53 (95% confidence interval (CI) -0.47 to 1.53; two trials, 690 participants; very low quality evidence). Only one trial (10% concentration chlorhexidine varnish) provided usable data for elevated mutans streptococci levels > 4 with RR 0.93 (95% CI 0.80 to 1.07, 496 participants; very low quality evidence). One trial measured adverse effects (for example, ulcers or tooth staining) and reported that there were none; another trial reported that no side effects of the treatment were noted. No trials reported on pain, quality of life, patient satisfaction or costs.Two trials compared chlorhexidine gel (0.12% concentration) with no treatment in the primary dentition. The presence of new caries gave rise to a 95% confidence interval that was compatible with either an increase or a decrease in caries incidence (RR 1.00, 95% CI 0.36 to 2.77; 487 participants; very low quality evidence). Similarly, data for the effects of chlorhexidine gel on the prevalence of mutans streptococci were inconclusive (RR 1.26, 95% CI 0.95 to 1.66; two trials, 490 participants; very low quality evidence). Both trials measured adverse effects and did not observe any. Neither of these trials reported on the other secondary outcomes such as measures of pain, quality of life, patient satisfaction or direct and indirect costs of interventions. AUTHORS' CONCLUSIONS: We found little evidence from the eight trials on varnishes and gels included in this review to either support or refute the assertion that chlorhexidine is more effective than placebo or no treatment in the prevention of caries or the reduction of mutans streptococci levels in children and adolescents. There were no trials on other products containing chlorhexidine such as sprays, toothpastes, chewing gums or mouthrinses. Further high quality research is required, in particular evaluating the effects on both the primary and permanent dentition and using other chlorhexidine-containing oral products.",
+      "authors": [
+        {
+          "name": "Tanya Walsh",
+          "orcid": "https://orcid.org/0000-0001-7003-8854",
+          "affiliation": "University of Manchester",
+          "country": "GB",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jeronimo M Oliveira-Neto",
+          "orcid": "https://orcid.org/0000-0003-0584-5320",
+          "affiliation": "Universidade de Ribeirão Preto",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Deborah Moore",
+          "orcid": "https://orcid.org/0000-0001-9965-9371",
+          "affiliation": "University of Manchester",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2015,
+      "venue": "Cochrane Database of Systematic Reviews",
+      "issn": "1361-6137",
+      "type": "article",
+      "citation_count": 129,
+      "referenced_works_count": 93,
+      "fwci": 9.1043,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10368",
+          "name": "Dental Health and Care Utilization",
+          "score": 0.8952999711036682
+        },
+        {
+          "id": "T11969",
+          "name": "Fluoride Effects and Removal",
+          "score": 0.04410000145435333
+        },
+        {
+          "id": "T11958",
+          "name": "Dental Erosion and Treatment",
+          "score": 0.02449999935925007
+        }
+      ],
+      "keywords": [
+        "Chlorhexidine",
+        "Dentistry",
+        "Medicine"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being",
+          "score": 0.5400000214576721
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1002/14651858.cd008457.pub2",
+      "openalex_url": "https://openalex.org/W1586577331",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10726983/pdf/CD008457.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10726983/pdf/CD008457.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3396,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.6403,
+          "recency_signal": 0.56
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 7.3023255813953485,
+          "h_index": 461
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1371/journal.pone.0157713",
+      "arxiv_id": null,
+      "openalex_id": "W2431526965",
+      "ss_paper_id": null,
+      "pmid": "27304976",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Validity of Intraoral Scans Compared with Plaster Models: An In-Vivo Comparison of Dental Measurements and 3D Surface Analysis",
+      "abstract": "PURPOSE: Dental measurements have been commonly taken from plaster dental models obtained from alginate impressions can. Through the use of an intraoral scanner, digital impressions now acquire the information directly from the mouth. The purpose of this study was to determine the validity of the intraoral scans compared to plaster models. MATERIALS AND METHODS: Two types of dental models (intraoral scan and plaster model) of 20 subjects were included in this study. The subjects had impressions taken of their teeth and made as plaster model. In addition, their mouths were scanned with the intraoral scanner and the scans were converted into digital models. Eight transverse and 16 anteroposterior measurements, 24 tooth heights and widths were recorded on the plaster models with a digital caliper and on the intraoral scan with 3D reverse engineering software. For 3D surface analysis, the two models were superimposed by using best-fit algorithm. The average differences between the two models at all points on the surfaces were computed. Paired t-test and Bland-Altman plot were used to determine the validity of measurements from the intraoral scan compared to those from the plaster model. RESULTS: There were no significant differences between the plaster models and intraoral scans, except for one measurement of lower intermolar width. The Bland-Altman plots of all measurements showed that differences between the two models were within the limits of agreement. The average surface difference between the two models was within 0.10 mm. CONCLUSIONS: The results of the present study indicate that the intraoral scans are clinically acceptable for diagnosis and treatment planning in dentistry and can be used in place of plaster models.",
+      "authors": [
+        {
+          "name": "Fan Zhang",
+          "orcid": "https://orcid.org/0000-0002-8736-8961",
+          "affiliation": "Chonnam National University",
+          "country": "KR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Kyung‐Jin Suh",
+          "orcid": null,
+          "affiliation": "Chonnam National University",
+          "country": "KR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Kyung-Min Lee",
+          "orcid": "https://orcid.org/0000-0001-6221-3405",
+          "affiliation": "Chonnam National University",
+          "country": "KR",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2016,
+      "venue": "PLoS ONE",
+      "issn": "1932-6203",
+      "type": "article",
+      "citation_count": 99,
+      "referenced_works_count": 29,
+      "fwci": 7.4087,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.4860999882221222
+        },
+        {
+          "id": "T10356",
+          "name": "Orthodontics and Dentofacial Orthopedics",
+          "score": 0.34599998593330383
+        },
+        {
+          "id": "T10368",
+          "name": "Dental Health and Care Utilization",
+          "score": 0.039500001817941666
+        }
+      ],
+      "keywords": [
+        "Dentistry",
+        "Orthodontics",
+        "In vivo",
+        "Biomedical engineering",
+        "Medicine",
+        "Biology"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1371/journal.pone.0157713",
+      "openalex_url": "https://openalex.org/W2431526965",
+      "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0157713&type=printable",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0157713&type=printable",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/4909173"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3384,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.6058,
+          "recency_signal": 0.6
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.254920660687472,
+          "h_index": 603
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1088/2051-672x/4/2/024007",
+      "arxiv_id": null,
+      "openalex_id": "W2316206495",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Minimizing inter-microscope variability in dental microwear texture analysis",
+      "abstract": "A common approach to dental microwear texture analysis (DMTA) uses confocal profilometry in concert with scale-sensitive fractal analysis to help understand the diets of extinct mammals. One of the main benefits of DMTA over other methods is the repeatable, objective manner of data collection. This repeatability, however, is threatened by variation in results of DMTA of the same dental surfaces yielded by different microscopes. Here we compare DMTA data of five species of kangaroos measured on seven profilers of varying specifications. Comparison between microscopes confirms that inter-microscope differences are present, but we show that deployment of a number of automated treatments to remove measurement noise can help minimize inter-microscope differences. Applying these same treatments to a published hominin DMTA dataset shows that they alter some significant differences between dietary groups. Minimising microscope variability while maintaining interspecific dietary differences requires then that these factors are balanced in determining appropriate treatments. The process outlined here offers a solution for allowing comparison of data between microscopes, which is essential for ongoing DMTA research. In addition, the process undertaken, including considerations of other elements of DMTA protocols also promises to streamline methodology, remove measurement noise and in doing so, optimize recovery of a reliable dietary signature.",
+      "authors": [
+        {
+          "name": "Samuel D. Arman",
+          "orcid": "https://orcid.org/0000-0002-1115-3593",
+          "affiliation": "Flinders University",
+          "country": "AU",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Peter S. Ungar",
+          "orcid": "https://orcid.org/0000-0002-5936-471X",
+          "affiliation": "University of Arkansas at Fayetteville",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Christopher Brown",
+          "orcid": "https://orcid.org/0000-0003-1414-2635",
+          "affiliation": "Worcester Polytechnic Institute",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Larisa R.G. DeSantis",
+          "orcid": "https://orcid.org/0000-0003-1159-9154",
+          "affiliation": "Vanderbilt University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Christopher W. Schmidt",
+          "orcid": "https://orcid.org/0000-0002-4911-0660",
+          "affiliation": "University of Indianapolis",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gavin J. Prideaux",
+          "orcid": "https://orcid.org/0000-0002-9958-0265",
+          "affiliation": "Flinders University",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2016,
+      "venue": "Surface Topography Metrology and Properties",
+      "issn": "2051-672X",
+      "type": "article",
+      "citation_count": 83,
+      "referenced_works_count": 47,
+      "fwci": 18.3638,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11354",
+          "name": "Evolution and Paleontology Studies",
+          "score": 0.9970999956130981
+        },
+        {
+          "id": "T10699",
+          "name": "Primate Behavior and Ecology",
+          "score": 0.994700014591217
+        },
+        {
+          "id": "T10421",
+          "name": "Pleistocene-Era Hominins and Archaeology",
+          "score": 0.987500011920929
+        }
+      ],
+      "keywords": [
+        "Microscope",
+        "Dynamic mechanical analysis",
+        "Repeatability",
+        "Computer science",
+        "Fractal analysis",
+        "Materials science",
+        "Mathematics",
+        "Fractal dimension",
+        "Medicine",
+        "Statistics"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1088/2051-672x/4/2/024007",
+      "openalex_url": "https://openalex.org/W2316206495",
+      "pdf_url": "https://iopscience.iop.org/article/10.1088/2051-672X/4/2/024007/pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://iopscience.iop.org/article/10.1088/2051-672X/4/2/024007/pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3349,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.5829,
+          "recency_signal": 0.6
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.8442367601246106,
+          "h_index": 46
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.26153/tsw/15289",
+      "arxiv_id": null,
+      "openalex_id": "W2522795694",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Online Quality Control of Selective Laser Melting",
+      "abstract": "Selective Laser Melting (SLM) is an Additive Manufacturing technique which allows producing three-dimensional metallic parts from powder material, using a layer-by-layer fashion. Typical applications of this technology are parts with high geometrical complexity or internal features such as biomedical implants or casting molds with conformal cooling channels. In order to break through in industries with very high quality standards (such as aerospace industries), an important issue to be addressed is quality monitoring and control during the actual building process. Online quality control can significantly increase the robustness of the process by enabling to check the quality of the building process in the earliest possible stage, such that eventually corrective actions can be taken during the process. This is in contrast with on-line and a posteriori quality control which does not allow taking corrective measures if the quality of the part does not meet the desired quality standard. The development of a framework for online quality control of Selective Laser Melting is the subject of this paper. The framework consists of two complementary systems: a system for visual inspection of powder deposition and a system for online and real-time monitoring of the melt pool. A combination of these two systems enables to guarantee the quality of SLM parts with high confidence.",
+      "authors": [
+        {
+          "name": "Tom Craeghs",
+          "orcid": null,
+          "affiliation": "KU Leuven",
+          "country": "BE",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Stijn Clijsters",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Evren Yasa",
+          "orcid": "https://orcid.org/0000-0001-5443-3598",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jean‐Pierre Kruth",
+          "orcid": "https://orcid.org/0000-0003-0362-8875",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2011,
+      "venue": "Lirias",
+      "issn": null,
+      "type": "conference-paper",
+      "citation_count": 135,
+      "referenced_works_count": 11,
+      "fwci": 8.4453,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10705",
+          "name": "Additive Manufacturing Materials and Processes",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T10783",
+          "name": "Additive Manufacturing and 3D Printing Technologies",
+          "score": 0.9998000264167786
+        },
+        {
+          "id": "T11159",
+          "name": "Manufacturing Process and Optimization",
+          "score": 0.9969000220298767
+        }
+      ],
+      "keywords": [
+        "Selective laser melting",
+        "Quality (philosophy)",
+        "Aerospace",
+        "Robustness (evolution)",
+        "Process (computing)",
+        "Process control",
+        "Computer science",
+        "Quality assurance",
+        "Engineering drawing",
+        "Process engineering"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.6200000047683716,
+          "display_name": "Industry, innovation and infrastructure"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.26153/tsw/15289",
+      "openalex_url": "https://openalex.org/W2522795694",
+      "pdf_url": "https://lirias.kuleuven.be/bitstream/123456789/312419/2/2011-17-Craeghs.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://lirias.kuleuven.be/bitstream/123456789/312419/2/2011-17-Craeghs.pdf",
+        "https://doi.org/10.26153/tsw/15289"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3244,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.6463,
+          "recency_signal": 0.4
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.1016/0022-3913(92)90319-6",
+      "arxiv_id": null,
+      "openalex_id": "W1999387955",
+      "ss_paper_id": null,
+      "pmid": "1501164",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Use of a scanning laser three-dimensional digitizer to evaluate dimensional accuracy of dental impression materials",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Donald C. Quick",
+          "orcid": null,
+          "affiliation": "University of Minnesota",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "James R. Holtan",
+          "orcid": null,
+          "affiliation": "University of Minnesota",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Greg K. Ross",
+          "orcid": null,
+          "affiliation": "University of Minnesota",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 1992,
+      "venue": "Journal of Prosthetic Dentistry",
+      "issn": "0022-3913",
+      "type": "article",
+      "citation_count": 29,
+      "referenced_works_count": 13,
+      "fwci": 1.1359,
+      "cited_by_percentile_year": 97,
+      "topics": [
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.9843999743461609
+        },
+        {
+          "id": "T12981",
+          "name": "Conservation Techniques and Studies",
+          "score": 0.9656000137329102
+        },
+        {
+          "id": "T12439",
+          "name": "Dental Research and COVID-19",
+          "score": 0.9589999914169312
+        }
+      ],
+      "keywords": [
+        "Impression",
+        "Laser",
+        "Laser scanning",
+        "Computer science",
+        "Micrometer",
+        "Materials science",
+        "Optics",
+        "Computer vision",
+        "Physics"
+      ],
+      "sdgs": [],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/0022-3913(92)90319-6",
+      "openalex_url": "https://openalex.org/W1999387955",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3171,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.5,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.4474,
+          "recency_signal": 0.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.009816753926702,
+          "h_index": 234
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.4317/medoral.17147",
+      "arxiv_id": null,
+      "openalex_id": "W2150004351",
+      "ss_paper_id": null,
+      "pmid": "22157663",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Virtual articulator for the analysis of dental occlusion: An update",
+      "abstract": "The future of dental practice is closely linked to the utilization of computer-based technology, specifically virtual reality, which allows the dental surgeon to simulate true life situations in patients. The virtual articulator has been designed for the exhaustive analysis of static and dynamic occlusion, with the purpose of substituting mechanical articulators and avoiding their errors. These tools will help both odontologists and dental prosthetists to provide the best individualized treatment for each patient. The present review analyzes the studies published in the literature on the design, functioning and applications of virtual articulators. A Medline-PubMed search was made of dental journals, with the identification of 137 articles, of which 16 were finally selected. The virtual articulator can simulate the specific masticatory movement of the patient. During mandibular animation, the program calculates the sites where the opposing teeth come into contact. The studies made to assess the reliability of the virtual articulator show good correspondence in visualization of the number and position of the dynamic contacts. The virtual articulator is a precise tool for the full analysis of occlusion in a real patient.",
+      "authors": [
+        {
+          "name": "Laura Maestre-Ferrín",
+          "orcid": null,
+          "affiliation": "Universitat de València",
+          "country": "ES",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Javier Romero-Millán",
+          "orcid": null,
+          "affiliation": "Universitat de València",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "D. Penarrocha-Oltra",
+          "orcid": null,
+          "affiliation": "Universitat de València",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Miguel Peñarrocha Diago",
+          "orcid": "https://orcid.org/0000-0002-8407-7982",
+          "affiliation": "Universitat de València",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2012,
+      "venue": "Medicina oral, patología oral y cirugía bucal",
+      "issn": "1698-4447",
+      "type": "article",
+      "citation_count": 56,
+      "referenced_works_count": 17,
+      "fwci": 3.3798,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T10852",
+          "name": "Temporomandibular Joint Disorders",
+          "score": 0.9962999820709229
+        },
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.9905999898910522
+        },
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.9887999892234802
+        }
+      ],
+      "keywords": [
+        "Articulator",
+        "Occlusion",
+        "Computer science",
+        "Dental occlusion",
+        "Animation",
+        "Orthodontics",
+        "Visualization",
+        "Virtual reality",
+        "Medicine",
+        "Artificial intelligence"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.4317/medoral.17147",
+      "openalex_url": "https://openalex.org/W2150004351",
+      "pdf_url": "https://doi.org/10.4317/medoral.17147",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.4317/medoral.17147",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/3448198",
+        "http://hdl.handle.net/10550/60032"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3113,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.5319,
+          "recency_signal": 0.44
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.2845849802371543,
+          "h_index": 89
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    }
+  ],
+  "meta": {
+    "query": {
+      "topic": "dental laser operator error",
+      "search_query": "dental laser operator error",
+      "year_min": null,
+      "year_max": null,
+      "per_strategy": 40,
+      "terms": [
+        "dental",
+        "laser",
+        "operator",
+        "error"
+      ]
+    },
+    "counts": {
+      "retrieved_raw": 120,
+      "after_dedup": 118,
+      "after_relevance_filter": 118,
+      "after_journal_filter": 118,
+      "after_rank_filter": 118,
+      "returned": 30
+    },
+    "rank": {
+      "platform": "jcr",
+      "platform_source": "default",
+      "keep_tiers": null,
+      "keep_quartiles": null,
+      "top_only": false,
+      "category": null,
+      "applied_filter": false,
+      "ambiguous": false,
+      "candidate_platforms": [],
+      "kept": null,
+      "filtered": null,
+      "no_platform_data": null,
+      "data_loaded": false,
+      "loaded_platforms": [],
+      "switchable_platforms": [],
+      "switch_is_refilter_not_research": true,
+      "stripped_phrases": [],
+      "deepen": {
+        "active": false,
+        "rounds": 0,
+        "saturated": false,
+        "final_per_strategy": 40
+      },
+      "attribution": null,
+      "note": null,
+      "keep_tiers_note": null,
+      "naming": "CAS 区 & SJR best_quartile are PARTITIONS; only JCR impact_factor is a real Impact Factor (R-04/R-09). 切换标准/档位 = 重筛已标注的候选池，不重搜。"
+    },
+    "enrichment": {
+      "enriched": true,
+      "impact_source": "openalex_summary_stats",
+      "impact_attached": 109,
+      "filter_quartiles": null,
+      "filter_min_impact": null,
+      "category": null,
+      "issn_backfill_enabled": true,
+      "issn_backfill_attempted": 0,
+      "issn_backfilled": 0,
+      "note": "Single journal_rank layer. Quartile/影响力 data lives in each paper's journal_rank (CAS/JCR/SJR + openalex). Partition data is cached under ~/.paper-search-pro/ranks/ (run `journal_rank fetch`, no API key needed). Only JCR IF(2024) is a real Impact Factor."
+    },
+    "relevance": {
+      "method": "heuristic_v1",
+      "is_llm_rcs": false,
+      "min_relevance": 0.0,
+      "weights": {
+        "title_coverage": 0.5,
+        "abstract_coverage": 0.25,
+        "citation_signal": 0.15,
+        "recency_signal": 0.1
+      },
+      "note": "Deterministic query-grounded heuristic, NOT the human path's LLM RCS. A signal for self-judgement, computed for every paper."
+    },
+    "saturation": {
+      "method": "heuristic_v1",
+      "advisory": true,
+      "looks_saturated": false,
+      "per_strategy_new_papers": [
+        40,
+        40,
+        38
+      ],
+      "last_strategy_marginal_yield": 0.322,
+      "score_distribution": {
+        "high": 0,
+        "medium": 23,
+        "low": 95
+      },
+      "note": "Heuristic stop signal (no LLM classification). 'looks_saturated' = later strategies added few new papers. Advisory only."
+    },
+    "ratelimit": {
+      "ok": true,
+      "remaining_usd": 0.7837,
+      "limit_usd": 1.0,
+      "remaining": 7837,
+      "limit": 10000,
+      "reset_seconds": 47894,
+      "retry_after": null,
+      "should_switch": false,
+      "mode": "probe",
+      "error": null,
+      "switched_source": false
+    },
+    "source_used": "openalex",
+    "warnings": []
+  }
+}
