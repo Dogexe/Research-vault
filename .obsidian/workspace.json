@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Synthesis/Literature Review - Diode Laser Biopsy.md",
+                "file": "07 Data/Angiero et al 2011 - Diode Laser Biopsy Specimen Size and Diagnostic Yield.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Literature Review - Diode Laser Biopsy"
+              "title": "Angiero et al 2011 - Diode Laser Biopsy Specimen Size and Diagnostic Yield"
             }
           }
         ]
@@ -241,6 +241,12 @@
   },
   "active": "524ffd511da98cfd",
   "lastOpenFiles": [
+    "06 Synthesis/Preset Reliance and Technical Misuse in Dental Laser Use.md.tmp.27784.ef9650411671",
+    "06 Synthesis/Preset Reliance and Technical Misuse in Dental Laser Use.md.tmp.27784.adce582b5d97",
+    "02 Literature/10.1117/1.JBO.22.12.121602.md",
+    "02 Literature/10.1063/5.0203666.md",
+    "02 Literature/10.1016/j.jvsv.2020.10.018.md",
+    "06 Synthesis/Literature Review - Diode Laser Biopsy.md",
     "06 Synthesis/Preset Reliance and Technical Misuse in Dental Laser Use.md.tmp.27784.4323316a8e4a",
     "06 Synthesis/Preset Reliance and Technical Misuse in Dental Laser Use.md.tmp.27784.cea2cc26ae4a",
     "07 Data/Suter et al 2017 - CO2 vs Er,Cr YAG Laser Excisional Biopsy Histopathology Data.md",
@@ -257,8 +263,6 @@
     "06 Synthesis/Preset Reliance and Technical Misuse in Dental Laser Use.md.tmp.27784.3e91da4a8541",
     "06 Synthesis/Preset Reliance and Technical Misuse in Dental Laser Use.md.tmp.27784.77158fe76255",
     "90 Agent/Search Reports/Preset Reliance and Technical Misuse/Search Log - Epic 10 and SIROLaser Blue Manual Verification 2026-09-15.md",
-    "06 Synthesis/Preset Reliance and Technical Misuse in Dental Laser Use.md.tmp.27784.d32345e6393f",
-    "06 Synthesis/Preset Reliance and Technical Misuse in Dental Laser Use.md.tmp.27784.7893061d6ee7",
     "06 Synthesis/Preset Reliance and Technical Misuse in Dental Laser Use.md",
     "99 Templates/Concept Note.md",
     "90 Agent/Search Reports/Preset Reliance and Technical Misuse/Search Report - Preset Reliance and Technical Misuse.md",
@@ -271,15 +275,11 @@
     "().md",
     "Present/Drawing 2026-09-14 18.24.10.excalidraw.md",
     "90 Agent/Search Reports/Novelty Verification - Measured Power and Incision Speed/Novelty Verification Report.md",
-    "06 Synthesis/Literature Review - Diode Laser Biopsy.md",
     "06 Synthesis/Study Dashboard.md",
     "01 Projects/Diode Laser Master.md",
     "07 Data/Monteiro et al 2019 - Multi-Instrument Oral Fibro-Epithelial Margin Histology Data.md",
     "03 Concepts/Glossary/Hot-tip Effect.md",
     "03 Concepts/Glossary/Incision Depth.md",
-    "03 Concepts/Glossary/Power Loss.md",
-    "03 Concepts/Glossary/Power Output.md",
-    "03 Concepts/Glossary/Pulsed Mode.md",
     "Untitled 1.canvas"
   ]
 }
