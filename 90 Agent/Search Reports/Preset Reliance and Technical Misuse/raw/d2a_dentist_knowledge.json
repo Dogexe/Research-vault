@@ -1,0 +1,4396 @@
+{
+  "ok": true,
+  "schema_version": "1.0",
+  "data": [
+    {
+      "doi": "10.1055/s-0044-1787847",
+      "arxiv_id": null,
+      "openalex_id": "W4399873141",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Knowledge and Practice of Dentists toward Dental Lasers and Their Use during and Post-COVID-19 Pandemic Scenario in South India: A Cross-Sectional Analytical Study",
+      "abstract": "Abstract Background The advent of dental lasers has overcome the drawbacks of conventional clinical practice. It is considered to be a safer alternative during and post-coronavirus disease 2019 (COVID-19) pandemic in terms of infection control and reduced aerosol production. The study aims to assess the knowledge and practice of dentists toward dental lasers and their use during and post-COVID-19 pandemic scenario. Methodology This is a cross-sectional, analytical study conducted among dental professionals in South India. A total of 444 dental professionals participated in the study. A self-administered questionnaire with 15 closed questions was given to the participants. Chi-square test was used to analyze the obtained data. Results The results indicated that the majority of the dental professionals were aware of the use, the types, watts, wavelength, and types of emission of dental lasers. They had good knowledge about the common uses of lasers in dentistry. Majority of the dental professionals had not used dental lasers anytime in their practice, but are willing to adopt it as a safer alternative option during and post-pandemic scenario. Conclusion Application of knowledge of dental laser into clinical practice is beneficial in improving dental care and to enhance infection control.",
+      "authors": [
+        {
+          "name": "Nisha Ashifa",
+          "orcid": "https://orcid.org/0000-0002-3554-293X",
+          "affiliation": "Government Dental College and Hospital",
+          "country": "IN",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Sivapragasam Srinivasan",
+          "orcid": null,
+          "affiliation": "Government Dental College and Hospital",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Krishnan Viswanathan",
+          "orcid": "https://orcid.org/0000-0003-1093-0060",
+          "affiliation": "Government Dental College and Hospital",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Varsha K. Pavithran",
+          "orcid": "https://orcid.org/0000-0003-3206-6330",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2024,
+      "venue": "Journal of Health and Allied Sciences NU",
+      "issn": "2582-4287",
+      "type": "article",
+      "citation_count": 3,
+      "referenced_works_count": 54,
+      "fwci": 2.0636,
+      "cited_by_percentile_year": 97,
+      "topics": [
+        {
+          "id": "T12439",
+          "name": "Dental Research and COVID-19",
+          "score": 0.9998000264167786
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.9915000200271606
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9728000164031982
+        }
+      ],
+      "keywords": [
+        "Pandemic",
+        "SAFER",
+        "Dental practice",
+        "Coronavirus disease 2019 (COVID-19)",
+        "Medicine",
+        "Dental care",
+        "Dentistry",
+        "Cross-sectional study",
+        "Infection control",
+        "Test (biology)"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being",
+          "score": 0.8600000143051147
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1055/s-0044-1787847",
+      "openalex_url": "https://openalex.org/W4399873141",
+      "pdf_url": "https://doi.org/10.1055/s-0044-1787847",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.1055/s-0044-1787847"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.5569,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.5,
+          "abstract_coverage": 0.75,
+          "citation_signal": 0.1824,
+          "recency_signal": 0.92
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.4542483660130719,
+          "h_index": 22
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.5888/pcd16.180641",
+      "arxiv_id": null,
+      "openalex_id": "W2973974904",
+      "ss_paper_id": null,
+      "pmid": "31560644",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Current Knowledge on Correlations Between Highly Prevalent Dental Conditions and Chronic Diseases: An Umbrella Review",
+      "abstract": "INTRODUCTION: Studies have investigated the relationships between chronic systemic and dental conditions, but it remains unclear how such knowledge can be used in clinical practice. In this article, we provide an overview of existing systematic reviews, identifying and evaluating the most frequently reported dental-chronic disease correlations and common risk factors. METHODS: We conducted a systematic review of existing systematic reviews (umbrella review) published between 1995 and 2017 and indexed in 4 databases. We focused on the 3 most prevalent dental conditions and 10 chronic systemic diseases with the highest burden of disease in Germany. Two independent reviewers assessed all articles for eligibility and methodologic quality using the AMSTAR criteria and extracted data from the included studies. RESULTS: Of the initially identified 1,249 systematic reviews, 32 were included for qualitative synthesis. The dental condition with most frequently observed correlations to chronic systemic diseases was periodontitis. The chronic systemic disease with the most frequently observed correlations with a dental condition was type 2 diabetes mellitus (T2DM). Most dental-chronic disease correlations were found between periodontitis and T2DM and periodontitis and cardiovascular disease. Frequently reported common risk factors were smoking, age, sex, and overweight. Using the AMSTAR criteria, 2 studies were assessed as low quality, 26 studies as moderate quality, and 4 studies as high quality. CONCLUSION: The quality of included systematic reviews was heterogeneous. The most frequently reported correlations were found for periodontitis with T2DM and for periodontitis with cardiovascular disease. However, the strength of evidence for these and other disease correlations is limited, and the evidence to assess the causality of these disease correlations remains unclear. Future research should focus on the causality of disease links in order to provide more decisive evidence with respect to the design of intersectoral care processes.",
+      "authors": [
+        {
+          "name": "Max Seitz",
+          "orcid": "https://orcid.org/0000-0002-4036-8809",
+          "affiliation": "Heidelberg University",
+          "country": "DE",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Stefan Listl",
+          "orcid": "https://orcid.org/0000-0002-8176-3397",
+          "affiliation": "Radboud University Nijmegen",
+          "country": "NL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Andreas Bartols",
+          "orcid": "https://orcid.org/0000-0002-7789-6330",
+          "affiliation": "Zimmer Biomet (Netherlands)",
+          "country": "NL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ingrid Schübert",
+          "orcid": "https://orcid.org/0000-0002-2191-1773",
+          "affiliation": "Zimmer Biomet (Netherlands)",
+          "country": "NL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Katja Blaschke",
+          "orcid": "https://orcid.org/0000-0001-9470-9026",
+          "affiliation": "Zimmer Biomet (Netherlands)",
+          "country": "NL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Christian Haux",
+          "orcid": null,
+          "affiliation": "Heidelberg University",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Marieke M. van der Zande",
+          "orcid": "https://orcid.org/0000-0002-6117-6531",
+          "affiliation": "Radboud University Nijmegen",
+          "country": "NL",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2019,
+      "venue": "Preventing Chronic Disease",
+      "issn": "1545-1151",
+      "type": "article",
+      "citation_count": 168,
+      "referenced_works_count": 56,
+      "fwci": 10.4018,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10257",
+          "name": "Oral microbiology and periodontitis research",
+          "score": 0.9391000270843506
+        },
+        {
+          "id": "T10368",
+          "name": "Dental Health and Care Utilization",
+          "score": 0.023000000044703484
+        },
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.007000000216066837
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Periodontitis",
+        "Systematic review",
+        "Disease",
+        "Chronic periodontitis",
+        "Diabetes mellitus",
+        "Intensive care medicine",
+        "MEDLINE",
+        "Overweight",
+        "Internal medicine"
+      ],
+      "sdgs": [
+        {
+          "display_name": "Good health and well-being",
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/3"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.5888/pcd16.180641",
+      "openalex_url": "https://openalex.org/W2973974904",
+      "pdf_url": "https://www.cdc.gov/pcd/issues/2019/pdf/18_0641.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.cdc.gov/pcd/issues/2019/pdf/18_0641.pdf",
+        "http://hdl.handle.net/2066/215405",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/6795069"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.5482,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.5,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.6749,
+          "recency_signal": 0.72
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 8.211538461538462,
+          "h_index": 101
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.18502/ssu.v34i6.22671",
+      "arxiv_id": null,
+      "openalex_id": "W7212955815",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Assessment of Knowledge Regarding Peri-Implant Diseases Management among Senior Dental Students and General Dental Practitioners in Yazd, Iran (2023-2024)",
+      "abstract": "Introduction: The long-term success of dental implant therapy depends not only on achieving osseointegration but also on maintaining the health of the peri-implant soft tissues. The current study aimed to evaluate the knowledge level of senior dental students and general dental practitioners in Yazd, Iran, in 2023. Methods: This descriptive cross-sectional study was conducted in Yazd, Iran, during 2023, enrolling a total of 193 participants, comprising 88 senior dental students selected through a census method and 105 general dentists recruited through convenience sampling. Data were collected using a validated standard 16-item questionnaire assessing the knowledge related to peri-implant diseases, treatment modalities, management protocols, soft-tissue grafting procedures, and guided bone regeneration (GBR). Data were analyzed using SPSS version 16 software at a significance level of P<0.05. Results: The participants’ overall mean knowledge score was 10.41 ± 2.72, indicating a moderate level of knowledge. The mean knowledge scores were 10.18 ± 3.12 among senior dental students and 10.60 ± 2.33 among general dentists (P=0.669). Overall, 78% of the participants achieved at least 50% of the total knowledge score, including 72.7% of students and 83.8% of general dentists. More than half of the participants lacked adequate knowledge regarding peri-implant mucositis, the distinction between implant success and implant survival, and the treatment of peri-implantitis. In addition, more than 85% of participants in both groups were unfamiliar with the Cumulative Interceptive Supportive Therapy (CIST) protocol, while approximately half demonstrated insufficient knowledge regarding the application of laser therapy for peri-implantitis management. Knowledge scores were not significantly associated with age or sex (P>0.05). Conclusion: Senior dental students and general dentists demonstrated a moderate level of knowledge regarding the management of peri-implant soft-tissue inflammation, although considerable deficiencies in fundamental concepts, standard treatment protocols, and contemporary therapeutic approaches. Revision of undergraduate curricula, strengthening practical training, and implementing continuing professional education programs are recommended to improve knowledge and enhance the quality of care for patients receiving dental implants.",
+      "authors": [
+        {
+          "name": "Fatemeh Mohammadhosseini",
+          "orcid": null,
+          "affiliation": "Shahid Sadoughi University of Medical Sciences and Health Services",
+          "country": "IR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mohammad Arab Farashahi",
+          "orcid": null,
+          "affiliation": "Shahid Sadoughi University of Medical Sciences and Health Services",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Farzane Vaziri",
+          "orcid": "https://orcid.org/0000-0002-5289-0506",
+          "affiliation": "Shahid Sadoughi University of Medical Sciences and Health Services",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Pegah Katiraie",
+          "orcid": null,
+          "affiliation": "Shahid Sadoughi University of Medical Sciences and Health Services",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2026,
+      "venue": "ماهنامه علمی پ‍ژوهشی دانشگاه علوم پزشکی شهید صدوقی یزد",
+      "issn": "2228-5733",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 0,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.5300999879837036
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.41780000925064087
+        },
+        {
+          "id": "T12198",
+          "name": "Oral health in cancer treatment",
+          "score": 0.0142000000923872
+        }
+      ],
+      "keywords": [
+        "Descriptive statistics",
+        "Statistical significance",
+        "Knowledge level",
+        "Test (biology)",
+        "Census",
+        "Dental implant"
+      ],
+      "sdgs": [
+        {
+          "display_name": "Quality Education",
+          "id": "https://metadata.un.org/sdg/4",
+          "score": 0.5830375552177429
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.18502/ssu.v34i6.22671",
+      "openalex_url": "https://openalex.org/W7212955815",
+      "pdf_url": "https://doi.org/10.18502/ssu.v34i6.22671",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.18502/ssu.v34i6.22671"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.5375,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.5,
+          "abstract_coverage": 0.75,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.13533834586466165,
+          "h_index": 7
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/pr8050525",
+      "arxiv_id": null,
+      "openalex_id": "W3023810990",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Dentistry 4.0 Concept in the Design and Manufacturing of Prosthetic Dental Restorations",
+      "abstract": "The paper is a comprehensive but compact review of the literature on the state of illnesses of the human stomatognathic system, related consequences in the form of dental deficiencies, and the resulting need for prosthetic treatment. Types of prosthetic restorations, including implants, as well as new classes of implantable devices called implant-scaffolds with a porous part integrated with a solid core, as well as biological engineering materials with the use of living cells, have been characterized. A review of works on current trends in the technical development of dental prosthetics aiding, called Dentistry 4.0, analogous to the concept of the highest stage of Industry 4.0 of the industrial revolution, has been presented. Authors’ own augmented holistic model of Industry 4.0 has been developed and presented. The studies on the significance of cone-beam computed tomography (CBCT) in planning prosthetic treatment, as well as in the design and manufacture of prosthetic restorations, have been described. The presented and fully digital approach is a radical turnaround in both clinical procedures and the technologies of implant preparation using computer-aided design and manufacturing methods (CAD/CAM) and additive manufacturing (AM) technologies, including selective laser sintering (SLS). The authors’ research illustrates the practical application of the Dentistry 4.0 approach for several types of prosthetic restorations. The development process of the modern approach is being observed all over the world. The use of the principles of the augmented holistic model of Industry 4.0 in advanced dental engineering indicates a change in the traditional relationship between a dentist and a dental engineer. The overall conclusion demonstrates that it is inevitable and extremely beneficial to implement the idea of Dentistry 4.0 following the assumptions of the authors’ own, holistic Industry 4.0 model.",
+      "authors": [
+        {
+          "name": "L. A. Dobrzański",
+          "orcid": "https://orcid.org/0000-0002-7584-8917",
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Lech B. Dobrzański",
+          "orcid": "https://orcid.org/0000-0002-4671-3060",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2020,
+      "venue": "Processes",
+      "issn": "2227-9717",
+      "type": "article",
+      "citation_count": 91,
+      "referenced_works_count": 373,
+      "fwci": 6.8602,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T13113",
+          "name": "Engineering Technology and Methodologies",
+          "score": 0.9901000261306763
+        }
+      ],
+      "keywords": [
+        "Dentistry",
+        "Computer science",
+        "Selective laser sintering",
+        "Treatment modality",
+        "Manufacturing engineering",
+        "Engineering",
+        "Medicine",
+        "Materials science"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.6000000238418579
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/pr8050525",
+      "openalex_url": "https://openalex.org/W3023810990",
+      "pdf_url": "https://www.mdpi.com/2227-9717/8/5/525/pdf?version=1588872680",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2227-9717/8/5/525/pdf?version=1588872680",
+        "https://doaj.org/article/4f6be84874234a25a4194b7c14a9dc17"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4777,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.75,
+          "citation_signal": 0.5949,
+          "recency_signal": 0.76
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.7634354086392214,
+          "h_index": 141
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.6026/973206300225185",
+      "arxiv_id": null,
+      "openalex_id": "W7206155697",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Understanding medico-legal issues in teledentistry: Knowledge and awareness among dental professionals",
+      "abstract": "The rapid expansion of teledentistry has introduced important medico-legal challenges, while gaps in legal and ethical knowledge may compromise safe digital dental practice. Therefore, it is of interest to assess the knowledge and attitudes of 299 dental professionals, including staff members and post-graduate students, regarding medico-legal aspects of teledentistry in India. Female participants and staff members showed significantly higher knowledge scores, with gender and professional category significantly associated with both knowledge and attitudes (p<0.05). Participants showed awareness of malpractice, security and appropriate diagnostic practices, while attitudes toward workshops, curricular integration, jurisdiction and record keeping were predominantly positive. Thus, data shows the need for structured medico-legal training and integration of teledentistry-related legal and ethical principles into dental education and professional practice.",
+      "authors": [
+        {
+          "name": "Priyanka Paul Madhu",
+          "orcid": null,
+          "affiliation": "Bharati Vidyapeeth (Deemed to be University)",
+          "country": "IN",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2026,
+      "venue": "Bioinformation",
+      "issn": "0973-2063",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 0,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T12439",
+          "name": "Dental Research and COVID-19",
+          "score": 0.9013000130653381
+        },
+        {
+          "id": "T10912",
+          "name": "Telemedicine and Telehealth Implementation",
+          "score": 0.0340999998152256
+        },
+        {
+          "id": "T12339",
+          "name": "Medical Malpractice and Liability Issues",
+          "score": 0.00800000037997961
+        }
+      ],
+      "keywords": [
+        "Dental education",
+        "Compromise",
+        "Jurisdiction",
+        "Ethical issues",
+        "MEDLINE",
+        "Medical knowledge"
+      ],
+      "sdgs": [
+        {
+          "display_name": "Quality Education",
+          "id": "https://metadata.un.org/sdg/4",
+          "score": 0.43639063835144043
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.6026/973206300225185",
+      "openalex_url": "https://openalex.org/W7206155697",
+      "pdf_url": "https://www.bioinformation.net/022/973206300225185.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.bioinformation.net/022/973206300225185.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.475,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.5,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.517561566410981,
+          "h_index": 56
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.65022/clindentres.1915614",
+      "arxiv_id": null,
+      "openalex_id": "W7204124047",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Knowledge, Attitudes, and Clinical Intentions of Dental Students Toward Botulinum Toxin Use: A Cross-Sectional Study",
+      "abstract": "Background and Aim: Botulinum neurotoxin (BoNT) hasgained increasing importance in dental practice for boththerapeutic and aesthetic applications. However, its safe andeffective use requires adequate knowledge and training. Thisstudy aimed to evaluate the knowledge, attitudes, and clinicalintentions regarding the use of BoNT among dental students.Materials and Methods: This cross-sectional study wasconducted using an online, self-administered questionnairedistributed to dental students at two foundation universities inTurkey. The questionnaire assessed demographic characteristics,knowledge of BoNT (definition, indications, contraindications, andadverse effects), and attitudes toward its clinical use. Data wereanalyzed using descriptive statistics and Chi-square tests, withstatistical significance set at p < 0.05.Results: A total of 506 students participated. Only 34.4%of students correctly identified BoNT as a toxin, and 18.6%correctly identified all clinical indications of BoNT. Knowledgeregarding contraindications was particularly limited, withonly 2.8% answering correctly. Despite these gaps, 76.7%of students reported willingness to use BoNT in clinicalpractice, and 77.1% expressed interest in attending trainingcourses. Students who expressed willingness to undergoBoNT injections themselves were significantly more likely toreport willingness to administer BoNT clinically (p < 0.05). Noconsistent increase in knowledge levels was observed acrossacademic years.Conclusion: Dental students demonstrated limited knowledge ofBoNT despite a high level of interest in its potential clinical use. Thesefindings provide preliminary information regarding undergraduatedental students’ awareness and perceptions of BoNT.",
+      "authors": [
+        {
+          "name": "Esra Bilgi Özyetim",
+          "orcid": "https://orcid.org/0000-0002-3357-3740",
+          "affiliation": "İstanbul Gelişim Üniversitesi",
+          "country": "TR",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Merve Dede",
+          "orcid": "https://orcid.org/0000-0002-2744-3069",
+          "affiliation": "İstanbul Galata Üniversitesi",
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2026,
+      "venue": "Clinical Dentistry and Research",
+      "issn": "2146-3972",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 18,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11274",
+          "name": "Botulinum Toxin and Related Neurological Disorders",
+          "score": 0.9854999780654907
+        },
+        {
+          "id": "T10852",
+          "name": "Temporomandibular Joint Disorders",
+          "score": 0.002099999925121665
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.0020000000949949026
+        }
+      ],
+      "keywords": [
+        "Botulinum neurotoxin",
+        "Perception",
+        "Descriptive statistics",
+        "Clinical judgement",
+        "Knowledge level",
+        "Clinical Practice",
+        "Focus group",
+        "MEDLINE"
+      ],
+      "sdgs": [
+        {
+          "display_name": "Good health and well-being",
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.599999725818634
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.65022/clindentres.1915614",
+      "openalex_url": "https://openalex.org/W7204124047",
+      "pdf_url": "https://dergipark.org.tr/en/download/article-file/5843393",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://dergipark.org.tr/en/download/article-file/5843393"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.475,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.5,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.03333333333333333,
+          "h_index": 1
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.15311/selcukdentj.1901005",
+      "arxiv_id": null,
+      "openalex_id": "W7204141549",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Knowledge and Attitudes of Undergraduate Dental Students Toward Conventional and Digital Workflows in Maxillofacial Prosthetics: A Cross-Sectional Survey",
+      "abstract": "Background: Digital technologies are increasingly transforming the field of maxillofacial prosthetics; however, the extent to which undergraduate dental education has adapted to these developments remains unclear. Evaluating dental students’ knowledge and attitudes toward conventional and digital workflows is essential for identifying potential educational gaps.Methods: A cross-sectional questionnaire-based survey was conducted among 201 undergraduate dental students (99 fourth-year and 102 fifth-year) receiving clinical prosthodontic training. Data were collected using a 24-item structured questionnaire distributed online. Knowledge and attitudes were assessed using a 12-item Likert-type scale. Descriptive statistics were calculated, and comparisons between groups were performed using the Mann–Whitney U test and Chi-square test, where appropriate (α = 0.05).Results: Fourth-year students demonstrated significantly higher total knowledge and attitude scores than fifth-year students (p = 0.012). They also reported greater clinical exposure to maxillofacial cases and higher involvement in impression procedures (p = 0.018 and p = 0.036). Conversely, fifth-year students showed significantly higher self-reported knowledge regarding the operating principles of digital scanners (p = 0.002). Fourth-year students expressed stronger confidence in the accuracy and time-saving advantages of digital technologies (p < 0.001 and p = 0.001). Despite positive attitudes toward digitalization, awareness of specialized digital software such as craniofacial CAD and digital imaging platforms remained low among both groups.Conclusions: Although dental students demonstrate positive attitudes toward digital technologies in maxillofacial prosthetics, gaps remain between theoretical awareness and practical knowledge. Integrating structured digital workflow training into undergraduate dental curricula may help improve clinical competence and better prepare future clinicians for digitally driven maxillofacial rehabilitation.Keywords: Maxillofacial prosthetics, digital dentistry, dental education, dental students, digital workflow",
+      "authors": [
+        {
+          "name": "İrem Sözen Yanık",
+          "orcid": "https://orcid.org/0000-0002-9420-7787",
+          "affiliation": "Hacettepe University",
+          "country": "TR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Aslıhan Öztürk",
+          "orcid": "https://orcid.org/0009-0002-1266-4261",
+          "affiliation": "Hacettepe University",
+          "country": "TR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Aslı Bengisu Karayel Gerçek",
+          "orcid": "https://orcid.org/0009-0005-3599-9322",
+          "affiliation": "Hacettepe University",
+          "country": "TR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ayberk Demirok",
+          "orcid": "https://orcid.org/0009-0006-7693-3570",
+          "affiliation": "Hacettepe University",
+          "country": "TR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Dilara Sahin Hazir",
+          "orcid": "https://orcid.org/0000-0002-4305-0257",
+          "affiliation": "Hacettepe University",
+          "country": "TR",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2026,
+      "venue": "Selcuk Dental Journal",
+      "issn": "2148-7529",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 25,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T12439",
+          "name": "Dental Research and COVID-19",
+          "score": 0.9541000127792358
+        },
+        {
+          "id": "T11984",
+          "name": "Anatomy and Medical Technology",
+          "score": 0.005200000014156103
+        },
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.00430000014603138
+        }
+      ],
+      "keywords": [
+        "Workflow",
+        "Curriculum",
+        "Competence (human resources)",
+        "Dental education",
+        "Oral and maxillofacial surgery",
+        "Prosthodontics",
+        "Educational measurement",
+        "Digital imaging"
+      ],
+      "sdgs": [
+        {
+          "display_name": "Quality Education",
+          "id": "https://metadata.un.org/sdg/4",
+          "score": 0.7496273517608643
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.15311/selcukdentj.1901005",
+      "openalex_url": "https://openalex.org/W7204141549",
+      "pdf_url": "https://dergipark.org.tr/en/download/article-file/5773538",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://dergipark.org.tr/en/download/article-file/5773538"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.475,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.5,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.30434782608695654,
+          "h_index": 9
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.2174/1874210602014010059",
+      "arxiv_id": null,
+      "openalex_id": "W3007750265",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Different Treatment Modalities followed by Dental Practitioners for Ellis Class 2 Fracture – A Questionnaire-based Survey",
+      "abstract": "Introduction: Dental trauma is one of the most commonly seen injuries involving teeth and surrounding structures. The frequent causes of dental trauma are usually falls, traffic accidents, fights and sports injuries. Rapid treatment can prevent long-term damage to the orofacial structures and save the teeth. Ellis class 2 fracture is classified as the involvement of enamel and dentin excluding pulp. Dental practitioners are used to treating Ellis class 2 fracture very often in their dental practice and is usually considered as a dilemma among dental practitioners for the different treatment modalities followed for treatment of Ellis class 2 fracture. A survey is done among dental practitioners to assess the different treatment modalities followed by them in the case of Ellis class 2 fracture. Materials and Methods: A survey was done among 380 dental practitioners in the Chennai region in which 360 dental practitioners responded. The survey was distributed through electronic media and other means of communication. The survey data was collected, analysed and interpreted. Results: The results suggested that about 90% of dental practitioners had adequate knowledge and attitude towards the management of dental traumatic injuries. However, the practical application of the different treatment modalities was seen to be varied among dental practitioners. Based on this survey it was clear that majority of the dental practitioners in Chennai have good knowledge, attitude but there was a lack of clinical practice regarding the different treatment modalities followed by general practitioners for Ellis class 2 fracture. Conclusion: The survey shows that dental practitioners have a sound knowledge, attitude, but the practical application of the various treatment modalities available was seen to vary among various dental practitioners for Ellis class 2 fracture.",
+      "authors": [
+        {
+          "name": "Jerry Jose",
+          "orcid": "https://orcid.org/0000-0003-4555-7171",
+          "affiliation": "Saveetha University",
+          "country": "IN",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "P. Ajitha",
+          "orcid": null,
+          "affiliation": "Saveetha University",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Haripriya Subbaiyan",
+          "orcid": "https://orcid.org/0000-0002-3419-6350",
+          "affiliation": "Saveetha University",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2020,
+      "venue": "The Open Dentistry Journal",
+      "issn": "1874-2106",
+      "type": "article",
+      "citation_count": 267,
+      "referenced_works_count": 31,
+      "fwci": 51.6413,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T12367",
+          "name": "Dental Trauma and Treatments",
+          "score": 1.0
+        },
+        {
+          "id": "T11562",
+          "name": "Facial Trauma and Fracture Management",
+          "score": 0.9685999751091003
+        },
+        {
+          "id": "T11951",
+          "name": "Trauma Management and Diagnosis",
+          "score": 0.9527000188827515
+        }
+      ],
+      "keywords": [
+        "Dental trauma",
+        "Medicine",
+        "Dentistry",
+        "Modalities",
+        "Treatment modality",
+        "Questionnaire",
+        "Family medicine",
+        "Surgery"
+      ],
+      "sdgs": [
+        {
+          "display_name": "Good health and well-being",
+          "score": 0.5600000023841858,
+          "id": "https://metadata.un.org/sdg/3"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.2174/1874210602014010059",
+      "openalex_url": "https://openalex.org/W3007750265",
+      "pdf_url": "https://opendentistryjournal.com/VOLUME/14/PAGE/59/PDF/",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://opendentistryjournal.com/VOLUME/14/PAGE/59/PDF/"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4363,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.7355,
+          "recency_signal": 0.76
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.554054054054054,
+          "h_index": 60
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1155/2023/9365845",
+      "arxiv_id": null,
+      "openalex_id": "W4313456661",
+      "ss_paper_id": null,
+      "pmid": "36636170",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Dental Caries and Its Management",
+      "abstract": "Objectives: In recent years, the management of dental caries has evolved significantly. Caries prevention, early detection, and a diagnosis based on risk indicators and risk factor assessments are the most current practical approaches. Furthermore, as proposed in minimally invasive dentistry, the new management approaches preserve healthy tissue and maintain pulp vitality. This article overviews the latest minimally invasive dental caries management and treatment options. The information will assist the reader in the early detection, diagnosis, and treatment of dental caries. Materials and Methods: The PubMed (MEDLINE) search engine was used to gather the most relevant information on dental caries. The search was restricted to five years (May 30, 2018-May 29, 2022), and only English-language studies were accessed. A Boolean search of the PubMed data set was implemented to combine a range of keywords. The following filters were applied: abstract, free full text, full text, clinical trial, randomised control trial, systematic review, meta-analysis, and review. More studies were also obtained by manual searches from Google Scholar and textbooks on dental caries. Results: By using this process, 683 articles and studies were obtained. The most relevant published studies were chosen and used in the current review. The selected articles are included in the references list. However, the search extended to cover the last five years as our understanding and management of dental caries have changed significantly. Conclusions: Early detection and diagnosis of caries based on risk indicators and risk factor assessments are effective. Furthermore, minimally invasive restorative techniques are beneficial in managing dental caries and preserving healthy tissue and should be used whenever possible. This new information, knowledge, and materials should encourage professionals to implement this method. Having a strategy and system based on patient-centred care is critical, and our dental responsibilities must prioritise patient-centred care.",
+      "authors": [
+        {
+          "name": "Abdulhadi Warreth",
+          "orcid": "https://orcid.org/0000-0002-6951-4056",
+          "affiliation": "Ajman University",
+          "country": "AE",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2023,
+      "venue": "International Journal of Dentistry",
+      "issn": "1687-8728",
+      "type": "article",
+      "citation_count": 111,
+      "referenced_works_count": 80,
+      "fwci": 19.6193,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10368",
+          "name": "Dental Health and Care Utilization",
+          "score": 0.7224000096321106
+        },
+        {
+          "id": "T10257",
+          "name": "Oral microbiology and periodontitis research",
+          "score": 0.1137000024318695
+        },
+        {
+          "id": "T12439",
+          "name": "Dental Research and COVID-19",
+          "score": 0.06930000334978104
+        }
+      ],
+      "keywords": [
+        "Dentistry",
+        "Medicine"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality Education",
+          "score": 0.6000000238418579
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1155/2023/9365845",
+      "openalex_url": "https://openalex.org/W4313456661",
+      "pdf_url": "https://downloads.hindawi.com/journals/ijd/2023/9365845.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://downloads.hindawi.com/journals/ijd/2023/9365845.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9831703/pdf/IJD2023-9365845.pdf",
+        "https://doaj.org/article/9022dc43610d47cc994d09e46e5cc5a7"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4311,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.6207,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.5295081967213116,
+          "h_index": 82
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.13005/bpj/1530",
+      "arxiv_id": null,
+      "openalex_id": "W2871808295",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Awareness of Laser Dentistry Among Dentists in Tanjore- A survey",
+      "abstract": "Diode laser are used for soft tissue surgeries in the oral cavity.The use of laser is limited due to the lack of knowledge, effectiveness and the high cost of laser unit. The use of lasers can decrease morbidity after surgery and reduces the need for anaesthetics.the laser is used for caries prevention, bleaching, restorative removal and curing, cavity preparation, dentinal hypersensitivity, growth modulation and for diagnostic purposes, whereas soft tissue application includes incision, excision, ablation, wound healing, removal of hyperplastic tissue to uncovering of impacted or partially erupted tooth, photodynamic therapy for malignancies, photo stimulation of herpetic lesion. Although dental lasers was introduced in 1964, its knowledge and implementation has increased only in past 15-20 years especially in developing countries like India. In order to evaluate the knowledge on laser and its implementationin the field of dentistry among dentists in Tanjore, this survey was conducted among dentists in Tanjore. This cross-sectional, descriptive study was carried out among dentists in Tanjore. A questionnaire consisting of 3 main parts was designed and administered to dentists in Tanjore and knowledge was assessed. The data were entered and analysed statistically. 14% of dentists have adequate knowledge,46% of dentists have moderate knowledge, 39% of dentists have inadequate knowledge.35% of dentists had practiced laser dentistry before.The wellknown information among dentists about the dental laser is the lasers application in gingivectomy and crown lengthening. 50% of dentists felt that cost of laser unit is the biggest deterrant in practicing laser dentistry. Most of the dentists have only moderate knowledge on laser.Education should be given on laser to increase its implementation in field of dentistry.",
+      "authors": [
+        {
+          "name": "Karthik Shree Harini",
+          "orcid": "https://orcid.org/0000-0001-9313-884X",
+          "affiliation": "Saveetha University",
+          "country": "IN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Radhika Arjunkumar",
+          "orcid": "https://orcid.org/0000-0002-7215-7571",
+          "affiliation": "Saveetha University",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2018,
+      "venue": "Biomedical & Pharmacology Journal",
+      "issn": "0974-6242",
+      "type": "article",
+      "citation_count": 12,
+      "referenced_works_count": 23,
+      "fwci": 0.2526,
+      "cited_by_percentile_year": 98,
+      "topics": [
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.9986000061035156
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.998199999332428
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.9970999956130981
+        }
+      ],
+      "keywords": [
+        "Gingivectomy",
+        "Dentistry",
+        "Medicine",
+        "Laser therapy",
+        "Oral cavity",
+        "Laser",
+        "Laser surgery",
+        "Hard tissue"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/17",
+          "display_name": "Partnerships for the goals",
+          "score": 0.49000000953674316
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.13005/bpj/1530",
+      "openalex_url": "https://openalex.org/W2871808295",
+      "pdf_url": "https://doi.org/10.13005/bpj/1530",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.13005/bpj/1530"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4311,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.75,
+          "citation_signal": 0.3374,
+          "recency_signal": 0.68
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.894259818731118,
+          "h_index": 39
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.4012/dmj.2019-123",
+      "arxiv_id": null,
+      "openalex_id": "W3004900794",
+      "ss_paper_id": null,
+      "pmid": "32037387",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Additive manufacturing of dental polymers: An overview on processes, materials and applications",
+      "abstract": "Additive manufacturing (AM) processes are increasingly used in dentistry. The underlying process is the joining of material layer by layer based on 3D data models. Four additive processes (laser stereolithography, polymer jetting, digital light processing, fused deposition modeling) are mainly used for processing dental polymers. The number of polymer materials that can be used for AM in dentistry is small compared to other areas. Applications in dentistry using AM are limited (e.g. study models, maxillo-facial prostheses, orthodontic appliances etc.). New and further developments of materials are currently taking place due to the increasing demand for safer and other applications. Biocompatibility and the possibility of using materials not only as temporarily but as definitive reconstructions under oral conditions, mechanically more stable materials where less or no post-processing is needed are current targets in AM technologies. Printing parameters are also open for further development where optical aspects are also important.",
+      "authors": [
+        {
+          "name": "Julia Jockusch",
+          "orcid": "https://orcid.org/0000-0001-8293-9297",
+          "affiliation": "University of Zurich",
+          "country": "CH",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mutlu Özcan",
+          "orcid": "https://orcid.org/0000-0002-9623-6098",
+          "affiliation": "University of Zurich",
+          "country": "CH",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2020,
+      "venue": "Dental Materials Journal",
+      "issn": "0287-4547",
+      "type": "article",
+      "citation_count": 170,
+      "referenced_works_count": 85,
+      "fwci": 14.0815,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.9988999962806702
+        },
+        {
+          "id": "T10783",
+          "name": "Additive Manufacturing and 3D Printing Technologies",
+          "score": 0.998199999332428
+        },
+        {
+          "id": "T10059",
+          "name": "Bone Tissue Engineering Materials",
+          "score": 0.9819999933242798
+        }
+      ],
+      "keywords": [
+        "Stereolithography",
+        "Materials science",
+        "3D printing",
+        "Polymer",
+        "Rapid prototyping",
+        "Fused deposition modeling",
+        "Nanotechnology",
+        "Process engineering",
+        "Composite material"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.4012/dmj.2019-123",
+      "openalex_url": "https://openalex.org/W3004900794",
+      "pdf_url": "https://www.jstage.jst.go.jp/article/dmj/39/3/39_2019-123/_pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.jstage.jst.go.jp/article/dmj/39/3/39_2019-123/_pdf",
+        "https://www.zora.uzh.ch/id/eprint/195624/1/ABS_15_Jockusch_Ozcan_Additive_manufacturing_of_dental_polymers.pdf",
+        "https://www.zora.uzh.ch/handle/20.500.14742/176881",
+        "https://doi.org/10.5167/uzh-195624"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4275,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.6764,
+          "recency_signal": 0.76
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.0811965811965814,
+          "h_index": 97
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/diagnostics13243649",
+      "arxiv_id": null,
+      "openalex_id": "W4389614416",
+      "ss_paper_id": null,
+      "pmid": "38132233",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Detection, Diagnosis, and Monitoring of Early Caries: The Future of Individualized Dental Care",
+      "abstract": "Dental caries remains a significant global health issue. It was highlighted by the World Health Organization's 2022 reports that despite the efforts and scientific advancements in caries detection and management, the situation has only marginally improved over the past three decades. The persistence of this problem may be linked to outdated concepts developed almost a century ago but are still guiding dentists' approach to caries management today. There is a need to reconsider professional strategies for preventing and managing the disease. Contemporary dentistry could benefit from embracing new concepts and technologies for caries detection and management. Dentists should explore, among others, alternative methods for caries detection such as optical-based caries detection. These tools have been established for over a decade and they align with current disease understanding and international recommendations, emphasizing early detection and minimally invasive management. This narrative review presents the current state of knowledge and recent trends in caries detection, diagnosis, monitoring, and management, offering insights into future perspectives for clinical applications and research topics.",
+      "authors": [
+        {
+          "name": "Marwa Abdelaziz",
+          "orcid": "https://orcid.org/0000-0002-9715-879X",
+          "affiliation": "University of Geneva",
+          "country": "CH",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2023,
+      "venue": "Diagnostics",
+      "issn": "2075-4418",
+      "type": "article",
+      "citation_count": 77,
+      "referenced_works_count": 194,
+      "fwci": 13.5869,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10368",
+          "name": "Dental Health and Care Utilization",
+          "score": 0.9998000264167786
+        },
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.9998000264167786
+        },
+        {
+          "id": "T10257",
+          "name": "Oral microbiology and periodontitis research",
+          "score": 0.9994000196456909
+        }
+      ],
+      "keywords": [
+        "Narrative review",
+        "Medicine",
+        "Health care",
+        "Dentistry",
+        "Intensive care medicine",
+        "Political science"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/17",
+          "display_name": "Partnerships for the goals",
+          "score": 0.46000000834465027
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/diagnostics13243649",
+      "openalex_url": "https://openalex.org/W4389614416",
+      "pdf_url": "https://www.mdpi.com/2075-4418/13/24/3649/pdf?version=1702387231",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2075-4418/13/24/3649/pdf?version=1702387231",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10742918/pdf/diagnostics-13-03649.pdf",
+        "https://access.archive-ouverte.unige.ch/access/metadata/8c84fb5b-be62-4fe8-a5e0-7621dde8d2f0/download",
+        "https://doaj.org/article/1f6608e1071a4c5e893c601858bc18f6"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.424,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.5731,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.8030387046689587,
+          "h_index": 128
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1155/2012/632907",
+      "arxiv_id": null,
+      "openalex_id": "W2072092780",
+      "ss_paper_id": null,
+      "pmid": "22505907",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Dental Erosion and Its Growing Importance in Clinical Practice: From Past to Present",
+      "abstract": "Since the mid-1990s, the focus of studies on tooth wear has steadily shifted from the general condition towards the more specific area of dental erosion; equally, a shift has occurred from studies in adults to those in children and adolescents. During this time, understanding of the condition has increased greatly. This paper attempts to provide a critical overview of the development of this body of knowledge, from earlier perceptions to the present. It is accepted that dental erosion has a multifactorial background, in which individual and lifestyle factors have great significance. Notwithstanding methodological differences across studies, data from many countries confirm that dental erosion is common in children and young people, and that, when present, it progresses rapidly. That the condition, and its ramifications, warrants serious consideration in clinical dentistry, is clear. It is important for the oral healthcare team to be able to recognize its early signs and symptoms and to understand its pathogenesis. Preventive strategies are essential ingredients in the management of patients with dental erosion. When necessary, treatment aimed at correcting or improving its effects might best be of a minimally invasive nature. Still, there remains a need for further research to forge better understanding of the subject.",
+      "authors": [
+        {
+          "name": "Ann-Katrin Johansson",
+          "orcid": null,
+          "affiliation": "University of Bergen",
+          "country": "NO",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ridwaan Omar",
+          "orcid": "https://orcid.org/0000-0002-7530-2973",
+          "affiliation": "Kuwait University",
+          "country": "KW",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gunnar E. Carlsson",
+          "orcid": "https://orcid.org/0000-0002-7702-1227",
+          "affiliation": "University of Gothenburg",
+          "country": "SE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Anders Johansson",
+          "orcid": "https://orcid.org/0000-0002-7933-1624",
+          "affiliation": "University of Bergen",
+          "country": "NO",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2012,
+      "venue": "International Journal of Dentistry",
+      "issn": "1687-8728",
+      "type": "article",
+      "citation_count": 196,
+      "referenced_works_count": 152,
+      "fwci": 8.8227,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11958",
+          "name": "Dental Erosion and Treatment",
+          "score": 1.0
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.9894000291824341
+        },
+        {
+          "id": "T10852",
+          "name": "Temporomandibular Joint Disorders",
+          "score": 0.9786999821662903
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Tooth Erosion",
+        "Dentistry"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
+          "score": 0.4099999964237213
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1155/2012/632907",
+      "openalex_url": "https://openalex.org/W2072092780",
+      "pdf_url": "https://downloads.hindawi.com/journals/ijd/2012/632907.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://downloads.hindawi.com/journals/ijd/2012/632907.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/3312266",
+        "https://doaj.org/article/936ea770eba14905bca10163fc12e131"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3983,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.695,
+          "recency_signal": 0.44
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.5295081967213116,
+          "h_index": 82
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1155/2015/547384",
+      "arxiv_id": null,
+      "openalex_id": "W2104306520",
+      "ss_paper_id": null,
+      "pmid": "26583117",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "An Overview of the Mechanical Integrity of Dental Implants",
+      "abstract": "With the growing use of dental implants, the incidence of implants' failures grows. Late treatment complications, after reaching full osseointegration and functionality, include mechanical failures, such as fracture of the implant and its components. Those complications are deemed severe in dentistry, albeit being usually considered as rare, and therefore seldom addressed in the clinical literature. The introduction of dental implants into clinical practice fostered a wealth of research on their biological aspects. By contrast, mechanical strength and reliability issues were seldom investigated in the open literature, so that most of the information to date remains essentially with the manufacturers. Over the years, implants have gone through major changes regarding the material, the design, and the surface characteristics aimed at improving osseointegration. Did those changes improve the implants' mechanical performance? This review article surveys the state-of-the-art literature about implants' mechanical reliability, identifying the known causes for fracture, while outlining the current knowledge-gaps. Recent results on various aspects of the mechanical integrity and failure of implants are presented and discussed next. The paper ends by a general discussion and suggestions for future research, outlining the importance of mechanical considerations for the improvement of their future performance.",
+      "authors": [
+        {
+          "name": "Keren Shemtov‐Yona",
+          "orcid": "https://orcid.org/0000-0003-4191-2543",
+          "affiliation": "Technion – Israel Institute of Technology",
+          "country": "IL",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "D. Rittel",
+          "orcid": "https://orcid.org/0000-0003-4458-9382",
+          "affiliation": "Technion – Israel Institute of Technology",
+          "country": "IL",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2015,
+      "venue": "BioMed Research International",
+      "issn": "1110-7243",
+      "type": "article",
+      "citation_count": 103,
+      "referenced_works_count": 41,
+      "fwci": 4.9662,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T10512",
+          "name": "Orthopaedic implants and arthroplasty",
+          "score": 0.9961000084877014
+        },
+        {
+          "id": "T10059",
+          "name": "Bone Tissue Engineering Materials",
+          "score": 0.9951000213623047
+        }
+      ],
+      "keywords": [
+        "Osseointegration",
+        "Reliability (semiconductor)",
+        "Mechanical strength",
+        "Dental implant",
+        "Dentistry",
+        "Implant",
+        "Structural integrity",
+        "Medicine",
+        "Engineering",
+        "Materials science"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality Education",
+          "score": 0.6299999952316284
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1155/2015/547384",
+      "openalex_url": "https://openalex.org/W2104306520",
+      "pdf_url": "https://downloads.hindawi.com/journals/bmri/2015/547384.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://downloads.hindawi.com/journals/bmri/2015/547384.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/4637045"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3976,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.611,
+          "recency_signal": 0.56
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.1629213483146068,
+          "h_index": 258
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1590/s1678-77572009000200002",
+      "arxiv_id": null,
+      "openalex_id": "W2046171731",
+      "ss_paper_id": null,
+      "pmid": "19274390",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Insights into preventive measures for dental erosion",
+      "abstract": "Dental erosion is defined as the loss of tooth substance by acid exposure not involving bacteria. The etiology of erosion is related to different behavioral, biological and chemical factors. Based on an overview of the current literature, this paper presents a summary of the preventive strategies relevant for patients suffering from dental erosion. Behavioral factors, such as special drinking habits, unhealthy lifestyle factors or occupational acid exposure, might modify the extent of dental erosion. Thus, preventive strategies have to include measures to reduce the frequency and duration of acid exposure as well as adequate oral hygiene measures, as it is known that eroded surfaces are more susceptible to abrasion. Biological factors, such as saliva or acquired pellicle, act protectively against erosive demineralization. Therefore, the production of saliva should be enhanced, especially in patients with hyposalivation or xerostomia. With regard to chemical factors, the modification of acidic solutions with ions, especially calcium, was shown to reduce the demineralization, but the efficacy depends on the other chemical factors, such as the type of acid. To enhance the remineralization of eroded surfaces and to prevent further progression of dental wear, high-concentrated fluoride applications are recommended. Currently, little information is available about the efficacy of other preventive strategies, such as calcium and laser application, as well as the use of matrix metalloproteinase inhibitors. Further studies considering these factors are required. In conclusion, preventive strategies for patients suffering from erosion are mainly obtained from in vitro and in situ studies and include dietary counseling, stimulation of salivary flow, optimization of fluoride regimens, modification of erosive beverages and adequate oral hygiene measures.",
+      "authors": [
+        {
+          "name": "Ana Carolina Magalhães",
+          "orcid": "https://orcid.org/0000-0002-6413-5348",
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Annette Wiegand",
+          "orcid": "https://orcid.org/0000-0001-5640-8775",
+          "affiliation": "University of Zurich",
+          "country": "CH",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Daniela Ríos",
+          "orcid": "https://orcid.org/0000-0002-9162-3654",
+          "affiliation": "Universidade de São Paulo",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Heitor Marques Honório",
+          "orcid": "https://orcid.org/0000-0003-0231-3409",
+          "affiliation": "Universidade Federal de Alfenas",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Marília Afonso Rabelo Buzalaf",
+          "orcid": "https://orcid.org/0000-0002-5985-3951",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2009,
+      "venue": "Journal of Applied Oral Science",
+      "issn": "1678-7757",
+      "type": "article",
+      "citation_count": 253,
+      "referenced_works_count": 108,
+      "fwci": 12.8319,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11958",
+          "name": "Dental Erosion and Treatment",
+          "score": 1.0
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.9886999726295471
+        },
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.988099992275238
+        }
+      ],
+      "keywords": [
+        "Demineralization",
+        "Tooth Erosion",
+        "Oral hygiene",
+        "Dentistry",
+        "Abrasion (mechanical)",
+        "Saliva",
+        "Medicine",
+        "Tooth Remineralization",
+        "Erosion",
+        "Enamel paint"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1590/s1678-77572009000200002",
+      "openalex_url": "https://openalex.org/W2046171731",
+      "pdf_url": "https://www.scielo.br/j/jaos/a/zh4DSDWSMqQqVMScTwgS48j/?lang=en&format=pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.scielo.br/j/jaos/a/zh4DSDWSMqQqVMScTwgS48j/?lang=en&format=pdf",
+        "http://old.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1678-77572009000200002",
+        "https://www.zora.uzh.ch/id/eprint/20080/35/Wiegand_J_Appl_Oral_Sci_2009_V.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/4327581",
+        "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1678-77572009000200002",
+        "https://doaj.org/article/e5f25cd25f1d488c9932f09f2813350a",
+        "https://resolver.sub.uni-goettingen.de/purl?gro-2/68559",
+        "https://www.zora.uzh.ch/handle/20.500.14742/43157",
+        "https://doi.org/10.5167/uzh-20080"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3913,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.7285,
+          "recency_signal": 0.32
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.646766169154229,
+          "h_index": 93
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/microorganisms12010121",
+      "arxiv_id": null,
+      "openalex_id": "W4390669122",
+      "ss_paper_id": null,
+      "pmid": "38257948",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "The Evolving Microbiome of Dental Caries",
+      "abstract": "Dental caries is a significant oral and public health problem worldwide, especially in low-income populations. The risk of dental caries increases with frequent intake of dietary carbohydrates, including sugars, leading to increased acidity and disruption of the symbiotic diverse and complex microbial community of health. Excess acid production leads to a dysbiotic shift in the bacterial biofilm composition, demineralization of tooth structure, and cavities. Highly acidic and acid-tolerant species associated with caries include Streptococcus mutans, Lactobacillus, Actinomyces, Bifidobacterium, and Scardovia species. The differences in microbiotas depend on tooth site, extent of carious lesions, and rate of disease progression. Metagenomics and metatranscriptomics not only reveal the structure and genetic potential of the caries-associated microbiome, but, more importantly, capture the genetic makeup of the metabolically active microbiome in lesion sites. Due to its multifactorial nature, caries has been difficult to prevent. The use of topical fluoride has had a significant impact on reducing caries in clinical settings, but the approach is costly; the results are less sustainable for high-caries-risk individuals, especially children. Developing treatment regimens that specifically target S. mutans and other acidogenic bacteria, such as using nanoparticles, show promise in altering the cariogenic microbiome, thereby combatting the disease.",
+      "authors": [
+        {
+          "name": "Grace Spatafora",
+          "orcid": "https://orcid.org/0000-0003-2043-4853",
+          "affiliation": "Middlebury College",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Yihong Li",
+          "orcid": "https://orcid.org/0000-0002-5476-1943",
+          "affiliation": "Cornell University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Xuesong He",
+          "orcid": "https://orcid.org/0000-0002-3333-9188",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Annie Cowan",
+          "orcid": "https://orcid.org/0000-0002-5458-0843",
+          "affiliation": "Mayo Clinic",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "A. C. R. Tanner",
+          "orcid": "https://orcid.org/0000-0002-1331-9163",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2024,
+      "venue": "Microorganisms",
+      "issn": "2076-2607",
+      "type": "article",
+      "citation_count": 273,
+      "referenced_works_count": 346,
+      "fwci": 81.039,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10257",
+          "name": "Oral microbiology and periodontitis research",
+          "score": 1.0
+        },
+        {
+          "id": "T10368",
+          "name": "Dental Health and Care Utilization",
+          "score": 0.9998000264167786
+        },
+        {
+          "id": "T10066",
+          "name": "Gut microbiota and health",
+          "score": 0.9961000084877014
+        }
+      ],
+      "keywords": [
+        "Streptococcus mutans",
+        "Microbiome",
+        "Oral Microbiome",
+        "Actinomyces",
+        "Biofilm",
+        "Dental plaque",
+        "Lactobacillus",
+        "Medicine",
+        "Metagenomics",
+        "Oral microbiology"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/microorganisms12010121",
+      "openalex_url": "https://openalex.org/W4390669122",
+      "pdf_url": "https://www.mdpi.com/2076-2607/12/1/121/pdf?version=1704686929",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2076-2607/12/1/121/pdf?version=1704686929",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10819217/pdf/microorganisms-12-00121.pdf",
+        "https://doaj.org/article/8f9cc7cb4a5a461eb62c8ad2b6b6b2c1"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3903,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.7384,
+          "recency_signal": 0.92
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 5.051742484703379,
+          "h_index": 171
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/jcm10081641",
+      "arxiv_id": null,
+      "openalex_id": "W3154177670",
+      "ss_paper_id": null,
+      "pmid": "33921531",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "The Impact of Dental Implant Surface Modifications on Osseointegration and Biofilm Formation",
+      "abstract": "Implant surface design has evolved to meet oral rehabilitation challenges in both healthy and compromised bone. For example, to conquer the most common dental implant-related complications, peri-implantitis, and subsequent implant loss, implant surfaces have been modified to introduce desired properties to a dental implant and thus increase the implant success rate and expand their indications. Until now, a diversity of implant surface modifications, including different physical, chemical, and biological techniques, have been applied to a broad range of materials, such as titanium, zirconia, and polyether ether ketone, to achieve these goals. Ideal modifications enhance the interaction between the implant's surface and its surrounding bone which will facilitate osseointegration while minimizing the bacterial colonization to reduce the risk of biofilm formation. This review article aims to comprehensively discuss currently available implant surface modifications commonly used in implantology in terms of their impact on osseointegration and biofilm formation, which is critical for clinicians to choose the most suitable materials to improve the success and survival of implantation.",
+      "authors": [
+        {
+          "name": "Stefanie Kligman",
+          "orcid": null,
+          "affiliation": "University of Pennsylvania",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Zhi Ren",
+          "orcid": "https://orcid.org/0000-0002-3553-1958",
+          "affiliation": "University of Pennsylvania",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Chun‐Hsi Chung",
+          "orcid": null,
+          "affiliation": "University of Pennsylvania",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Michael Angelo Perillo",
+          "orcid": null,
+          "affiliation": "University of Pennsylvania",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yu‐Cheng Chang",
+          "orcid": "https://orcid.org/0000-0002-1441-1156",
+          "affiliation": "University of Pennsylvania",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hyun Koo",
+          "orcid": "https://orcid.org/0000-0001-9143-2076",
+          "affiliation": "Center for Innovation",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Zhong Zheng",
+          "orcid": "https://orcid.org/0000-0002-4905-3563",
+          "affiliation": "University of California, Los Angeles",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Chenshuang Li",
+          "orcid": "https://orcid.org/0000-0001-6331-6983",
+          "affiliation": "University of Pennsylvania",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2021,
+      "venue": "Journal of Clinical Medicine",
+      "issn": "2077-0383",
+      "type": "article",
+      "citation_count": 383,
+      "referenced_works_count": 289,
+      "fwci": 45.3688,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.9998000264167786
+        },
+        {
+          "id": "T10059",
+          "name": "Bone Tissue Engineering Materials",
+          "score": 0.9994999766349792
+        },
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.9990000128746033
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Osseointegration",
+        "Biofilm",
+        "Dentistry",
+        "Dental implant",
+        "Implant",
+        "Surgery",
+        "Bacteria"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/jcm10081641",
+      "openalex_url": "https://openalex.org/W3154177670",
+      "pdf_url": "https://www.mdpi.com/2077-0383/10/8/1641/pdf?version=1618458677",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2077-0383/10/8/1641/pdf?version=1618458677",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/8070594",
+        "https://doaj.org/article/ba71590a5b2949ae91b8e696a4fa892d"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3849,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.7828,
+          "recency_signal": 0.8
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.716959703878186,
+          "h_index": 189
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": null,
+      "arxiv_id": null,
+      "openalex_id": "W2121996126",
+      "ss_paper_id": null,
+      "pmid": "19179949",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Dental fluorosis: exposure, prevention and management.",
+      "abstract": "Dental fluorosis is a developmental disturbance of dental enamel, caused by successive exposures to high concentrations of fluoride during tooth development, leading to enamel with lower mineral content and increased porosity. The severity of dental fluorosis depends on when and for how long the overexposure to fluoride occurs, the individual response, weight, degree of physical activity, nutritional factors and bone growth. The risk period for esthetic changes in permanent teeth is between 20 and 30 months of age. The recommended level for daily fluoride intake is 0.05 - 0.07 mg F/Kg/day, which is considered of great help in preventing dental caries, acting in remineralization. A daily intake above this safe level leads to an increased risk of dental fluorosis. Currently recommended procedures for diagnosis of fluorosis should discriminate between symmetrical and asymmetrical and/or discrete patterns of opaque defects. Fluorosis can be prevented by having an adequate knowledge of the fluoride sources, knowing how to manage this issue and therefore, avoid overexposure.",
+      "authors": [
+        {
+          "name": "Jenny Abanto",
+          "orcid": "https://orcid.org/0000-0001-5088-878X",
+          "affiliation": "Universidade de São Paulo",
+          "country": "BR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "K. M. P. C Rezende",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Susana M. Salazar Marocho",
+          "orcid": "https://orcid.org/0000-0002-5366-7496",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Fabiana Bucholdz Teixeira Alves",
+          "orcid": "https://orcid.org/0000-0001-9955-1811",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Paula Celiberti",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ana Lídia Ciamponi",
+          "orcid": "https://orcid.org/0000-0002-0976-2760",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2009,
+      "venue": "PubMed",
+      "issn": null,
+      "type": "article",
+      "citation_count": 173,
+      "referenced_works_count": 26,
+      "fwci": 9.3604,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11969",
+          "name": "Fluoride Effects and Removal",
+          "score": 0.9998000264167786
+        },
+        {
+          "id": "T10368",
+          "name": "Dental Health and Care Utilization",
+          "score": 0.9975000023841858
+        },
+        {
+          "id": "T11958",
+          "name": "Dental Erosion and Treatment",
+          "score": 0.9850000143051147
+        }
+      ],
+      "keywords": [
+        "Dental fluorosis",
+        "Fluoride",
+        "Dentistry",
+        "Medicine",
+        "Enamel paint",
+        "Dental enamel",
+        "Chemistry"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": null,
+      "openalex_url": "https://openalex.org/W2121996126",
+      "pdf_url": "http://hdl.handle.net/11449/22813",
+      "pmc_url": null,
+      "oa_locations": [
+        "http://hdl.handle.net/11449/22813"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3838,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.6787,
+          "recency_signal": 0.32
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.1002/cam4.1221",
+      "arxiv_id": null,
+      "openalex_id": "W2765631041",
+      "ss_paper_id": null,
+      "pmid": "29071801",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Common oral complications of head and neck cancer radiation therapy: mucositis, infections, saliva change, fibrosis, sensory dysfunctions, dental caries, periodontal disease, and osteoradionecrosis",
+      "abstract": "Patients undergoing radiation therapy for the head and neck are susceptible to a significant and often abrupt deterioration in their oral health. The oral morbidities of radiation therapy include but are not limited to an increased susceptibility to dental caries and periodontal disease. They also include profound and often permanent functional and sensory changes involving the oral soft tissue. These changes range from oral mucositis experienced during and soon after treatment, mucosal opportunistic infections, neurosensory disorders, and tissue fibrosis. Many of the oral soft tissue changes following radiation therapy are difficult challenges to the patients and their caregivers and require life-long strategies to alleviate their deleterious effect on basic life functions and on the quality of life. We discuss the presentation, prognosis, and management strategies of the dental structure and oral soft tissue morbidities resulting from the administration of therapeutic radiation in head and neck patient. A case for a collaborative and integrated multidisciplinary approach to the management of these patients is made, with specific recommendation to include knowledgeable and experienced oral health care professionals in the treatment team.",
+      "authors": [
+        {
+          "name": "Hervé Sroussi",
+          "orcid": "https://orcid.org/0000-0003-3447-299X",
+          "affiliation": "Brigham and Women's Hospital",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Joel B. Epstein",
+          "orcid": "https://orcid.org/0000-0002-9264-9151",
+          "affiliation": "Cedars-Sinai Medical Center",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "René‐Jean Bensadoun",
+          "orcid": null,
+          "affiliation": "Centre de Haute Energie",
+          "country": "FR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Deborah Saunders",
+          "orcid": "https://orcid.org/0000-0001-9499-4488",
+          "affiliation": "Health Sciences North",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Rajesh V. Lalla",
+          "orcid": "https://orcid.org/0000-0002-7662-6937",
+          "affiliation": "UConn Health",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "César A. Migliorati",
+          "orcid": "https://orcid.org/0000-0002-2535-2606",
+          "affiliation": "University of Florida",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Natalie Heaivilin",
+          "orcid": null,
+          "affiliation": "University of California, San Francisco",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Zachary S. Zumsteg",
+          "orcid": "https://orcid.org/0000-0001-7484-3631",
+          "affiliation": "Cedars-Sinai Medical Center",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2017,
+      "venue": "Cancer Medicine",
+      "issn": "2045-7634",
+      "type": "article",
+      "citation_count": 800,
+      "referenced_works_count": 114,
+      "fwci": 26.8463,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T12198",
+          "name": "Oral health in cancer treatment",
+          "score": 1.0
+        },
+        {
+          "id": "T10307",
+          "name": "Head and Neck Cancer Studies",
+          "score": 0.9991999864578247
+        },
+        {
+          "id": "T11452",
+          "name": "Oral Health Pathology and Treatment",
+          "score": 0.9965000152587891
+        }
+      ],
+      "keywords": [
+        "Mucositis",
+        "Medicine",
+        "Osteoradionecrosis",
+        "Head and neck cancer",
+        "Radiation therapy",
+        "Soft tissue",
+        "Cancer",
+        "Oral hygiene",
+        "Quality of life (healthcare)",
+        "Disease"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1002/cam4.1221",
+      "openalex_url": "https://openalex.org/W2765631041",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cam4.1221",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cam4.1221",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/5727249"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3834,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.8796,
+          "recency_signal": 0.64
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.7331968611395427,
+          "h_index": 125
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1111/edt.12573",
+      "arxiv_id": null,
+      "openalex_id": "W2103453995",
+      "ss_paper_id": null,
+      "pmid": "27931479",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Guidelines for the Management of Traumatic Dental Injuries: 2. Avulsion of Permanent Teeth.",
+      "abstract": "Avulsion of permanent teeth is one of the most serious dental injuries, and a prompt and correct emergency management is very important for the prognosis. The International Association of Dental Traumatology (IADT) has developed a consensus statement after a review of the dental literature and group discussions. Experienced researchers and clinicians from various specialties were included in the task group. The guidelines represent the current best evidence and practice based on literature research and professionals' opinion. In cases where the data did not appear conclusive, recommendations were based on the consensus opinion or majority decision of the task group. Finally, the IADT board members were giving their opinion and approval. The primary goal of these guidelines is to delineate an approach for the immediate orurgent care of avulsed permanent teeth.",
+      "authors": [
+        {
+          "name": "Ashraf F Fouad",
+          "orcid": null,
+          "affiliation": "University of North Carolina at Chapel Hill",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Paul V Abbott",
+          "orcid": null,
+          "affiliation": "The University of Western Australia",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Georgios Tsilingaridis",
+          "orcid": null,
+          "affiliation": "Karolinska Institutet",
+          "country": "SE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Nestor Cohenca",
+          "orcid": null,
+          "affiliation": "Seattle Children's Hospital",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Eva Lauridsen",
+          "orcid": null,
+          "affiliation": "Copenhagen University Hospital",
+          "country": "DK",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Cecilia Bourguignon",
+          "orcid": "https://orcid.org/0000-0003-2753-649X",
+          "affiliation": "University of Minnesota",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Anne O'Connell",
+          "orcid": null,
+          "affiliation": "University of Toronto",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Marie Therese Flores",
+          "orcid": "https://orcid.org/0000-0003-2412-190X",
+          "affiliation": "University of Valparaíso",
+          "country": "CL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Peter F. Day",
+          "orcid": "https://orcid.org/0000-0001-9711-9638",
+          "affiliation": "University of Leeds",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Lamar Hicks",
+          "orcid": null,
+          "affiliation": "University of Maryland, Baltimore",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jens Ove Andreasen",
+          "orcid": null,
+          "affiliation": "University of Maryland, Baltimore",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Zafer C Cehreli",
+          "orcid": null,
+          "affiliation": "Hacettepe University",
+          "country": "TR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Stephen Harlamb",
+          "orcid": null,
+          "affiliation": "The University of Sydney",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Bill Kahler",
+          "orcid": null,
+          "affiliation": "The University of Queensland",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Adeleke Oginni",
+          "orcid": null,
+          "affiliation": "Obafemi Awolowo University",
+          "country": "NG",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Marc Semper",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Liran Levin",
+          "orcid": null,
+          "affiliation": "University of Alberta",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2016,
+      "venue": "PubMed",
+      "issn": "1600-4469",
+      "type": "article",
+      "citation_count": 660,
+      "referenced_works_count": 126,
+      "fwci": 93.5853,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T12367",
+          "name": "Dental Trauma and Treatments",
+          "score": 1.0
+        },
+        {
+          "id": "T11824",
+          "name": "Injury Epidemiology and Prevention",
+          "score": 0.9825999736785889
+        },
+        {
+          "id": "T11919",
+          "name": "dental development and anomalies",
+          "score": 0.942300021648407
+        }
+      ],
+      "keywords": [
+        "Traumatology",
+        "Permanent teeth",
+        "Medicine",
+        "Dental trauma",
+        "Tooth Avulsion",
+        "Dentistry",
+        "Avulsion",
+        "Surgery",
+        "Orthopedic surgery"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.4399999976158142,
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1111/edt.12573",
+      "openalex_url": "https://openalex.org/W2103453995",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/edt.12573",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/edt.12573",
+        "https://researchprofiles.ku.dk/files/253352970/International_Association_of_Dental_Traumatology_guidelines_for_the_management_of_traumatic_dental_injuries.pdf",
+        "https://admin.research-repository.uwa.edu.au/en/publications/7fff3c50-849f-4298-8c9f-4cbbaac6c503"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3756,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.8543,
+          "recency_signal": 0.6
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 5.34375,
+          "h_index": 139
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/polym13010157",
+      "arxiv_id": null,
+      "openalex_id": "W3119796950",
+      "ss_paper_id": null,
+      "pmid": "33406617",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Dental 3D-Printing: Transferring Art from the Laboratories to the Clinics",
+      "abstract": "The rise of three-dimensional (3D) printing technology has changed the face of dentistry over the past decade. 3D printing is a versatile technique that allows the fabrication of fully automated, tailor-made treatment plans, thereby delivering personalized dental devices and aids to the patients. It is highly efficient, reproducible, and provides fast and accurate results in an affordable manner. With persistent efforts among dentists for refining their practice, dental clinics are now acclimatizing from conventional treatment methods to a fully digital workflow to treat their patients. Apart from its clinical success, 3D printing techniques are now employed in developing haptic simulators, precise models for dental education, including patient awareness. In this narrative review, we discuss the evolution and current trends in 3D printing applications among various areas of dentistry. We aim to focus on the process of the digital workflow used in the clinical diagnosis of different dental conditions and how they are transferred from laboratories to clinics. A brief outlook on the most recent manufacturing methods of 3D printed objects and their current and future implications are also discussed.",
+      "authors": [
+        {
+          "name": "Sangeeth Pillai",
+          "orcid": "https://orcid.org/0000-0002-4475-984X",
+          "affiliation": "McGill University",
+          "country": "CA",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Akshaya Upadhyay",
+          "orcid": "https://orcid.org/0000-0001-8790-8502",
+          "affiliation": "McGill University",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Parisa Khayambashi",
+          "orcid": null,
+          "affiliation": "McGill University",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Imran Farooq",
+          "orcid": "https://orcid.org/0000-0002-4891-2522",
+          "affiliation": "University of Toronto",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hisham Sabri",
+          "orcid": "https://orcid.org/0000-0002-8636-6032",
+          "affiliation": "McGill University",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Maryam Tarar",
+          "orcid": null,
+          "affiliation": "McGill University",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Kyungjun T. Lee",
+          "orcid": null,
+          "affiliation": "McGill University",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "I. Harb",
+          "orcid": null,
+          "affiliation": "McGill University",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Stephanie Zhou",
+          "orcid": "https://orcid.org/0000-0002-0636-6535",
+          "affiliation": "McGill University",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yifei Wang",
+          "orcid": "https://orcid.org/0000-0002-1431-5906",
+          "affiliation": "McGill University",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Simon D. Tran",
+          "orcid": "https://orcid.org/0000-0001-5594-359X",
+          "affiliation": "McGill University",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2021,
+      "venue": "Polymers",
+      "issn": "2073-4360",
+      "type": "article",
+      "citation_count": 226,
+      "referenced_works_count": 192,
+      "fwci": 29.8517,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.9987000226974487
+        },
+        {
+          "id": "T12439",
+          "name": "Dental Research and COVID-19",
+          "score": 0.9977999925613403
+        },
+        {
+          "id": "T11984",
+          "name": "Anatomy and Medical Technology",
+          "score": 0.9973999857902527
+        }
+      ],
+      "keywords": [
+        "Workflow",
+        "3D printing",
+        "Process (computing)",
+        "Computer science",
+        "3d printed",
+        "Medical physics",
+        "Dentistry",
+        "Medicine",
+        "Manufacturing engineering",
+        "Engineering"
+      ],
+      "sdgs": [
+        {
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/9"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/polym13010157",
+      "openalex_url": "https://openalex.org/W3119796950",
+      "pdf_url": "https://www.mdpi.com/2073-4360/13/1/157/pdf?version=1609748032",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2073-4360/13/1/157/pdf?version=1609748032",
+        "https://utoronto.scholaris.ca/bitstreams/0071d70f-6bf2-40c7-b33a-05e1b3db2c46/download",
+        "http://europepmc.org/pmc/articles/PMC7795531",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/7795531",
+        "https://doaj.org/article/7d81497832584b338facfab33a90fb44"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3746,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.7137,
+          "recency_signal": 0.8
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 7.3801888864484955,
+          "h_index": 235
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/jcs7020080",
+      "arxiv_id": null,
+      "openalex_id": "W4320917312",
+      "ss_paper_id": null,
+      "pmid": "38645939",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "3D Printing of Dental Prostheses: Current and Emerging Applications",
+      "abstract": "Revolutionary fabrication technologies such as three-dimensional (3D) printing to develop dental structures are expected to replace traditional methods due to their ability to establish constructs with the required mechanical properties and detailed structures. Three-dimensional printing, as an additive manufacturing approach, has the potential to rapidly fabricate complex dental prostheses by employing a bottom-up strategy in a layer-by-layer fashion. This new technology allows dentists to extend their degree of freedom in selecting, creating, and performing the required treatments. Three-dimensional printing has been narrowly employed in the fabrication of various kinds of prostheses and implants. There is still an on-demand production procedure that offers a reasonable method with superior efficiency to engineer multifaceted dental constructs. This review article aims to cover the most recent applications of 3D printing techniques in the manufacturing of dental prosthetics. More specifically, after describing various 3D printing techniques and their advantages/disadvantages, the applications of 3D printing in dental prostheses are elaborated in various examples in the literature. Different 3D printing techniques have the capability to use different materials, including thermoplastic polymers, ceramics, and metals with distinctive suitability for dental applications, which are discussed in this article. The relevant limitations and challenges that currently limit the efficacy of 3D printing in this field are also reviewed. This review article has employed five major scientific databases, including Google Scholar, PubMed, ScienceDirect, Web of Science, and Scopus, with appropriate keywords to find the most relevant literature in the subject of dental prostheses 3D printing.",
+      "authors": [
+        {
+          "name": "Fereshte Rezaie",
+          "orcid": "https://orcid.org/0000-0003-2556-1229",
+          "affiliation": "Tabriz University of Medical Sciences",
+          "country": "IR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Masoud Farshbaf",
+          "orcid": "https://orcid.org/0000-0003-4260-7380",
+          "affiliation": "Tabriz University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mohammad Dahri",
+          "orcid": "https://orcid.org/0000-0003-1776-7243",
+          "affiliation": "Tabriz University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Moein Masjedi",
+          "orcid": "https://orcid.org/0000-0003-3351-8730",
+          "affiliation": "Shiraz University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Reza Maleki",
+          "orcid": "https://orcid.org/0000-0002-5169-5848",
+          "affiliation": "Iranian Research Organization for Science and Technology",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Fatemeh Amini",
+          "orcid": null,
+          "affiliation": "Shahed University",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jonathan Wirth",
+          "orcid": null,
+          "affiliation": "Marquette University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Keyvan Moharamzadeh",
+          "orcid": "https://orcid.org/0000-0002-8842-4638",
+          "affiliation": "Mohammed Bin Rashid University of Medicine and Health Sciences",
+          "country": "AE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Franz E. Weber",
+          "orcid": "https://orcid.org/0000-0003-1670-2296",
+          "affiliation": "University of Zurich",
+          "country": "CH",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Lobat Tayebi",
+          "orcid": "https://orcid.org/0000-0003-1947-5658",
+          "affiliation": "Marquette University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2023,
+      "venue": "Journal of Composites Science",
+      "issn": "2504-477X",
+      "type": "article",
+      "citation_count": 124,
+      "referenced_works_count": 175,
+      "fwci": 22.3642,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.9983999729156494
+        },
+        {
+          "id": "T10783",
+          "name": "Additive Manufacturing and 3D Printing Technologies",
+          "score": 0.9979000091552734
+        },
+        {
+          "id": "T10059",
+          "name": "Bone Tissue Engineering Materials",
+          "score": 0.9905999898910522
+        }
+      ],
+      "keywords": [
+        "3D printing",
+        "Computer science",
+        "Manufacturing engineering",
+        "Nanotechnology",
+        "Mechanical engineering",
+        "Engineering",
+        "Materials science"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/jcs7020080",
+      "openalex_url": "https://openalex.org/W4320917312",
+      "pdf_url": "https://www.mdpi.com/2504-477X/7/2/80/pdf?version=1676452870",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2504-477X/7/2/80/pdf?version=1676452870",
+        "https://www.zora.uzh.ch/id/eprint/239272/1/ZORA_pdf_version_1676452870.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11031267/pdf/nihms-1936356.pdf",
+        "https://www.zora.uzh.ch/handle/20.500.14742/211885",
+        "https://doi.org/10.5167/uzh-239272"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3708,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.6352,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 5.244521337946943,
+          "h_index": 79
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1002/14651858.cd001830.pub5",
+      "arxiv_id": null,
+      "openalex_id": "W2741425763",
+      "ss_paper_id": null,
+      "pmid": "28759120",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Pit and fissure sealants for preventing dental decay in permanent teeth",
+      "abstract": "BACKGROUND: Dental sealants were introduced in the 1960s to help prevent dental caries, mainly in the pits and fissures of occlusal tooth surfaces. Sealants act to prevent bacteria growth that can lead to dental decay. Evidence suggests that fissure sealants are effective in preventing caries in children and adolescents compared to no sealants. Effectiveness may, however, be related to caries incidence level of the population. This is an update of a review published in 2004, 2008 and 2013. OBJECTIVES: To compare the effects of different types of fissure sealants in preventing caries in occlusal surfaces of permanent teeth in children and adolescents. SEARCH METHODS: Cochrane Oral Health's Information Specialist searched: Cochrane Oral Health's Trials Register (to 3 August 2016), the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library, 2016, Issue 7), MEDLINE Ovid (1946 to 3 August 2016), and Embase Ovid (1980 to 3 August 2016). We searched ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform for ongoing trials to 3 August 2016. No restrictions were placed on language or date of publication. SELECTION CRITERIA: Randomised controlled trials (RCTs) comparing sealants with no sealant or a different type of sealant material for preventing caries of occlusal surfaces of premolar or molar teeth in children and adolescents aged up to 20 years. Studies required at least 12 months follow-up. We excluded studies that compared compomers to resins/composites. DATA COLLECTION AND ANALYSIS: Two review authors independently screened search results, extracted data and assessed risk of bias of included studies. We presented outcomes for caries or no caries on occlusal surfaces of permanent molar teeth as odds ratio (OR) or risk ratio (RR). We used mean difference (MD) for mean caries increment. All measures were presented with 95% confidence intervals (CI). We conducted meta-analyses using a random-effects model for comparisons where there were more than three trials; otherwise we used the fixed-effect model. We used GRADE methods to assess evidence quality. MAIN RESULTS: We included 38 trials that involved a total of 7924 children; seven trials were new for this update (1693 participants). Fifteen trials evaluated the effects of resin-based sealant versus no sealant (3620 participants in 14 studies plus 575 tooth pairs in one study); three trials with evaluated glass ionomer sealant versus no sealant (905 participants); and 24 trials evaluated one type of sealant versus another (4146 participants). Children were aged from 5 to 16 years. Trials rarely reported background exposure to fluoride of trial participants or baseline caries prevalence. Resin-based sealant versus no sealant: second-, third- and fourth-generation resin-based sealants prevented caries in first permanent molars in children aged 5 to 10 years (at 24 months follow-up: OR 0.12, 95% CI 0.08 to 0.19, 7 trials (5 published in the 1970s; 2 in the 2010s), 1548 children randomised, 1322 children evaluated; moderate-quality evidence). If we were to assume that 16% of the control tooth surfaces were decayed during 24 months of follow-up (160 carious teeth per 1000), then applying a resin-based sealant would reduce the proportion of carious surfaces to 5.2% (95% CI 3.13% to 7.37%). Similarly, assuming that 40% of control tooth surfaces were decayed (400 carious teeth per 1000), then applying a resin-based sealant would reduce the proportion of carious surfaces to 6.25% (95% CI 3.84% to 9.63%). If 70% of control tooth surfaces were decayed, there would be 19% decayed surfaces in the sealant group (95% CI 12.3% to 27.2%). This caries-preventive effect was maintained at longer follow-up but evidence quality and quantity was reduced (e.g. at 48 to 54 months of follow-up: OR 0.21, 95% CI 0.16 to 0.28, 4 trials, 482 children evaluated; RR 0.24, 95% CI 0.12 to 0.45, 203 children evaluated). Although studies were generally well conducted, we assessed blinding of outcome assessment for caries at high risk of bias for all trials (blinding of outcome assessment is not possible in sealant studies because outcome assessors can see and identify sealant). Glass ionomer sealant versus no sealant: was evaluated by three studies. Results at 24 months were inconclusive (very low-quality evidence). One sealant versus another sealant: the relative effectiveness of different types of sealants is unknown (very low-quality evidence). We included 24 trials that directly compared two different sealant materials. Comparisons varied in terms of types of sealant assessed, outcome measures chosen and duration of follow-up. Adverse events: only four trials assessed adverse events. No adverse events were reported. AUTHORS' CONCLUSIONS: Resin-based sealants applied on occlusal surfaces of permanent molars are effective for preventing caries in children and adolescents. Our review found moderate-quality evidence that resin-based sealants reduced caries by between 11% and 51% compared to no sealant, when measured at 24 months. Similar benefit was seen at timepoints up to 48 months; after longer follow-up, the quantity and quality of evidence was reduced. There was insufficient evidence to judge the effectiveness of glass ionomer sealant or the relative effectiveness of different types of sealants. Information on adverse effects was limited but none occurred where this was reported. Further research with long follow-up is needed.",
+      "authors": [
+        {
+          "name": "Anneli Ahovuo-Saloranta",
+          "orcid": null,
+          "affiliation": "Tampere University",
+          "country": "FI",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "H. Forss",
+          "orcid": null,
+          "affiliation": "Tampere University Hospital",
+          "country": "FI",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Tanya Walsh",
+          "orcid": "https://orcid.org/0000-0001-7003-8854",
+          "affiliation": "University of Manchester",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Anne Nordblad",
+          "orcid": null,
+          "affiliation": "Ministry of Social Affairs and Health",
+          "country": "FI",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Marjukka Mākelä",
+          "orcid": "https://orcid.org/0000-0001-5111-1358",
+          "affiliation": "University of Copenhagen",
+          "country": "DK",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Helen V Worthington",
+          "orcid": "https://orcid.org/0000-0002-4851-7469",
+          "affiliation": "University of Manchester",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2017,
+      "venue": "Cochrane Database of Systematic Reviews",
+      "issn": "1361-6137",
+      "type": "article",
+      "citation_count": 386,
+      "referenced_works_count": 212,
+      "fwci": 23.9151,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.7523000240325928
+        },
+        {
+          "id": "T10368",
+          "name": "Dental Health and Care Utilization",
+          "score": 0.21449999511241913
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.007400000002235174
+        }
+      ],
+      "keywords": [
+        "Fissure",
+        "Dentistry",
+        "Dental decay",
+        "Orthodontics",
+        "Medicine",
+        "Materials science",
+        "Composite material",
+        "Oral health"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1002/14651858.cd001830.pub5",
+      "openalex_url": "https://openalex.org/W2741425763",
+      "pdf_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001830.pub5/pdf/full",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001830.pub5/pdf/full",
+        "https://research.manchester.ac.uk/en/publications/3ba02b89-33c6-4eaa-a990-225c10ba906f",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/6483295",
+        "https://researchprofiles.ku.dk/files/189092206/Pit_and_fissure_sealants_for_preventing_dental_decay_in_permanent_teeth.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3691,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.7839,
+          "recency_signal": 0.64
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 7.3023255813953485,
+          "h_index": 461
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1007/bf03262788",
+      "arxiv_id": null,
+      "openalex_id": "W2023742607",
+      "ss_paper_id": null,
+      "pmid": "21473842",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Review: Laser soft tissue treatments for paediatric dental patients",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Juan R Boj",
+          "orcid": null,
+          "affiliation": "Bellvitge University Hospital",
+          "country": "ES",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "C. Poirier",
+          "orcid": null,
+          "affiliation": "Bellvitge University Hospital",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "M Hernández",
+          "orcid": null,
+          "affiliation": "Bellvitge University Hospital",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "E Espasa",
+          "orcid": null,
+          "affiliation": "Bellvitge University Hospital",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "A. Espanya",
+          "orcid": null,
+          "affiliation": "Universitat de Barcelona",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2011,
+      "venue": "European Archives of Paediatric Dentistry",
+      "issn": "1818-6300",
+      "type": "article",
+      "citation_count": 41,
+      "referenced_works_count": 80,
+      "fwci": 3.1537,
+      "cited_by_percentile_year": 98,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.7401000261306763
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.0908999964594841
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.032099999487400055
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Soft tissue",
+        "Laser",
+        "Dentistry",
+        "Hard tissue",
+        "Laser surgery",
+        "Surgery",
+        "Lesion",
+        "Laser treatment"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being",
+          "score": 0.699999988079071
+        }
+      ],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1007/bf03262788",
+      "openalex_url": "https://openalex.org/W2023742607",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3638,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.5,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.4917,
+          "recency_signal": 0.4
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.7183770883054892,
+          "h_index": 73
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1111/adj.12118",
+      "arxiv_id": null,
+      "openalex_id": "W2100255216",
+      "ss_paper_id": null,
+      "pmid": "24320894",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Management of fear and anxiety in the dental clinic: a review",
+      "abstract": "People who are highly anxious about undergoing dental treatment comprise approximately one in seven of the population and require careful and considerate management by dental practitioners. This paper presents a review of a number of non-pharmacological (behavioural and cognitive) techniques that can be used in the dental clinic or surgery in order to assist anxious individuals obtain needed dental care. Practical advice for managing anxious patients is provided and the evidence base for the various approaches is examined and summarized. The importance of firstly identifying dental fear and then understanding its aetiology, nature and associated components is stressed. Anxiety management techniques range from good communication and establishing rapport to the use of systematic desensitization and hypnosis. Some techniques require specialist training but many others could usefully be adopted for all dental patients, regardless of their known level of dental anxiety. It is concluded that successfully managing dentally fearful individuals is achievable for clinicians but requires a greater level of understanding, good communication and a phased treatment approach. There is an acceptable evidence base for several non-pharmacological anxiety management practices to help augment dental practitioners providing care to anxious or fearful children and adults.",
+      "authors": [
+        {
+          "name": "Jason M. Armfield",
+          "orcid": "https://orcid.org/0000-0001-7962-7559",
+          "affiliation": "The University of Adelaide",
+          "country": "AU",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "LJ Heaton",
+          "orcid": null,
+          "affiliation": "University of Washington",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2013,
+      "venue": "Australian Dental Journal",
+      "issn": "0045-0421",
+      "type": "article",
+      "citation_count": 593,
+      "referenced_works_count": 199,
+      "fwci": 11.4611,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 1.0
+        },
+        {
+          "id": "T10436",
+          "name": "Anesthesia and Sedative Agents",
+          "score": 0.9959999918937683
+        },
+        {
+          "id": "T10853",
+          "name": "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes",
+          "score": 0.995199978351593
+        }
+      ],
+      "keywords": [
+        "Dental fear",
+        "Anxiety",
+        "Hypnosis",
+        "Medicine",
+        "Population",
+        "Cognition",
+        "Desensitization (medicine)",
+        "Psychology",
+        "Clinical psychology",
+        "Psychiatry"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1111/adj.12118",
+      "openalex_url": "https://openalex.org/W2100255216",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/adj.12118",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/adj.12118"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3615,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.8402,
+          "recency_signal": 0.48
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.8711656441717792,
+          "h_index": 125
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1111/j.1600-9657.2012.01125.x",
+      "arxiv_id": null,
+      "openalex_id": "W4297900236",
+      "ss_paper_id": null,
+      "pmid": "22409417",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "International Association of Dental Traumatology guidelines for the management of traumatic dental injuries: 2. Avulsion of permanent teeth",
+      "abstract": "Avulsion of permanent teeth is one of the most serious dental injuries, and a prompt and correct emergency management is very important for the prognosis. The International Association of Dental Traumatology (IADT) has developed a consensus statement after a review of the dental literature and group discussions. Experienced researchers and clinicians from various specialties were included in the task group. The guidelines represent the current best evidence and practice based on literature research and professionals' opinion. In cases where the data did not appear conclusive, recommendations were based on the consensus opinion or majority decision of the task group. Finally, the IADT board members were giving their opinion and approval. The primary goal of these guidelines is to delineate an approach for the immediate orurgent care of avulsed permanent teeth.",
+      "authors": [
+        {
+          "name": "Lars Andersson",
+          "orcid": "https://orcid.org/0000-0003-1035-2539",
+          "affiliation": "Kuwait University",
+          "country": "KW",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Jens Ove Andreasen",
+          "orcid": null,
+          "affiliation": "Copenhagen University Hospital",
+          "country": "DK",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Peter F. Day",
+          "orcid": "https://orcid.org/0000-0001-9711-9638",
+          "affiliation": "Task Applied Science",
+          "country": "ZA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Geoffrey S. Heithersay",
+          "orcid": "https://orcid.org/0000-0002-5304-7000",
+          "affiliation": "Task Applied Science",
+          "country": "ZA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Martin Trope",
+          "orcid": null,
+          "affiliation": "Task Applied Science",
+          "country": "ZA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Anthony J. DiAngelis",
+          "orcid": null,
+          "affiliation": "University of Minnesota",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "David J. Kenny",
+          "orcid": "https://orcid.org/0000-0002-3043-6724",
+          "affiliation": "University of Toronto",
+          "country": "CA",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ásgeir Sigurðsson",
+          "orcid": "https://orcid.org/0000-0002-6911-8248",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Cecilia Bourguignon",
+          "orcid": "https://orcid.org/0000-0003-2753-649X",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Marie Therese Flores",
+          "orcid": "https://orcid.org/0000-0003-2412-190X",
+          "affiliation": "University of Valparaíso",
+          "country": "CL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "M. Lamar Hicks",
+          "orcid": null,
+          "affiliation": "University of Maryland, Baltimore",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Antonio R. Lenzi",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "B. Malmgren",
+          "orcid": "https://orcid.org/0000-0001-8706-248X",
+          "affiliation": "Karolinska University Hospital",
+          "country": "SE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Alex J. Moule",
+          "orcid": "https://orcid.org/0000-0002-0856-4113",
+          "affiliation": "The University of Queensland",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mitsuhiro Tsukiboshi",
+          "orcid": "https://orcid.org/0000-0002-0728-3029",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2012,
+      "venue": "Dental Traumatology",
+      "issn": "1600-4469",
+      "type": "article",
+      "citation_count": 672,
+      "referenced_works_count": 95,
+      "fwci": 52.8847,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T12367",
+          "name": "Dental Trauma and Treatments",
+          "score": 1.0
+        },
+        {
+          "id": "T11824",
+          "name": "Injury Epidemiology and Prevention",
+          "score": 0.9839000105857849
+        },
+        {
+          "id": "T10830",
+          "name": "Airway Management and Intubation Techniques",
+          "score": 0.9532999992370605
+        }
+      ],
+      "keywords": [
+        "Traumatology",
+        "Medicine",
+        "Permanent teeth",
+        "Dental trauma",
+        "Avulsion",
+        "Tooth Avulsion",
+        "Dentistry",
+        "Surgery",
+        "Orthopedic surgery"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1111/j.1600-9657.2012.01125.x",
+      "openalex_url": "https://openalex.org/W4297900236",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1600-9657.2012.01125.x",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1600-9657.2012.01125.x"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.36,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.8567,
+          "recency_signal": 0.44
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 5.34375,
+          "h_index": 139
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.4103/2045-9912.266997",
+      "arxiv_id": null,
+      "openalex_id": "W2974126585",
+      "ss_paper_id": null,
+      "pmid": "31552882",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Clinical utility of ozone therapy in dental and oral medicine",
+      "abstract": "Ozone is a highly reactive compound composed of three oxygen atoms that acts as an oxidant and oxidizer. It exists at the ground level as an air pollutant and a constituent of urban smog, as well as in the Earth's upper atmosphere as a protective layer from ultraviolet rays. Healthy cells contain antioxidants such as vitamins C and E to protect against ozone oxidization. However, pathogens such as bacteria contain very trace amounts of antioxidants in their membranes, which make them susceptible to ozone and destroy the cell membrane. This review explores the history, composition, and use of ozone worldwide in dentistry. Ozone therapy has thus far been utilized with wound healing, dental caries, oral lichen planus, gingivitis and periodontitis, halitosis, osteonecrosis of the jaw, post-surgical pain, plaque and biofilms, root canals, dentin hypersensitivity, temporomandibular joint disorders, and teeth whitening. The utility of ozone will undoubtedly grow if studies continue to show positive outcomes in an increasing number of dental conditions.",
+      "authors": [
+        {
+          "name": "SardarAli Khan",
+          "orcid": null,
+          "affiliation": "Stony Brook School",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Yiji Suh",
+          "orcid": "https://orcid.org/0000-0002-8238-5957",
+          "affiliation": "Stony Brook School",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Shrey Patel",
+          "orcid": "https://orcid.org/0000-0001-8091-1434",
+          "affiliation": "Stony Brook School",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Re Kaitlyn",
+          "orcid": null,
+          "affiliation": "Stony Brook School",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jason Gandhi",
+          "orcid": "https://orcid.org/0000-0001-7200-4463",
+          "affiliation": "St. George's University",
+          "country": "GD",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gunjan Joshi",
+          "orcid": null,
+          "affiliation": "Southampton Hospital",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "NoelL Smith",
+          "orcid": null,
+          "affiliation": "Foley Hoag (United States)",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2019,
+      "venue": "Medical Gas Research",
+      "issn": "2045-9912",
+      "type": "article",
+      "citation_count": 147,
+      "referenced_works_count": 26,
+      "fwci": 9.7656,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T13365",
+          "name": "Medical and Biological Ozone Research",
+          "score": 1.0
+        },
+        {
+          "id": "T13108",
+          "name": "Therapeutic Uses of Natural Elements",
+          "score": 0.9909999966621399
+        },
+        {
+          "id": "T13775",
+          "name": "Hydrogen's biological and therapeutic effects",
+          "score": 0.9559999704360962
+        }
+      ],
+      "keywords": [
+        "Ozone therapy",
+        "Oral medicine",
+        "Medicine",
+        "Intensive care medicine",
+        "Alternative medicine",
+        "Dentistry",
+        "Pathology"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities",
+          "score": 0.6800000071525574
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.4103/2045-9912.266997",
+      "openalex_url": "https://openalex.org/W2974126585",
+      "pdf_url": "https://www.medgasres.com/article.asp?issn=2045-9912;year=2019;volume=9;issue=3;spage=163;epage=167;aulast=Suh;type=2",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.medgasres.com/article.asp?issn=2045-9912;year=2019;volume=9;issue=3;spage=163;epage=167;aulast=Suh;type=2",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/6779001"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3581,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.6574,
+          "recency_signal": 0.72
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.8525345622119818,
+          "h_index": 50
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1002/jdd.70359",
+      "arxiv_id": null,
+      "openalex_id": "W7204462334",
+      "ss_paper_id": null,
+      "pmid": "42655977",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Differential Effects of VR and Early Clinical Exposure on Undergraduate Competency in Dental Trauma Management: A Randomized Crossover Pilot Study",
+      "abstract": "OBJECTIVE: This study evaluated the effectiveness of a virtual reality (VR)-based dental training system in enhancing clinical decision-making and operational skills among undergraduates managing complicated coronal fractures in young permanent teeth, a foundational competency in dental traumatology. METHODS: Sixty dental undergraduates were randomly divided into a VR training-first group (n = 30) and a conventional instruction-first group (n = 30). A crossover design was implemented with assessments at baseline (T1), after the first intervention (T2), and after the crossover phase (T3, wherein the two groups swapped instructional modalities). All participants received standard pre-clinical training before the pediatric dentistry rotation. The conventional instruction-first group directly began patient management under supervision, while the VR training-first group underwent a 2-week specialized training module for young permanent tooth coronal fractures (two 40-min sessions per week). Effects were evaluated using the VR system's assessment module, clinical performance scores, a self-rated diagnostic confidence scale, and a teaching satisfaction survey. RESULTS: Following the initial intervention phase (T2), distinct timing effects were observed. The VR training-first group demonstrated an immediate technical advantage, achieving significantly higher proficiency in simulated pulp chamber access time, clinical procedural fluency, and hard tissue preservation during actual patient management compared to the conventional group (p < 0.001). Conversely, the conventional instruction-first group achieved significantly higher scores in pulp status assessment at T2 (p = 0.005), reflecting the advantage of early direct clinical exposure for subjective diagnostic judgment. Following the crossover (T3), both groups attained comparable levels of overall clinical competency (p > 0.05), confirming that intervention sequencing primarily dictates the chronological rate of specific competency acquisition rather than final clinical proficiency. Secondary survey data supported VR's psychological scaffolding effect in mitigating initial clinical anxiety. CONCLUSION: This pilot study demonstrates that VR simulation significantly enhances undergraduate students' objective procedural competency in managing complicated coronal fractures. Given that the acquired skills, particularly precise hard tissue preservation, are universally applicable to broader dental trauma and general endodontics, VR serves as a highly effective complementary adjunct to safely bridge the gap between theoretical knowledge and patient-based clinical learning.",
+      "authors": [
+        {
+          "name": "Ningxin Zhu",
+          "orcid": "https://orcid.org/0000-0003-0891-3042",
+          "affiliation": "National Clinical Research",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Xijun Jiang",
+          "orcid": null,
+          "affiliation": "National Clinical Research",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jing Li",
+          "orcid": null,
+          "affiliation": "National Clinical Research",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2026,
+      "venue": "Journal of Dental Education",
+      "issn": "0022-0337",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 14,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T12439",
+          "name": "Dental Research and COVID-19",
+          "score": 0.7279000282287598
+        },
+        {
+          "id": "T12367",
+          "name": "Dental Trauma and Treatments",
+          "score": 0.19660000503063202
+        },
+        {
+          "id": "T11238",
+          "name": "Simulation-Based Education in Healthcare",
+          "score": 0.010700000450015068
+        }
+      ],
+      "keywords": [
+        "Crossover study",
+        "Randomized controlled trial",
+        "Coronal plane",
+        "Young adult",
+        "Intervention (counseling)",
+        "Virtual reality",
+        "Crossover",
+        "Clinical trial"
+      ],
+      "sdgs": [
+        {
+          "display_name": "Peace, Justice and strong institutions",
+          "id": "https://metadata.un.org/sdg/16",
+          "score": 0.5648385286331177
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1002/jdd.70359",
+      "openalex_url": "https://openalex.org/W7204462334",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jdd.70359",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jdd.70359"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.35,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.5618556701030928,
+          "h_index": 116
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1155/2020/7279509",
+      "arxiv_id": null,
+      "openalex_id": "W3111245959",
+      "ss_paper_id": null,
+      "pmid": "33376734",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Immunological Aspects of Dental Implant Rejection",
+      "abstract": "Nowadays, dental implants are a prominent therapeutic approach among dentists for replacing missing teeth. Failure in dental implants is a severe challenge recently. The factors which lead to dental implant failure are known. These factors can be categorized into different groups. In this article, we discussed the immunological aspects of implant failure as one of these groups. Cytokines and immune cells have extensive and various functions in peri-implantitis. The equilibrium between pro and anti-inflammatory cytokines and cells, which involve in this orchestra, has a crucial role in implant prognosis. In conclusion, immune cells, especially macrophages and dendritic cells, almost increased in the patients with implant failure. Also, proinflammatory cytokines were proposed as diagnostic factors according to their higher levels in dental implant rejection.",
+      "authors": [
+        {
+          "name": "Milad Baseri",
+          "orcid": "https://orcid.org/0000-0001-8531-8699",
+          "affiliation": "Tabriz University of Medical Sciences",
+          "country": "IR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Faraz Radmand",
+          "orcid": "https://orcid.org/0000-0002-9761-5663",
+          "affiliation": "Tabriz University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Reyhaneh Hamedi",
+          "orcid": null,
+          "affiliation": "Tabriz University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mehdi Yousefi",
+          "orcid": "https://orcid.org/0000-0003-0099-6728",
+          "affiliation": "Tabriz University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hossein Samadi Kafil",
+          "orcid": "https://orcid.org/0000-0001-6026-8795",
+          "affiliation": "Tabriz University of Medical Sciences",
+          "country": "IR",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2020,
+      "venue": "BioMed Research International",
+      "issn": "1110-7243",
+      "type": "article",
+      "citation_count": 78,
+      "referenced_works_count": 105,
+      "fwci": 6.0457,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10257",
+          "name": "Oral microbiology and periodontitis research",
+          "score": 0.9994000196456909
+        },
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.9987000226974487
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.9976000189781189
+        }
+      ],
+      "keywords": [
+        "Proinflammatory cytokine",
+        "Implant",
+        "Dental implant",
+        "Implant failure",
+        "Immune system",
+        "Medicine",
+        "Dentistry",
+        "Immunology",
+        "Inflammation",
+        "Surgery"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being",
+          "score": 0.7900000214576721
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1155/2020/7279509",
+      "openalex_url": "https://openalex.org/W3111245959",
+      "pdf_url": "https://downloads.hindawi.com/journals/bmri/2020/7279509.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://downloads.hindawi.com/journals/bmri/2020/7279509.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/7744195"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3497,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.5748,
+          "recency_signal": 0.76
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.1629213483146068,
+          "h_index": 258
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1186/1742-4933-10-23",
+      "arxiv_id": null,
+      "openalex_id": "W2162196135",
+      "ss_paper_id": null,
+      "pmid": "23763951",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Platelet-rich plasma (PRP) in dental and oral surgery: from the wound healing to bone regeneration",
+      "abstract": "Platelet-rich plasma (PRP) is a new approach to tissue regeneration and it is becoming a valuable adjunct to promote healing in many procedures in dental and oral surgery, especially in aging patients. PRP derives from the centrifugation of the patient's own blood and it contains growth factors that influence wound healing, thereby playing an important role in tissue repairing mechanisms. The use of PRP in surgical practice could have beneficial outcomes, reducing bleeding and enhancing soft tissue healing and bone regeneration. Studies conducted on humans have yielded promising results regarding the application of PRP to many dental and oral surgical procedures (i.e. tooth extractions, periodontal surgery, implant surgery). The use of PRP has also been proposed in the management of bisphosphonate-related osteonecrosis of the jaw (BRONJ) with the aim of enhancing wound healing and bone maturation. The aims of this narrative review are: i) to describe the different uses of PRP in dental surgery (tooth extractions and periodontal surgery) and oral surgery (soft tissues and bone tissue surgery, implant surgery and BRONJ surgery); and ii) to discuss its efficacy, efficiency and risk/benefit ratio. This review suggests that the use of PRP in the alveolar socket after tooth extractions is certainly capable of improving soft tissue healing and positively influencing bone regeneration but the latter effect seems to decrease a few days after the extraction. PRP has produced better results in periodontal therapy in association with other materials than when it is used alone. Promising results have also been obtained in implant surgery, when PRP was used in isolation as a coating material. The combination of necrotic bone curettage and PRP application seem to be encouraging for the treatment of refractory BRONJ, as it has proven successful outcomes with minimal invasivity. Since PRP is free from potential risks for patients, not difficult to obtain and use, it can be employed as a valid adjunct in many procedures in oral and dental surgery. However, further RCTs are required to support this evidence.",
+      "authors": [
+        {
+          "name": "A Albanese",
+          "orcid": null,
+          "affiliation": "University of Palermo",
+          "country": "IT",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Maria Ester Licata",
+          "orcid": null,
+          "affiliation": "University of Palermo",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Bianca Polizzi",
+          "orcid": null,
+          "affiliation": "University of Palermo",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Giuseppina Campisi",
+          "orcid": "https://orcid.org/0000-0002-9443-0495",
+          "affiliation": "University of Palermo",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2013,
+      "venue": "Immunity & Ageing",
+      "issn": "1742-4933",
+      "type": "article",
+      "citation_count": 316,
+      "referenced_works_count": 77,
+      "fwci": 18.508,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11570",
+          "name": "Periodontal Regeneration and Treatments",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T11787",
+          "name": "Oral and Maxillofacial Pathology",
+          "score": 0.9993000030517578
+        },
+        {
+          "id": "T13768",
+          "name": "Oral and gingival health research",
+          "score": 0.9965999722480774
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Platelet-rich plasma",
+        "Wound healing",
+        "Dentistry",
+        "Oral and maxillofacial surgery",
+        "Soft tissue",
+        "Dental alveolus",
+        "Regeneration (biology)",
+        "Dental surgery",
+        "Oral Surgical Procedures"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being",
+          "score": 0.6499999761581421
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1186/1742-4933-10-23",
+      "openalex_url": "https://openalex.org/W2162196135",
+      "pdf_url": "https://immunityageing.biomedcentral.com/counter/pdf/10.1186/1742-4933-10-23",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://immunityageing.biomedcentral.com/counter/pdf/10.1186/1742-4933-10-23",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/3683340",
+        "http://hdl.handle.net/10447/83023"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3491,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.7576,
+          "recency_signal": 0.48
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 8.989637305699482,
+          "h_index": 82
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    }
+  ],
+  "meta": {
+    "query": {
+      "topic": "dentist knowledge dental laser",
+      "search_query": "dentist knowledge dental laser",
+      "year_min": null,
+      "year_max": null,
+      "per_strategy": 40,
+      "terms": [
+        "dentist",
+        "knowledge",
+        "dental",
+        "laser"
+      ]
+    },
+    "counts": {
+      "retrieved_raw": 120,
+      "after_dedup": 108,
+      "after_relevance_filter": 108,
+      "after_journal_filter": 108,
+      "after_rank_filter": 108,
+      "returned": 30
+    },
+    "rank": {
+      "platform": "jcr",
+      "platform_source": "default",
+      "keep_tiers": null,
+      "keep_quartiles": null,
+      "top_only": false,
+      "category": null,
+      "applied_filter": false,
+      "ambiguous": false,
+      "candidate_platforms": [],
+      "kept": null,
+      "filtered": null,
+      "no_platform_data": null,
+      "data_loaded": false,
+      "loaded_platforms": [],
+      "switchable_platforms": [],
+      "switch_is_refilter_not_research": true,
+      "stripped_phrases": [],
+      "deepen": {
+        "active": false,
+        "rounds": 0,
+        "saturated": false,
+        "final_per_strategy": 40
+      },
+      "attribution": null,
+      "note": null,
+      "keep_tiers_note": null,
+      "naming": "CAS 区 & SJR best_quartile are PARTITIONS; only JCR impact_factor is a real Impact Factor (R-04/R-09). 切换标准/档位 = 重筛已标注的候选池，不重搜。"
+    },
+    "enrichment": {
+      "enriched": true,
+      "impact_source": "openalex_summary_stats",
+      "impact_attached": 100,
+      "filter_quartiles": null,
+      "filter_min_impact": null,
+      "category": null,
+      "issn_backfill_enabled": true,
+      "issn_backfill_attempted": 0,
+      "issn_backfilled": 0,
+      "note": "Single journal_rank layer. Quartile/影响力 data lives in each paper's journal_rank (CAS/JCR/SJR + openalex). Partition data is cached under ~/.paper-search-pro/ranks/ (run `journal_rank fetch`, no API key needed). Only JCR IF(2024) is a real Impact Factor."
+    },
+    "relevance": {
+      "method": "heuristic_v1",
+      "is_llm_rcs": false,
+      "min_relevance": 0.0,
+      "weights": {
+        "title_coverage": 0.5,
+        "abstract_coverage": 0.25,
+        "citation_signal": 0.15,
+        "recency_signal": 0.1
+      },
+      "note": "Deterministic query-grounded heuristic, NOT the human path's LLM RCS. A signal for self-judgement, computed for every paper."
+    },
+    "saturation": {
+      "method": "heuristic_v1",
+      "advisory": true,
+      "looks_saturated": false,
+      "per_strategy_new_papers": [
+        39,
+        40,
+        29
+      ],
+      "last_strategy_marginal_yield": 0.2685,
+      "score_distribution": {
+        "high": 0,
+        "medium": 28,
+        "low": 80
+      },
+      "note": "Heuristic stop signal (no LLM classification). 'looks_saturated' = later strategies added few new papers. Advisory only."
+    },
+    "ratelimit": {
+      "ok": true,
+      "remaining_usd": 0.935,
+      "limit_usd": 1.0,
+      "remaining": 9350,
+      "limit": 10000,
+      "reset_seconds": 48913,
+      "retry_after": null,
+      "should_switch": false,
+      "mode": "probe",
+      "error": null,
+      "switched_source": false
+    },
+    "source_used": "openalex",
+    "warnings": []
+  }
+}

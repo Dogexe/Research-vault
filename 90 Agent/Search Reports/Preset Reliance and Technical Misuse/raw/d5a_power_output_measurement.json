@@ -1,0 +1,4373 @@
+{
+  "ok": true,
+  "schema_version": "1.0",
+  "data": [
+    {
+      "doi": "10.1038/s41598-021-99709-8",
+      "arxiv_id": null,
+      "openalex_id": "W3207348591",
+      "ss_paper_id": null,
+      "pmid": "34635754",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Thermal effect of a 445 nm diode laser on five dental implant systems: an in vitro study",
+      "abstract": "The purpose of this in vitro study was to assess the thermal effect of the 445 nm diode laser on five dental implant systems. In an ailing implant protocol, five commercial dental implant systems were subjected to 445 nm diode laser energy at different wattages [W], exposure times, and modes (continuous wave [CW] vs. pulsed and contact vs. non-contact) of laser beam delivery. Scanning electron microscopy (SEM) allowed the evaluation of irradiated implant surfaces. A total of 2880 temperature response curves were recorded. The 445 nm wavelength caused temperature increases of more than 10 °C at or above the 0.8 W power level working in CW mode for 5 s and in pulsed mode at 3 W for 20 s with 10% duty cycle. Highest rises in temperature were seen in the Straumann Pure ceramic implant, lowest in the Ankylos system. SEM analysis revealed no surface alteration in all systems in non-contact mode. The applied laser is not inherently safe for the decontamination of ailing implants. From the results of this study it was concluded that different dental implant materials and geometries show different temperature response curves when subjected to 445 nm diode laser energy. Clinicians ought to be aware of this. Therefore, manufacturers of laser devices should provide implant-specific laser parameters for the decontamination process. However, both laser irradiation systems can prevent harmful rises in temperature and surface alteration when used at moderate laser parameters.",
+      "authors": [
+        {
+          "name": "Herbert Deppe",
+          "orcid": null,
+          "affiliation": "Technical University of Munich",
+          "country": "DE",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Markus Ahrens",
+          "orcid": "https://orcid.org/0000-0002-0588-9043",
+          "affiliation": "Technical University of Munich",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Alexandra V. Behr",
+          "orcid": null,
+          "affiliation": "Technical University of Munich",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Christina Marr",
+          "orcid": null,
+          "affiliation": "Technical University of Munich",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Anton Sculean",
+          "orcid": "https://orcid.org/0000-0003-2836-5477",
+          "affiliation": "University of Bern",
+          "country": "CH",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Petra Mela",
+          "orcid": "https://orcid.org/0000-0001-6503-076X",
+          "affiliation": "Technical University of Munich",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Lucas M. Ritschl",
+          "orcid": "https://orcid.org/0000-0002-1970-0344",
+          "affiliation": "Technical University of Munich",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2021,
+      "venue": "Scientific Reports",
+      "issn": "2045-2322",
+      "type": "article",
+      "citation_count": 24,
+      "referenced_works_count": 36,
+      "fwci": 3.7313,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.9998000264167786
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9991000294685364
+        },
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.9968000054359436
+        }
+      ],
+      "keywords": [
+        "Laser",
+        "Materials science",
+        "Diode",
+        "Irradiation",
+        "Implant",
+        "Dental implant",
+        "Duty cycle",
+        "Scanning electron microscope",
+        "Optoelectronics",
+        "Biomedical engineering"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.7900000214576721,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1038/s41598-021-99709-8",
+      "openalex_url": "https://openalex.org/W3207348591",
+      "pdf_url": "https://www.nature.com/articles/s41598-021-99709-8.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.nature.com/articles/s41598-021-99709-8.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/8505640",
+        "https://boris.unibe.ch/163828/",
+        "https://doaj.org/article/81b566049d894fe2bfb17cae880d58e4",
+        "https://mediatum.ub.tum.de/1704280"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.5602,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.5,
+          "abstract_coverage": 0.6667,
+          "citation_signal": 0.4235,
+          "recency_signal": 0.8
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 5.053682639353544,
+          "h_index": 465
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1111/cid.12957",
+      "arxiv_id": null,
+      "openalex_id": "W3092677463",
+      "ss_paper_id": null,
+      "pmid": "33063461",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Effect of low level laser therapy on crestal bone levels around dental implants—A pilot study",
+      "abstract": "Abstract Background Implant success is affected by initial bone resorption at the implant surface. Continuous efforts have been made to reduce the peri‐implant crestal bone loss. Limited information is available regarding the influence of low level laser therapy (LLLT) on interaction between the bone and implant surface. Purpose The aim of this pilot study was to assess the effect of LLLT on peri‐implant crestal bone levels. Materials and methods Twenty implants were placed in 20 patients who were randomly assigned to two groups. Group I patients' received no adjunctive treatment and group II patients' were administered LLLT using 980 nm diode laser at 0.1 W output power following implant placement. The energy density of 4 J/cm 2 was delivered at six sites for a duration of 10 seconds per site. Crestal bone levels were evaluated primarily using digital intraoral periapical (IOPA) radiograph. The measurements were made immediately (T0) and 6 weeks (T1) post implant placement; and 6 months (T2) and 1 year (T3) post prosthetic loading time intervals and compared using repeated measures ANOVA test. Results Crestal bone levels at baseline were statistically not significant between groups ( P = .880). At T3 time interval, the mean change in crestal bone levels around all anatomical implant sites measured was 0.81 (SE 0.04) mm for irradiated group and 0.97 (SE 0.04) mm for nonirradiated group. Intergroup analysis revealed statistically significant ( P = .020) less crestal bone loss in group that received LLLT. Conclusion Under the conditions of this study, LLLT reduced the crestal bone resorption surrounding dental implants. Trial registration The present clinical trial was not registered.",
+      "authors": [
+        {
+          "name": "Prachi Gulati",
+          "orcid": "https://orcid.org/0000-0003-1671-0579",
+          "affiliation": "Kothiwal Dental College and Research Centre",
+          "country": "IN",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Manoj Kumar",
+          "orcid": "https://orcid.org/0000-0002-8255-8854",
+          "affiliation": "Kothiwal Dental College and Research Centre",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gaurav Issar",
+          "orcid": "https://orcid.org/0000-0003-4137-2401",
+          "affiliation": "Kothiwal Dental College and Research Centre",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ankur Thakral",
+          "orcid": "https://orcid.org/0000-0003-0525-4002",
+          "affiliation": "Indian Army",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2020,
+      "venue": "Clinical Implant Dentistry and Related Research",
+      "issn": "1523-0899",
+      "type": "article",
+      "citation_count": 24,
+      "referenced_works_count": 30,
+      "fwci": 0.8439,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.8641999959945679
+        },
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.10599999874830246
+        },
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.008899999782443047
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Dentistry",
+        "Implant",
+        "Bone resorption",
+        "Low level laser therapy",
+        "Dental implant",
+        "Orthodontics",
+        "Laser therapy",
+        "Surgery",
+        "Laser"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8299999833106995,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1111/cid.12957",
+      "openalex_url": "https://openalex.org/W3092677463",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.5145,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.8333,
+          "citation_signal": 0.4235,
+          "recency_signal": 0.76
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.991573033707865,
+          "h_index": 123
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/s16060928",
+      "arxiv_id": null,
+      "openalex_id": "W2474837206",
+      "ss_paper_id": null,
+      "pmid": "27338413",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "A Fiber-Coupled Self-Mixing Laser Diode for the Measurement of Young’s Modulus",
+      "abstract": "This paper presents the design of a fiber-coupled self-mixing laser diode (SMLD) for non-contact and non-destructive measurement of Young's modulus. By the presented measuring system, the Young's modulus of aluminum 6061 and brass are measured as 70.0 GPa and 116.7 GPa, respectively, showing a good agreement within the standards in the literature and yielding a much smaller deviation and a higher repeatability compared with traditional tensile testing. Its fiber-coupled characteristics make the system quite easy to be installed in many application cases.",
+      "authors": [
+        {
+          "name": "Ke Lin",
+          "orcid": "https://orcid.org/0000-0002-3429-5877",
+          "affiliation": "University of Wollongong",
+          "country": "AU",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yanguang Yu",
+          "orcid": "https://orcid.org/0000-0002-1541-9061",
+          "affiliation": "University of Wollongong",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Jiangtao Xi",
+          "orcid": "https://orcid.org/0000-0002-5550-1975",
+          "affiliation": "University of Wollongong",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Huijun Li",
+          "orcid": "https://orcid.org/0000-0002-2896-3867",
+          "affiliation": "University of Wollongong",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Qinghua Guo",
+          "orcid": "https://orcid.org/0000-0002-5180-7854",
+          "affiliation": "University of Wollongong",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jun Tong",
+          "orcid": "https://orcid.org/0000-0002-4445-5125",
+          "affiliation": "University of Wollongong",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Lihong Su",
+          "orcid": "https://orcid.org/0000-0003-3772-7214",
+          "affiliation": "University of Wollongong",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2016,
+      "venue": "Sensors",
+      "issn": "1424-8220",
+      "type": "article",
+      "citation_count": 22,
+      "referenced_works_count": 31,
+      "fwci": 1.7417,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11429",
+          "name": "Semiconductor Lasers and Optical Devices",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T11799",
+          "name": "Adhesion, Friction, and Surface Interactions",
+          "score": 0.9951000213623047
+        },
+        {
+          "id": "T13049",
+          "name": "Surface Roughness and Optical Measurements",
+          "score": 0.9937000274658203
+        }
+      ],
+      "keywords": [
+        "Materials science",
+        "Brass",
+        "Modulus",
+        "Repeatability",
+        "Young's modulus",
+        "Laser",
+        "Fiber",
+        "Diode",
+        "Mixing (physics)",
+        "Composite material"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/s16060928",
+      "openalex_url": "https://openalex.org/W2474837206",
+      "pdf_url": "https://www.mdpi.com/1424-8220/16/6/928/pdf?version=1466601401",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/1424-8220/16/6/928/pdf?version=1466601401",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/4934353",
+        "https://doaj.org/article/0477d83dc5f74697af0d2d52b1ce47af"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4969,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.5,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.4125,
+          "recency_signal": 0.6
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 5.456927794814608,
+          "h_index": 337
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1007/s10103-026-05011-2",
+      "arxiv_id": null,
+      "openalex_id": "W7204494684",
+      "ss_paper_id": null,
+      "pmid": "42661013",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Learning curve and target-based accuracy of diode laser versus scalpel incisions in a porcine skin model: a preclinical feasibility study with undergraduate dental students",
+      "abstract": "PURPOSE: Despite the growing clinical application of diode lasers in oral surgery, laser training remains underrepresented in dental curricula. This study evaluated the feasibility of structured preclinical diode-laser training and characterized the early learning curve of undergraduate dental students without prior laser experience, using target-based accuracy of laser incisions compared with a familiar scalpel reference condition. METHODS: 22 dental students performed standardized linear incisions on porcine skin at three time points. Each session comprised five incisions (target: 10 mm length, 2 mm depth, minimal width): four diode-laser settings (1 W/pulsed, 3 W/pulsed, 1 W/continuous, 3 W/continuous; 445 nm wavelength; 320 μm fiber) and one scalpel incision. Incision morphology was assessed by micro-computed tomography. Operative time was recorded per incision, and subjective workload was evaluated using the NASA-TLX questionnaire. RESULTS: Total operative time decreased significantly across sessions (p = 0.006). Per-method reductions were significant only for the two pulsed settings. Four of six NASA-TLX subscales improved (all p ≤ 0.013). Length accuracy improved significantly over time (main effect of time p < 0.001) with no method-time interaction and comparable, significant within-method gains for all methods. Depth accuracy showed only a small overall time effect and a significant within-method gain for a single laser setting (1 W pulsed). Incision width did not change significantly over sessions for any method. Laser incisions were consistently wider than scalpel incisions. CONCLUSION: Structured preclinical laser training on porcine skin is feasible and is associated with early gains in operative efficiency, perceived workload and length accuracy. These gains largely reflect general task familiarisation rather than a laser-specific learning advantage. The findings support integrating structured laser training using animal-tissue models into dental education but cannot establish clinical competence, equivalence to scalpel surgery, or transfer to intraoral patient care.",
+      "authors": [
+        {
+          "name": "Dorothee Spille",
+          "orcid": null,
+          "affiliation": "Universität Hamburg",
+          "country": "DE",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Sophia Lymperopoulos",
+          "orcid": null,
+          "affiliation": "University Hospital Schleswig-Holstein",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Juliane Wagner",
+          "orcid": "https://orcid.org/0000-0003-4737-5953",
+          "affiliation": "University Hospital Schleswig-Holstein",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Clemens Mohr",
+          "orcid": null,
+          "affiliation": "University Hospital Schleswig-Holstein",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Felix Lorich",
+          "orcid": null,
+          "affiliation": "University Hospital Schleswig-Holstein",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Tim Kalsberger",
+          "orcid": null,
+          "affiliation": "Christian-Albrechts-Universität zu Kiel",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jörg Wiltfang",
+          "orcid": null,
+          "affiliation": "University Hospital Schleswig-Holstein",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Johannes Spille",
+          "orcid": "https://orcid.org/0000-0002-6785-2676",
+          "affiliation": "University Hospital Schleswig-Holstein",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2026,
+      "venue": "Lasers in Medical Science",
+      "issn": "0268-8921",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 27,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.5077999830245972
+        },
+        {
+          "id": "T12439",
+          "name": "Dental Research and COVID-19",
+          "score": 0.2797999978065491
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.046799998730421066
+        }
+      ],
+      "keywords": [
+        "Laser",
+        "Workload",
+        "Diode",
+        "Laser therapy",
+        "Pig skin",
+        "Low level laser therapy"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality Education",
+          "score": 0.5948444604873657
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1007/s10103-026-05011-2",
+      "openalex_url": "https://openalex.org/W7204494684",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10103-026-05011-2.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://link.springer.com/content/pdf/10.1007/s10103-026-05011-2.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13522085/pdf/10103_2026_Article_5011.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.475,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.5,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.7476190476190476,
+          "h_index": 109
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.4238/w3b7qk26",
+      "arxiv_id": null,
+      "openalex_id": "W7201847839",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "ASSESSMENT OF THE BIO- STIMULATORY IMPACT OF T-PRF COMPARED TO T-PRF AUGMENTED WITH DIODE LASER IN DENTAL IMPLANTS FOR THE REPLACEMENT OF POSTERIOR MANDIBULAR TEETH: A RANDOMIZED CONTROL TRIAL",
+      "abstract": "Background: Successful dental implant therapy primarily depends on osseointegration, a biological process involving sequential bone healing and remodeling around the implant surface. Bio-stimulatory approaches such as Titanium Prepared Platelet Rich Fibrin (T-PRF) and Low-Level Laser Therapy (LLLT) have gained attention because of their potential to enhance tissue regeneration, improve implant stability, and accelerate healing. Aim: To assess and compare the bio-stimulatory impact of T-PRF alone and T-PRF augmented with diode laser therapy in dental implants placed for replacement of posterior mandibular teeth. Materials and Methods: This prospective randomized controlled clinical trial included 50 patients with unilateral posterior mandibular edentulous spaces requiring implant-supported rehabilitation. Patients were randomly allocated into two equal groups: Group A received T-PRF alone, whereas Group B received T-PRF combined with LLLT. Implant stability was assessed using Resonance Frequency Analysis and Implant Stability Quotient (ISQ) values at baseline, 3 months, and 6 months. Bone density was evaluated using Cone Beam Computed Tomography (CBCT), while postoperative pain was assessed using Numerical Rating Scale (NRS) scores at different postoperative intervals. Statistical analysis was performed using SPSS software with p<0.05 considered statistically significant. Results: Both groups demonstrated progressive improvement in implant stability and peri-implant bone density during follow-up. The T-PRF + LLLT group showed lower postoperative pain scores compared with T-PRF alone, with a statistically significant difference observed on postoperative Day 2 (p<0.05). However, no statistically significant differences were observed between groups regarding implant stability or bone density. Conclusion: Adjunctive use of LLLT with T-PRF effectively reduced early postoperative pain but did not provide significant additional benefits regarding implant stability or bone density compared with T-PRF alone.",
+      "authors": [
+        {
+          "name": "Love Kumar Bhatia",
+          "orcid": null,
+          "affiliation": "Sardar Patel Post Graduate Institute of Dental and Medical Sciences",
+          "country": "IN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Dr. Shwetank Dwivedi",
+          "orcid": null,
+          "affiliation": "Sardar Patel Post Graduate Institute of Dental and Medical Sciences",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Shitij Srivastava",
+          "orcid": "https://orcid.org/0000-0001-7460-1667",
+          "affiliation": "Sardar Patel Post Graduate Institute of Dental and Medical Sciences",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Abhinav Shekhar",
+          "orcid": "https://orcid.org/0000-0003-4463-8770",
+          "affiliation": "Sardar Patel Post Graduate Institute of Dental and Medical Sciences",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2026,
+      "venue": "Genetics and Molecular Research",
+      "issn": "1676-5680",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 0,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.4803999960422516
+        },
+        {
+          "id": "T11570",
+          "name": "Periodontal Regeneration and Treatments",
+          "score": 0.46129998564720154
+        },
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.022099999710917473
+        }
+      ],
+      "keywords": [
+        "Implant stability quotient",
+        "Resonance frequency analysis",
+        "Implant",
+        "Randomized controlled trial",
+        "Visual analogue scale",
+        "Dental implant",
+        "Bone density",
+        "Clinical trial"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.4238/w3b7qk26",
+      "openalex_url": "https://openalex.org/W7201847839",
+      "pdf_url": "https://geneticsmr.com/index.php/gmr/article/download/3152/1954",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://geneticsmr.com/index.php/gmr/article/download/3152/1954"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.475,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.5,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.039473684210526314,
+          "h_index": 71
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1155/2019/2785302",
+      "arxiv_id": null,
+      "openalex_id": "W2942132435",
+      "ss_paper_id": null,
+      "pmid": "31143771",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Photobiomodulation by a 635nm Diode Laser on Peri-Implant Bone: Primary and Secondary Stability and Bone Density Analysis—A Randomized Clinical Trial",
+      "abstract": "INTRODUCTION: Various procedures in dental implantology are performed to enhance the bone healing process and implant stability. One of these methods can be a low-level laser therapy (LLLT). OBJECTIVES: The aim of our study was to evaluate the stabilization (primary and secondary) and bone density in peri-implant zone after LLLT protocol using a 635 nm diode laser. MATERIAL AND METHODS: ), time: 40 sec per point, 2 points (irradiation on a buccal and a lingual side of the alveolus/implant), and total energy per session 8J; G2 (control): no laser irradiation. The G1 (test) group's implants were irradiated according to the following protocol: 1 day before surgery, immediately after the surgery and 2, 4, 7, and 14 days after. The total energy after all therapeutic sessions was 48J. The implants stability was measured employing a Periotest device (Periotest Test Value: PTV) (measured immediately after the surgery, 7 days, 2 weeks, 4 weeks, and 2 and 3 months after the surgery) and the bone density using cone-beam computed tomography (grayscale value) (measured immediately after the surgery, 4 weeks and 12 weeks after the treatment). RESULTS: week after 635 nm laser irradiation (G1) compared with a control (G2) group (p<0.01). The secondary stability of the implants after 12 weeks observation was not significantly higher for the laser group in contrast to none-irradiated implants (p>0.05). The mean grayscale value at the apical, middle, and cervical level of the titanium implants showed the reduction of pixel grayscale value after 2 weeks and was lower for the G1 group in contrast to the G2 group (p<0.01). The value of grayscale after 12 weeks was significantly higher at the middle and apical level of the implants in the G1group in contrast to the G2 group (p<0.01). CONCLUSION: The application of the 635 nm diode laser enhanced secondary implant stability and bone density. However, to assess the impact of the LLLT on peri-implant bone with different bone densities, further well-controlled long-term trials on larger study groups are needed.",
+      "authors": [
+        {
+          "name": "Jacek Matys",
+          "orcid": "https://orcid.org/0000-0002-3801-0218",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Katarzyna Świder",
+          "orcid": "https://orcid.org/0000-0002-9098-3957",
+          "affiliation": "University of Wrocław",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Kinga Grzech‐Leśniak",
+          "orcid": "https://orcid.org/0000-0002-5700-4577",
+          "affiliation": "University of Wrocław",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Marzena Dominiak",
+          "orcid": "https://orcid.org/0000-0001-8943-0549",
+          "affiliation": "University of Wrocław",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Umberto Romeo",
+          "orcid": "https://orcid.org/0000-0003-2439-2187",
+          "affiliation": "Sapienza University of Rome",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2019,
+      "venue": "BioMed Research International",
+      "issn": "1110-7243",
+      "type": "article",
+      "citation_count": 72,
+      "referenced_works_count": 34,
+      "fwci": 6.4483,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9833999872207642
+        },
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.010900000110268593
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.000699999975040555
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Dentistry",
+        "Implant",
+        "Low level laser therapy",
+        "Bone density",
+        "Dental implant",
+        "Buccal administration",
+        "Resonance frequency analysis",
+        "Laser",
+        "Nuclear medicine"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "score": 0.49000000953674316,
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1155/2019/2785302",
+      "openalex_url": "https://openalex.org/W2942132435",
+      "pdf_url": "http://downloads.hindawi.com/journals/bmri/2019/2785302.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "http://downloads.hindawi.com/journals/bmri/2019/2785302.pdf",
+        "https://iris.uniroma1.it/bitstream/11573/1562993/1/Matys_Photobiomodulation_2019.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/6501257"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4483,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.5644,
+          "recency_signal": 0.72
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.1629213483146068,
+          "h_index": 258
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1007/s10103-015-1743-4",
+      "arxiv_id": null,
+      "openalex_id": "W1980270234",
+      "ss_paper_id": null,
+      "pmid": "25800534",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "The effectiveness of low-level diode laser therapy on orthodontic pain management: a systematic review and meta-analysis",
+      "abstract": "To assess the effectiveness of diode low-level laser therapy (LLLT) for orthodontic pain control, a systematic and extensive electronic search for randomised controlled trials (RCTs) investigating the effects of diode LLLT on orthodontic pain prior to November 2014 was performed using the Cochrane Library (Issue 9, 2014), PubMed (1997), EMBASE (1947) and Web of Science (1956). The Cochrane tool for risk of bias evaluation was used to assess the bias risk in the chosen data. A meta-analysis was conducted using RevMan 5.3. Of the 186 results, 14 RCTs, with a total of 659 participants from 11 countries, were included. Except for three studies assessed as having a 'moderate risk of bias', the RCTs were rated as having a 'high risk of bias'. The methodological weaknesses were mainly due to 'blinding' and 'allocation concealment'. The meta-analysis showed that diode LLLT significantly reduced orthodontic pain by 39 % in comparison with placebo groups (P = 0.02). Diode LLLT was shown to significantly reduce the maximum pain intensity among parallel-design studies (P = 0.003 versus placebo groups; P = 0.000 versus control groups). However, no significant effects were shown for split-mouth-design studies (P = 0.38 versus placebo groups). It was concluded that the use of diode LLLT for orthodontic pain appears promising. However, due to methodological weaknesses, there was insufficient evidence to support or refute LLLT's effectiveness. RCTs with better designs and appropriate sample power are required to provide stronger evidence for diode LLLT's clinical applications.",
+      "authors": [
+        {
+          "name": "Chong Ren",
+          "orcid": null,
+          "affiliation": "University of Hong Kong",
+          "country": "HK",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Colman McGrath",
+          "orcid": "https://orcid.org/0000-0001-9379-0889",
+          "affiliation": "University of Hong Kong",
+          "country": "HK",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yanqi Yang",
+          "orcid": "https://orcid.org/0000-0003-0350-352X",
+          "affiliation": "University of Hong Kong",
+          "country": "HK",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2015,
+      "venue": "Lasers in Medical Science",
+      "issn": "0268-8921",
+      "type": "review",
+      "citation_count": 86,
+      "referenced_works_count": 54,
+      "fwci": 1.8632,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.992900013923645
+        },
+        {
+          "id": "T10852",
+          "name": "Temporomandibular Joint Disorders",
+          "score": 0.9541000127792358
+        }
+      ],
+      "keywords": [
+        "Blinding",
+        "Cochrane Library",
+        "Medicine",
+        "Meta-analysis",
+        "Placebo",
+        "Randomized controlled trial",
+        "Physical therapy",
+        "Low level laser therapy",
+        "MEDLINE",
+        "Systematic review"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1007/s10103-015-1743-4",
+      "openalex_url": "https://openalex.org/W1980270234",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10103-015-1743-4.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://link.springer.com/content/pdf/10.1007/s10103-015-1743-4.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/4562996",
+        "http://hdl.handle.net/10722/215042"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4358,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.5875,
+          "recency_signal": 0.56
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.7476190476190476,
+          "h_index": 109
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1002/lsm.20279",
+      "arxiv_id": null,
+      "openalex_id": "W2104754899",
+      "ss_paper_id": null,
+      "pmid": "16444695",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Bactericidal effects of diode laser on Streptococcus mutans after irradiation through different thickness of dentin",
+      "abstract": "BACKGROUND AND OBJECTIVES: A reliable method to eradicate the bacteria of residual carious dentin has not yet been developed. The aim of this study was to evaluate the antibacterial effect of a diode laser on Streptococcus mutans through different thickness (500, 1,000, and 2,000 microm) of human dentin. The thermal effect of laser irradiation was also investigated. STUDY DESIGN/MATERIALS AND METHODS: Dentin specimens were inoculated with 2 microl of S. mutans on one side and irradiated by a diode laser on the other side with a power output ranging from 0.5 to 7 W. The laser tip was swept with the whole irradiation area of 7 mm x 3 mm at a speed of about 10 mm/second with a total irradiation time of 30 seconds. Cooling with distilled water (30 ml/minute) was applied simultaneously during laser irradiation. After laser irradiation, the bacteria was removed from the dentin surfaces and cultured for 48 hours at 37 degrees C anaerobically to assess the colony forming units (CFU) per ml. The morphology of the lased bacteria and the temperature rise during laser irradiation were observed by scanning electron microscope (SEM) and measured by thermocouple, respectively. RESULTS: The results revealed that 7 W of laser power could kill 97.7% of CFU through 500 microm thickness of dentin. However, the bactericidal efficiency was significantly reduced as the dentin thickness was increased. The morphological changes of lased bacteria ranged from less affected such as loss of their wall bands and existence of minicells to more severely degenerated, such as disintegration and fusion of cells with pores on the cell wall. Only the dentin specimens with a thickness of 500 microm exhibited a temperature rise greater than 5.5 degrees C after receiving 5 or 7 W of laser irradiation. CONCLUSIONS: A diode laser can eliminate the Streptococcus mutans of the residual carious dentin without inducing high pulpal temperature rise when the remaining dentin thickness is greater than 1 mm.",
+      "authors": [
+        {
+          "name": "Bor‐Shiunn Lee",
+          "orcid": "https://orcid.org/0000-0002-8978-2111",
+          "affiliation": "National Taiwan University Hospital",
+          "country": "TW",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yueh‐Wen Lin",
+          "orcid": null,
+          "affiliation": "Taipei Medical University Hospital",
+          "country": "TW",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jean‐San Chia",
+          "orcid": "https://orcid.org/0000-0002-5431-0712",
+          "affiliation": "National Taiwan University Hospital",
+          "country": "TW",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Tseng‐Ting Hsieh",
+          "orcid": null,
+          "affiliation": "National Taiwan University Hospital",
+          "country": "TW",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Min‐Huey Chen",
+          "orcid": "https://orcid.org/0000-0002-4853-1906",
+          "affiliation": "National Taiwan University Hospital",
+          "country": "TW",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Chun‐Pin Lin",
+          "orcid": "https://orcid.org/0000-0002-3498-1113",
+          "affiliation": "National Taiwan University Hospital",
+          "country": "TW",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Wan–Hong Lan",
+          "orcid": null,
+          "affiliation": "National Taiwan University Hospital",
+          "country": "TW",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2006,
+      "venue": "Lasers in Surgery and Medicine",
+      "issn": "0196-8092",
+      "type": "article",
+      "citation_count": 55,
+      "referenced_works_count": 38,
+      "fwci": 1.9303,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.8396999835968018
+        },
+        {
+          "id": "T11958",
+          "name": "Dental Erosion and Treatment",
+          "score": 0.04430000111460686
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.03680000081658363
+        }
+      ],
+      "keywords": [
+        "Dentin",
+        "Irradiation",
+        "Streptococcus mutans",
+        "Laser",
+        "Distilled water",
+        "Materials science",
+        "Scanning electron microscope",
+        "Chemistry",
+        "Bacteria",
+        "Dentistry"
+      ],
+      "sdgs": [
+        {
+          "score": 0.6600000262260437,
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1002/lsm.20279",
+      "openalex_url": "https://openalex.org/W2104754899",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lsm.20279",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lsm.20279"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4328,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.6667,
+          "citation_signal": 0.5296,
+          "recency_signal": 0.2
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.5835543766578248,
+          "h_index": 161
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1016/j.heliyon.2023.e17457",
+      "arxiv_id": null,
+      "openalex_id": "W4381332638",
+      "ss_paper_id": null,
+      "pmid": "37408894",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "LASER as a tool for surface modification of dental biomaterials: A review",
+      "abstract": "In recent years, the application of lasers for modifying the surface topography of dental biomaterials has received increased attention. This review paper aims to provide an overview of the current status on the utilization of lasers as a potential tool for surface modification of dental biomaterials such as implants, ceramics, and other materials used for restorative purposes. A literature search was done for articles related to the use of lasers for surface modification of dental biomaterials in English language published between October 2000 and March 2023 in Scopus, Pubmed and web of science, and relevant articles were reviewed. Lasers have been mainly used for surface modification of implant materials (71%), especially titanium and its alloys, to promote osseointegration. In recent years, laser texturing has also emerged as a promising technique to reduce bacterial adhesion on titanium implant surfaces. Currently, lasers are being widely used for surface modifications to improve osseointegration and reduce peri-implant inflammation of ceramic implants and to enhance the retention of ceramic restorations to the tooth. The studies considered in this review seem to suggest laser texturing to be more proficient than the conventional methods of surface modification. Lasers can alter the surface characteristics of dental biomaterials by creating innovative surface patterns without significantly affecting their bulk properties. With advances in laser technology and availability of newer wavelengths and modes, laser as a tool for surface modification of dental biomaterials is a promising field, with excellent potential for future research.",
+      "authors": [
+        {
+          "name": "Runki Saran",
+          "orcid": "https://orcid.org/0000-0002-8112-9214",
+          "affiliation": "Manipal Academy of Higher Education",
+          "country": "IN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Kishore Ginjupalli",
+          "orcid": "https://orcid.org/0000-0002-1824-2054",
+          "affiliation": "Manipal Academy of Higher Education",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Sajan D. George",
+          "orcid": "https://orcid.org/0000-0003-4198-2613",
+          "affiliation": "Manipal Academy of Higher Education",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Santhosh Chidangil",
+          "orcid": "https://orcid.org/0000-0002-2973-6834",
+          "affiliation": "Manipal Academy of Higher Education",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "V. K. Unnikrishnan",
+          "orcid": null,
+          "affiliation": "Manipal Academy of Higher Education",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2023,
+      "venue": "Heliyon",
+      "issn": "2405-8440",
+      "type": "article",
+      "citation_count": 56,
+      "referenced_works_count": 175,
+      "fwci": 10.3028,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.9994000196456909
+        },
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.9991999864578247
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9991999864578247
+        }
+      ],
+      "keywords": [
+        "Osseointegration",
+        "Materials science",
+        "Surface modification",
+        "Dental implant",
+        "Laser",
+        "Titanium",
+        "Nanotechnology",
+        "Dentistry",
+        "Biomedical engineering",
+        "Implant"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/j.heliyon.2023.e17457",
+      "openalex_url": "https://openalex.org/W4381332638",
+      "pdf_url": "http://www.cell.com/article/S2405844023046650/pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "http://www.cell.com/article/S2405844023046650/pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10319194/pdf/main.pdf",
+        "https://doaj.org/article/0c008c6dd4fe4d539e378b4b8529251c"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4178,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.3333,
+          "citation_signal": 0.5319,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 9.111074612857813,
+          "h_index": 190
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1089/pho.2006.24.45",
+      "arxiv_id": null,
+      "openalex_id": "W1969311298",
+      "ss_paper_id": null,
+      "pmid": "16503788",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Management of Mouth Opening in Patients with Temporomandibular Disorders through Low-Level Laser Therapy and Transcutaneous Electrical Neural Stimulation",
+      "abstract": "OBJECTIVE: The aim of this study was to evaluate the effectiveness of low-level laser therapy (LLLT) and transcutaneous electrical neural stimulation (TENS) on the improvement of mouth opening in patients with temporomandibular disorder (TMD). BACKGROUND DATA: TMDs are conditions that affect the form and/or function of the temporomandibular joint (TMJ), masticatory muscles, and dental apparatus. Often TMD is associated with pain localized in the TMJ and/or in the muscles of the face and neck. METHODS: This clinical trial was performed in 10 patients, 18-56 years old, diagnosed with TMD of multiple causes. All patients received both methods of treatment in two consecutive weeks. LLLT was delivered via a 670-nm diode laser, output power 50 mW, fluence 3 J per site/4 sites (masseter muscle, temporal muscle, mandibular condyle, and intrauricular). TENS therapy was applied with a two-electrode machine at 20 W, maximum frequency of 60 Hz, adjusted by the patient according to their sensitivity. The amplitude of mouth opening was recorded before treatment and immediately after using a millimeter rule; the measurements were performed from the incisal of the upper incisors to the incisal of the lower incisors. A paired t-test was applied to verify the significance of the results. RESULTS: A significant improvement in the range of motion for both therapies was observed immediately after treatment. Comparing the two methods, the values obtained after LLLT were significantly higher than those obtained after TENS (p < 0.01). CONCLUSIONS: Both methods are effective to improve mouth opening. Comparing the two methods, LLLT was more effective than TENS applications.",
+      "authors": [
+        {
+          "name": "Silvia Cristina Núñez",
+          "orcid": "https://orcid.org/0000-0003-2101-8333",
+          "affiliation": "National Nuclear Energy Commission",
+          "country": "BR",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Aguinaldo Silva Garcez",
+          "orcid": "https://orcid.org/0000-0003-2037-7211",
+          "affiliation": "National Nuclear Energy Commission",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Selly Sayuri Suzuki",
+          "orcid": "https://orcid.org/0000-0001-7493-746X",
+          "affiliation": "Faculdade São Leopoldo Mandic",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Martha S. Ribeiro",
+          "orcid": "https://orcid.org/0000-0002-4203-1134",
+          "affiliation": "National Nuclear Energy Commission",
+          "country": "BR",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2006,
+      "venue": "Photomedicine and Laser Surgery",
+      "issn": "1549-5418",
+      "type": "article",
+      "citation_count": 148,
+      "referenced_works_count": 22,
+      "fwci": 5.9702,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10852",
+          "name": "Temporomandibular Joint Disorders",
+          "score": 0.9456999897956848
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.044599998742341995
+        },
+        {
+          "id": "T10356",
+          "name": "Orthodontics and Dentofacial Orthopedics",
+          "score": 0.0019000000320374966
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Temporomandibular joint",
+        "Masticatory force",
+        "Low level laser therapy",
+        "Transcutaneous electrical nerve stimulation",
+        "Dentistry",
+        "Range of motion",
+        "Laser therapy",
+        "Masseter muscle",
+        "Temporomandibular disorder"
+      ],
+      "sdgs": [
+        {
+          "score": 0.6899999976158142,
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": false,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1089/pho.2006.24.45",
+      "openalex_url": "https://openalex.org/W1969311298",
+      "pdf_url": null,
+      "pmc_url": null,
+      "oa_locations": [],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.4104,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.8333,
+          "citation_signal": 0.6583,
+          "recency_signal": 0.2
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.0,
+          "h_index": 102
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1007/s10103-021-03491-y",
+      "arxiv_id": null,
+      "openalex_id": "W4206812194",
+      "ss_paper_id": null,
+      "pmid": "35028767",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "The influence of delivery power losses and full operating parametry on the effectiveness of diode visible–near infra-red (445–1064 nm) laser therapy in dentistry—a multi-centre investigation",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Steven Parker",
+          "orcid": "https://orcid.org/0000-0003-2317-8381",
+          "affiliation": "De Montfort University",
+          "country": "GB",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Mark Cronshaw",
+          "orcid": null,
+          "affiliation": "De Montfort University",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Martin Grootveld",
+          "orcid": "https://orcid.org/0000-0003-1502-3734",
+          "affiliation": "De Montfort University",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Roy George",
+          "orcid": "https://orcid.org/0000-0001-7876-1334",
+          "affiliation": "Griffith University",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Eugenia Anagnostaki",
+          "orcid": "https://orcid.org/0000-0003-2835-695X",
+          "affiliation": "De Montfort University",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Valina Mylona",
+          "orcid": "https://orcid.org/0000-0002-5212-5708",
+          "affiliation": "De Montfort University",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Marianna Chala",
+          "orcid": null,
+          "affiliation": "University of Genoa",
+          "country": "IT",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Laurence J. Walsh",
+          "orcid": "https://orcid.org/0000-0001-5874-5687",
+          "affiliation": "The University of Queensland",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2022,
+      "venue": "Lasers in Medical Science",
+      "issn": "0268-8921",
+      "type": "article",
+      "citation_count": 22,
+      "referenced_works_count": 40,
+      "fwci": 2.3668,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.9905999898910522
+        },
+        {
+          "id": "T10957",
+          "name": "Photodynamic Therapy Research Studies",
+          "score": 0.9581000208854675
+        }
+      ],
+      "keywords": [
+        "Laser",
+        "Laser power scaling",
+        "Power (physics)",
+        "Materials science",
+        "Diode",
+        "Optics",
+        "Optoelectronics",
+        "Physics"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.7599999904632568,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1007/s10103-021-03491-y",
+      "openalex_url": "https://openalex.org/W4206812194",
+      "pdf_url": "http://hdl.handle.net/10072/418340",
+      "pmc_url": null,
+      "oa_locations": [
+        "http://hdl.handle.net/10072/418340"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3959,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.5,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.4125,
+          "recency_signal": 0.84
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.7476190476190476,
+          "h_index": 109
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1007/s44445-026-00228-x",
+      "arxiv_id": null,
+      "openalex_id": "W7204254411",
+      "ss_paper_id": null,
+      "pmid": "42645649",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Clinical assessment of patient-centered outcomes of diode laser ablation, electrocautery, blade scalpel surgery, and tissue punch for second-stage uncovering: a randomized controlled trial study",
+      "abstract": "There are multiple ways to modify soft tissue to reveal dental implants and start the prosthetic phase of treatment. A critical step in implant therapy is the implant uncovering procedure, which exposes the implant fixture and allows for proper prosthetic restoration. To assess and compare the clinical outcomes of different surgical techniques used to uncover dental implants in the second stage of surgery. In this prospective, randomized, comparative study, a total of 120 implants from 80 participants were evaluated using four uncovering techniques (cold surgery, diode laser, electrocautery, and tissue punch; n = 30 per technique), and they were followed up for 7 days. Then, associations between categorical variables, such as age, gender, implant site, operative efficiency, intraoperative bleeding, postoperative pain, swelling, wound healing, comfort, satisfaction, and complication profiles, were examined and compared. The groups were comparable in terms of age and gender distribution (p > 0.05). The diode laser and tissue punch achieved the shortest procedure times (1.6 ± 0.4 and 2.5 ± 0.5 min, respectively), the least intraoperative bleeding (p < 0.001), markedly lower postoperative pain/swelling, and the highest patient satisfaction/comfort (p < 0.001). By day 7, all patients were pain-free (p < 0.001), with excellent wound healing using the diode laser (83.3%) and satisfactory with the tissue punch (10% excellent and 50% good). However, the blade scalpel technique resulted in more bleeding, discomfort, and delayed healing, while electrocautery showed increased thermal effects. The diode laser and tissue punch techniques demonstrated the most efficient, minimally invasive, and patient-friendly outcomes for dental implant uncovering. Both provided superior healing, reduced postoperative complications, and higher satisfaction compared to other methods.",
+      "authors": [
+        {
+          "name": "Nzar Abdulqadr Muhammed Amin",
+          "orcid": null,
+          "affiliation": "Komar University of Science and Technology",
+          "country": "IQ",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2026,
+      "venue": "The Saudi Dental Journal",
+      "issn": "1013-9052",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 17,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9850000143051147
+        },
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.007899999618530273
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.0010000000474974513
+        }
+      ],
+      "keywords": [
+        "Implant",
+        "Randomized controlled trial",
+        "Soft tissue",
+        "Laser",
+        "Dental implant",
+        "Diode",
+        "Wound healing"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1007/s44445-026-00228-x",
+      "openalex_url": "https://openalex.org/W7204254411",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44445-026-00228-x.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://link.springer.com/content/pdf/10.1007/s44445-026-00228-x.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13518745/"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3917,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.5566502463054186,
+          "h_index": 61
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/pharmaceutics18080977",
+      "arxiv_id": null,
+      "openalex_id": "W7202076756",
+      "ss_paper_id": null,
+      "pmid": "42654093",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Antimicrobial Photodynamic Inactivation Using Riboflavin 5′-Phosphate and a 450 nm Diode Laser: An In Vitro Dose-Optimisation Study",
+      "abstract": "Background: Rising antifungal and antibiotic resistance among Candida species, Staphylococcus aureus, and Enterococcus faecalis has renewed interest in antimicrobial photodynamic therapy (aPDT) as a resistance-independent strategy. Riboflavin 5′-phosphate is a biocompatible, blue-light-activated photosensitizer, but standardized dosing across fungal and bacterial targets is lacking. Objective: The aim of this study was to systematically optimize pre-irradiation incubation time, photosensitizer volume, irradiation time, and laser power for riboflavin 5′-phosphate aPDT (450 nm diode laser) against C. albicans, C. glabrata, C. krusei, S. aureus, and E. faecalis, and compare species susceptibility under optimized conditions. Methods: ATCC strains were treated with 0.1% riboflavin 5′-phosphate across four groups (photodynamic, photosensitizer-only, laser-only, control) in a staged design optimizing incubation (1–30 min), photosensitizer volume (50–150 µL), irradiation time (10–120 s), and power (50–400 mW). Viable counts (CFU/mL) were quantified. Results: Significant reductions occurred only with combined light-plus-photosensitizer treatment. Optimal parameters were 15 min incubation, 100 µL photosensitizer for Candida spp. (50 µL for bacteria), and 120 s at 400 mW, though C. albicans and C. krusei plateaued by 60 s. Maximum reductions were modest: 53.5% (C. albicans), 46.7% (S. aureus), 37.9% (C. glabrata), 35.9% (C. krusei), and 26.5% (E. faecalis), all below 1 log10. A significant light × photosensitizer interaction, confirming photodynamic specificity, was seen for C. albicans, C. glabrata, and S. aureus, but not C. krusei or E. faecalis. Conclusions: Riboflavin 5′-phosphate aPDT under 450 nm light produces reproducible, dose-dependent, species-specific antimicrobial activity, best suited as an adjunctive rather than stand-alone therapy pending biofilm and in vivo validation.",
+      "authors": [
+        {
+          "name": "Maciej Łopaciński",
+          "orcid": null,
+          "affiliation": "Medical University of Silesia",
+          "country": "PL",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Anna Mertas",
+          "orcid": "https://orcid.org/0000-0003-0796-8818",
+          "affiliation": "Medical University of Silesia",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Anna Kuśka-Kiełbratowska",
+          "orcid": "https://orcid.org/0000-0001-8708-470X",
+          "affiliation": "Medical University of Silesia",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Elżbieta Bobela",
+          "orcid": "https://orcid.org/0000-0002-9077-2404",
+          "affiliation": "Medical University of Silesia",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Eleftherios Terry R. Farmakis",
+          "orcid": "https://orcid.org/0000-0002-6521-8348",
+          "affiliation": "National and Kapodistrian University of Athens",
+          "country": "GR",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Dariusz Skaba",
+          "orcid": "https://orcid.org/0000-0001-8732-251X",
+          "affiliation": "Medical University of Silesia",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Rafał Wiench",
+          "orcid": "https://orcid.org/0000-0001-5673-7413",
+          "affiliation": "Medical University of Silesia",
+          "country": "PL",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2026,
+      "venue": "Pharmaceutics",
+      "issn": "1999-4923",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 41,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T10957",
+          "name": "Photodynamic Therapy Research Studies",
+          "score": 0.9944000244140625
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.002099999925121665
+        },
+        {
+          "id": "T10782",
+          "name": "Nanoplatforms for cancer theranostics",
+          "score": 0.0005000000237487257
+        }
+      ],
+      "keywords": [
+        "Photosensitizer",
+        "Riboflavin",
+        "Enterococcus faecalis",
+        "Antimicrobial",
+        "Photodynamic therapy",
+        "Candida albicans",
+        "Staphylococcus aureus",
+        "Candida krusei"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/pharmaceutics18080977",
+      "openalex_url": "https://openalex.org/W7202076756",
+      "pdf_url": "https://doi.org/10.3390/pharmaceutics18080977",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.3390/pharmaceutics18080977",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13516641/pdf/pharmaceutics-18-00977.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3917,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 7.558342922899885,
+          "h_index": 187
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1126/scitranslmed.3008234",
+      "arxiv_id": null,
+      "openalex_id": "W2109916620",
+      "ss_paper_id": null,
+      "pmid": "24871130",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Photoactivation of Endogenous Latent Transforming Growth Factor–β1 Directs Dental Stem Cell Differentiation for Regeneration",
+      "abstract": "Rapid advancements in the field of stem cell biology have led to many current efforts to exploit stem cells as therapeutic agents in regenerative medicine. However, current ex vivo cell manipulations common to most regenerative approaches create a variety of technical and regulatory hurdles to their clinical translation, and even simpler approaches that use exogenous factors to differentiate tissue-resident stem cells carry significant off-target side effects. We show that non-ionizing, low-power laser (LPL) treatment can instead be used as a minimally invasive tool to activate an endogenous latent growth factor complex, transforming growth factor-β1 (TGF-β1), that subsequently differentiates host stem cells to promote tissue regeneration. LPL treatment induced reactive oxygen species (ROS) in a dose-dependent manner, which, in turn, activated latent TGF-β1 (LTGF-β1) via a specific methionine residue (at position 253 on LAP). Laser-activated TGF-β1 was capable of differentiating human dental stem cells in vitro. Further, an in vivo pulp capping model in rat teeth demonstrated significant increase in dentin regeneration after LPL treatment. These in vivo effects were abrogated in TGF-β receptor II (TGF-βRII) conditional knockout (DSPP(Cre)TGF-βRII(fl/fl)) mice or when wild-type mice were given a TGF-βRI inhibitor. These findings indicate a pivotal role for TGF-β in mediating LPL-induced dental tissue regeneration. More broadly, this work outlines a mechanistic basis for harnessing resident stem cells with a light-activated endogenous cue for clinical regenerative applications.",
+      "authors": [
+        {
+          "name": "Praveen Arany",
+          "orcid": "https://orcid.org/0000-0002-6116-2340",
+          "affiliation": "Harvard University",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Andrew Cho",
+          "orcid": "https://orcid.org/0000-0001-9109-2294",
+          "affiliation": "National Institute of Dental and Craniofacial Research",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Tristan Hunt",
+          "orcid": null,
+          "affiliation": "Harvard University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gursimran Sidhu",
+          "orcid": null,
+          "affiliation": "Harvard University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Kyungsup Shin",
+          "orcid": "https://orcid.org/0000-0003-1064-8735",
+          "affiliation": "Harvard University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Eason Hahm",
+          "orcid": null,
+          "affiliation": "Harvard University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "George Huang",
+          "orcid": null,
+          "affiliation": "Harvard University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "James C. Weaver",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Aaron Chen",
+          "orcid": "https://orcid.org/0000-0002-8367-8399",
+          "affiliation": "Massachusetts General Hospital",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Bonnie L. Padwa",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Michael R. Hamblin",
+          "orcid": "https://orcid.org/0000-0001-6431-4605",
+          "affiliation": "Harvard University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mary Helen Barcellos‐Hoff",
+          "orcid": "https://orcid.org/0000-0002-5994-9558",
+          "affiliation": "New York University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ashok B. Kulkarni",
+          "orcid": "https://orcid.org/0000-0001-9849-3250",
+          "affiliation": "National Institute of Dental and Craniofacial Research",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "David Mooney",
+          "orcid": "https://orcid.org/0000-0001-6299-1194",
+          "affiliation": "Harvard University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2014,
+      "venue": "Science Translational Medicine",
+      "issn": "1946-6234",
+      "type": "article",
+      "citation_count": 271,
+      "referenced_works_count": 47,
+      "fwci": 15.3455,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.996399998664856
+        },
+        {
+          "id": "T11828",
+          "name": "Corneal Surgery and Treatments",
+          "score": 0.9800000190734863
+        },
+        {
+          "id": "T11570",
+          "name": "Periodontal Regeneration and Treatments",
+          "score": 0.9789999723434448
+        }
+      ],
+      "keywords": [
+        "Endogeny",
+        "Stem cell",
+        "Regeneration (biology)",
+        "Cell biology",
+        "Transforming growth factor",
+        "Cellular differentiation",
+        "Growth factor",
+        "Biology",
+        "Cell growth",
+        "Biochemistry"
+      ],
+      "sdgs": [
+        {
+          "display_name": "Zero hunger",
+          "score": 0.6200000047683716,
+          "id": "https://metadata.un.org/sdg/2"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1126/scitranslmed.3008234",
+      "openalex_url": "https://openalex.org/W2109916620",
+      "pdf_url": "https://escholarship.org/content/qt5s69w5mb/qt5s69w5mb.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://escholarship.org/content/qt5s69w5mb/qt5s69w5mb.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/4113395"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.371,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.7375,
+          "recency_signal": 0.52
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 15.395973154362416,
+          "h_index": 367
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.4012/dmj.2009-127",
+      "arxiv_id": null,
+      "openalex_id": "W2014485835",
+      "ss_paper_id": null,
+      "pmid": "20877130",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Surface damages of zirconia by Nd:YAG dental laser irradiation",
+      "abstract": "The purpose of this study was to characterize the surface damages of zirconia by Nd:YAG dental laser irradiation through a systematic evaluation of the associated microstructural changes. Disk specimens of yttria-stabilized tetragonal zirconia polycrystals (Y-TZP) and ceria-stabilized zirconia/alumina nanocomposite (Ce-TZP/Al₂O₃ nanocomposite) were irradiated by Nd:YAG dental laser. The specimens were characterized using scanning electron microscopy, X-ray diffractometry, and wavelength dispersive X-ray spectroscopy. Every single irradiated spot was indicated by a circular black pit surrounded by a circular raised rim with a sunken depression at the center. On surface changes, many cracks were formed inside each irradiated pit. On changes in elemental composition, the concentration of oxygen decreased while that of zirconium increased. After heating in air, the assembly of circular black pits turned white, although the depression and raised rim remained. This study showed that Nd:YAG dental laser irradiation induced cracking and reduced oxygen content on the surface of zirconia. Consequently, these phenomena reduced the mechanical strength of zirconia. Therefore, Nd:YAG dental laser welding should not be performed on tetragonal zirconia.",
+      "authors": [
+        {
+          "name": "Makoto Noda",
+          "orcid": "https://orcid.org/0000-0002-7340-6066",
+          "affiliation": "Kagoshima University",
+          "country": "JP",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yuji Okuda",
+          "orcid": null,
+          "affiliation": "Kagoshima University",
+          "country": "JP",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "J Tsuruki",
+          "orcid": null,
+          "affiliation": "Kagoshima University",
+          "country": "JP",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yoshito Minesaki",
+          "orcid": "https://orcid.org/0000-0002-8269-2201",
+          "affiliation": "Kagoshima University",
+          "country": "JP",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yasumi Takenouchi",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Seiji Ban",
+          "orcid": "https://orcid.org/0000-0001-7760-1435",
+          "affiliation": "Kagoshima University",
+          "country": "JP",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2010,
+      "venue": "Dental Materials Journal",
+      "issn": "0287-4547",
+      "type": "article",
+      "citation_count": 71,
+      "referenced_works_count": 17,
+      "fwci": 2.3724,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T11958",
+          "name": "Dental Erosion and Treatment",
+          "score": 0.9959999918937683
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.994700014591217
+        }
+      ],
+      "keywords": [
+        "Materials science",
+        "Cubic zirconia",
+        "Irradiation",
+        "Zirconium",
+        "Scanning electron microscope",
+        "Composite material",
+        "Tetragonal crystal system",
+        "Laser",
+        "Nanocomposite",
+        "Nd:YAG laser"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.4012/dmj.2009-127",
+      "openalex_url": "https://openalex.org/W2014485835",
+      "pdf_url": "https://www.jstage.jst.go.jp/article/dmj/29/5/29_2009-127/_pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.jstage.jst.go.jp/article/dmj/29/5/29_2009-127/_pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3704,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.3333,
+          "citation_signal": 0.5626,
+          "recency_signal": 0.36
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.0811965811965814,
+          "h_index": 97
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1117/1.jbo.18.10.108002",
+      "arxiv_id": null,
+      "openalex_id": "W1990571601",
+      "ss_paper_id": null,
+      "pmid": "24105399",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Measurements of erbium laser-ablation efficiency in hard dental tissues under different water cooling conditions",
+      "abstract": "Laser triangulation measurements of Er:YAG and Er,Cr:YSGG laser-ablated volumes in hard dental tissues are made, in order to verify the possible existence of a \"hydrokinetic\" effect that has been proposed as an alternative to the \"subsurface water expansion\" mechanism for hard-tissue laser ablation. No evidence of the hydrokinetic effect could be observed under a broad range of tested laser parameters and water cooling conditions. On the contrary, the application of water spray during laser exposure of hard dental material is observed to diminish the laser-ablation efficiency (AE) in comparison with laser exposure under the absence of water spray. Our findings are in agreement with the generally accepted principle of action for erbium laser ablation, which is based on fast subsurface expansion of laser-heated water trapped within the interstitial structure of hard dental tissues. Our measurements also show that the well-known phenomenon of ablation stalling, during a series of consecutive laser pulses, can primarily be attributed to the blocking of laser light by the loosely bound and recondensed desiccated minerals that collect on the tooth surface during and following laser ablation. In addition to the prevention of tooth bulk temperature buildup, a positive function of the water spray that is typically used with erbium dental lasers is to rehydrate these minerals, and thus sustaining the subsurface expansion ablation process. A negative side effect of using a continuous water spray is that the AE gets reduced due to the laser light being partially absorbed in the water-spray particles above the tooth and in the collected water pool on the tooth surface. Finally, no evidence of the influence of the water absorption shift on the hypothesized increase in the AE of the Er,Cr:YSGG wavelength is observed.",
+      "authors": [
+        {
+          "name": "Lovro Kuščer",
+          "orcid": null,
+          "affiliation": "University of Ljubljana",
+          "country": "SI",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Janez Diaci",
+          "orcid": null,
+          "affiliation": "University of Ljubljana",
+          "country": "SI",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2013,
+      "venue": "Journal of Biomedical Optics",
+      "issn": "1083-3668",
+      "type": "article",
+      "citation_count": 38,
+      "referenced_works_count": 48,
+      "fwci": 1.7132,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9994999766349792
+        },
+        {
+          "id": "T10732",
+          "name": "Laser Material Processing Techniques",
+          "score": 0.9790999889373779
+        },
+        {
+          "id": "T13869",
+          "name": "Ocular and Laser Science Research",
+          "score": 0.9746999740600586
+        }
+      ],
+      "keywords": [
+        "Laser",
+        "Ablation",
+        "Materials science",
+        "Laser ablation",
+        "Erbium",
+        "Er:YAG laser",
+        "Optics",
+        "Composite material"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.8500000238418579,
+          "display_name": "Clean water and sanitation"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1117/1.jbo.18.10.108002",
+      "openalex_url": "https://openalex.org/W1990571601",
+      "pdf_url": "https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-18/issue-10/108002/Measurements-of-erbium-laser-ablation-efficiency-in-hard-dental-tissues/10.1117/1.JBO.18.10.108002.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-18/issue-10/108002/Measurements-of-erbium-laser-ablation-efficiency-in-hard-dental-tissues/10.1117/1.JBO.18.10.108002.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3703,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.3333,
+          "citation_signal": 0.482,
+          "recency_signal": 0.48
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.495201535508637,
+          "h_index": 183
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1002/lapl.200910011",
+      "arxiv_id": null,
+      "openalex_id": "W2004977938",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Bactericidal effect of a 405-nm diode laser onPorphyromonas gingivalis",
+      "abstract": "The study was conducted to determine the effect of 405-nm diode laser irradiation on periodontopathic bacteria such as Porphyromonas gingivalis in vitro . A diluted suspension of P. gingivalis was irradiated directly with a 405-nm diode laser under conditions of 100 mW-10 sec, 100 mW-20 sec, 200 mW-5 sec, 200 mW-10 sec, 200 mW-20 sec, 400 mW-5 sec, 400 mW-10 sec, and 400 mW-20 sec. The energy density ranged from 2.0 to 16.0 J/cm 2 . The irradiated bacterial suspension was spread on a blood agar plate and growth of the colonies was examined after an anaerobic culture for 7 days. Bacterial growth was inhibited under all irradiation conditions, but the bactericidal effect of the 405-nm diode laser depended on the energy density. More than 97% of bacterial growth was inhibited with irradiation at an energy density > 4.0 J/cm 2 . The mechanism of the bactericidal effect is photochemical, rather than photothermal. These findings suggest that a 405-nm diode laser has a high bactericidal effect on P. gingivalis .",
+      "authors": [
+        {
+          "name": "Y. Kotoku",
+          "orcid": null,
+          "affiliation": "Tokyo Dental College",
+          "country": "JP",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Junji Kato",
+          "orcid": "https://orcid.org/0000-0002-0903-9513",
+          "affiliation": "Tokyo Dental College",
+          "country": "JP",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Go Akashi",
+          "orcid": null,
+          "affiliation": "Tokyo Dental College",
+          "country": "JP",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Y. Hirai",
+          "orcid": null,
+          "affiliation": "Tokyo Dental College",
+          "country": "JP",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Kazuyuki Ishihara",
+          "orcid": "https://orcid.org/0000-0002-6567-807X",
+          "affiliation": "Tokyo Dental College",
+          "country": "JP",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2009,
+      "venue": "Laser Physics Letters",
+      "issn": "1612-2011",
+      "type": "article",
+      "citation_count": 39,
+      "referenced_works_count": 32,
+      "fwci": 2.8704,
+      "cited_by_percentile_year": 98,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 1.0
+        },
+        {
+          "id": "T10957",
+          "name": "Photodynamic Therapy Research Studies",
+          "score": 0.9958000183105469
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.991599977016449
+        }
+      ],
+      "keywords": [
+        "Irradiation",
+        "Porphyromonas gingivalis",
+        "Laser",
+        "Photothermal therapy",
+        "Diode",
+        "Materials science",
+        "Agar plate",
+        "Suspension (topology)",
+        "Bacteria",
+        "Chemistry"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.7699999809265137,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1002/lapl.200910011",
+      "openalex_url": "https://openalex.org/W2004977938",
+      "pdf_url": "https://iopscience.iop.org/article/10.1002/lapl.200910011/pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://iopscience.iop.org/article/10.1002/lapl.200910011/pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3548,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.3333,
+          "citation_signal": 0.4853,
+          "recency_signal": 0.32
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.6892230576441103,
+          "h_index": 84
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.7759/cureus.113690",
+      "arxiv_id": null,
+      "openalex_id": "W7171878696",
+      "ss_paper_id": null,
+      "pmid": "42670369",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Clinical Outcomes of Diode Laser Ablation Versus Diode Laser Excision in the Management of Oral Leukoplakia: An Observational Study",
+      "abstract": "BACKGROUND: Oral leukoplakia is the most common potentially malignant disorder of the oral mucosa (OM). Although diode laser therapy offers a minimally invasive alternative to conventional scalpel excision, the comparative clinical outcomes of diode laser ablation and diode laser excision remain inadequately characterized, particularly regarding postoperative recovery and recurrence risk. MATERIALS AND METHODS: This prospective comparative observational study included 60 patients with histopathologically confirmed homogeneous oral leukoplakia who underwent diode laser ablation (n = 30) or diode laser excision (n = 30) based on the surgeon's clinical decision. Postoperative outcomes, including wound healing, pain, bleeding, and swelling, were assessed at one, three, and five weeks. Recurrence and functional disturbances were assessed at the six-month follow-up. A three-way mixed repeated-measures ANOVA was used to analyze longitudinal changes in wound healing, pain, bleeding, and swelling according to treatment modality, dysplasia grade, and follow-up time, whereas chi-square tests were used to compare recurrence and functional outcomes. RESULTS: Laser ablation demonstrated significantly superior early postoperative outcomes compared to excision at weeks 1 and 3 across all parameters, including healing, pain, bleeding, and swelling (all p < 0.001), regardless of dysplasia grade. By week 5, wound healing, pain, and swelling were comparable between the treatment groups except bleeding. Dysplasia grade significantly influenced healing (p = 0.004) but not other parameters. Importantly, the overall recurrence rate was significantly higher after ablation than that after excision (26.7% vs. 6.7%, p = 0.038), with the most pronounced difference observed in the mild dysplasia subgroup (46.7% vs. 0.0%, p = 0.006). CONCLUSIONS: Diode laser ablation offers superior early postoperative recovery with reduced pain, bleeding, swelling, and accelerated healing compared to excision. However, this short-term benefit is offset by significantly higher recurrence rates, particularly in lesions with mild dysplasia. These findings suggest that a dysplasia-stratified treatment approach may be considered for the management of homogeneous oral leukoplakia. Based on the findings of the present observational study, laser ablation may offer advantages for non-dysplastic lesions, whereas laser excision may reduce recurrence in lesions with mild epithelial dysplasia.",
+      "authors": [
+        {
+          "name": "Nisha Dua",
+          "orcid": null,
+          "affiliation": "Swami Devi Dyal Hospital and Dental College",
+          "country": "IN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Nisha Singh",
+          "orcid": null,
+          "affiliation": "Swami Devi Dyal Hospital and Dental College",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Rajesh K Gupta",
+          "orcid": null,
+          "affiliation": "Swami Devi Dyal Hospital and Dental College",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Kamakshi Uppal",
+          "orcid": null,
+          "affiliation": "Swami Devi Dyal Hospital and Dental College",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Archana Sharma",
+          "orcid": "https://orcid.org/0000-0001-6523-4682",
+          "affiliation": "Swami Devi Dyal Hospital and Dental College",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Manpreet Cheema",
+          "orcid": null,
+          "affiliation": "Swami Devi Dyal Hospital and Dental College",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2026,
+      "venue": "Cureus",
+      "issn": "2168-8184",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 23,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11452",
+          "name": "Oral Health Pathology and Treatment",
+          "score": 0.9401000142097473
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.01119999960064888
+        },
+        {
+          "id": "T12198",
+          "name": "Oral health in cancer treatment",
+          "score": 0.00860000029206276
+        }
+      ],
+      "keywords": [
+        "Observational study",
+        "Laser",
+        "Diode",
+        "Ablation",
+        "Laser ablation"
+      ],
+      "sdgs": [
+        {
+          "display_name": "Zero hunger",
+          "id": "https://metadata.un.org/sdg/2",
+          "score": 0.48691925406455994
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.7759/cureus.113690",
+      "openalex_url": "https://openalex.org/W7171878696",
+      "pdf_url": "https://www.cureus.com/articles/514936-clinical-outcomes-of-diode-laser-ablation-versus-diode-laser-excision-in-the-management-of-oral-leukoplakia-an-observational-study.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.cureus.com/articles/514936-clinical-outcomes-of-diode-laser-ablation-versus-diode-laser-excision-in-the-management-of-oral-leukoplakia-an-observational-study.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13526171/pdf/cureus-0018-00000113690.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.35,
+        "label": "medium",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.3333,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.1236803339062116,
+          "h_index": 132
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1038/sj.bdj.4801597",
+      "arxiv_id": null,
+      "openalex_id": "W2046085053",
+      "ss_paper_id": null,
+      "pmid": "12516671",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Optical power outputs, spectra and dental composite depths of cure, obtained with blue light emitting diode (LED) and halogen light curing units (LCUs)",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Robin W. Mills",
+          "orcid": null,
+          "affiliation": "University Of Bristol Dental Hospital",
+          "country": "GB",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Alexander Uhl",
+          "orcid": null,
+          "affiliation": "Friedrich Schiller University Jena",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Klaus D. Jandt",
+          "orcid": "https://orcid.org/0000-0002-7537-5603",
+          "affiliation": "Friedrich Schiller University Jena",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2002,
+      "venue": "BDJ",
+      "issn": "0007-0610",
+      "type": "article",
+      "citation_count": 92,
+      "referenced_works_count": 39,
+      "fwci": 3.5781,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.5927000045776367
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.2639999985694885
+        },
+        {
+          "id": "T11958",
+          "name": "Dental Erosion and Treatment",
+          "score": 0.06469999998807907
+        }
+      ],
+      "keywords": [
+        "Materials science",
+        "Light-emitting diode",
+        "Diode",
+        "Composite number",
+        "Curing (chemistry)",
+        "Blue light",
+        "Light source",
+        "Optics",
+        "Optoelectronics",
+        "Composite material"
+      ],
+      "sdgs": [
+        {
+          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1038/sj.bdj.4801597",
+      "openalex_url": "https://openalex.org/W2046085053",
+      "pdf_url": "https://www.nature.com/articles/4801597.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.nature.com/articles/4801597.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3434,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.5,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.5963,
+          "recency_signal": 0.04
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.7198604060913706,
+          "h_index": 158
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/bioengineering10030296",
+      "arxiv_id": null,
+      "openalex_id": "W4322486487",
+      "ss_paper_id": null,
+      "pmid": "36978686",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Current Applications and Future Directions of Lasers in Endodontics: A Narrative Review",
+      "abstract": "The utilization of lasers has been regarded as a novel technique for the purposes of clinical use in the dental field. Recently, numerous studies have been conducted on the potential applications of laser therapy in endodontics. Moreover, due to their ablation, penetrability, and disinfection capabilities, lasers have performed well with respect to endodontic treatments, including root canal treatment, vital pulp therapy (pulp capping and pulpotomy), dentinal hypersensitivity treatment, and management of dental pain related to pulp and periradicular disease. In particular, the superiorities of laser-aided pulp therapy are emphasized through condensed clinical controlled trials, and histological studies, in this review. Moreover, the ingenious use of laser applications with respect to aiding in the acceleration of root development and the extraction of foreign matters (i.e., broken files and fiber posts) in canals has quickly become the cutting-edge trend of current research. This review offers a summary and discussion of the current literature on all the aforementioned laser applications. Moreover, the characteristics of laser devices, including erbium lasers, neodymium-doped lasers, CO2 lasers, and diode lasers, are detailed and discussed here, providing useful references for laser application in endodontics. We also focus on the different wavelengths with respect to the lasers that are applied in endodontics. High-power lasers perform well as operative instruments; in addition, low-level lasers lead to the regulation of pulp inflammation, and the promotion of pulp healing. This narrative review provides a summary of the advanced applications of lasers in conjunction with various devices in the practice of endodontics, and aims to inspire innovative perspectives on lasers in the context of the treatment of dental diseases, especially pulp diseases, in the future.",
+      "authors": [
+        {
+          "name": "Qin Huang",
+          "orcid": "https://orcid.org/0000-0002-6075-6681",
+          "affiliation": "Sichuan University",
+          "country": "CN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Zucen Li",
+          "orcid": null,
+          "affiliation": "Sichuan University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ping Lyu",
+          "orcid": "https://orcid.org/0000-0001-9908-9989",
+          "affiliation": "Sichuan University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Xuedong Zhou",
+          "orcid": "https://orcid.org/0000-0002-9319-7302",
+          "affiliation": "Sichuan University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yi Fan",
+          "orcid": "https://orcid.org/0000-0001-7511-9872",
+          "affiliation": "Sichuan University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2023,
+      "venue": "Bioengineering",
+      "issn": "2306-5354",
+      "type": "review",
+      "citation_count": 81,
+      "referenced_works_count": 125,
+      "fwci": 6.1299,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.9998000264167786
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9921000003814697
+        },
+        {
+          "id": "T12145",
+          "name": "Dental Anxiety and Anesthesia Techniques",
+          "score": 0.9850000143051147
+        }
+      ],
+      "keywords": [
+        "Endodontics",
+        "Laser",
+        "Pulp capping",
+        "Pulpotomy",
+        "Root canal",
+        "Dentistry",
+        "Medicine",
+        "Pulp (tooth)",
+        "Materials science",
+        "Computer science"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/bioengineering10030296",
+      "openalex_url": "https://openalex.org/W4322486487",
+      "pdf_url": "https://www.mdpi.com/2306-5354/10/3/296/pdf?version=1677593273",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2306-5354/10/3/296/pdf?version=1677593273",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10044917/pdf/bioengineering-10-00296.pdf",
+        "https://doaj.org/article/5379f5845aef45c4af7d16ab00bfedd7"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3416,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.6667,
+          "citation_signal": 0.5797,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 5.148128198222461,
+          "h_index": 99
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/ma12060991",
+      "arxiv_id": null,
+      "openalex_id": "W2922718692",
+      "ss_paper_id": null,
+      "pmid": "30917513",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Laser Polishing of Additive Manufactured 316L Stainless Steel Synthesized by Selective Laser Melting",
+      "abstract": "One of the established limitations of metal additive manufacturing (AM) methods, such as selective laser melting (SLM), is the resulting rough surface finish. Laser polishing is one method that can be used to achieve an improved surface finish on AM printed parts. This study is focused on the laser surface polishing of AM parts using CO₂ laser beam irradiation. Despite the fact that several researchers have investigated the traditional abrasive polishing method, there is still a lack of information reporting on the laser surface polishing of metal parts. In this study, AM 316L stainless steel cylindrical samples were polished using CO₂ laser beam irradiation in continuous wave (CW) working mode. Two design of experiment models were developed for the optimization of the input processing parameters by statistical analysis of their effect on the resulting roughness. The processing parameters investigated were the laser beam power, the rotational speed of the sample, the number of laser scan passes, the laser beam focal position, and the percentage overlap of the laser tracks between consecutive passes. The characterization of the measured roughness and the modified layer microstructure was carried out using 3D optical and scanning electron microscopy (SEM). A maximum reduction of the roughness from 10.4 to 2.7 µm was achieved and no significant change in the microstructure phase type and micro-hardness was observed.",
+      "authors": [
+        {
+          "name": "Muhannad Ahmed Obeidi",
+          "orcid": "https://orcid.org/0000-0003-2733-3828",
+          "affiliation": "I-Form Advanced Manufacturing Research Centre",
+          "country": "IE",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Éanna McCarthy",
+          "orcid": "https://orcid.org/0000-0002-8036-6023",
+          "affiliation": "Dublin City University",
+          "country": "IE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "B. O’Connell",
+          "orcid": "https://orcid.org/0000-0002-7438-3425",
+          "affiliation": "Dublin City University",
+          "country": "IE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Inam Ul Ahad",
+          "orcid": "https://orcid.org/0000-0002-3802-6156",
+          "affiliation": "I-Form Advanced Manufacturing Research Centre",
+          "country": "IE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Dermot Brabazon",
+          "orcid": "https://orcid.org/0000-0003-3214-6381",
+          "affiliation": "I-Form Advanced Manufacturing Research Centre",
+          "country": "IE",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2019,
+      "venue": "Materials",
+      "issn": "1996-1944",
+      "type": "article",
+      "citation_count": 104,
+      "referenced_works_count": 35,
+      "fwci": 7.6439,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10705",
+          "name": "Additive Manufacturing Materials and Processes",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T10732",
+          "name": "Laser Material Processing Techniques",
+          "score": 0.9979000091552734
+        },
+        {
+          "id": "T11854",
+          "name": "Laser-induced spectroscopy and plasma",
+          "score": 0.993399977684021
+        }
+      ],
+      "keywords": [
+        "Polishing",
+        "Materials science",
+        "Laser",
+        "Selective laser melting",
+        "Surface roughness",
+        "Microstructure",
+        "Laser power scaling",
+        "Abrasive",
+        "Surface finish",
+        "Optics"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/ma12060991",
+      "openalex_url": "https://openalex.org/W2922718692",
+      "pdf_url": "https://www.mdpi.com/1996-1944/12/6/991/pdf?version=1553582530",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/1996-1944/12/6/991/pdf?version=1553582530",
+        "http://doras.dcu.ie/23212/",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/6471733",
+        "https://doaj.org/article/ebaf8419ac644f54b79fc209784bfe97"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3305,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.3333,
+          "citation_signal": 0.6123,
+          "recency_signal": 0.72
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 4.597651539193906,
+          "h_index": 248
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1117/1.2956374",
+      "arxiv_id": null,
+      "openalex_id": "W1964952561",
+      "ss_paper_id": null,
+      "pmid": "19021339",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Near-infrared imaging of developmental defects in dental enamel",
+      "abstract": "Polarization-sensitive optical coherence tomography (PS-OCT) and near-infrared (NIR) imaging are promising new technologies under development for monitoring early carious lesions. Fluorosis is a growing problem in the United States, and the more prevalent mild fluorosis can be visually mistaken for early enamel demineralization. Unfortunately, there is little quantitative information available regarding the differences in optical properties of sound enamel, enamel developmental defects, and caries. Thirty extracted human teeth with various degrees of suspected fluorosis were imaged using PS-OCT and NIR. An InGaAs camera and a NIR diode laser were used to measure the optical attenuation through transverse tooth sections (approximately 200 microm). A digital microradiography system was used to quantify the enamel defect severity by measurement of the relative mineral loss for comparison with optical scattering measurements. Developmental defects were clearly visible in the polarization-resolved OCT images, demonstrating that PS-OCT can be used to nondestructively measure the depth and possible severity of the defects. Enamel defects on whole teeth that could be imaged with high contrast with visible light were transparent in the NIR. This study suggests that PS-OCT and NIR methods may potentially be used as tools to assess the severity and extent of enamel defects.",
+      "authors": [
+        {
+          "name": "Krista Hirasuna",
+          "orcid": null,
+          "affiliation": "University of California, San Francisco",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Daniel Fried",
+          "orcid": "https://orcid.org/0000-0002-5327-2558",
+          "affiliation": "University of California, San Francisco",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Cynthia L. Darling",
+          "orcid": null,
+          "affiliation": "University of California, San Francisco",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2008,
+      "venue": "Journal of Biomedical Optics",
+      "issn": "1083-3668",
+      "type": "article",
+      "citation_count": 63,
+      "referenced_works_count": 34,
+      "fwci": 4.7466,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9995999932289124
+        },
+        {
+          "id": "T11958",
+          "name": "Dental Erosion and Treatment",
+          "score": 0.9775999784469604
+        },
+        {
+          "id": "T12994",
+          "name": "Infrared Thermography in Medicine",
+          "score": 0.9732000231742859
+        }
+      ],
+      "keywords": [
+        "Enamel paint",
+        "Dental enamel",
+        "Optics",
+        "Infrared",
+        "Materials science",
+        "Dentistry",
+        "Medicine",
+        "Physics"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1117/1.2956374",
+      "openalex_url": "https://openalex.org/W1964952561",
+      "pdf_url": "https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-13/issue-4/044011/Near-infrared-imaging-of-developmental-defects-in-dental-enamel/10.1117/1.2956374.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-13/issue-4/044011/Near-infrared-imaging-of-developmental-defects-in-dental-enamel/10.1117/1.2956374.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3184,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.5,
+          "citation_signal": 0.5471,
+          "recency_signal": 0.28
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.495201535508637,
+          "h_index": 183
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1155/2009/365785",
+      "arxiv_id": null,
+      "openalex_id": "W1999005307",
+      "ss_paper_id": null,
+      "pmid": "20339575",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Dental Pulp Testing: A Review",
+      "abstract": "Dental pulp testing is a useful and essential diagnostic aid in endodontics. Pulp sensibility tests include thermal and electric tests, which extrapolate pulp health from sensory response. Whilst pulp sensibility tests are the most commonly used in clinical practice, they are not without limitations and shortcomings. Pulp vitality tests attempt to examine the presence of pulp blood flow, as this is viewed as a better measure of true health than sensibility. Laser Doppler flowmetry and pulse oximetry are examples of vitality tests. Whilst the prospect is promising, there are still many practical issues that need to be addressed before vitality tests can replace sensibility tests as the standard clinical pulp diagnostic test. With all pulp tests, the results need to be carefully interpreted and closely scrutinised as false results can lead to misdiagnosis which can then lead to incorrect, inappropriate, or unnecessary treatment.",
+      "authors": [
+        {
+          "name": "Eugene Chen",
+          "orcid": null,
+          "affiliation": "The University of Western Australia",
+          "country": "AU",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Paul V. Abbott",
+          "orcid": "https://orcid.org/0000-0001-5727-4211",
+          "affiliation": "The University of Western Australia",
+          "country": "AU",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2009,
+      "venue": "International Journal of Dentistry",
+      "issn": "1687-8728",
+      "type": "article",
+      "citation_count": 199,
+      "referenced_works_count": 104,
+      "fwci": 1.7195,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.9803000092506409
+        },
+        {
+          "id": "T11363",
+          "name": "Dental Radiography and Imaging",
+          "score": 0.9704999923706055
+        },
+        {
+          "id": "T11656",
+          "name": "Turtle Biology and Conservation",
+          "score": 0.9375
+        }
+      ],
+      "keywords": [
+        "Sensibility",
+        "Pulp (tooth)",
+        "Vitality",
+        "Dentistry",
+        "Medicine",
+        "Endodontics",
+        "Pulp capping"
+      ],
+      "sdgs": [
+        {
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1155/2009/365785",
+      "openalex_url": "https://openalex.org/W1999005307",
+      "pdf_url": "https://downloads.hindawi.com/journals/ijd/2009/365785.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://downloads.hindawi.com/journals/ijd/2009/365785.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/2837315"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.3032,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.3333,
+          "citation_signal": 0.697,
+          "recency_signal": 0.32
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.5295081967213116,
+          "h_index": 82
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1177/0022034518822808",
+      "arxiv_id": null,
+      "openalex_id": "W2917693949",
+      "ss_paper_id": null,
+      "pmid": "30784370",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "The Evolution of Dental Materials over the Past Century: Silver and Gold to Tooth Color and Beyond",
+      "abstract": "The field of dental materials has undergone more of a revolution than an evolution over the past 100 y. The development of new products, especially in the past half century, has occurred at a staggering pace, and their introduction to the market has been equally impressive. The movement has mostly come in the area of improved esthetics, marked by the gradual replacement of dental amalgam with dental composite and all-metal and porcelain-fused-to-metal indirect restorations with reinforced dental ceramics, all made possible by the rapid improvements in dental adhesive materials. This article covers the time course of dental materials development over the past century in which the Journal of Dental Research has been published. While there have been advances in nearly all materials used in the field, this article focuses on several areas, including dental amalgam, dental composites and light curing, dental adhesives and dental cements, ceramics, and new functional repair materials. A few short statements on future advances will be included at the end.",
+      "authors": [
+        {
+          "name": "Stephen C. Bayne",
+          "orcid": "https://orcid.org/0000-0002-5200-2791",
+          "affiliation": "University of Michigan",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jack L. Ferracane",
+          "orcid": "https://orcid.org/0000-0002-6511-5488",
+          "affiliation": "Oregon Health & Science University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Grayson W. Marshall",
+          "orcid": "https://orcid.org/0000-0001-8921-3253",
+          "affiliation": "University of California, San Francisco",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "S. J. Marshall",
+          "orcid": null,
+          "affiliation": "University of California, San Francisco",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Richard van Noort",
+          "orcid": null,
+          "affiliation": "University of Sheffield",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2019,
+      "venue": "Journal of Dental Research",
+      "issn": "0022-0345",
+      "type": "article",
+      "citation_count": 153,
+      "referenced_works_count": 105,
+      "fwci": 12.8081,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10113",
+          "name": "Dental materials and restorations",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T11958",
+          "name": "Dental Erosion and Treatment",
+          "score": 0.9958999752998352
+        },
+        {
+          "id": "T10356",
+          "name": "Orthodontics and Dentofacial Orthopedics",
+          "score": 0.9915000200271606
+        }
+      ],
+      "keywords": [
+        "Amalgam (chemistry)",
+        "Dental ceramics",
+        "Dentistry",
+        "Gold alloys",
+        "Dental treatments",
+        "Dental research",
+        "Dental composite",
+        "Materials science",
+        "Medicine",
+        "Ceramic"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.5099999904632568,
+          "display_name": "Sustainable cities and communities"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1177/0022034518822808",
+      "openalex_url": "https://openalex.org/W2917693949",
+      "pdf_url": "https://escholarship.org/content/qt7mb0r2qp/qt7mb0r2qp.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://escholarship.org/content/qt7mb0r2qp/qt7mb0r2qp.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.2964,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.1667,
+          "citation_signal": 0.6626,
+          "recency_signal": 0.72
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 6.088768115942029,
+          "h_index": 302
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1007/s12663-015-0842-x",
+      "arxiv_id": null,
+      "openalex_id": "W2110516998",
+      "ss_paper_id": null,
+      "pmid": "27752199",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Effect of Diode Laser on Healing of Tooth Extraction Socket: An Experimental Study in Rabbits",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Shehab Ahmed Hamad",
+          "orcid": "https://orcid.org/0009-0005-5696-7987",
+          "affiliation": "Hawler Medical University",
+          "country": "IQ",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Jandar S. Naif",
+          "orcid": null,
+          "affiliation": "University of Duhok",
+          "country": "IQ",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mahdi A. Abdullah",
+          "orcid": null,
+          "affiliation": "University of Duhok",
+          "country": "IQ",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2015,
+      "venue": "Journal of Maxillofacial and Oral Surgery",
+      "issn": "0972-8279",
+      "type": "article",
+      "citation_count": 40,
+      "referenced_works_count": 40,
+      "fwci": 1.2496,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9621000289916992
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.01119999960064888
+        },
+        {
+          "id": "T10359",
+          "name": "Dental Implant Techniques and Outcomes",
+          "score": 0.006899999920278788
+        }
+      ],
+      "keywords": [
+        "Premolar",
+        "Medicine",
+        "Dentistry",
+        "Haematoxylin",
+        "Eosin",
+        "Low level laser therapy",
+        "Laser",
+        "Staining",
+        "Laser therapy",
+        "Molar"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1007/s12663-015-0842-x",
+      "openalex_url": "https://openalex.org/W2110516998",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12663-015-0842-x.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://link.springer.com/content/pdf/10.1007/s12663-015-0842-x.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/5048318"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.2959,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.4885,
+          "recency_signal": 0.56
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.5490026019080659,
+          "h_index": 51
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.4317/medoral.15.e912",
+      "arxiv_id": null,
+      "openalex_id": "W2143436678",
+      "ss_paper_id": null,
+      "pmid": "20526250",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Histologic evaluation of thermal damage produced on soft tissues by CO2, Er,Cr:YSGG and diode lasers",
+      "abstract": "OBJECTIVE: The aim of this in vitro experimental study was to perform histological evaluation of the thermal effect produced on soft tissue irradiated with CO2, Er,Cr:YSGG or diode lasers. STUDY DESIGN: Porcine oral mucosa samples were irradiated with Er,Cr:YSGG laser at 1 W with and without water / air spray, at 2 W with and without water / air spray, and at 4 W with water / air spray, with CO2 laser at 1 W, 2 W, 10 W, 20 W continuous mode and 20 W pulsed mode and diode laser at 2 W, 5 W, and 10 W pulsed mode. The thermal effect was evaluated measuring the width of damaged tissue adjacent to the incision, stained positively for hyalinized tissue with Hematoxylin-Eosin and Masson Trichrome stains. Besides, histological changes in the irradiated tissue were described using subjective grading scales. RESULTS: The evaluated lasers developed a wide range of thermal damage with significant differences between groups. The samples with lowest thermal effect were those irradiated with Er,Cr:YSGG laser using water / air spray, followed by CO2 and diode lasers. CONCLUSIONS: Emission parameters of each laser system may influence the thermal damage inflicted on the soft tissue, however, the wave length of each laser determines the absorption rate characteristics of every tissue and the thermal effect.",
+      "authors": [
+        {
+          "name": "Iñaki Cercadillo-Ibarguren",
+          "orcid": null,
+          "affiliation": "Institut d'Investigació Biomédica de Bellvitge",
+          "country": "ES",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Antonio Jesús España-Tost",
+          "orcid": null,
+          "affiliation": "Institut d'Investigació Biomédica de Bellvitge",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Josep Arnabat‐Domínguez",
+          "orcid": "https://orcid.org/0000-0003-1653-8043",
+          "affiliation": "Institut d'Investigació Biomédica de Bellvitge",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Eduard Valmaseda‐Castellón",
+          "orcid": "https://orcid.org/0000-0001-9669-3187",
+          "affiliation": "Institut d'Investigació Biomédica de Bellvitge",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Leonardo Berini‐Aytés",
+          "orcid": null,
+          "affiliation": "Institut d'Investigació Biomédica de Bellvitge",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Cosme Gay‐Escoda",
+          "orcid": "https://orcid.org/0000-0002-6812-024X",
+          "affiliation": "Institut d'Investigació Biomédica de Bellvitge",
+          "country": "ES",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2010,
+      "venue": "Medicina oral, patología oral y cirugía bucal",
+      "issn": "1698-4447",
+      "type": "article",
+      "citation_count": 97,
+      "referenced_works_count": 24,
+      "fwci": 3.9882,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9657999873161316
+        },
+        {
+          "id": "T11172",
+          "name": "Dermatologic Treatments and Research",
+          "score": 0.025599999353289604
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.001500000013038516
+        }
+      ],
+      "keywords": [
+        "Laser",
+        "Irradiation",
+        "Materials science",
+        "Diode",
+        "Soft tissue",
+        "Optics",
+        "Biomedical engineering",
+        "Optoelectronics",
+        "Pathology",
+        "Medicine"
+      ],
+      "sdgs": [
+        {
+          "score": 0.7400000095367432,
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.4317/medoral.15.e912",
+      "openalex_url": "https://openalex.org/W2143436678",
+      "pdf_url": "https://doi.org/10.4317/medoral.15.e912",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.4317/medoral.15.e912",
+        "http://hdl.handle.net/10550/60231"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.2931,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.3333,
+          "citation_signal": 0.6032,
+          "recency_signal": 0.36
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.2845849802371543,
+          "h_index": 89
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1117/1.2204603",
+      "arxiv_id": null,
+      "openalex_id": "W2035476976",
+      "ss_paper_id": null,
+      "pmid": "16822072",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Light scattering properties of natural and artificially demineralized dental enamel at 1310 nm",
+      "abstract": "A fundamental understanding of how near-IR light propagates through sound and carious dental hard tissues is essential for the development of clinically useful optical diagnostic systems, since image contrast is based on changes in the optical properties of these tissues on demineralization. During the caries (decay) process, micropores are formed in the lesion due to partial dissolution of the individual mineral crystals. Such small pores behave as scattering centers, strongly scattering visible and near-IR light. The optical properties of enamel can be quantitatively described by the absorption and scattering coefficients, and the scattering phase function. Our aim is to measure the optical scattering behavior of natural and artificial enamel caries. Near-IR attenuation measurements and angular-resolved goniometer measurements coupled with Monte Carlo simulations are used to determine changes in the scattering coefficient and the scattering anisotropy on demineralization at 1310 nm. An ultra-high resolution digital microradiography system is used to quantify the lesion severity by measurement of the relative mineral loss for comparison with optical scattering measurements. The scattering coefficient increases exponentially with increasing mineral loss. Natural and artificial demineralization increases the scattering coefficient more than two orders of magnitude at 1310 nm, and the scattering is highly forward directed.",
+      "authors": [
+        {
+          "name": "Cynthia L. Darling",
+          "orcid": null,
+          "affiliation": "University of California, San Francisco",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gigi D. Huynh",
+          "orcid": null,
+          "affiliation": "University of California, San Francisco",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Daniel Fried",
+          "orcid": "https://orcid.org/0000-0002-5327-2558",
+          "affiliation": "University of California, San Francisco",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2006,
+      "venue": "Journal of Biomedical Optics",
+      "issn": "1083-3668",
+      "type": "article",
+      "citation_count": 211,
+      "referenced_works_count": 27,
+      "fwci": 5.5509,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10977",
+          "name": "Optical Imaging and Spectroscopy Techniques",
+          "score": 0.9997000098228455
+        },
+        {
+          "id": "T12015",
+          "name": "Photoacoustic and Ultrasonic Imaging",
+          "score": 0.995199978351593
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.9936000108718872
+        }
+      ],
+      "keywords": [
+        "Scattering",
+        "Demineralization",
+        "Light scattering",
+        "Materials science",
+        "Optics",
+        "Enamel paint",
+        "Attenuation coefficient",
+        "Biological small-angle scattering",
+        "Small-angle neutron scattering",
+        "Physics"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1117/1.2204603",
+      "openalex_url": "https://openalex.org/W2035476976",
+      "pdf_url": "https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-11/issue-3/034023/Light-scattering-properties-of-natural-and-artificially-demineralized-dental-enamel/10.1117/1.2204603.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-11/issue-3/034023/Light-scattering-properties-of-natural-and-artificially-demineralized-dental-enamel/10.1117/1.2204603.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.2924,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.3333,
+          "citation_signal": 0.7047,
+          "recency_signal": 0.2
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.495201535508637,
+          "h_index": 183
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1016/0030-4018(95)00146-y",
+      "arxiv_id": null,
+      "openalex_id": "W2134777788",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "A compact grating-stabilized diode laser system for atomic physics",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "Leonardo Ricci",
+          "orcid": "https://orcid.org/0000-0001-9454-0988",
+          "affiliation": "Max Planck Institute of Quantum Optics",
+          "country": "DE",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Matthias Weidemüller",
+          "orcid": "https://orcid.org/0000-0001-5639-5126",
+          "affiliation": "Max Planck Institute of Quantum Optics",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Tilman Esslinger",
+          "orcid": "https://orcid.org/0000-0002-8333-107X",
+          "affiliation": "Max Planck Institute of Quantum Optics",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Andreas Hemmerich",
+          "orcid": "https://orcid.org/0000-0002-9941-518X",
+          "affiliation": "Max Planck Institute of Quantum Optics",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "C. Zimmermann",
+          "orcid": "https://orcid.org/0000-0002-3221-7090",
+          "affiliation": "Max Planck Institute of Quantum Optics",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Vladan Vuletić",
+          "orcid": "https://orcid.org/0000-0002-9786-0538",
+          "affiliation": "Max Planck Institute of Quantum Optics",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "W. König",
+          "orcid": null,
+          "affiliation": "Max Planck Institute of Quantum Optics",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Theodor W. Hänsch",
+          "orcid": null,
+          "affiliation": "Max Planck Institute of Quantum Optics",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 1995,
+      "venue": "Optics Communications",
+      "issn": "0030-4018",
+      "type": "article",
+      "citation_count": 436,
+      "referenced_works_count": 35,
+      "fwci": 6.2357,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10988",
+          "name": "Advanced Fiber Laser Technologies",
+          "score": 0.9994000196456909
+        },
+        {
+          "id": "T11429",
+          "name": "Semiconductor Lasers and Optical Devices",
+          "score": 0.9991999864578247
+        },
+        {
+          "id": "T10299",
+          "name": "Photonic and Optical Devices",
+          "score": 0.9987999796867371
+        }
+      ],
+      "keywords": [
+        "Laser linewidth",
+        "Optics",
+        "Laser",
+        "Chirp",
+        "Diode",
+        "Grating",
+        "Diffraction grating",
+        "Modulation (music)",
+        "Frequency modulation",
+        "Semiconductor laser theory"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.4399999976158142,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/0030-4018(95)00146-y",
+      "openalex_url": "https://openalex.org/W2134777788",
+      "pdf_url": "https://pure.uva.nl/ws/files/2843544/1446_14121y.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://pure.uva.nl/ws/files/2843544/1446_14121y.pdf",
+        "https://dare.uva.nl/personal/pure/en/publications/a-compact-gratingstabilized-diode-laser-system-for-atomic-physics(3000070a-1a24-43fb-bd0d-2947473062b9).html"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.2866,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.7998,
+          "recency_signal": 0.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.8786089238845145,
+          "h_index": 191
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1038/sj.bdj.4813644",
+      "arxiv_id": null,
+      "openalex_id": "W2033280441",
+      "ss_paper_id": null,
+      "pmid": "16767142",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Surface and pulp chamber temperature rises during tooth bleaching using a diode laser: a study in vitro",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "M. Sulieman",
+          "orcid": null,
+          "affiliation": "University Of Bristol Dental Hospital",
+          "country": "GB",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "J. S. Rees",
+          "orcid": null,
+          "affiliation": "University of Wales",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "M Addy",
+          "orcid": null,
+          "affiliation": "University Of Bristol Dental Hospital",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2006,
+      "venue": "BDJ",
+      "issn": "0007-0610",
+      "type": "article",
+      "citation_count": 88,
+      "referenced_works_count": 9,
+      "fwci": 4.752,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11958",
+          "name": "Dental Erosion and Treatment",
+          "score": 0.996399998664856
+        },
+        {
+          "id": "T11566",
+          "name": "Laser Applications in Dentistry and Medicine",
+          "score": 0.0012000000569969416
+        },
+        {
+          "id": "T10536",
+          "name": "Endodontics and Root Canal Treatments",
+          "score": 0.0010000000474974513
+        }
+      ],
+      "keywords": [
+        "Pulp (tooth)",
+        "Thermocouple",
+        "Dentistry",
+        "Materials science",
+        "Laser",
+        "Tooth surface",
+        "Composite material",
+        "Medicine",
+        "Optics"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1038/sj.bdj.4813644",
+      "openalex_url": "https://openalex.org/W2033280441",
+      "pdf_url": "https://www.nature.com/articles/4813644.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.nature.com/articles/4813644.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.2752,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.3333,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.5905,
+          "recency_signal": 0.2
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.7198604060913706,
+          "h_index": 158
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1016/j.phpro.2010.08.078",
+      "arxiv_id": null,
+      "openalex_id": "W2066240202",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Feedback control of Layerwise Laser Melting using optical sensors",
+      "abstract": "Layerwise Laser Melting (LLM) is a layerwise production technique enabling the production of complex metallic parts. Thin powder layers are molten according to a predefined scan pattern by means of a laser source. Nowadays constant process parameters are used throughout the build, leading for some geometries to an overly thick feature size or overheating at downfacing surfaces. In this paper a monitoring and control system is presented which enables monitoring the melt pool continously at high speed throughout the building process. The signals from the sensors can be incorporated in a real-time control loop, in this way enabling feedback control of the process parameters. In this paper the experimental set-up will be first shown. Next the dynamic relation between the melt pool and the process parameters is identified. Finally the proof of concept for feedback control is demonstrated with experimental results.",
+      "authors": [
+        {
+          "name": "Tom Craeghs",
+          "orcid": null,
+          "affiliation": "KU Leuven",
+          "country": "BE",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Florian Bechmann",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Sebastian Berumen",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jean‐Pierre Kruth",
+          "orcid": "https://orcid.org/0000-0003-0362-8875",
+          "affiliation": "KU Leuven",
+          "country": "BE",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2010,
+      "venue": "Physics Procedia",
+      "issn": "1875-3892",
+      "type": "article",
+      "citation_count": 295,
+      "referenced_works_count": 21,
+      "fwci": 5.6376,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10705",
+          "name": "Additive Manufacturing Materials and Processes",
+          "score": 0.9998000264167786
+        },
+        {
+          "id": "T10783",
+          "name": "Additive Manufacturing and 3D Printing Technologies",
+          "score": 0.9955999851226807
+        },
+        {
+          "id": "T10732",
+          "name": "Laser Material Processing Techniques",
+          "score": 0.9907000064849854
+        }
+      ],
+      "keywords": [
+        "Overheating (electricity)",
+        "Laser",
+        "Computer science",
+        "Materials science",
+        "Process (computing)",
+        "Feedback control",
+        "Process control",
+        "Selective laser melting",
+        "Process engineering",
+        "Mechanical engineering"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1016/j.phpro.2010.08.078",
+      "openalex_url": "https://openalex.org/W2066240202",
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1875389210005043/pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.sciencedirect.com/science/article/pii/S1875389210005043/pdf",
+        "https://lirias.kuleuven.be/retrieve/e11e0e2b-14bc-4a8d-82c8-20031352efd2"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.2733,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.1667,
+          "abstract_coverage": 0.1667,
+          "citation_signal": 0.7486,
+          "recency_signal": 0.36
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.0,
+          "h_index": 102
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    }
+  ],
+  "meta": {
+    "query": {
+      "topic": "diode laser power output measurement dental",
+      "search_query": "diode laser power output measurement dental",
+      "year_min": null,
+      "year_max": null,
+      "per_strategy": 40,
+      "terms": [
+        "diode",
+        "laser",
+        "power",
+        "output",
+        "measurement",
+        "dental"
+      ]
+    },
+    "counts": {
+      "retrieved_raw": 120,
+      "after_dedup": 114,
+      "after_relevance_filter": 114,
+      "after_journal_filter": 114,
+      "after_rank_filter": 114,
+      "returned": 30
+    },
+    "rank": {
+      "platform": "jcr",
+      "platform_source": "default",
+      "keep_tiers": null,
+      "keep_quartiles": null,
+      "top_only": false,
+      "category": null,
+      "applied_filter": false,
+      "ambiguous": false,
+      "candidate_platforms": [],
+      "kept": null,
+      "filtered": null,
+      "no_platform_data": null,
+      "data_loaded": false,
+      "loaded_platforms": [],
+      "switchable_platforms": [],
+      "switch_is_refilter_not_research": true,
+      "stripped_phrases": [],
+      "deepen": {
+        "active": false,
+        "rounds": 0,
+        "saturated": false,
+        "final_per_strategy": 40
+      },
+      "attribution": null,
+      "note": null,
+      "keep_tiers_note": null,
+      "naming": "CAS 区 & SJR best_quartile are PARTITIONS; only JCR impact_factor is a real Impact Factor (R-04/R-09). 切换标准/档位 = 重筛已标注的候选池，不重搜。"
+    },
+    "enrichment": {
+      "enriched": true,
+      "impact_source": "openalex_summary_stats",
+      "impact_attached": 106,
+      "filter_quartiles": null,
+      "filter_min_impact": null,
+      "category": null,
+      "issn_backfill_enabled": true,
+      "issn_backfill_attempted": 0,
+      "issn_backfilled": 0,
+      "note": "Single journal_rank layer. Quartile/影响力 data lives in each paper's journal_rank (CAS/JCR/SJR + openalex). Partition data is cached under ~/.paper-search-pro/ranks/ (run `journal_rank fetch`, no API key needed). Only JCR IF(2024) is a real Impact Factor."
+    },
+    "relevance": {
+      "method": "heuristic_v1",
+      "is_llm_rcs": false,
+      "min_relevance": 0.0,
+      "weights": {
+        "title_coverage": 0.5,
+        "abstract_coverage": 0.25,
+        "citation_signal": 0.15,
+        "recency_signal": 0.1
+      },
+      "note": "Deterministic query-grounded heuristic, NOT the human path's LLM RCS. A signal for self-judgement, computed for every paper."
+    },
+    "saturation": {
+      "method": "heuristic_v1",
+      "advisory": true,
+      "looks_saturated": false,
+      "per_strategy_new_papers": [
+        40,
+        40,
+        34
+      ],
+      "last_strategy_marginal_yield": 0.2982,
+      "score_distribution": {
+        "high": 0,
+        "medium": 18,
+        "low": 96
+      },
+      "note": "Heuristic stop signal (no LLM classification). 'looks_saturated' = later strategies added few new papers. Advisory only."
+    },
+    "ratelimit": {
+      "ok": true,
+      "remaining_usd": 0.8842,
+      "limit_usd": 1.0,
+      "remaining": 8842,
+      "limit": 10000,
+      "reset_seconds": 48593,
+      "retry_after": null,
+      "should_switch": false,
+      "mode": "probe",
+      "error": null,
+      "switched_source": false
+    },
+    "source_used": "openalex",
+    "warnings": []
+  }
+}

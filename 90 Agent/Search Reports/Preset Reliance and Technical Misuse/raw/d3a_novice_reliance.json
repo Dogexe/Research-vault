@@ -1,0 +1,3849 @@
+{
+  "ok": true,
+  "schema_version": "1.0",
+  "data": [
+    {
+      "doi": "10.15368/theses.2010.103",
+      "arxiv_id": null,
+      "openalex_id": "W354528175",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Modular Laser Combat System for Remotely Operated Vehicles: Bridging the Gap Between Computer Simulation and Live Fire",
+      "abstract": "In the emerging industry of small unmanned vehicles, pioneered by small businesses and research institutions, a suitable combat system test platform is needed. Computer simulations are useful, but do not provide the definitive proof of effective operation necessary for deployment of a combat system. What is needed is an affordable simulated weapons system that enables live flight testing without the used of live weaponry. A framework is developed here for the construction of a simulated weapon using Free Space Optical (FSO) infrared communication. It is developed in such a way to ensure compatibility with a variety of platforms including ground and aerial vehicles, so that identical but configurable modules can be used on any vehicle that is to take place in a live combat simulation. A proof-of-concept implementation of this modular laser combat system framework is also presented and tested. The implemented system shows the value of such a simulated weapons system and future areas of improvement are also explored.",
+      "authors": [
+        {
+          "name": "Thomas Edward Fulenwider",
+          "orcid": null,
+          "affiliation": "California Polytechnic State University",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2010,
+      "venue": null,
+      "issn": null,
+      "type": "dissertation",
+      "citation_count": 0,
+      "referenced_works_count": 10,
+      "fwci": null,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T12153",
+          "name": "Advanced Optical Sensing Technologies",
+          "score": 0.9975000023841858
+        },
+        {
+          "id": "T11164",
+          "name": "Remote Sensing and LiDAR Applications",
+          "score": 0.9793000221252441
+        },
+        {
+          "id": "T14257",
+          "name": "Advanced Measurement and Detection Methods",
+          "score": 0.9758999943733215
+        }
+      ],
+      "keywords": [
+        "Software deployment",
+        "Bridging (networking)",
+        "Modular design",
+        "Engineering",
+        "Proof of concept",
+        "Aerospace engineering",
+        "Systems engineering",
+        "System deployment",
+        "Simulation",
+        "Aeronautics"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.15368/theses.2010.103",
+      "openalex_url": "https://openalex.org/W354528175",
+      "pdf_url": "https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1357&context=theses",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1357&context=theses"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.2235,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.25,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.0,
+          "recency_signal": 0.36
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.1088/1758-5090/ab331e",
+      "arxiv_id": null,
+      "openalex_id": "W2958832813",
+      "ss_paper_id": null,
+      "pmid": "31315105",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Review of alginate-based hydrogel bioprinting for application in tissue engineering",
+      "abstract": "Abstract The dawn of 3D printing in medicine has given the field the hope of vitality in many patients fighting a multitude of diseases. Also entitled bioprinting, this appertains to its sequential printing of precursor ink, embodying cells and polymer/composite in a predetermined trajectory. The precursor ink, in addition to cells, is predominantly constituted of hydrogels due to its biodegradability and ability to mimic the body’s anatomy and mechanical features, e.g. bones, etc. This review paper is devoted to explicating the bioprinting (3D/4D) of alginate hydrogels, which are extracts from brown algae, through extrusion additive manufacturing. Alginates are salt derivatives of alginic acid and constitute long chains of polysaccharides, which provides pliability and gelling adeptness to their structure. Alginate hydrogel (employed for extrusion) can be pristine or composite relying on the requisite properties (target application controlled or in vivo environment), e.g. alginate-natural (gelatin/agarose/collagen/hyaluronic acid/etc) and alginate-synthetic (polyethylene glycol (PEG)/pluronic F-127/etc). Extrusion additive manufacturing of alginate is preponderate among others with its uncomplicated processing, material efficiency (cut down on wastage), and outspread adaptability for viscosities (0.03–6 * 10 4 Pa.s), but the procedure is limited by resolution (200 μ m) in addition to accuracy. However, 3D-fabricated biostructures display rigidness (unvarying with conditions) i.e. lacks a smart response, which is reassured by accounting time feature as a noteworthy accessory to printing, interpreted as 4D bioprinting. This review propounds the specific processing itinerary for alginate (meanwhile traversing across its composites/blends with natural and synthetic consideration) in extrusion along with its pre-/during/post-processing parameters intrinsic to the process. Furthermore, propensity is also presented in its (alginate extrusion processing) application for tissue engineering, i.e. bones, cartilage (joints), brain (neural), ear, heart (cardiac), eyes (corneal), etc, due to a worldwide quandary over accessibility to natural organs for diverse types of diseases. Additionally, the review contemplates recently invented advance printing, i.e. 4D printing for biotic species, with its challenges and future opportunities.",
+      "authors": [
+        {
+          "name": "Prasansha Rastogi",
+          "orcid": null,
+          "affiliation": "Defence Institute of Advanced Technology",
+          "country": "IN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Balasubramanian Kandasubramanian",
+          "orcid": "https://orcid.org/0000-0003-4257-8807",
+          "affiliation": "Defence Institute of Advanced Technology",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2019,
+      "venue": "Biofabrication",
+      "issn": "1758-5082",
+      "type": "article",
+      "citation_count": 565,
+      "referenced_works_count": 187,
+      "fwci": 20.7972,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T11190",
+          "name": "3D Printing in Biomedical Research",
+          "score": 1.0
+        },
+        {
+          "id": "T10783",
+          "name": "Additive Manufacturing and 3D Printing Technologies",
+          "score": 0.9919999837875366
+        },
+        {
+          "id": "T10059",
+          "name": "Bone Tissue Engineering Materials",
+          "score": 0.9884999990463257
+        }
+      ],
+      "keywords": [
+        "Self-healing hydrogels",
+        "3D bioprinting",
+        "Gelatin",
+        "Extrusion",
+        "Materials science",
+        "Tissue engineering",
+        "Polyethylene glycol",
+        "Alginic acid",
+        "Glucuronic acid",
+        "Biomedical engineering"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1088/1758-5090/ab331e",
+      "openalex_url": "https://openalex.org/W2958832813",
+      "pdf_url": "https://iopscience.iop.org/article/10.1088/1758-5090/ab331e/pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://iopscience.iop.org/article/10.1088/1758-5090/ab331e/pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1971,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.8339,
+          "recency_signal": 0.72
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 6.946850393700787,
+          "h_index": 139
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1002/adrr.202500074",
+      "arxiv_id": null,
+      "openalex_id": "W4412696748",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Recent Advances in Robotic Systems for Robot‐Assisted Transoral Surgical Procedures: A Systematic Review",
+      "abstract": "Robot‐assisted transoral surgical procedures have emerged as minimally invasive solutions for addressing pathologies in the head and neck regions and airway structures. This review provides a comprehensive evaluation of current robotic systems utilized in robot‐assisted transoral surgical procedures and categorizes them according to the depth of transoral access, ranging from robot‐assisted transoral laser microsurgery to transoral robotic surgery, and extending to robot‐assisted tracheal intubation. The detailed analysis highlights the evolution of their design principles, evaluates their clinical applicability, and discusses the associated inherent limitations. Key technological advancements identified include the increasing specialization of commercial robotic systems, the integration of force and shape sensing capabilities, and significant progress toward higher levels of surgical autonomy. This review systematically outlines current advancements and emerging trends in robot‐assisted transoral surgical systems, aiming to inform and guide future research in this field.",
+      "authors": [
+        {
+          "name": "Yuhao Shi",
+          "orcid": null,
+          "affiliation": "Tianjin University",
+          "country": "CN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jichen Li",
+          "orcid": "https://orcid.org/0009-0005-3008-8394",
+          "affiliation": "Tianjin University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yuekun Yang",
+          "orcid": null,
+          "affiliation": "Tianjin University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Zheng Li",
+          "orcid": "https://orcid.org/0000-0002-5588-5331",
+          "affiliation": "Chinese University of Hong Kong",
+          "country": "HK",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Toshio Fukuda",
+          "orcid": "https://orcid.org/0000-0002-3885-7152",
+          "affiliation": "Nagoya University Hospital",
+          "country": "JP",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Chaoyang Shi",
+          "orcid": "https://orcid.org/0000-0002-9065-9057",
+          "affiliation": "Tianjin University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2025,
+      "venue": "Advanced Robotics Research",
+      "issn": "2943-9973",
+      "type": "review",
+      "citation_count": 6,
+      "referenced_works_count": 135,
+      "fwci": 2.0774,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T10916",
+          "name": "Surgical Simulation and Training",
+          "score": 0.9911999702453613
+        },
+        {
+          "id": "T10975",
+          "name": "Bone Tumor Diagnosis and Treatments",
+          "score": 0.9897000193595886
+        },
+        {
+          "id": "T10980",
+          "name": "Vascular Malformations and Hemangiomas",
+          "score": 0.9894999861717224
+        }
+      ],
+      "keywords": [
+        "Transoral robotic surgery",
+        "Surgical robot",
+        "Computer science",
+        "Robot",
+        "Surgical procedures",
+        "Medicine",
+        "Artificial intelligence",
+        "Surgery"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1002/adrr.202500074",
+      "openalex_url": "https://openalex.org/W4412696748",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adrr.202500074",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adrr.202500074"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1969,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.256,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.591160220994475,
+          "h_index": 7
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/medicina59101710",
+      "arxiv_id": null,
+      "openalex_id": "W4387018824",
+      "ss_paper_id": null,
+      "pmid": "37893428",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Vibrotactile Feedback for a Person with Transradial Amputation and Visual Loss: A Case Report",
+      "abstract": "Background and Objectives: After major upper-limb amputation, people face challenges due to losing tactile information and gripping function in their hands. While vision can confirm the success of an action, relying on it diverts attention from other sensations and tasks. This case report presents a 30-year-old man with traumatic, complete vision loss and transradial left forearm amputation. It emphasizes the importance of restoring tactile abilities when visual compensation is impossible. Materials and Methods: A prototype tactile feedback add-on system was developed, consisting of a sensor glove and upper arm cuff with related vibration actuators. Results: We found a 66% improvement in the Box and Blocks test and an overall functional score increase from 30% to 43% in the Southampton Hand Assessment Procedure with feedback. Qualitative improvements in bimanual activities, ergonomics, and reduced reliance on the unaffected hand were observed. Incorporating the tactile feedback system improved the precision of grasping and the utility of the myoelectric hand prosthesis, freeing the unaffected hand for other tasks. Conclusions: This case demonstrated improvements in prosthetic hand utility achieved by restoring peripheral sensitivity while excluding the possibility of visual compensation. Restoring tactile information from the hand and fingers could benefit individuals with impaired vision and somatosensation, improving acceptance, embodiment, social integration, and pain management.",
+      "authors": [
+        {
+          "name": "Gerfried Peternell",
+          "orcid": "https://orcid.org/0000-0002-9553-1423",
+          "affiliation": "Ludwig Boltzmann Institute for Traumatology, The Research Center in Cooperation with AUVA",
+          "country": "AT",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Harald Penasso",
+          "orcid": "https://orcid.org/0000-0002-4583-9948",
+          "affiliation": "Ludwig Boltzmann Institute for Traumatology, The Research Center in Cooperation with AUVA",
+          "country": "AT",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Henriette Luttenberger",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hildegard Ronacher",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Roman Schlintner",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Kara Ashcraft",
+          "orcid": null,
+          "affiliation": "University of Colorado Boulder",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Alexander Gardetto",
+          "orcid": "https://orcid.org/0000-0002-0671-4384",
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jennifer Ernst",
+          "orcid": null,
+          "affiliation": "Medizinische Hochschule Hannover",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ursula Kropiunig",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2023,
+      "venue": "Medicina",
+      "issn": "1010-660X",
+      "type": "article",
+      "citation_count": 5,
+      "referenced_works_count": 63,
+      "fwci": 0.3999,
+      "cited_by_percentile_year": 96,
+      "topics": [
+        {
+          "id": "T10784",
+          "name": "Muscle activation and electromyography studies",
+          "score": 0.9995999932289124
+        },
+        {
+          "id": "T11601",
+          "name": "Neuroscience and Neural Engineering",
+          "score": 0.9980000257492065
+        },
+        {
+          "id": "T10510",
+          "name": "Stroke Rehabilitation and Recovery",
+          "score": 0.9969000220298767
+        }
+      ],
+      "keywords": [
+        "Amputation",
+        "Compensation (psychology)",
+        "Physical medicine and rehabilitation",
+        "Forearm",
+        "Prosthetic hand",
+        "Hand strength",
+        "GRASP",
+        "Computer science",
+        "Psychology",
+        "Artificial intelligence"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/10",
+          "display_name": "Reduced inequalities",
+          "score": 0.8100000023841858
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/medicina59101710",
+      "openalex_url": "https://openalex.org/W4387018824",
+      "pdf_url": "https://www.mdpi.com/1648-9144/59/10/1710/pdf?version=1695622678",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/1648-9144/59/10/1710/pdf?version=1695622678",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10608000/pdf/medicina-59-01710.pdf",
+        "https://doaj.org/article/ac0396cbe261471d82a2669e604e5c3b"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1859,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.25,
+          "citation_signal": 0.2357,
+          "recency_signal": 0.88
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.4120178778347956,
+          "h_index": 107
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1145/3411764.3445682",
+      "arxiv_id": null,
+      "openalex_id": "W3162262138",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "What We Can Learn From Visual Artists About Software Development",
+      "abstract": "This paper explores software’s role in visual art production by examining how artists use and develop software. We conducted interviews with professional artists who were collaborating with software developers, learning software development, and building and maintaining software. We found artists were motivated to learn software development for intellectual growth and access to technical communities. Artists valued efficient workflows through skilled manual execution and personal software development, but avoided high-level forms of software automation. Artists identified conflicts between their priorities and those of professional developers and computational art communities, which influenced how they used computational aesthetics in their work. These findings contribute to efforts in systems engineering research to integrate end-user programming and creativity support across software and physical media, suggesting opportunities for artists as collaborators. Artists’ experiences writing software can guide technical implementations of domain-specific representations, and their experiences in interdisciplinary production can aid inclusive community building around computational tools.",
+      "authors": [
+        {
+          "name": "Jingyi Li",
+          "orcid": "https://orcid.org/0000-0002-3315-1855",
+          "affiliation": "Stanford University",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Sonia Hashim",
+          "orcid": "https://orcid.org/0000-0003-3173-5344",
+          "affiliation": "University of California, Santa Barbara",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jennifer Jacobs",
+          "orcid": "https://orcid.org/0000-0001-8666-8527",
+          "affiliation": "University of California, Santa Barbara",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2021,
+      "venue": null,
+      "issn": null,
+      "type": "conference-paper",
+      "citation_count": 61,
+      "referenced_works_count": 88,
+      "fwci": 7.059,
+      "cited_by_percentile_year": 100,
+      "topics": [
+        {
+          "id": "T10803",
+          "name": "Innovative Human-Technology Interaction",
+          "score": 0.9970999956130981
+        },
+        {
+          "id": "T10533",
+          "name": "Teaching and Learning Programming",
+          "score": 0.9878000020980835
+        },
+        {
+          "id": "T10731",
+          "name": "Educational Games and Gamification",
+          "score": 0.9871000051498413
+        }
+      ],
+      "keywords": [
+        "Software development",
+        "Computer science",
+        "Software",
+        "Creativity",
+        "Social software engineering",
+        "Workflow",
+        "Software engineering",
+        "Personal software process",
+        "Software peer review",
+        "Software construction"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality Education",
+          "score": 0.6499999761581421
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1145/3411764.3445682",
+      "openalex_url": "https://openalex.org/W3162262138",
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3411764.3445682",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://dl.acm.org/doi/pdf/10.1145/3411764.3445682"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1614,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.5429,
+          "recency_signal": 0.8
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.1561/1100000087",
+      "arxiv_id": null,
+      "openalex_id": "W4293092512",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "A Design Space of Sports Interaction Technology",
+      "abstract": "With this monograph we introduce a new, systematic taxonomy of Sports Interaction Technology (Sports ITech) that defines a design space of existing and future work in this domain. We set the taxonomy in a context of our view on sport science and sports practice, target outcomes of sports and the underlying factors influencing them, and the role that sports technology plays to support sports science and practice. In that setting we systematically build and illustrate a taxonomy for the design space for Sports ITech as a sub-area of sports technologies, with specific attention for the adequate inclusion of knowledge from the sports sciences. We build on the basis of existing taxonomies and a vast body of literature from multiple domains of HCI, technology, sports science, and related work in Sports ITech, complemented with what we identified as obvious gaps in the literature. We finally share the conclusions after a discussion of the limitations of our work. The contributions of this monograph are as follows. First, we offer a description of a design space, exemplified through existing work in a way suitable to support designers, technologists, and sports people with a design mindset to design, deploy, and adapt Sports ITech. Second, we see this as a call to action to bring HCI and the sports sciences closer together in the new field of Sports Interaction Technology, to set a shared agenda for future developments. Third, we offer this as the collation of a reading guide and wayfinding support in the literature from the many underlying disciplines of Sports Interaction Technology.",
+      "authors": [
+        {
+          "name": "Dees Postma",
+          "orcid": "https://orcid.org/0000-0002-1108-7549",
+          "affiliation": "Human Media",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Robby van Delden",
+          "orcid": "https://orcid.org/0000-0002-6592-1199",
+          "affiliation": "Human Media",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jeroen H. Koekoek",
+          "orcid": null,
+          "affiliation": "Windesheim University of Applied Sciences",
+          "country": "NL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Wytse W. Walinga",
+          "orcid": null,
+          "affiliation": "Windesheim University of Applied Sciences",
+          "country": "NL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "I.M. van Hilvoorde",
+          "orcid": "https://orcid.org/0000-0002-8499-9792",
+          "affiliation": "Windesheim University of Applied Sciences",
+          "country": "NL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Bert Jan F. van Beijnum",
+          "orcid": null,
+          "affiliation": "University of Twente",
+          "country": "NL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Fahim A. Salim",
+          "orcid": "https://orcid.org/0000-0002-8849-8725",
+          "affiliation": "University of Twente",
+          "country": "NL",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Dennis Reidsma",
+          "orcid": "https://orcid.org/0000-0002-7503-573X",
+          "affiliation": "Human Media",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2022,
+      "venue": "Foundations and Trends® in Human–Computer Interaction",
+      "issn": "1551-3955",
+      "type": "article",
+      "citation_count": 26,
+      "referenced_works_count": 463,
+      "fwci": 2.1552,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T14074",
+          "name": "Persona Design and Applications",
+          "score": 0.6682999730110168
+        },
+        {
+          "id": "T11197",
+          "name": "Digital Games and Media",
+          "score": 0.5835000276565552
+        },
+        {
+          "id": "T12720",
+          "name": "Multimedia Communication and Technology",
+          "score": 0.567799985408783
+        }
+      ],
+      "keywords": [
+        "Space (punctuation)",
+        "Human–computer interaction",
+        "Computer science"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1561/1100000087",
+      "openalex_url": "https://openalex.org/W4293092512",
+      "pdf_url": "https://www.nowpublishers.com/article/Download/HCI-087",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.nowpublishers.com/article/Download/HCI-087",
+        "https://research.utwente.nl/en/publications/b9c7fefc-6c83-49fc-9684-4b48873a358b"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.149,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.4336,
+          "recency_signal": 0.84
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 24.22222222222222,
+          "h_index": 33
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.7551/mitpress/13605.001.0001",
+      "arxiv_id": null,
+      "openalex_id": "W4307826637",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Playing at a Distance",
+      "abstract": "An essential exploration of video game aesthetic that decenters the human player and challenges what it means to play. Do we play video games or do video games play us? Is nonhuman play a mere paradox or the future of gaming? And what do video games have to do with quantum theory? In Playing at a Distance, Sonia Fizek engages with these and many more daunting questions, forging new ways to think and talk about games and play that decenter the human player and explore a variety of play formats and practices that require surprisingly little human action. Idling in clicker games, wandering in walking simulators, automating gameplay with bots, or simply watching games rather than playing them—Fizek shows how these seemingly marginal cases are central to understanding how we play in the digital age. Introducing the concept of distance, Fizek reorients our view of computer-mediated play. To “play at a distance,” she says, is to delegate the immediate action to the machine and to become participants in an algorithmic spectacle. Distance as a media aesthetic framework enables the reader to come to terms with the ambiguity and aesthetic diversity of play. Drawing on concepts from philosophy, media theory, and posthumanism, as well as cultural and film studies, Playing at a Distance invites a wider understanding of what digital games and gaming are in all their diverse experiences and forms. In challenging the common perception of video games as inherently interactive, the book contributes to our understanding of the computer's influence on practices of play—and prods us to think more broadly about what it means to play.",
+      "authors": [
+        {
+          "name": "Sonia Fizek",
+          "orcid": "https://orcid.org/0000-0003-3842-4995",
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2022,
+      "venue": "The MIT Press eBooks",
+      "issn": null,
+      "type": "book",
+      "citation_count": 19,
+      "referenced_works_count": null,
+      "fwci": 5.7512,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11197",
+          "name": "Digital Games and Media",
+          "score": 0.9821000099182129
+        }
+      ],
+      "keywords": [
+        "Action (physics)",
+        "Video game",
+        "Computer science",
+        "Ambiguity",
+        "Affordance",
+        "Perception",
+        "Human–computer interaction",
+        "Multimedia",
+        "Aesthetics",
+        "Psychology"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.7551/mitpress/13605.001.0001",
+      "openalex_url": "https://openalex.org/W4307826637",
+      "pdf_url": "https://direct.mit.edu/books/oa-monograph/5473/bookpreview-pdf/2055580",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://direct.mit.edu/books/oa-monograph/5473/bookpreview-pdf/2055580",
+        "https://direct.mit.edu/books/oa-monograph-pdf/2241637/book_9780262372190.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1431,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.3941,
+          "recency_signal": 0.84
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.1002/osp4.747",
+      "arxiv_id": null,
+      "openalex_id": "W4394964651",
+      "ss_paper_id": null,
+      "pmid": "38646612",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Development and cross‐validation of a circumference‐based predictive equation to estimate body fat in an active population",
+      "abstract": "Abstract Objective The U.S. Army uses sex‐specific circumference‐based prediction equations to estimate percent body fat (%BF) to evaluate adherence to body composition standards. The equations are periodically evaluated to ensure that they continue to accurately assess %BF in a diverse population. The objective of this study was to develop and validate alternative field expedient equations that may improve upon the current Army Regulation (AR) body fat (%BF) equations. Methods Body size and composition were evaluated in a representatively sampled cohort of 1904 active‐duty Soldiers (1261 Males, 643 Females), using dual‐energy X‐ray absorptiometry (%BFDXA), and circumferences obtained with 3D imaging and manual measurements. Sex stratified linear prediction equations for %BF were constructed using internal cross validation with %BFDXA as the criterion measure. Prediction equations were evaluated for accuracy and precision using root mean squared error, bias, and intraclass correlations. Equations were externally validated in a convenient sample of 1073 Soldiers. Results Three new equations were developed using one to three circumference sites. The predictive values of waist, abdomen, hip circumference, weight and height were evaluated. Changing from a 3‐site model to a 1‐site model had minimal impact on measurements of model accuracy and performance. Male‐specific equations demonstrated larger gains in accuracy, whereas female‐specific equations resulted in minor improvements in accuracy compared to existing AR equations. Equations performed similarly in the second external validation cohort. Conclusions The equations developed improved upon the current AR equation while demonstrating robust and consistent results within an external population. The 1‐site waist circumference‐based equation utilized the abdominal measurement, which aligns with associated obesity related health outcomes. This could be used to identify individuals at risk for negative health outcomes for earlier intervention.",
+      "authors": [
+        {
+          "name": "Kathryn M. Taylor",
+          "orcid": "https://orcid.org/0000-0001-7013-1848",
+          "affiliation": "U.S. Army Research Institute of Environmental Medicine",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Michael P. Castellani",
+          "orcid": null,
+          "affiliation": "U.S. Army Research Institute of Environmental Medicine",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "P. Matthew Bartlett",
+          "orcid": null,
+          "affiliation": "U.S. Army Research Institute of Environmental Medicine",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Tyler Oliver",
+          "orcid": null,
+          "affiliation": "U.S. Army Research Institute of Environmental Medicine",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Holly L. McClung",
+          "orcid": "https://orcid.org/0000-0002-7809-8488",
+          "affiliation": "U.S. Army Research Institute of Environmental Medicine",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2024,
+      "venue": "Obesity Science & Practice",
+      "issn": "2055-2238",
+      "type": "article",
+      "citation_count": 12,
+      "referenced_works_count": 29,
+      "fwci": 13.2946,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T12138",
+          "name": "Occupational Health and Performance",
+          "score": 0.7746000289916992
+        },
+        {
+          "id": "T12279",
+          "name": "Body Composition Measurement Techniques",
+          "score": 0.11249999701976776
+        },
+        {
+          "id": "T10027",
+          "name": "Diabetes, Cardiovascular Risks, and Lipoproteins",
+          "score": 0.05310000106692314
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Circumference",
+        "Population",
+        "Environmental health",
+        "Demography"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being",
+          "score": 0.6299999952316284
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1002/osp4.747",
+      "openalex_url": "https://openalex.org/W4394964651",
+      "pdf_url": "https://doi.org/10.1002/osp4.747",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.1002/osp4.747",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11026907/pdf/OSP4-10-e747.pdf",
+        "https://doaj.org/article/21c4ff56fb244c4d85261f3da1fd1d71"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1426,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.3374,
+          "recency_signal": 0.92
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 2.7547169811320753,
+          "h_index": 44
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1145/3517235",
+      "arxiv_id": null,
+      "openalex_id": "W4220668680",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "ARticulate",
+      "abstract": "Smart space technologies have entered the mainstream home market. Most users currently interact with smart homes that they (or an acquaintance) have set up and know well. However, as these technologies spread to commercial or public environments, users will need to frequently interact with unfamiliar smart spaces where they are unaware of the available capabilities and the system maintainer will not be present to help. Users will need to quickly and independently 1) discover what is and is not possible, and 2) make use of available functionality. Widespread adoption of smart space systems will not be possible until this discoverability issue is solved. We design and evaluate ARticulate, an interface that allows users to have successful smart space interactions with an intelligent assistant while learning transferable information about the overall set of devices in an unfamiliar space. Our method of using Snapchat-like contextual photo messages enhanced by two technologies---augmented reality and autocomplete---allows users to determine available functionality and achieve their goals in one attempt with a smart space they have never seen before, something no existing interface supports. The ability to easily operate unfamiliar smart spaces improves the usability of existing systems and removes a significant obstacle to the vision of ubiquitous computing.",
+      "authors": [
+        {
+          "name": "Meghan Clark",
+          "orcid": "https://orcid.org/0000-0002-4634-4488",
+          "affiliation": "University of California, Berkeley",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mark Newman",
+          "orcid": "https://orcid.org/0000-0001-7186-1383",
+          "affiliation": "University of Michigan",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Prabal Dutta",
+          "orcid": "https://orcid.org/0000-0003-4106-9138",
+          "affiliation": "University of California, Berkeley",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2022,
+      "venue": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
+      "issn": "2474-9567",
+      "type": "article",
+      "citation_count": 15,
+      "referenced_works_count": 38,
+      "fwci": 1.1632,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T10888",
+          "name": "Augmented Reality Applications",
+          "score": 0.9991999864578247
+        },
+        {
+          "id": "T10444",
+          "name": "Context-Aware Activity Recognition Systems",
+          "score": 0.9962999820709229
+        },
+        {
+          "id": "T10273",
+          "name": "IoT and Edge/Fog Computing",
+          "score": 0.9944999814033508
+        }
+      ],
+      "keywords": [
+        "Discoverability",
+        "Computer science",
+        "Space (punctuation)",
+        "Set (abstract data type)",
+        "Human–computer interaction",
+        "Usability",
+        "Interface (matter)",
+        "Smart environment",
+        "Multimedia",
+        "World Wide Web"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.4399999976158142
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1145/3517235",
+      "openalex_url": "https://openalex.org/W4220668680",
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3517235",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://dl.acm.org/doi/pdf/10.1145/3517235"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1387,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.3647,
+          "recency_signal": 0.84
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 6.60910815939279,
+          "h_index": 93
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1038/s41598-025-27020-x",
+      "arxiv_id": null,
+      "openalex_id": "W4416785187",
+      "ss_paper_id": null,
+      "pmid": "41315555",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Assessing the quality and educational applicability of AI-generated anterior segment images in ophthalmology",
+      "abstract": "Text-to-image (T2I) artificial intelligence models are being increasingly explored in medical education, yet their utility in ophthalmology remains unclear. Slit-lamp anterior segment photography, as a cornerstone of ophthalmic training, provides an ideal context for evaluation. We assessed 40 cases of anterior segment disease. The text descriptions were generated using GPT-4o, and the corresponding images were synthesized via Sora Turbo. Readability was analysed with the Flesch Reading Ease (FRE), Flesch‒Kincaid Grade Level (FKGL), and Gunning Fog Scale (GFS). Twenty ophthalmologists (10 juniors, 10 seniors) rated image-text pairs across five dimensions-text accuracy, image reliability, recognizability, educational value, and generation stability-using a 5-point Likert scale. Entities with distinct morphological features, such as cataracts and subconjunctival haemorrhages, received the highest total scores, whereas those with entropion and corneal foreign bodies scored the lowest. Readability analysis indicated advanced text complexity. Senior ophthalmologists consistently provided lower ratings than junior clinicians did, highlighting expertise-related differences in perceived educational value. Sora Turbo can generate clinically useful anterior segment images for educational purposes, particularly for pathologies with prominent morphological features. This first systematic evaluation in ophthalmology demonstrates the promise of AI-generated atlases as scalable teaching resources for early-stage trainees while emphasizing the need for expert validation and ethical oversight before integration into formal curricula.",
+      "authors": [
+        {
+          "name": "Yizhou Yang",
+          "orcid": null,
+          "affiliation": "Fudan University",
+          "country": "CN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Lifang Bai",
+          "orcid": null,
+          "affiliation": "Fudan University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yuecheng Ren",
+          "orcid": null,
+          "affiliation": "Zhejiang Chinese Medical University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Xuanqiao Lin",
+          "orcid": null,
+          "affiliation": "Fudan University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2025,
+      "venue": "Scientific Reports",
+      "issn": "2045-2322",
+      "type": "article",
+      "citation_count": 7,
+      "referenced_works_count": 27,
+      "fwci": 6.0096,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T14384",
+          "name": "Ophthalmology and Visual Health Research",
+          "score": 0.5339999794960022
+        },
+        {
+          "id": "T11438",
+          "name": "Retinal Imaging and Analysis",
+          "score": 0.09309999644756317
+        },
+        {
+          "id": "T11636",
+          "name": "Artificial Intelligence in Healthcare and Education",
+          "score": 0.06679999828338623
+        }
+      ],
+      "keywords": [
+        "Readability",
+        "Context (archaeology)",
+        "Glaucoma",
+        "Anterior Eye Segment",
+        "Cataracts",
+        "Reading (process)",
+        "Likert scale",
+        "Quality (philosophy)"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1038/s41598-025-27020-x",
+      "openalex_url": "https://openalex.org/W4416785187",
+      "pdf_url": "https://www.nature.com/articles/s41598-025-27020-x.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.nature.com/articles/s41598-025-27020-x.pdf",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/12663094",
+        "https://doaj.org/article/708855e6fd82469eb44e9f2bb60e2562"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.137,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.2736,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 5.053682639353544,
+          "h_index": 465
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/ani15101380",
+      "arxiv_id": null,
+      "openalex_id": "W4410309350",
+      "ss_paper_id": null,
+      "pmid": "40427258",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "The Impact of Low-Fidelity Three-Dimensional-Printed Models of the Equine Distal Limb and the Canine Forelimb in Teaching Veterinary Anatomy in Practical Classes",
+      "abstract": "Limited cadaver availability and health risks from formaldehyde-treated cadavers have increased the need for alternative learning materials in veterinary anatomy education. Two studies were conducted to investigate whether low-fidelity 3D-printed models provide comparable learning outcomes to real specimens. In study 1, veterinary students were assigned to two groups to study the equine distal limb on a real specimen (n = 67) or a 3D model (n = 68). In study 2, students were divided into four groups to study the canine forelimb on a real specimen (n = 44), a 3D model (n = 45), a 3D model followed by a real specimen (n = 47), or the reverse combination (n = 47). Learning outcomes were measured through a knowledge assessment. Afterwards, learning materials were evaluated by students. Both studies showed significantly higher learning outcomes in the groups learning with real specimens compared to other test groups. While students preferred to start learning with 3D models before switching to real specimens, this method had the lowest learning outcomes. However, students emphasized the value of 3D models for independent learning outside the dissection hall and desired further 3D models of other anatomical specimens. Findings indicated that low-fidelity 3D-printed models cannot replace real specimens but are a useful complementary tool in veterinary anatomy education.",
+      "authors": [
+        {
+          "name": "Rebecca Schirone",
+          "orcid": null,
+          "affiliation": "Freie Universität Berlin",
+          "country": "DE",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Maximiliane Schmedding",
+          "orcid": null,
+          "affiliation": "University of Bern",
+          "country": "CH",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Janet Weigner",
+          "orcid": null,
+          "affiliation": "Freie Universität Berlin",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Martin Werner",
+          "orcid": "https://orcid.org/0000-0002-6951-8022",
+          "affiliation": "Freie Universität Berlin",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Giuliano Mario Corte",
+          "orcid": "https://orcid.org/0000-0002-1783-0444",
+          "affiliation": "University of Zurich",
+          "country": "CH",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jan P. Ehlers",
+          "orcid": "https://orcid.org/0000-0001-6306-4173",
+          "affiliation": "Witten/Herdecke University",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Luise Grace Klass",
+          "orcid": "https://orcid.org/0000-0002-2215-2596",
+          "affiliation": "Freie Universität Berlin",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mahtab Bahramsoltani",
+          "orcid": "https://orcid.org/0000-0002-3406-8623",
+          "affiliation": "Freie Universität Berlin",
+          "country": "DE",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2025,
+      "venue": "Animals",
+      "issn": "2076-2615",
+      "type": "article",
+      "citation_count": 4,
+      "referenced_works_count": 47,
+      "fwci": 1.0988,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T11984",
+          "name": "Anatomy and Medical Technology",
+          "score": 0.9998999834060669
+        },
+        {
+          "id": "T10916",
+          "name": "Surgical Simulation and Training",
+          "score": 0.9959999918937683
+        },
+        {
+          "id": "T10254",
+          "name": "Innovations in Medical Education",
+          "score": 0.9743000268936157
+        }
+      ],
+      "keywords": [
+        "Forelimb",
+        "Cadaver",
+        "Dissection (medical)",
+        "3d printed",
+        "Anatomy",
+        "3d model",
+        "Medicine",
+        "Veterinary medicine",
+        "Computer science",
+        "Biomedical engineering"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality Education",
+          "score": 0.8199999928474426
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/ani15101380",
+      "openalex_url": "https://openalex.org/W4410309350",
+      "pdf_url": "https://www.mdpi.com/2076-2615/15/10/1380/pdf?version=1746862657",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2076-2615/15/10/1380/pdf?version=1746862657",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/12108517",
+        "https://doaj.org/article/2826d83741d941f7bc4290e946beaec2"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1278,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.2117,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.2507409602845287,
+          "h_index": 139
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/machines14030255",
+      "arxiv_id": null,
+      "openalex_id": "W7131217370",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Digital Twin-Enabled Human–Robot Collaborative Assembly: A Review of Technical Systems, Application Evolution, and Future Outlook",
+      "abstract": "With the transition from Industry 4.0 to Industry 5.0, human–robot collaborative assembly (HRCA) has progressed from physical copresence to cognitive integration and knowledge sharing. Digital twins (DTs) serve as enabling technologies that connect physical and virtual spaces. Support is provided for dynamic, safe, and human-centered collaboration. This study presents a systematic review of the research progress and practical applications of DT-enabled HRCA. First, conceptual boundaries between HRCA and general human–robot collaboration (HRC) in manufacturing are defined. Core elements of DT-driven state perception, task planning, and constraint modeling are described. Second, four task-allocation paradigms are classified and summarized, including optimization-based, constraint satisfaction-based, data-driven intelligent, and large language model (LLM)-assisted approaches. Applicable scenarios are identified. Third, the effects of collaboration modes and interaction modalities on planning logic are analyzed. Collaboration modes are categorized as parallel, sequential, and tightly coupled. Interaction modalities are grouped into AR-based explicit interaction, implicit intention perception, and multimodal fusion. Fourth, cross-domain application characteristics and engineering bottlenecks are summarized. Target domains include precision assembly, disassembly and remanufacturing, and construction on-site operations. Finally, four core challenges are distilled, including dynamic uncertainty, multi-objective conflicts, human factor adaptation, and system integration. Four future directions are outlined: LLM-enabled adaptive planning, safety–efficiency co-optimization, personalized collaboration, and standardized integration. The proposed technology–application–challenge–outlook framework is intended to provide a theoretical reference and practical guidance for transitioning HRCA from laboratory prototypes to large-scale industrial deployment.",
+      "authors": [
+        {
+          "name": "Qingwei Nie",
+          "orcid": "https://orcid.org/0000-0003-3274-543X",
+          "affiliation": "Yangzhou University",
+          "country": "CN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jingtao Chen",
+          "orcid": null,
+          "affiliation": "Nanjing University of Aeronautics and Astronautics",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Changchun Liu",
+          "orcid": null,
+          "affiliation": "Nanjing University of Aeronautics and Astronautics",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Zhen Zhao",
+          "orcid": "https://orcid.org/0009-0007-3510-0449",
+          "affiliation": "Nanjing University of Aeronautics and Astronautics",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Haoxuan Xu",
+          "orcid": null,
+          "affiliation": "Nanjing University of Aeronautics and Astronautics",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2026,
+      "venue": "Machines",
+      "issn": "2075-1702",
+      "type": "article",
+      "citation_count": 3,
+      "referenced_works_count": null,
+      "fwci": 16.8867,
+      "cited_by_percentile_year": 99,
+      "topics": [
+        {
+          "id": "T10763",
+          "name": "Digital Transformation in Industry",
+          "score": 0.5727999806404114
+        },
+        {
+          "id": "T10653",
+          "name": "Robot Manipulation and Learning",
+          "score": 0.16060000658035278
+        },
+        {
+          "id": "T11741",
+          "name": "Flexible and Reconfigurable Manufacturing Systems",
+          "score": 0.09880000352859497
+        }
+      ],
+      "keywords": [
+        "Modalities",
+        "Constraint (computer-aided design)",
+        "Task (project management)",
+        "Core (optical fiber)",
+        "Industry 4.0",
+        "Conceptual framework"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.5783833861351013
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/machines14030255",
+      "openalex_url": "https://openalex.org/W7131217370",
+      "pdf_url": "https://www.mdpi.com/2075-1702/14/3/255/pdf?version=1771940552",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2075-1702/14/3/255/pdf?version=1771940552",
+        "https://doaj.org/article/f8d0a837fe074686af50d4b9e16973c0"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1274,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.1824,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.548076923076923,
+          "h_index": 65
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1145/3746059.3747775",
+      "arxiv_id": null,
+      "openalex_id": "W4414564681",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "UltraEdit: In-Situ Design Environment for Ultrasound Haptization",
+      "abstract": "Figure 1: UltraEdit with blob interaction.A user is pulling a blob out of a 3D object, editing it, then releasing it.",
+      "authors": [
+        {
+          "name": "Richard Huynh Noeske",
+          "orcid": "https://orcid.org/0009-0009-0958-7198",
+          "affiliation": "The University of Texas at Dallas",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ayush Bhardwaj",
+          "orcid": "https://orcid.org/0000-0002-4700-694X",
+          "affiliation": "The University of Texas at Dallas",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Abbas Khawaja",
+          "orcid": "https://orcid.org/0009-0006-4024-0932",
+          "affiliation": "The University of Texas at Dallas",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jin Ryong Kim",
+          "orcid": "https://orcid.org/0000-0002-5182-6617",
+          "affiliation": "The University of Texas at Dallas",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2025,
+      "venue": null,
+      "issn": null,
+      "type": "conference-paper",
+      "citation_count": 3,
+      "referenced_works_count": 56,
+      "fwci": 3.3014,
+      "cited_by_percentile_year": 98,
+      "topics": [
+        {
+          "id": "T10789",
+          "name": "Interactive and Immersive Displays",
+          "score": 0.9976999759674072
+        },
+        {
+          "id": "T10888",
+          "name": "Augmented Reality Applications",
+          "score": 0.984000027179718
+        },
+        {
+          "id": "T10444",
+          "name": "Context-Aware Activity Recognition Systems",
+          "score": 0.9793999791145325
+        }
+      ],
+      "keywords": [
+        "Ultrasound",
+        "Ultrasonic sensor",
+        "Ultrasonic imaging"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1145/3746059.3747775",
+      "openalex_url": "https://openalex.org/W4414564681",
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3746059.3747775",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://dl.acm.org/doi/pdf/10.1145/3746059.3747775"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1234,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.1824,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.5772/intechopen.83455",
+      "arxiv_id": null,
+      "openalex_id": "W2915202063",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Innovative Diagnostic Tools for Ophthalmology in Low-Income Countries",
+      "abstract": "Globally, there are almost 300 million people blind and visually impaired and over 90% live developing countries. The gross disparity in access to ophthalmologists limits the ability to accurately diagnose potentially blinding conditions like cataract, glaucoma, trachoma, uncorrected refractive error and limits timely initiation of medical and surgical treatment. Since 85% of blindness is preventable, bridging this chasm for care is even more critical in preventing needless blindness. Many low-income countries must rely on community health workers, physician assistants, and cataract surgeons for primary eye care. Ophthalmology in low-income countries (LIC) is further challenging due to complexities brought from tropical climates, frail electric grids, poor road and water infrastructure, limited diagnostic capability and limited treatment options. Vision 2020 set the goal of eliminating preventable blindness by 2020 despite formidable obstacles. Innovative technologies are emerging to test visual acuity, correct refractive error quickly and inexpensively, capture retinal images with portable tools, train cataract surgeons using simulators, capitalize on mHealth, access ophthalmic information remotely. These advancements are allowing nonspecialized ophthalmic practitioners to provide low-cost, high impact eye care in resource-limited regions around the world.",
+      "authors": [
+        {
+          "name": "Jason Singh",
+          "orcid": null,
+          "affiliation": "University of Arizona",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Sami Kabbara",
+          "orcid": null,
+          "affiliation": "University of Arizona",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mandi D. Conway",
+          "orcid": "https://orcid.org/0000-0003-1178-5299",
+          "affiliation": "University of Arizona",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Gholam A. Peyman",
+          "orcid": null,
+          "affiliation": "University of Arizona",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Robin D. Ross",
+          "orcid": null,
+          "affiliation": "Scottsdale Research Institute (United States)",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2019,
+      "venue": "IntechOpen eBooks",
+      "issn": null,
+      "type": "book-chapter",
+      "citation_count": 10,
+      "referenced_works_count": 41,
+      "fwci": 2.7159,
+      "cited_by_percentile_year": 96,
+      "topics": [
+        {
+          "id": "T11438",
+          "name": "Retinal Imaging and Analysis",
+          "score": 0.9994999766349792
+        },
+        {
+          "id": "T12599",
+          "name": "Retinal and Optic Conditions",
+          "score": 0.9872999787330627
+        },
+        {
+          "id": "T14384",
+          "name": "Ophthalmology and Visual Health Research",
+          "score": 0.9718999862670898
+        }
+      ],
+      "keywords": [
+        "Optometry",
+        "Medicine",
+        "Trachoma",
+        "Blindness",
+        "Presbyopia",
+        "Glaucoma",
+        "Developing country",
+        "Ophthalmology"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.5772/intechopen.83455",
+      "openalex_url": "https://openalex.org/W2915202063",
+      "pdf_url": "https://www.intechopen.com/citation-pdf-url/65625",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.intechopen.com/citation-pdf-url/65625",
+        "http://www.intechopen.com/articles/show/title/innovative-diagnostic-tools-for-ophthalmology-in-low-income-countries"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1193,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.3155,
+          "recency_signal": 0.72
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.1038/s41598-026-43827-8",
+      "arxiv_id": null,
+      "openalex_id": "W7147271564",
+      "ss_paper_id": null,
+      "pmid": "41922583",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Smart and efficient waste management through wireless IoT-enabled deep learning",
+      "abstract": "Waste management is also an important concern in the modern world, which is fast urbanizing and industrializing. The conventional waste sorting techniques are ineffective, expensive, and dangerous to health. The current study will address these issues by suggesting a new Waste Sorting System with Deep Learning (enabled with the use of Wireless IoTs). The first aim is to improve the quality and performance of waste classification. The model suggested is a combination of Convolutional neural networks (CNNs) and IoTs to enable real-time data processing and sorting automatically. CNN model is a model that is purposefully suited to large, high-dimensional data sets, which capture intricate patterns in waste photographs. The evaluation of the system was conducted based on a comprehensive dataset of six waste types such as cardboard, glass, metal, paper, plastic, and trash. The outcomes show that there is a high accuracy of 56% and specifically high on cardboard classification 0.86 and high recall of paper 0.88. This data has shown that the suggested model is much more effective in terms of the accuracy of classification and efficiency of operating than the conventional ones. Although the model has certain weaknesses in differentiating between similar categories (that should be visually similar), it offers a strong basis on which improvements can be made in the future. The study contributes to the body of research on waste management sustainability because it provides a scalable, efficient, and automated system to sort waste, and thus introduce additional innovation in the field.",
+      "authors": [
+        {
+          "name": "P. Latha",
+          "orcid": null,
+          "affiliation": "Saint Joseph's College",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Nirmalkumar S. Benni",
+          "orcid": null,
+          "affiliation": "NIIT (India)",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Manjunath G. Asuti",
+          "orcid": "https://orcid.org/0000-0001-6577-7396",
+          "affiliation": "International Institute of Information Technology Bangalore",
+          "country": "IN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "K. Thamaraiselvi",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2026,
+      "venue": "Scientific Reports",
+      "issn": "2045-2322",
+      "type": "article",
+      "citation_count": 1,
+      "referenced_works_count": 41,
+      "fwci": 5.6947,
+      "cited_by_percentile_year": 97,
+      "topics": [
+        {
+          "id": "T11108",
+          "name": "Municipal Solid Waste Management",
+          "score": 0.8776999711990356
+        },
+        {
+          "id": "T12017",
+          "name": "Recycling and Waste Management Techniques",
+          "score": 0.022199999541044235
+        },
+        {
+          "id": "T13038",
+          "name": "Internet of Things and AI",
+          "score": 0.010700000450015068
+        }
+      ],
+      "keywords": [
+        "Deep learning",
+        "Convolutional neural network",
+        "Sorting",
+        "sort",
+        "Raw data",
+        "Strengths and weaknesses",
+        "Sustainability",
+        "Quality (philosophy)"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.45992958545684814
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1038/s41598-026-43827-8",
+      "openalex_url": "https://openalex.org/W7147271564",
+      "pdf_url": "https://www.nature.com/articles/s41598-026-43827-8.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.nature.com/articles/s41598-026-43827-8.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13043917/pdf/41598_2026_Article_43827.pdf",
+        "https://doaj.org/article/ebd84fa43f714b5bad9530a9e6b8b0c8"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1137,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0912,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 5.053682639353544,
+          "h_index": 465
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1055/s-0038-1626728",
+      "arxiv_id": null,
+      "openalex_id": "W2786053871",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Detecting Microsurgical Complications with ViOptix Tissue Oximetry in a Pediatric Myocutaneous Free Flap: Case Presentation and Literature Review",
+      "abstract": "Background Microvascular compromise from arterial or venous occlusion is a common cause of free flap failure. The salvage rate following a microvascular compromise is dependent on detecting the problem early and intervening quickly. Methods The ViOptix tissue oximeter measures tissue oxygen saturation using the near-infrared spectroscopy technology. The ViOptix device has an alarm capability to warn of potential compromise to tissue perfusion. The tissue oximetry readings are visible on the bedside monitor and are relayed to a webpage link, which is accessible on a personal computer or mobile device, allowing real-time monitoring. This article presents a case where real-time monitoring allowed almost immediate detection of inadvertent pedicle compromise allowing flap salvage by repositioning without surgical intervention. Results In the case presented, the patient's nurse inadvertently positioned a pillow under the location of the vascular pedicle likely causing microvascular compression. The ViOptix reading dropped and for this reason the nurse contacted the Plastic Surgery team. The drop was confirmed remotely and the flap was urgently evaluated in person. Once the pillow was removed, the ViOptix readings normalized and Doppler signals strengthened in the flap. Discussion While tissue oximetry monitoring does not by itself ensure flap survival, it provides critical information than conventional flap monitoring would allow giving the microsurgeon the opportunity to make a quicker decision. ViOptix tissue oximeters are able to detect vascular compromise even before conventional clinical symptoms are present. Alas in several cases by the time clinical symptoms develop the flap may be beyond salvage.",
+      "authors": [
+        {
+          "name": "Steven D. Kozusko",
+          "orcid": "https://orcid.org/0000-0002-4892-9244",
+          "affiliation": "University of Tennessee Health Science Center",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Uzoma Ben Gbulie",
+          "orcid": null,
+          "affiliation": "University of Tennessee Health Science Center",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2018,
+      "venue": "Journal of Reconstructive Microsurgery Open",
+      "issn": "2377-0813",
+      "type": "article",
+      "citation_count": 7,
+      "referenced_works_count": 18,
+      "fwci": 0.6773,
+      "cited_by_percentile_year": 95,
+      "topics": [
+        {
+          "id": "T10599",
+          "name": "Reconstructive Surgery and Microvascular Techniques",
+          "score": 0.9997000098228455
+        },
+        {
+          "id": "T11055",
+          "name": "Cardiac and Coronary Surgery Techniques",
+          "score": 0.9976000189781189
+        },
+        {
+          "id": "T11554",
+          "name": "Vascular Procedures and Complications",
+          "score": 0.9975000023841858
+        }
+      ],
+      "keywords": [
+        "Medicine",
+        "Surgery",
+        "Free flap",
+        "Compromise"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality Education",
+          "score": 0.5799999833106995
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1055/s-0038-1626728",
+      "openalex_url": "https://openalex.org/W2786053871",
+      "pdf_url": "http://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0038-1626728.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "http://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0038-1626728.pdf",
+        "https://doaj.org/article/0c0fe8529af64c2e85efb12ad1f2b37c"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.109,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.2736,
+          "recency_signal": 0.68
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.5428571428571428,
+          "h_index": 7
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.5817/di2022-2-77",
+      "arxiv_id": null,
+      "openalex_id": "W4313403631",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Interactive metadiscourse in dentistry research articles: Iranian vs non-Iranian academic writers",
+      "abstract": "Linguistically, interactive metadiscourse devices are responsible for creating an unfolding and persuasive piece of writing. They help writers come up with a cohesive and reader-friendly text and highlight how they control the interactive meaning. This corpus-driven study is an attempt to explore the use of interactive metadiscourse markers in English dentistry research articles published in International ISI-indexed and Iranian local research-based journals. The aim was to see if interactive resources, as realized by rhetorical options, such as transitions, code glosses, endophoric markers, evidentials, and frame markers, are predisposed to discipline-specific rhetorical conventions. To this end, fourty dentistry research articles were analyzed using Hyland’s (2005) Interpersonal Model of Metadiscourse. The results disclosed similarities and differences in both the frequency and use of interactive resources between the two sets of research articles. The present results are expected to extend our understanding of authorial preferences for the use of metadiscourse markers in tandem with discourse functions in research articles in the selected discipline. The results of such studies may also improve different features of language pedagogy, such as teaching and learning academic writing, namely research articles.",
+      "authors": [
+        {
+          "name": "Mohsen Khedri",
+          "orcid": "https://orcid.org/0000-0002-9286-4230",
+          "affiliation": "Sohar University",
+          "country": "OM",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Elham Basirat",
+          "orcid": null,
+          "affiliation": "University of Malaya",
+          "country": "MY",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2022,
+      "venue": "Discourse and Interaction",
+      "issn": "1802-9930",
+      "type": "article",
+      "citation_count": 2,
+      "referenced_works_count": 47,
+      "fwci": 2.8693,
+      "cited_by_percentile_year": 94,
+      "topics": [
+        {
+          "id": "T10366",
+          "name": "Discourse Analysis in Language Studies",
+          "score": 0.9997000098228455
+        },
+        {
+          "id": "T11587",
+          "name": "Second Language Acquisition and Learning",
+          "score": 0.9865000247955322
+        },
+        {
+          "id": "T13629",
+          "name": "Text Readability and Simplification",
+          "score": 0.9707000255584717
+        }
+      ],
+      "keywords": [
+        "Metadiscourse",
+        "Rhetorical question",
+        "Interpersonal communication",
+        "Linguistics",
+        "Meaning (existential)",
+        "Psychology",
+        "Academic writing",
+        "Computer science",
+        "Mathematics education",
+        "Communication"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality Education",
+          "score": 0.8999999761581421
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.5817/di2022-2-77",
+      "openalex_url": "https://openalex.org/W4313403631",
+      "pdf_url": "https://journals.muni.cz/discourse-and-interaction/article/download/14642/28422",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://journals.muni.cz/discourse-and-interaction/article/download/14642/28422"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1057,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.1445,
+          "recency_signal": 0.84
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.6388888888888888,
+          "h_index": 14
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.1002/jdd.70359",
+      "arxiv_id": null,
+      "openalex_id": "W7204462334",
+      "ss_paper_id": null,
+      "pmid": "42655977",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Differential Effects of VR and Early Clinical Exposure on Undergraduate Competency in Dental Trauma Management: A Randomized Crossover Pilot Study",
+      "abstract": "OBJECTIVE: This study evaluated the effectiveness of a virtual reality (VR)-based dental training system in enhancing clinical decision-making and operational skills among undergraduates managing complicated coronal fractures in young permanent teeth, a foundational competency in dental traumatology. METHODS: Sixty dental undergraduates were randomly divided into a VR training-first group (n = 30) and a conventional instruction-first group (n = 30). A crossover design was implemented with assessments at baseline (T1), after the first intervention (T2), and after the crossover phase (T3, wherein the two groups swapped instructional modalities). All participants received standard pre-clinical training before the pediatric dentistry rotation. The conventional instruction-first group directly began patient management under supervision, while the VR training-first group underwent a 2-week specialized training module for young permanent tooth coronal fractures (two 40-min sessions per week). Effects were evaluated using the VR system's assessment module, clinical performance scores, a self-rated diagnostic confidence scale, and a teaching satisfaction survey. RESULTS: Following the initial intervention phase (T2), distinct timing effects were observed. The VR training-first group demonstrated an immediate technical advantage, achieving significantly higher proficiency in simulated pulp chamber access time, clinical procedural fluency, and hard tissue preservation during actual patient management compared to the conventional group (p < 0.001). Conversely, the conventional instruction-first group achieved significantly higher scores in pulp status assessment at T2 (p = 0.005), reflecting the advantage of early direct clinical exposure for subjective diagnostic judgment. Following the crossover (T3), both groups attained comparable levels of overall clinical competency (p > 0.05), confirming that intervention sequencing primarily dictates the chronological rate of specific competency acquisition rather than final clinical proficiency. Secondary survey data supported VR's psychological scaffolding effect in mitigating initial clinical anxiety. CONCLUSION: This pilot study demonstrates that VR simulation significantly enhances undergraduate students' objective procedural competency in managing complicated coronal fractures. Given that the acquired skills, particularly precise hard tissue preservation, are universally applicable to broader dental trauma and general endodontics, VR serves as a highly effective complementary adjunct to safely bridge the gap between theoretical knowledge and patient-based clinical learning.",
+      "authors": [
+        {
+          "name": "Ningxin Zhu",
+          "orcid": "https://orcid.org/0000-0003-0891-3042",
+          "affiliation": "National Clinical Research",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Xijun Jiang",
+          "orcid": null,
+          "affiliation": "National Clinical Research",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jing Li",
+          "orcid": null,
+          "affiliation": "National Clinical Research",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2026,
+      "venue": "Journal of Dental Education",
+      "issn": "0022-0337",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 14,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T12439",
+          "name": "Dental Research and COVID-19",
+          "score": 0.7279000282287598
+        },
+        {
+          "id": "T12367",
+          "name": "Dental Trauma and Treatments",
+          "score": 0.19660000503063202
+        },
+        {
+          "id": "T11238",
+          "name": "Simulation-Based Education in Healthcare",
+          "score": 0.010700000450015068
+        }
+      ],
+      "keywords": [
+        "Crossover study",
+        "Randomized controlled trial",
+        "Coronal plane",
+        "Young adult",
+        "Intervention (counseling)",
+        "Virtual reality",
+        "Crossover",
+        "Clinical trial"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/16",
+          "score": 0.5648385286331177,
+          "display_name": "Peace, Justice and strong institutions"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1002/jdd.70359",
+      "openalex_url": "https://openalex.org/W7204462334",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jdd.70359",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jdd.70359"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.5618556701030928,
+          "h_index": 116
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.21203/rs.3.rs-10122121/v1",
+      "arxiv_id": null,
+      "openalex_id": "W7171367069",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Functional near-infrared spectroscopy reveals ventrolateral prefrontal cortex neural efficiency in instantaneous decision-making by basketball experts",
+      "abstract": null,
+      "authors": [
+        {
+          "name": "J X Tian",
+          "orcid": null,
+          "affiliation": "Hebei Institute of Physical Education",
+          "country": "CN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Feng Ch",
+          "orcid": null,
+          "affiliation": "Hebei Institute of Physical Education",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Wang Miao",
+          "orcid": null,
+          "affiliation": "Hebei Institute of Physical Education",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "C J Luo",
+          "orcid": null,
+          "affiliation": "Hebei Institute of Physical Education",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Fan Chao",
+          "orcid": "https://orcid.org/0000-0002-1372-7159",
+          "affiliation": "Hebei Institute of Physical Education",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Bao Hongbo",
+          "orcid": null,
+          "affiliation": "Capital Medical University",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mengqi Liu",
+          "orcid": "https://orcid.org/0000-0003-3768-2562",
+          "affiliation": "Hebei Institute of Physical Education",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Si Haoqin",
+          "orcid": null,
+          "affiliation": "Hebei Institute of Physical Education",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Tong Zhu",
+          "orcid": "https://orcid.org/0000-0002-9305-458X",
+          "affiliation": "Hebei Institute of Physical Education",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Qin Ying",
+          "orcid": null,
+          "affiliation": "Hebei Institute of Physical Education",
+          "country": "CN",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2026,
+      "venue": "Research Square",
+      "issn": null,
+      "type": "preprint",
+      "citation_count": 0,
+      "referenced_works_count": 43,
+      "fwci": null,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T10813",
+          "name": "Sport Psychology and Performance",
+          "score": 0.7398999929428101
+        },
+        {
+          "id": "T10042",
+          "name": "Neural and Behavioral Psychology Studies",
+          "score": 0.0982000008225441
+        },
+        {
+          "id": "T10977",
+          "name": "Optical Imaging and Spectroscopy Techniques",
+          "score": 0.08420000225305557
+        }
+      ],
+      "keywords": [
+        "Basketball",
+        "Prefrontal cortex",
+        "Ventrolateral prefrontal cortex",
+        "Functional near-infrared spectroscopy",
+        "Dorsolateral prefrontal cortex",
+        "Neuroimaging",
+        "Cognition",
+        "Functional neuroimaging",
+        "Neural correlates of consciousness"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/16",
+          "score": 0.6487255692481995,
+          "display_name": "Peace, Justice and strong institutions"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.21203/rs.3.rs-10122121/v1",
+      "openalex_url": "https://openalex.org/W7171367069",
+      "pdf_url": "https://www.researchsquare.com/article/rs-10122121/latest.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.researchsquare.com/article/rs-10122121/latest.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.3390/analytics5030024",
+      "arxiv_id": null,
+      "openalex_id": "W7169756532",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Visualising Machine Learning Model Outputs in Data Analytics: A Systematic Review",
+      "abstract": "As data analytics increasingly rely on machine learning models for forecasting, classification, and prediction, effective visualisation becomes essential for transforming model outputs into practical insight. Yet the ways these outputs are visualised, and the evidence supporting those designs, remain fragmented across domains. This paper presents a systematic literature review of visualising machine learning model outputs in data analytics, focusing on how predicted outputs are communicated to end-users alongside performance and uncertainty information, and how these visual systems are evaluated in practice. Following PRISMA, we screened 330 articles from ACM Digital Library, IEEE Xplore, and PubMed and included 88 peer-reviewed studies published between Jan 2015 and July 2024. Across the corpus, we identify (1) recurring visual encoding and interaction patterns for interpreting predictions in temporal, spatio-temporal, and event-based settings; (2) common strategies for presenting model validation, calibration, and uncertainty; and (3) a wide range of evaluation approaches, from informal expert feedback to controlled user studies and deployments. The synthesis highlights persistent gaps in rigorous and comparable evaluation, challenges in supporting diverse user goals and expertise levels, and practical constraints that arise in operational contexts. We conclude by distilling practical implications for designing and assessing predictive visualisations, as well as outlining recommendations for future research and practice, with particular attention to improving uncertainty communication, strengthening evaluation rigour and comparability, and adopting evaluation methods that better reflect operational data analytics practice.",
+      "authors": [
+        {
+          "name": "S. C. Marshall",
+          "orcid": null,
+          "affiliation": "University of Sheffield",
+          "country": "GB",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Giulia Neri",
+          "orcid": "https://orcid.org/0000-0002-4458-0022",
+          "affiliation": "University of Sheffield",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Abdallah Yaghi",
+          "orcid": "https://orcid.org/0000-0002-9056-5579",
+          "affiliation": "University of Sheffield",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Harry Kai-Ho Chan",
+          "orcid": "https://orcid.org/0000-0002-5312-6083",
+          "affiliation": "University of Sheffield",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Dash Tabor",
+          "orcid": null,
+          "affiliation": "University of Sheffield",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Rahul Sinha",
+          "orcid": "https://orcid.org/0000-0001-8625-1481",
+          "affiliation": "University of Sheffield",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Suvodeep Mazumdar",
+          "orcid": "https://orcid.org/0000-0002-0748-7638",
+          "affiliation": "University of Sheffield",
+          "country": "GB",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2026,
+      "venue": "Analytics",
+      "issn": "2813-2203",
+      "type": "review",
+      "citation_count": 0,
+      "referenced_works_count": 143,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T10799",
+          "name": "Data Visualization and Analytics",
+          "score": 0.9724000096321106
+        },
+        {
+          "id": "T12026",
+          "name": "Explainable Artificial Intelligence (XAI)",
+          "score": 0.007499999832361937
+        },
+        {
+          "id": "T11986",
+          "name": "Scientific Computing and Data Management",
+          "score": 0.0020000000949949026
+        }
+      ],
+      "keywords": [
+        "Rigour",
+        "Visual analytics",
+        "Interpretability",
+        "Analytics",
+        "Systematic review",
+        "Visualization",
+        "Data visualization"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/analytics5030024",
+      "openalex_url": "https://openalex.org/W7169756532",
+      "pdf_url": "https://doi.org/10.3390/analytics5030024",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://doi.org/10.3390/analytics5030024",
+        "https://eprints.whiterose.ac.uk/id/eprint/243686/1/analytics-05-00024.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 3.6565656565656566,
+          "h_index": 15
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.18494/sam6304",
+      "arxiv_id": null,
+      "openalex_id": "W7166522083",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Impact of Sensor Technology and Virtual Production Equipment Integration on Film Model-making: Comparative Analysis of Traditional-craftsmanship-based and Virtual-reality-based Digital Workflows",
+      "abstract": "The effect of integrating sensor technologies into 3D modeling in virtual production was explored by comparing it with traditional-craftsmanship-based methods.Whereas physical model-making is widely used for production design and early-stage visual effects planning, traditional methods suffer from time-intensive iterations, limited real-time visualization, and high communication costs.To address such constraints, a sensor-integrated method that combines immersive previsualization, sensor-assisted spatial calibration, and iterative refinement through real-time feedback was developed in this study.The performance characteristics of the traditional and sensor-integrated methods were compared among 30 university students on 3D modeling tasks, and both objective and subjective measures were obtained from their experiments.Objective indicators to evaluate performance included task completion time, revision count, rework frequency, spatial deviation, and camera framing consistency.Subjective outcomes were assessed using the National Aeronautics and Space Administration Task Load Index for workload, the system usability scale for usability, and satisfaction ratings.The results showed that the sensor-integrated method significantly reduced task completion time, revisions, and rework while improving spatial accuracy and framing consistency.The participants reported lower workload, higher usability, and greater satisfaction.The results highlight the feasibility of extending virtual production concepts into physical model-making, offering a reproducible integration framework and quantitative evaluation approach for hybrid workflows that bridge tangible craftsmanship with real-time digital visualization.The proposed workflow further demonstrates the role of digital innovation and virtual prototyping in supporting more adaptive and efficient creative production workflows within contemporary film design environments.",
+      "authors": [
+        {
+          "name": "Kai Yang",
+          "orcid": null,
+          "affiliation": "Changchun University of Science and Technology",
+          "country": "CN",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jia Lin Jiang",
+          "orcid": null,
+          "affiliation": "UCSI University",
+          "country": "MY",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Yue Li",
+          "orcid": "https://orcid.org/0000-0001-9562-3136",
+          "affiliation": "UCSI University",
+          "country": "MY",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Hwee Ling Siek",
+          "orcid": null,
+          "affiliation": "UCSI University",
+          "country": "MY",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2026,
+      "venue": "Sensors and Materials",
+      "issn": "0914-4935",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": null,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T10648",
+          "name": "Virtual Reality Applications and Impacts",
+          "score": 0.053300000727176666
+        },
+        {
+          "id": "T10763",
+          "name": "Digital Transformation in Industry",
+          "score": 0.02449999935925007
+        },
+        {
+          "id": "T14254",
+          "name": "Digital Media and Visual Art",
+          "score": 0.024000000208616257
+        }
+      ],
+      "keywords": [
+        "Workflow",
+        "Production (economics)",
+        "Virtual instrument",
+        "Digital sensors"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.18494/sam6304",
+      "openalex_url": "https://openalex.org/W7166522083",
+      "pdf_url": "https://sensors.myu-group.co.jp/sm_pdf/SM4525.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://sensors.myu-group.co.jp/sm_pdf/SM4525.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.5948352626892253,
+          "h_index": 32
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.7759/cureus.104305",
+      "arxiv_id": null,
+      "openalex_id": "W7131683702",
+      "ss_paper_id": null,
+      "pmid": "41909423",
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Current State of the Art in Neurosurgical Operative Microscopes",
+      "abstract": "Surgical microscopes play a critical role in neurosurgery, providing high-resolution visualization, magnification, and ergonomic advantages that support precise surgical interventions and enhance the training environment. Recent technological advances have further expanded their clinical value. This study evaluated the current generation of neurosurgical operative microscopes, identifying and comparing the technical specifications, advantages, and limitations of the latest models released by six leading manufacturers: Carl Zeiss Meditec AG (Jena, Germany); Leica Microsystems GmbH (Wetzlar, Germany (a subsidiary of Danaher Corp., Washington, DC); Mitaka Kohki Co., Ltd. (Tokyo, Japan); Olympus Corp. (Tokyo, Japan); Aesculap, Inc. (Tuttlingen, Germany (a subsidiary of B. Braun Group, Melsungen, Germany)); and Synaptive Medical, Inc. (Ontario, Canada). Information was gathered through manufacturer-provided technical data, direct communication with company representatives, and published reports on neurosurgical microscopes. Particular attention was given to models in use worldwide. A total of 21 surgical microscopes and exoscopes from six leading manufacturers were reviewed. Zeiss microscopes, particularly the Kinevo 900 and Pentero series, demonstrated advanced integration with robotic positioning, compatibility with image-guided surgery, and automated movement systems. Leica models were notable for their emphasis on surgical education and training, with systems such as the M320 T microscope, the MyVeo headset, and augmented reality (AR)-enhanced fluorescence modules. Mitaka microscopes were distinguished by their lightweight design and compact stands, offering enhanced mobility in operating rooms with limited space. The specialized exoscope models from Olympus, Aesculap, and Synaptive offered excellent image clarity and ergonomic control. Notably, refurbished older microscopes are often used in low- and middle-income countries due to financial constraints. Contemporary neurosurgical microscopes have evolved into multifunctional platforms that support surgical precision and enhance training, education, and intraoperative visualization. The integration of cutting-edge technologies (e.g., AR visualization, artificial intelligence, robotics, wireless controls, and adaptive viewing platforms) signals a promising path for the future of surgical innovation. However, global variability in model availability reflects underlying resource disparities. Continued innovation and efforts to make advanced technologies more accessible are essential to supporting neurosurgeons worldwide.",
+      "authors": [
+        {
+          "name": "Kivanc Yangi",
+          "orcid": null,
+          "affiliation": "Barrow Neurological Institute",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Egemen Gok",
+          "orcid": null,
+          "affiliation": "Barrow Neurological Institute",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Michell Goyal",
+          "orcid": null,
+          "affiliation": "Creighton University",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Pravarakhya Puppalla",
+          "orcid": null,
+          "affiliation": "Barrow Neurological Institute",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Mark Preul",
+          "orcid": null,
+          "affiliation": "Barrow Neurological Institute",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2026,
+      "venue": "Cureus",
+      "issn": "2168-8184",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 50,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T10129",
+          "name": "Glioma Diagnosis and Treatment",
+          "score": 0.18440000712871552
+        },
+        {
+          "id": "T13735",
+          "name": "History of Medical Practice",
+          "score": 0.08839999884366989
+        },
+        {
+          "id": "T10540",
+          "name": "Advanced Fluorescence Microscopy Techniques",
+          "score": 0.055399999022483826
+        }
+      ],
+      "keywords": [
+        "Microscope",
+        "Operating microscope",
+        "CLARITY",
+        "Microsystem",
+        "Augmented reality"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.7759/cureus.104305",
+      "openalex_url": "https://openalex.org/W7131683702",
+      "pdf_url": "https://www.cureus.com/articles/424044-current-state-of-the-art-in-neurosurgical-operative-microscopes.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.cureus.com/articles/424044-current-state-of-the-art-in-neurosurgical-operative-microscopes.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13032846/pdf/cureus-0018-00000104305.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.1236803339062116,
+          "h_index": 132
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.3390/architecture6010028",
+      "arxiv_id": null,
+      "openalex_id": "W7128695867",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Analyzing the Impact of 360-Degree Panoramic Imaging on Heritage Documentation",
+      "abstract": "This study analyzes the impact of 360° panoramic imaging on the documentation of heritage sites, using a SWOT analysis. A multi-method approach was adopted, combining a review of scholarly literature and institutional reports, expert interviews, user surveys, and hands-on testing of three widely used platforms: Kuula, 3DVista, and Pano2VR. The findings demonstrate that 360° imaging significantly improves visual engagement and spatial understanding, particularly in educational and public outreach contexts. However, challenges remain in terms of data integration, navigation, and long-term digital preservation. Platforms such as 3DVista and Pano2VR offer extensive features and advanced media integration, but their complexity and cost make them less accessible to smaller institutions. Conversely, Kuula was found to be more accessible and user-friendly, though it offers fewer customization options. This study adds to the growing body of literature by applying a SWOT lens to evaluate not just the technical capabilities but also the strategic usability of 360° tools in heritage documentation. It highlights key gaps in data management and cross-platform functionality, calling attention to the need for standardization and training. Future research should explore hybrid models that integrate panoramic imaging with high-precision technologies such as LiDAR and immersive media (VR/AR), aiming to enhance both accuracy and public engagement in digital heritage preservation.",
+      "authors": [
+        {
+          "name": "Riyan Mohammad Sahahiri",
+          "orcid": null,
+          "affiliation": "King Abdul Aziz University Hospital",
+          "country": "SA",
+          "is_first": true,
+          "is_corresponding": true
+        },
+        {
+          "name": "Abdullah Alattas",
+          "orcid": null,
+          "affiliation": "King Abdul Aziz University Hospital",
+          "country": "SA",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2026,
+      "venue": "Architecture",
+      "issn": "2673-8945",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": 28,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11211",
+          "name": "3D Surveying and Cultural Heritage",
+          "score": 0.8907999992370605
+        },
+        {
+          "id": "T10888",
+          "name": "Augmented Reality Applications",
+          "score": 0.01899999938905239
+        },
+        {
+          "id": "T11462",
+          "name": "Museums and Cultural Heritage",
+          "score": 0.0142000000923872
+        }
+      ],
+      "keywords": [
+        "Personalization",
+        "Documentation",
+        "Usability",
+        "Cultural heritage",
+        "Standardization",
+        "Outreach",
+        "Digital signage",
+        "Key (lock)"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.7264875769615173,
+          "display_name": "Sustainable cities and communities"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.3390/architecture6010028",
+      "openalex_url": "https://openalex.org/W7128695867",
+      "pdf_url": "https://www.mdpi.com/2673-8945/6/1/28/pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.mdpi.com/2673-8945/6/1/28/pdf",
+        "https://doaj.org/article/210b1923e88d41d4ad38161d0e6e24ae"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.1,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 1.0
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 1.9523809523809523,
+          "h_index": 16
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.20944/preprints202509.2216.v1",
+      "arxiv_id": null,
+      "openalex_id": "W4414584776",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Human-Supervised AI-Driven Smart Actuator System for Minimally Invasive Surgical Robotics",
+      "abstract": "Background: AI has shown the potential to positively influence minimally invasive surgical robotics. Incorporation of AI can improve perception, planning, decision-making, and execution in this field. Existing systems include, but are not limited to, the STAR for supervised autonomous suturing, MAKO for orthopedic arthroplasty, CyberKnife for radiosurgery, and PROST for prostate interventions. Such systems have shown advancement in precision, image guidance, task automation, haptic feedback, and flexible safety management. However, unlike domains such as autonomous driving, surgical robotics has progressed more cautiously. Current platforms have been found to sporadically lack transparent supervision contracts, adequate surgeon-centric safety guarantees, standardized pathways for adaptive autonomy, embedded safeguards within their modes of operation, and validated metrics for assessing performance. Objective: This paper presents a conceptual framework for a human-supervised AI-driven smart actuator system focused on minimally invasive surgery. The goal of this paper is to propose a forward-looking proof of concept that formalizes surgeon authority, integrates AI-enabled perception and control, enforces provable safety constraints, enables adaptive assistance, and ensures continuous, patient-safe force regulation. Conceptual Design: This architecture incorporates compact backdrivable actuators. It also includes multimodal sensing that encompasses sensor data, force and torque, pose, endoscopic vision, and tissue impedance, as well as an AI stack based off a machine learning and reinforcement learning framework. The model delineates three operational modes. These include teleoperation enhanced by AI-based overlays, shared control that incorporates tremor suppression, virtual fixtures, as well as force regulation, and super-vised autonomy where specific subtasks are carried out under surgeon pedal-hold and confidence gating. Safety is ensured using control barrier functions and model predictive safety filters, which block unsafe actions applying reinforcement learning. Aside from this, human-factor elements feature confidence-aware visualization, multimodal anomaly detection, and options for immediate overrides. Contribution: This study outlines a research roadmap. Our contributions include a formalized supervised-autonomy contract, a layered safety design combining reinforcement learning with provable constraint enforcement, surgeon-centered framework with immediate veto and transparency features, and a translational agenda spanning simulation, phantom, ex-vivo, and cadaveric validation. Conclusion: This paper aims to position AI as a cooperative assistant rather than an autonomous decision-maker in the field of robotic and precision surgery. The conceptual framework endeavors to address challenges in surgical robotics. These include precision, safety, transparency, and supervisory oversight. It synthesizes lessons from current exemplars. It articulates a pathway toward adaptive, auditable, transparently supervised, resilient, and patient-centered surgical systems.",
+      "authors": [
+        {
+          "name": "Ritwik Raj Saxena",
+          "orcid": "https://orcid.org/0009-0001-7876-3193",
+          "affiliation": "University of Minnesota, Duluth",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ritcha Saxena",
+          "orcid": null,
+          "affiliation": "University of Minnesota, Duluth",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": true
+        },
+        {
+          "name": "Ritcha Saxena",
+          "orcid": null,
+          "affiliation": "University of Minnesota, Duluth",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Ritcha Saxena",
+          "orcid": null,
+          "affiliation": "University of Minnesota, Duluth",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2025,
+      "venue": "Preprints.org",
+      "issn": null,
+      "type": "preprint",
+      "citation_count": 0,
+      "referenced_works_count": null,
+      "fwci": null,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T10868",
+          "name": "Soft Robotics and Applications",
+          "score": 0.8755999803543091
+        }
+      ],
+      "keywords": [
+        "Teleoperation",
+        "Robotics",
+        "Haptic technology",
+        "Actuator",
+        "Telerobotics",
+        "Proof of concept",
+        "Automation",
+        "Reinforcement learning",
+        "Robot"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.20944/preprints202509.2216.v1",
+      "openalex_url": "https://openalex.org/W4414584776",
+      "pdf_url": "https://www.preprints.org/frontend/manuscript/0e267bf4f3baf5f2e665c6b055aee4ec/download_pub",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://www.preprints.org/frontend/manuscript/0e267bf4f3baf5f2e665c6b055aee4ec/download_pub"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.096,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": null,
+      "arxiv_id": null,
+      "openalex_id": "W7203804439",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Towards improving environmental legislation in artisanal and small-scale mining: a case study of Otter Mine in Tanzania",
+      "abstract": "A research report submitted in partial fulfilment of the requirements for the degree of Master of Science, to the Faculty of Engineering and Built Environment, School of Mining Engineering, University of the Witwatersrand, Johannesburg, 2025",
+      "authors": [
+        {
+          "name": "Happison Muchanyangi",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2025,
+      "venue": "University of the Witwatersrand, Johannesburg Institutional Repository on DSpace (University of the Witwatersrand, Johannesburg)",
+      "issn": null,
+      "type": "dissertation",
+      "citation_count": 0,
+      "referenced_works_count": null,
+      "fwci": null,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11933",
+          "name": "Mining and Resource Management",
+          "score": 0.6222000122070312
+        },
+        {
+          "id": "T11923",
+          "name": "Mine drainage and remediation techniques",
+          "score": 0.054999999701976776
+        },
+        {
+          "id": "T12227",
+          "name": "Environmental and Social Impact Assessments",
+          "score": 0.01679999940097332
+        }
+      ],
+      "keywords": [
+        "Tanzania",
+        "Legislation",
+        "Government (linguistics)",
+        "Work (physics)",
+        "Degree (music)"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": null,
+      "openalex_url": "https://openalex.org/W7203804439",
+      "pdf_url": "https://wiredspace.wits.ac.za/bitstreams/50deefe6-a529-4518-a118-8ae81e84abfe/download",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://wiredspace.wits.ac.za/bitstreams/50deefe6-a529-4518-a118-8ae81e84abfe/download"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.096,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": null,
+      "arxiv_id": null,
+      "openalex_id": "W7113480010",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Automated Analysis of Textual Comments in Patient Reported Outcome Measures",
+      "abstract": "Patient-reported outcome measures (PROMs) are questionnaires that capture the patients' perspective on their health-related quality of life. PROMs contain open-ended questions, where they can provide free text comments on information they deem important regarding their outcomes and unmet needs. The PROMs comments are underexplored, largely due to the time and resource demands to analyse them and the current approaches’ inability to scale to large datasets and to compare outcomes across datasets. Addressing these gaps, this thesis aims to automate the analysis of PROMs comments to gain insights into the additional information provided in patients’ free text comments. The thesis developed a novel patient-centric approach, including quantitative analysis of natural language processing (NLP) models and qualitative feedback from domain experts and patients. Two frameworks have been proposed to gain insights into patient comments from cancer PROMs datasets (prostate and colorectal cancer). The first original framework is developed to classify free text comments in PROMs with prevalent themes in PROMs identified using a scoping review (Cancer Pathways & Services, Comorbidities, Daily Life, Physical Function, Psychological & Emotional Function, and Social Function). Weakly supervised text classification methods were adopted to label the PROMs comments. The interpretability of the models and the overall utility of the approach have been assessed with PROMs researchers and patients. The second framework provides a novel application of large language models to summarise groups of PROMs comments. A systematic approach is proposed to generate prompts for summarising groups of PROMs comments and to automatically assess the quality of the resultant summaries. The human evaluation highlights summary features needed to facilitate meaningful analysis. The approach of this thesis effectively assessed the success of NLP methods to analyse PROMs comments beyond technical robustness, revealing their overall impact and the broader implications for adoption.",
+      "authors": [
+        {
+          "name": "Linton, Anna-Grace Sarah",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2025,
+      "venue": "White Rose eTheses Online (University of Leeds, The University of Sheffield, University of York)",
+      "issn": null,
+      "type": "dissertation",
+      "citation_count": 0,
+      "referenced_works_count": null,
+      "fwci": null,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T12488",
+          "name": "Mental Health via Writing",
+          "score": 0.6322000026702881
+        },
+        {
+          "id": "T10178",
+          "name": "Cancer survivorship and care",
+          "score": 0.07859999686479568
+        },
+        {
+          "id": "T13702",
+          "name": "Machine Learning in Healthcare",
+          "score": 0.04820000007748604
+        }
+      ],
+      "keywords": [
+        "Interpretability",
+        "Patient-reported outcome",
+        "Perspective (graphical)",
+        "Resource (disambiguation)",
+        "Quality of life (healthcare)",
+        "Quality (philosophy)",
+        "Item response theory"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": null,
+      "openalex_url": "https://openalex.org/W7113480010",
+      "pdf_url": "https://etheses.whiterose.ac.uk/id/eprint/37434/1/Linton_A_Thesis_Automated_Analysis_PROMs.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://etheses.whiterose.ac.uk/id/eprint/37434/1/Linton_A_Thesis_Automated_Analysis_PROMs.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.096,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.25236/ajhss.2025.081122",
+      "arxiv_id": null,
+      "openalex_id": "W7124593427",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Applications of AI Chatbots in Occupational Safety and Health in Archaeology and User Experience",
+      "abstract": "This qualitative study evaluates user experiences with ArchHealth, a customized AI chatbot delivering occupational safety and health (OSH) information to archaeological professionals. Faced with unique hazards and inadequate traditional resources, participants (n=14) were interviewed after a 4-week pilot. Analysis revealed that ArchHealth successfully centralized fragmented OSH knowledge into a user-friendly interface, with users valuing its comprehensiveness and efficiency, which facilitated a journey from initial trial to routine use. While the tool demonstrates strong potential to bridge critical information gaps, future iterations require enhancements in localization, offline functionality, and multimedia support to maximize adoption and safety outcomes in field and lab contexts.",
+      "authors": [
+        {
+          "name": "<p>Mengxuan Zhang<sup>1</sup>, Danni Lin<sup>1</sup>, Chuqing Huang<sup>1</sup>, Yating Zhao<sup>1</sup>, Zhuojia Tan<sup>1</sup>, Haibei Xie<sup>2</sup>, Yan Zuo<sup>2</sup></p>",
+          "orcid": null,
+          "affiliation": null,
+          "country": null,
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2025,
+      "venue": "Academic Journal of Humanities & Social Sciences",
+      "issn": "2616-5783",
+      "type": "article",
+      "citation_count": 0,
+      "referenced_works_count": null,
+      "fwci": 0.0,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T12128",
+          "name": "AI in Service Interactions",
+          "score": 0.36820000410079956
+        },
+        {
+          "id": "T11636",
+          "name": "Artificial Intelligence in Healthcare and Education",
+          "score": 0.321399986743927
+        },
+        {
+          "id": "T11519",
+          "name": "Digital Mental Health Interventions",
+          "score": 0.07779999822378159
+        }
+      ],
+      "keywords": [
+        "Chatbot",
+        "Occupational safety and health",
+        "Bridge (graph theory)",
+        "User experience design",
+        "Field (mathematics)",
+        "Human factors and ergonomics",
+        "Safety culture",
+        "Patient safety"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.25236/ajhss.2025.081122",
+      "openalex_url": "https://openalex.org/W7124593427",
+      "pdf_url": "http://francis-press.com/uploads/papers/Q7skVISsPtBMDoRN34Z6kVaE1N8Yl5fRRfrGlTuI.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "http://francis-press.com/uploads/papers/Q7skVISsPtBMDoRN34Z6kVaE1N8Yl5fRRfrGlTuI.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.096,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 0.96
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.3509272467902996,
+          "h_index": 9
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    },
+    {
+      "doi": "10.17615/hz4q-0012",
+      "arxiv_id": null,
+      "openalex_id": "W2282840093",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Exploring leadership for excellence and equity in high performing middle schools",
+      "abstract": "Principals for social justice typically not only are concerned for the learning needs of all students, especially those who are traditionally marginalized, but they also have positively impacted their schools to such an extent that student achievement for all students has increased. In this context, there is no social justice without student achievement. Indeed, excellence and equity no longer have to be treated as mutually exclusive goals. This study focused on social justice leadership in middle schools because of the significance of the middle grades in preparing adolescents for success in the long-term. The purpose of this research was to explore, through a lens of academic emphasis, principal leadership practices, beliefs and policies in four high performing traditional calendar 6-8 public middle schools consistently recognized as North Carolina Schools of Distinction. The four middle schools were purposefully selected as two of them (small gap schools) were abnormally successful at narrowing the achievement gap between 2005-2009. The two other (large gap) schools had gaps that exceeded the state's average achievement gap between white/affluent students and minority/economically disadvantaged students for the same period. This study utilized a mixed method design. The qualitative phase (dominant method) of this study entailed semi-structured interviews with four principals, four assistant principals, and 16 teachers. The initial quantitative phase entailed the use of data to first identify successful high performing middle schools and second to conduct equity audits of both sets of middle schools so that the levels of achievement equity, teacher quality equity and programmatic equity could be examined, compared and contrasted. There were commonalities across demographics, teacher quality and programmatic equity between the LG and SG schools, yet wide discrepancies in achievement equity raised more questions than answers. However, this study uncovered descriptive and innovative policies and practices that other educational leaders who read this study will be able to reflect on and adopt, or avoid, in their own schools to facilitate more equitable schools characterized by increased student achievement and a positive school culture. Ultimately, the SG school principals favored a balanced approach, they were modest in demeanor, yet very resolute and consistent in communicating and implementing their policies, practices and beliefs.",
+      "authors": [
+        {
+          "name": "Kerry F. Chisnall",
+          "orcid": null,
+          "affiliation": "University of North Carolina at Chapel Hill",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": true
+        }
+      ],
+      "year": 2019,
+      "venue": "Carolina Digital Repository (University of North Carolina at Chapel Hill)",
+      "issn": null,
+      "type": "article",
+      "citation_count": 2,
+      "referenced_works_count": 53,
+      "fwci": 0.6484,
+      "cited_by_percentile_year": 94,
+      "topics": [
+        {
+          "id": "T10008",
+          "name": "Teacher Education and Leadership Studies",
+          "score": 0.9943000078201294
+        },
+        {
+          "id": "T12904",
+          "name": "Diverse Educational Innovations Studies",
+          "score": 0.9736999869346619
+        },
+        {
+          "id": "T11998",
+          "name": "Youth Development and Social Support",
+          "score": 0.9703999757766724
+        }
+      ],
+      "keywords": [
+        "Excellence",
+        "Equity (law)",
+        "Middle management",
+        "Political science",
+        "Public relations",
+        "Management",
+        "Psychology",
+        "Sociology",
+        "Pedagogy",
+        "Economics"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.17615/hz4q-0012",
+      "openalex_url": "https://openalex.org/W2282840093",
+      "pdf_url": "https://cdr.lib.unc.edu/record/uuid:788813ae-9e74-40dc-8608-e84dcaf85369",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://cdr.lib.unc.edu/record/uuid:788813ae-9e74-40dc-8608-e84dcaf85369",
+        "https://doi.org/10.17615/hz4q-0012"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.0937,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.1445,
+          "recency_signal": 0.72
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.21079/11681/33333",
+      "arxiv_id": null,
+      "openalex_id": "W2955303414",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Development of deceleration-based runway friction measurement methods",
+      "abstract": "Runway surface friction is a critical safety concern on all airfields; however, current friction measurement equipment is expensive.Airfield managers have identified a need for contingency friction assessment tools that are cost-effective and commonly found.The current Air Force standard for pavement friction measurement is a high-speed continuous friction measuring equipment (CFME) device, the Findley Irvine GripTester.Operation of the GripTester is both labor-intensive and cost-prohibitive.This report details the development of an alternative, more economical measure of a surface's frictional characteristics using accelerometers.Accelerometers were standard friction assessment tools in the late 20 th century before CFMEs became standard practice.Accelerometer-based friction testers measure the peak deceleration of a vehicle during the braking motion.The vehicle's deceleration is proportional to the surface's friction coefficient.This report documents research conducted to evaluate the use of smartphone accelerometers and vehicle engine control units (ECUs) having sufficient accuracy and precision to function as decelerationbased friction assessment tools.Findings herein show that smartphone accelerometers, given sufficient experimental controls, can operate as deceleration-based friction assessment tools.This report also details unsuccessful attempts to extract usable deceleration data from vehicle ECUs and the potential future of such efforts.Regressions are presented that show correlation between smartphone deceleration measurements and highspeed GripTester measurements.",
+      "authors": [
+        {
+          "name": "Andrew B. Ward",
+          "orcid": "https://orcid.org/0000-0001-7153-3769",
+          "affiliation": "United States Air Force Research Laboratory",
+          "country": "US",
+          "is_first": true,
+          "is_corresponding": false
+        },
+        {
+          "name": "Craig A. Rutland",
+          "orcid": "https://orcid.org/0000-0002-7014-2819",
+          "affiliation": "United States Air Force Research Laboratory",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        },
+        {
+          "name": "Jeb S. Tingle",
+          "orcid": "https://orcid.org/0000-0001-7042-1116",
+          "affiliation": "United States Air Force Research Laboratory",
+          "country": "US",
+          "is_first": false,
+          "is_corresponding": false
+        }
+      ],
+      "year": 2019,
+      "venue": null,
+      "issn": null,
+      "type": "report",
+      "citation_count": 2,
+      "referenced_works_count": 22,
+      "fwci": null,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11606",
+          "name": "Infrastructure Maintenance and Monitoring",
+          "score": 0.9315999746322632
+        },
+        {
+          "id": "T10842",
+          "name": "Railway Engineering and Dynamics",
+          "score": 0.9025999903678894
+        }
+      ],
+      "keywords": [
+        "Runway",
+        "Computer science",
+        "Environmental science",
+        "Aeronautics",
+        "Automotive engineering",
+        "Engineering",
+        "Geography",
+        "Cartography"
+      ],
+      "sdgs": [],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.21079/11681/33333",
+      "openalex_url": "https://openalex.org/W2955303414",
+      "pdf_url": "https://erdc-library.erdc.dren.mil/jspui/bitstream/11681/33333/1/ERDC%20TR-19-10.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://erdc-library.erdc.dren.mil/jspui/bitstream/11681/33333/1/ERDC%20TR-19-10.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.0937,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.1445,
+          "recency_signal": 0.72
+        }
+      },
+      "journal_rank": null
+    },
+    {
+      "doi": "10.1177/1742271x241239794",
+      "arxiv_id": null,
+      "openalex_id": "W4401227739",
+      "ss_paper_id": null,
+      "pmid": null,
+      "pmcid": null,
+      "source_native_id": null,
+      "title": "Abstracts from the 54rd Annual Scientific Meeting of the British Medical Ultrasound Society, 5th - 7th December 2023, York Racecourse, United Kingdom",
+      "abstract": "Introduction: This report describes a case of massforming autoimmune pancreatitis (AIP) of which I wish to share my learning and experience.Case: A 57-year-old female was referred for abdominal ultrasound for fatigue, painless jaundice and abnormal liver function tests.She was not tender on assessment.Ultrasound demonstrated a solid pancreatic head mass, isoechoic to the pancreas, with no biliary dilatation.The appearances and presentation were suspicious for malignancy, and consultant review prompted 2-week-wait referral for CT staging.Pancreatitis was not suspected.CT was negative for cancer but demonstrated enlargement and loss of definition of the pancreatic clefts, suggestive of AIP.Correlation with elevated serum immunoglobulin G4 (IgG4) confirmed the diagnosis.MRI was performed eight weeks later to review response to steroidal treatment, which was unsuccessful.The patient was referred for immunosuppressant control, and will undergo annual imaging surveillance.She experiences ongoing fatigue but is otherwise well.AIP is an organ-specific manifestation of systemic IgG4 disease, categorised by serum IgG4 elevation 1 .There can be multiple organ involvement affecting structures such as the kidneys and lungs 1 .AIP is a mimicker of pancreatic and biliary neoplasia, often presenting with painless jaundice 2 .The isoechoic appearance of the inflammatory mass and nil duct dilatation may have served a clue to the aetiology, although this can be seen in malignant and inflammatory disease 2 .Cross-sectional imaging is always indicated for characterisation 3 however an awareness of AIP and painless inflammatory masses as differentials for malignancy will enable sonographers to report helpful, differential diagnoses which may alter or improve management and reduce undue patient anxiety.Conclusion: Sonographers should be mindful that pancreatitis is a complex disease with a range of aetiologies and manifestations beyond gallstones and epigastric pain.Pancreatic masses may be inflammatory in origin and conditions such as AIP are often painless mimickers of malignancy. Put your best ball forward, the rare occurrence of Varicocele Thrombosis",
+      "authors": [],
+      "year": 2024,
+      "venue": "Ultrasound",
+      "issn": "0966-1905",
+      "type": "conference-abstract",
+      "citation_count": 0,
+      "referenced_works_count": null,
+      "fwci": null,
+      "cited_by_percentile_year": null,
+      "topics": [
+        {
+          "id": "T11738",
+          "name": "Ultrasound in Clinical Applications",
+          "score": 0.8468999862670898
+        },
+        {
+          "id": "T12422",
+          "name": "Radiomics and Machine Learning in Medical Imaging",
+          "score": 0.7674000263214111
+        },
+        {
+          "id": "T13657",
+          "name": "Aortic Thrombus and Embolism",
+          "score": 0.7217000126838684
+        }
+      ],
+      "keywords": [
+        "Medicine"
+      ],
+      "sdgs": [
+        {
+          "id": "https://metadata.un.org/sdg/17",
+          "score": 0.4099999964237213,
+          "display_name": "Partnerships for the goals"
+        }
+      ],
+      "is_oa": true,
+      "tldr": null,
+      "influential_citation_count": null,
+      "funders": [],
+      "license": [],
+      "clinical_trial_number": null,
+      "mesh_terms": [],
+      "publication_types": [],
+      "arxiv_categories": [],
+      "arxiv_comment": null,
+      "doi_url": "https://doi.org/10.1177/1742271x241239794",
+      "openalex_url": "https://openalex.org/W4401227739",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11292928/pdf/10.1177_1742271X241239794.pdf",
+      "pmc_url": null,
+      "oa_locations": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11292928/pdf/10.1177_1742271X241239794.pdf"
+      ],
+      "rcs": null,
+      "rcs_reasoning": null,
+      "rcs_flag": null,
+      "sources": [
+        "openalex"
+      ],
+      "discovery_path": null,
+      "relevance": {
+        "score": 0.092,
+        "label": "low",
+        "method": "heuristic_v1",
+        "is_llm_rcs": false,
+        "components": {
+          "title_coverage": 0.0,
+          "abstract_coverage": 0.0,
+          "citation_signal": 0.0,
+          "recency_signal": 0.92
+        }
+      },
+      "journal_rank": {
+        "cas": null,
+        "jcr": null,
+        "sjr": null,
+        "openalex": {
+          "mean_citedness_2yr": 0.5973154362416108,
+          "h_index": 32
+        },
+        "matched_issn": null,
+        "matched_platforms": []
+      }
+    }
+  ],
+  "meta": {
+    "query": {
+      "topic": "novice preset reliance laser",
+      "search_query": "novice preset reliance laser",
+      "year_min": null,
+      "year_max": null,
+      "per_strategy": 40,
+      "terms": [
+        "novice",
+        "preset",
+        "reliance",
+        "laser"
+      ]
+    },
+    "counts": {
+      "retrieved_raw": 120,
+      "after_dedup": 46,
+      "after_relevance_filter": 46,
+      "after_journal_filter": 46,
+      "after_rank_filter": 46,
+      "returned": 30
+    },
+    "rank": {
+      "platform": "jcr",
+      "platform_source": "default",
+      "keep_tiers": null,
+      "keep_quartiles": null,
+      "top_only": false,
+      "category": null,
+      "applied_filter": false,
+      "ambiguous": false,
+      "candidate_platforms": [],
+      "kept": null,
+      "filtered": null,
+      "no_platform_data": null,
+      "data_loaded": false,
+      "loaded_platforms": [],
+      "switchable_platforms": [],
+      "switch_is_refilter_not_research": true,
+      "stripped_phrases": [],
+      "deepen": {
+        "active": false,
+        "rounds": 0,
+        "saturated": false,
+        "final_per_strategy": 40
+      },
+      "attribution": null,
+      "note": null,
+      "keep_tiers_note": null,
+      "naming": "CAS 区 & SJR best_quartile are PARTITIONS; only JCR impact_factor is a real Impact Factor (R-04/R-09). 切换标准/档位 = 重筛已标注的候选池，不重搜。"
+    },
+    "enrichment": {
+      "enriched": true,
+      "impact_source": "openalex_summary_stats",
+      "impact_attached": 21,
+      "filter_quartiles": null,
+      "filter_min_impact": null,
+      "category": null,
+      "issn_backfill_enabled": true,
+      "issn_backfill_attempted": 0,
+      "issn_backfilled": 0,
+      "note": "Single journal_rank layer. Quartile/影响力 data lives in each paper's journal_rank (CAS/JCR/SJR + openalex). Partition data is cached under ~/.paper-search-pro/ranks/ (run `journal_rank fetch`, no API key needed). Only JCR IF(2024) is a real Impact Factor."
+    },
+    "relevance": {
+      "method": "heuristic_v1",
+      "is_llm_rcs": false,
+      "min_relevance": 0.0,
+      "weights": {
+        "title_coverage": 0.5,
+        "abstract_coverage": 0.25,
+        "citation_signal": 0.15,
+        "recency_signal": 0.1
+      },
+      "note": "Deterministic query-grounded heuristic, NOT the human path's LLM RCS. A signal for self-judgement, computed for every paper."
+    },
+    "saturation": {
+      "method": "heuristic_v1",
+      "advisory": true,
+      "looks_saturated": true,
+      "per_strategy_new_papers": [
+        40,
+        1,
+        5
+      ],
+      "last_strategy_marginal_yield": 0.1087,
+      "score_distribution": {
+        "high": 0,
+        "medium": 0,
+        "low": 46
+      },
+      "note": "Heuristic stop signal (no LLM classification). 'looks_saturated' = later strategies added few new papers. Advisory only."
+    },
+    "ratelimit": {
+      "ok": true,
+      "remaining_usd": 0.906,
+      "limit_usd": 1.0,
+      "remaining": 9060,
+      "limit": 10000,
+      "reset_seconds": 48723,
+      "retry_after": null,
+      "should_switch": false,
+      "mode": "probe",
+      "error": null,
+      "switched_source": false
+    },
+    "source_used": "openalex",
+    "warnings": []
+  }
+}
