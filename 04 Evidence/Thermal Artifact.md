@@ -2,7 +2,7 @@
 
 **Status: PARTIAL EVIDENCE.** Three processed vault sources (Angiero, Azevedo, Gambino) now directly measure dental-diode thermal artifact extent; Gambino et al. additionally pairs it with a diagnostic outcome in the same specimens.
 
-**Role (2026-09-13 reframing): SPECIMEN-QUALITY OUTCOME.** Thermal artifact is one of this project's primary ex vivo specimen-quality endpoints (see [[01 Projects/Diode Laser Biopsy#Primary experimental outcomes]]), not the whole of specimen quality by itself. Angiero/Gambino's diagnostic-outcome pairing is CLINICAL RELEVANCE context, not this project's own experimental design.
+**Role (2026-09-13 reframing): THERMAL-DAMAGE OUTCOME.** Thermal artifact is one of this project's primary ex vivo specimen-quality endpoints (see [[01 Projects/Diode Laser Biopsy#Primary experimental outcomes]]), not the whole of specimen quality by itself. Angiero/Gambino's diagnostic-outcome pairing is CLINICAL RELEVANCE context, not this project's own experimental design.
 
 ## Claim
 
