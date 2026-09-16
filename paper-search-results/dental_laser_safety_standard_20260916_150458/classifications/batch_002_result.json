@@ -1,0 +1,265 @@
+[
+ {
+  "key": "doi|10.15171/jlms.2015.01",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.1007/978-981-15-1346-6_39",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.1159/000443144",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.1038/bdj.2006.113",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.34133/cbsystems.0062",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.1016/j.jdsr.2018.06.002",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.3390/photonics10060650",
+  "relevant": true,
+  "categories": ["ADVERSE EVENTS", "OPERATOR / TECHNIQUE SAFETY", "PARAMETER-RELATED TISSUE SAFETY"],
+  "citation": "\"Therapeutic and Adverse Effects of Lasers in Dentistry: A Systematic Review,\" Photonics, 2023 (doi:10.3390/photonics10060650)",
+  "source_type": "systematic review (PRISMA)",
+  "laser_device": "multiple dental lasers reviewed (CO2, diode, Nd:YAG, Er:YAG, Argon, Erbium)",
+  "hazard_studied": "adverse effects of laser use in dentistry linked to non-targeted device choice and inadequate learning curve; thermal damage to pulp tissue; cracks/fractures in composite restorations",
+  "parameter_or_operator_factor": "device/wavelength selection and operator learning curve (technique-driven risk); specific power/speed values not given in abstract",
+  "adverse_outcome": "cracks/fractures affecting composite restorations; thermal damage to pulp tissue in periodontal treatments; treatment failures",
+  "causality_established": "ASSOCIATION_ONLY",
+  "relevance_to_project": "Systematic review synthesizing reported thermal and mechanical adverse effects of dental lasers tied to device selection and operator learning curve, useful for framing known hazard categories relevant to diode-laser soft-tissue procedure reliability."
+ },
+ {
+  "key": "doi|10.1038/bdj.2007.370",
+  "relevant": true,
+  "categories": ["GUIDELINES / CONSENSUS", "EYE / PLUME / FIRE SAFETY"],
+  "citation": "\"Laser regulation and safety in general dental practice,\" BDJ, 2007 (doi:10.1038/bdj.2007.370)",
+  "source_type": "narrative article / professional guidance (UK dental practice)",
+  "laser_device": "UNKNOWN (discusses laser devices generally, from low-powered hand-held to high-powered cutting/ablating units)",
+  "hazard_studied": "accidental or occupational exposure to laser light in the dental surgery; regulatory compliance",
+  "parameter_or_operator_factor": "clinician/personnel responsibility for minimizing exposure risk (not a specific power/speed parameter)",
+  "adverse_outcome": "UNKNOWN (discusses risk and regulation generally, no specific injury reported)",
+  "causality_established": "GENERAL_GUIDANCE_NOT_CAUSAL_PROOF",
+  "relevance_to_project": "UK dental-laser regulation and occupational-exposure overview providing safety/regulatory context for operating diode lasers, though it offers general guidance rather than tissue-specific parameter data."
+ },
+ {
+  "key": "doi|10.1038/s41368-025-00370-y",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.3390/dj12120420",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.1155/2011/981595",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.5978/islsm.15-ra-1",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.1016/j.identj.2024.11.020",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.3390/ijms21239002",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.17219/acem/68943",
+  "relevant": true,
+  "categories": ["PARAMETER-RELATED TISSUE SAFETY"],
+  "citation": "\"Effect of diode lasers with wavelength of 445 and 980 nm on a temperature rise when uncovering implants for second stage surgery - an ex-vivo study in pigs,\" Advances in Clinical and Experimental Medicine, 2017 (doi:10.17219/acem/68943)",
+  "source_type": "ex vivo study (animal, pig mandibles)",
+  "laser_device": "445 nm diode laser and 980 nm diode laser (comparator)",
+  "hazard_studied": "thermal rise at the dental implant surface/collar during soft-tissue uncovering (second-stage implant surgery)",
+  "parameter_or_operator_factor": "power (2-3 W), wavelength, contact vs. non-contact mode, fiber diameter, power density",
+  "adverse_outcome": "mean temperature rises of 16.9C, 36.1C, and 21.6C measured across the three parameter groups, indicating parameter-dependent thermal risk",
+  "causality_established": "DIRECT_EVIDENCE",
+  "relevance_to_project": "Closely analogous ex-vivo diode-laser design directly linking power/wavelength/contact-mode settings to measured thermal output near tissue/implant, a strong methodological parallel for a diode-laser oral soft-tissue preset/power/speed reliability study."
+ },
+ {
+  "key": "doi|10.1186/s10033-022-00767-4",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.3390/dj11020028",
+  "relevant": true,
+  "categories": ["PARAMETER-RELATED TISSUE SAFETY", "DEVICE / CALIBRATION SAFETY"],
+  "citation": "\"The Impact of Laser Thermal Effect on Histological Evaluation of Oral Soft Tissue Biopsy: Systematic Review,\" Dentistry Journal, 2023 (doi:10.3390/dj11020028)",
+  "source_type": "systematic review",
+  "laser_device": "multiple wavelengths reviewed, including CO2, diode (940-980 nm and 808/445 nm), Er:YAG, Nd:YAG, KTP, and Er,Cr:YSGG lasers",
+  "hazard_studied": "thermal artifact/damage affecting histological evaluation of oral soft-tissue biopsy specimens",
+  "parameter_or_operator_factor": "laser wavelength/type; specific power or speed values not given in the provided abstract excerpt",
+  "adverse_outcome": "thermal effects on biopsy specimens compromising histological interpretation (extent varies by wavelength per included studies)",
+  "causality_established": "ASSOCIATION_ONLY",
+  "relevance_to_project": "Directly on-topic systematic review of laser thermal effects on oral soft-tissue biopsy histology/specimen quality across wavelengths including diode, core to the project's specimen-quality concern."
+ },
+ {
+  "key": "doi|10.34172/jlms.2020.22",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.15226/jdodt.2014.00130",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.1038/s41598-021-99709-8",
+  "relevant": true,
+  "categories": ["PARAMETER-RELATED TISSUE SAFETY", "DEVICE / CALIBRATION SAFETY"],
+  "citation": "\"Thermal effect of a 445 nm diode laser on five dental implant systems: an in vitro study,\" Scientific Reports, 2021 (doi:10.1038/s41598-021-99709-8)",
+  "source_type": "in vitro study",
+  "laser_device": "445 nm diode laser",
+  "hazard_studied": "thermal effect / temperature rise on dental implant systems during laser use (e.g., decontamination of ailing implants)",
+  "parameter_or_operator_factor": "power (W), exposure time, mode (continuous wave vs. pulsed), contact vs. non-contact, duty cycle",
+  "adverse_outcome": "temperature increases exceeding 10C at or above 0.8 W (CW, 5 s) and at 3 W pulsed (20 s, 10% duty cycle); authors concluded the laser is not inherently safe for ailing-implant decontamination under tested conditions",
+  "causality_established": "DIRECT_EVIDENCE",
+  "relevance_to_project": "Strong direct precedent: controlled in vitro diode-laser study (2880 temperature curves) directly linking power/exposure-time/mode settings to thermal hazard, closely supporting the project's preset/power/speed reliability framework."
+ },
+ {
+  "key": "doi|10.3390/jfmk9040181",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.4317/medoral.23317",
+  "relevant": true,
+  "categories": ["PARAMETER-RELATED TISSUE SAFETY"],
+  "citation": "\"Comparison of diode laser - Oral tissue interaction to different wavelengths. In vitro study of porcine periodontal pockets and oral mucosa,\" Medicina oral, patologia oral y cirugia bucal, 2020 (doi:10.4317/medoral.23317)",
+  "source_type": "in vitro study (porcine tissue)",
+  "laser_device": "diode lasers at multiple wavelengths (445, 532/KTP, 810, 980, 1064, 1470 nm)",
+  "hazard_studied": "thermal damage and necrosis of periodontal pocket and oral mucosa tissue from diode-laser incisions",
+  "parameter_or_operator_factor": "wavelength and power (0.5-2.0 W, continuous wave mode)",
+  "adverse_outcome": "measured area of lost tissue, thermal damage, and necrosis; significant differences found between 1470 nm/810 nm groups (periodontal pocket) and for 1064 nm (oral mucosa)",
+  "causality_established": "DIRECT_EVIDENCE",
+  "relevance_to_project": "Near-identical ex-vivo/in vitro diode-laser wavelength-and-power vs. oral soft-tissue thermal-damage/necrosis design, a highly relevant methodological comparator for the project."
+ },
+ {
+  "key": "doi|10.1016/j.denabs.2011.03.040",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.4317/medoral.18528",
+  "relevant": true,
+  "categories": ["ADVERSE EVENTS"],
+  "citation": "\"Endoluminal sclerosis with diode laser in the treatment of orofacial venous malformations,\" Medicina oral, patologia oral y cirugia bucal, 2013 (doi:10.4317/medoral.18528)",
+  "source_type": "retrospective case series",
+  "laser_device": "810 nm diode laser",
+  "hazard_studied": "complications associated with intralesional diode-laser photocoagulation of orofacial venous malformations",
+  "parameter_or_operator_factor": "power (1 W active fiber, continuous mode); not explicitly linked to a specific harm in the given abstract text",
+  "adverse_outcome": "\"main associated complications\" are reported by the study, but specific complications are not detailed in the provided abstract excerpt (UNKNOWN specifics)",
+  "causality_established": "ASSOCIATION_ONLY",
+  "relevance_to_project": "Reports a real-world complication profile for an oral-cavity diode-laser procedure at a stated power setting, useful adverse-event context though not a controlled parameter-harm test."
+ },
+ {
+  "key": "doi|10.25301/jpda.312.100",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.5772/52404",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.1016/j.ijscr.2021.106436",
+  "relevant": true,
+  "categories": ["ADVERSE EVENTS"],
+  "citation": "\"Diode laser photocoagulation of intraoral (and perioral) venous malformations,\" International Journal of Surgery Case Reports, 2021 (doi:10.1016/j.ijscr.2021.106436)",
+  "source_type": "case series / narrative review (case-report journal)",
+  "laser_device": "diode laser (wavelength UNKNOWN)",
+  "hazard_studied": "UNKNOWN specific hazard; case-report format on diode-laser photocoagulation of intraoral/perioral venous malformations, implying documentation of outcomes/complications not detailed in the given abstract excerpt",
+  "parameter_or_operator_factor": "UNKNOWN (not stated in the provided text)",
+  "adverse_outcome": "UNKNOWN (not explicitly detailed in the provided abstract excerpt)",
+  "causality_established": "UNCLEAR",
+  "relevance_to_project": "Case-report-level documentation of intraoral diode-laser photocoagulation of tangential value for adverse-event context, but the available abstract text provides no specific parameter or outcome data."
+ },
+ {
+  "key": "doi|10.1007/s13191-010-0004-2",
+  "relevant": true,
+  "categories": ["GUIDELINES / CONSENSUS", "OPERATOR / TECHNIQUE SAFETY"],
+  "citation": "\"Lasers in prosthodontics - An overview part 1: Fundamentals of dental lasers,\" The Journal of Indian Prosthodontic Society, 2010 (doi:10.1007/s13191-010-0004-2)",
+  "source_type": "narrative review (part 1 of a series)",
+  "laser_device": "multiple dental laser wavelengths (unspecified list)",
+  "hazard_studied": "general laser-tissue interaction and safety considerations relevant to wavelength/procedure selection",
+  "parameter_or_operator_factor": "laser parameters and safety measures described \"in brief\" (general, not quantified in the abstract)",
+  "adverse_outcome": "UNKNOWN (general safety-measures overview, no specific harm reported)",
+  "causality_established": "GENERAL_GUIDANCE_NOT_CAUSAL_PROOF",
+  "relevance_to_project": "Foundational overview explicitly covering dental-laser parameters and safety measures for wavelength selection, useful background framing though not primary experimental data."
+ },
+ {
+  "key": "doi|10.17750/kmj2017-1023",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.17219/dmp/100386",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.1038/s41598-026-47908-6",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.19256/abstract.cduo.02.2026",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.5395/rde.2026.51.e34",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.18203/2394-6040.ijcmph20263229",
+  "relevant": true,
+  "categories": ["PARAMETER-RELATED TISSUE SAFETY", "GUIDELINES / CONSENSUS"],
+  "citation": "\"Toward evidence-based laser dentistry: wavelength selection, parameter standardization and clinical outcomes,\" International Journal of Community Medicine and Public Health, 2026 (doi:10.18203/2394-6040.ijcmph20263229)",
+  "source_type": "narrative review",
+  "laser_device": "multiple wavelength-specific laser technologies (unspecified list, comparative across dental laser types)",
+  "hazard_studied": "variability and lack of parameter standardization across laser-dentistry applications and its effect on clinical outcome reliability",
+  "parameter_or_operator_factor": "wavelength selection and operating-parameter standardization",
+  "adverse_outcome": "UNKNOWN specific harms; discusses inconsistent clinical support/outcomes across applications rather than a specific injury",
+  "causality_established": "GENERAL_GUIDANCE_NOT_CAUSAL_PROOF",
+  "relevance_to_project": "Directly addresses the project's core theme of parameter standardization in laser dentistry and its effect on clinical outcome reliability/reproducibility."
+ },
+ {
+  "key": "doi|10.6026/973206300224570",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.1007/s44445-026-00228-x",
+  "relevant": true,
+  "categories": ["ADVERSE EVENTS", "PARAMETER-RELATED TISSUE SAFETY"],
+  "citation": "\"Clinical assessment of patient-centered outcomes of diode laser ablation, electrocautery, blade scalpel surgery, and tissue punch for second-stage uncovering: a randomized controlled trial study,\" The Saudi Dental Journal, 2026 (doi:10.1007/s44445-026-00228-x)",
+  "source_type": "RCT (prospective, randomized, comparative)",
+  "laser_device": "diode laser (wavelength UNKNOWN)",
+  "hazard_studied": "comparative outcome/complication profile of diode laser vs. electrocautery, scalpel, and tissue punch for implant second-stage uncovering (bleeding, pain, swelling, wound healing, complications)",
+  "parameter_or_operator_factor": "technique/modality choice; procedure time (diode laser 1.6 +/- 0.4 min)",
+  "adverse_outcome": "comparative \"complication profiles\" reported across the four techniques; diode laser associated with shortest procedure time and least intraoperative bleeding (specific diode-laser complications not detailed in the truncated abstract)",
+  "causality_established": "DIRECT_EVIDENCE",
+  "relevance_to_project": "RCT directly comparing diode-laser soft-tissue technique outcomes (procedure time, bleeding, complications) against alternative modalities, a relevant benchmark for evaluating diode-laser procedural reliability and safety profile."
+ },
+ {
+  "key": "doi|10.58624/svoade.2026.07.034",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.1016/j.pdpdt.2026.105610",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.3390/biomimetics11080562",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.3390/oral6040100",
+  "relevant": false
+ },
+ {
+  "key": "doi|10.3389/fdmed.2026.1922626",
+  "relevant": false
+ }
+]
