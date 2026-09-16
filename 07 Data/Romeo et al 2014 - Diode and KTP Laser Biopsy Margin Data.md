@@ -20,7 +20,8 @@ tip_initiation: null
 contact_mode: null
 histology: true
 thermal_damage: true
-margin_quality: "quantified (histologic margin damage, mm, per lesion type; diode-only values 0.149-0.623 mm)"
+thermal_damage_measure: "histologic thermal damage at the margin (mm), reported per lesion type; diode-only values 0.149–0.623 mm"
+margin_quality: null
 tissue_architecture: null
 specimen_interpretability: null
 diagnostic_outcome: true

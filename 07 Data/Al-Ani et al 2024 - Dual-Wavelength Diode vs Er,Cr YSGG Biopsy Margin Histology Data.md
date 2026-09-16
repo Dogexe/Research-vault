@@ -20,7 +20,8 @@ tip_initiation: "initiated"
 contact_mode: "contact"
 histology: true
 thermal_damage: true
-margin_quality: "quantified (LTDE, μm; none exceeded 0.3 mm)"
+thermal_damage_measure: "ET and CT damage scores (0–3) plus lateral thermal damage extent (LTDE, μm); diode LTDE 221.24±85.44 μm vs Er,Cr:YSGG 110.6±36.14 μm; no group exceeded 0.3 mm"
+margin_quality: null
 tissue_architecture: null
 specimen_interpretability: null
 diagnostic_outcome: false

@@ -20,7 +20,8 @@ tip_initiation: null
 contact_mode: "contact"
 histology: true
 thermal_damage: true
-margin_quality: "quantified (width of thermal damage at incision edge, μm; mean 26.60±25.3 across n=4, per-patient range 3.32–56.86 μm)"
+thermal_damage_measure: "width of thermal damage at incision edge (μm): mean 26.60±25.3 across n=4, per-patient range 3.32–56.86 μm"
+margin_quality: null
 tissue_architecture: "qualitative/count (pseudodysplastic epithelial artefacts: cellular/nuclear polymorphism, nuclear hyperchromatism, loss of intercellular adherence — presence/absence per patient, all described as low-intensity, basal/suprabasal layer only)"
 specimen_interpretability: "Paper's central interpretive conclusion: the thermal-artifact profile 'avoids diagnostic interferences with real dysplastic borders' — i.e., the pseudodysplastic artifact did not interfere with distinguishing artifact from a genuine dysplasia diagnosis at the margin (stated as an overall interpretive conclusion, not a per-case scored variable)."
 diagnostic_outcome: true

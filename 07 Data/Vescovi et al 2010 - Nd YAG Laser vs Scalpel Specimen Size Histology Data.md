@@ -20,9 +20,10 @@ tip_initiation: null
 contact_mode: null
 histology: true
 thermal_damage: true
-margin_quality: "quantified (overall width of tissue injury, μm, by compartment and group) + ordinal incision-quality score (0–4, 4=best); Group 1 (3.5W/60Hz): epithelial 305.8, stromal 376.6, vascular 151.6 μm, incision score 1.5. Group 2 (5W/30Hz): epithelial 399.8, stromal 521, vascular 183.5 μm, incision score 1.4. Scalpel: 0 μm all compartments, incision score 4"
+thermal_damage_measure: "overall width of tissue injury (μm), by compartment and group; Group 1 (3.5 W/60 Hz): epithelial 305.8, stromal 376.6, vascular 151.6 μm; Group 2 (5 W/30 Hz): epithelial 399.8, stromal 521, vascular 183.5 μm; scalpel 0 μm"
+margin_quality: "ordinal incision-quality score 0–4 (4=best); Group 1: 1.5, Group 2: 1.4, scalpel: 4"
 tissue_architecture: "categorical presence/absence (nuclear changes, cytoplasmic changes, loss of attachment, carbonization, desiccation, vascular thrombosis/stasis), by group, with a stated 10% cut-off threshold for the whole resection margin"
-specimen_interpretability: null
+specimen_interpretability: "Thermal artifacts did not limit histopathologic diagnosis or the accuracy of resection-margin evaluation in any group."
 diagnostic_outcome: true
 biopsy_oriented: true
 full_text: true

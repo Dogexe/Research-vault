@@ -20,9 +20,10 @@ tip_initiation: null
 contact_mode: "contact"
 histology: true
 thermal_damage: true
-margin_quality: "quantified (5 mm safety margin protocol; thermal alteration from margin: epithelium 288.9 um, connective tissue 430.3 um; diagnosis unimpaired in all cases)"
+thermal_damage_measure: "histologic thermal alteration from surgical margin toward readable tissue: epithelium mean 288.9 μm, connective tissue mean 430.3 μm; cross-validated against OCT"
+margin_quality: null
 tissue_architecture: "quantified (epithelium and lamina propria significantly thicker than healthy control, p=0.021/0.034, but did not impair diagnosis)"
-specimen_interpretability: null
+specimen_interpretability: "Laser-induced thermal effects did not impair definitive histopathological diagnosis in any of 30/30 cases."
 diagnostic_outcome: true
 biopsy_oriented: true
 full_text: true

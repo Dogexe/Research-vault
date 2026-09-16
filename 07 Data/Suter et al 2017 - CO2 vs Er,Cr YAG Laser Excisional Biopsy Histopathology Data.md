@@ -20,9 +20,10 @@ tip_initiation: null
 contact_mode: "non-contact"
 histology: true
 thermal_damage: true
-margin_quality: "quantified (thermal damage zone width, μm, minima/maxima measured per specimen by a blinded pathologist); CO2 (140 Hz, 400 μs, 33 mJ, 4.62 W): median of all maxima 74.9 μm (49.9–122.6), median of all minima 27.2 μm (18.2–49.9); Er:YAG (35 Hz, 297 μs, 200 mJ, 7 W): median of all maxima 34.0 μm (18.2–59.0), median of all minima 4.5 μm (12.5–22.7 IQR as reported); pooled median all values 54.5 μm overall; Er:YAG significantly thinner than CO2 in both maxima and minima (p<0.0001)"
-tissue_architecture: "qualitative (not scored numerically); CO2 specimens showed 'groups of blisters' in the thermally damaged tissue with a more precise linear cut; Er:YAG specimens showed a 'cratered surface' from microexplosions (thermomechanical/photomechanical effect) but more compact, unaltered adjacent tissue and less regular cut geometry"
-specimen_interpretability: "1 of 32 specimens (CO2 group) excluded from the thermal-damage-zone measurement because the zone 'could not be identified adequately' — this exclusion is scoped by the source to the thermal-damage-zone submeasurement specifically; the source does not separately state whether the underlying histologic diagnosis (fibrous hyperplasia) was still confirmable for that excluded specimen, so a diagnostic-failure claim for this case is NOT ESTABLISHED, only a measurement/readability limitation for one specific outcome variable"
+thermal_damage_measure: "thermal damage zone width (μm), minima/maxima measured per specimen by a blinded pathologist; CO2 median maxima 74.9 μm and minima 27.2 μm; Er:YAG median maxima 34.0 μm and minima 4.5 μm; Er:YAG significantly thinner than CO2 for both (p<0.0001); 1/32 CO2 specimens excluded because the zone could not be identified adequately"
+margin_quality: "qualitative incision geometry: CO2 produced a more precise linear cut; Er:YAG produced less regular cut geometry"
+tissue_architecture: "qualitative (not scored numerically); CO2 specimens showed groups of blisters in thermally damaged tissue; Er:YAG specimens showed a cratered surface from microexplosions but more compact, unaltered adjacent tissue"
+specimen_interpretability: null
 diagnostic_outcome: true
 biopsy_oriented: true
 full_text: true

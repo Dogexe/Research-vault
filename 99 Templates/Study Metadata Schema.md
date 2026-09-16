@@ -93,7 +93,7 @@ This audit found the single field usable for v1 as-is once this precedence order
 
 ### `margin_quality` and `tissue_architecture`: free text is the v1 decision, not a placeholder
 
-Both fields stay free text for schema v1. The 12 currently tagged notes already show why a controlled vocabulary would be premature: values range from a quantified µm distance (Al-Ani et al. 2024's LTDE), to a qualitative descriptive statement with no number (Shnawa et al. 2025, Spille et al. 2026), to not applicable at all (any non-biopsy ex vivo study with no lesion or margin concept). Forcing these into fixed categories now would either lose the quantified/qualitative distinction or invent categories no second study yet confirms. Revisit only once enough additional notes are tagged that real, stable category boundaries become visible from the data itself — not before.
+Both fields stay free text for schema v1. The tagged notes already show why a controlled vocabulary would be premature: actual margin-condition outcomes range from ordinal incision-quality/regularity scores to qualitative margin descriptions, while tissue-architecture findings may be ordinal or qualitative. Raw thermal extent such as LTDE/TDE in µm is not a `margin_quality` value and belongs in `thermal_damage_measure`. Use `null` when the source reports no actual margin-condition/readability or tissue-architecture outcome. Revisit controlled categories only once enough additional notes are tagged that stable boundaries become visible from the data itself.
 
 ### `specimen_interpretability` (v1.2): examples and non-examples
 
@@ -106,9 +106,9 @@ Examples (source explicitly reports a distinct interpretability/readability/adeq
 
 Non-examples (stays `null` — the information belongs in a different field, or there is no distinct construct beyond `diagnostic_outcome`):
 
-- A raw µm thermal-damage value alone → `margin_quality`.
-- Incision regularity alone → `tissue_architecture`.
-- An epithelial (or connective-tissue) artifact score alone → `tissue_architecture`.
+- A raw µm thermal-damage value alone → `thermal_damage_measure`.
+- Incision regularity alone → `margin_quality` when it describes the actual incision-margin condition.
+- An epithelial (or connective-tissue) thermal-artifact score alone → `thermal_damage_measure`; use `tissue_architecture` only when the source separately assesses architecture preservation.
 - A bare "diagnosis rendered: yes" with no separate quality or adequacy commentary → `diagnostic_outcome` alone; do not duplicate the same fact here.
 
 ## Modal Forms note
