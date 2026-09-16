@@ -11,12 +11,14 @@
             "id": "524ffd511da98cfd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-14 17.40.10.excalidraw.md"
+                "file": "02 Literature/10.1002/lsm.23639.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-14 17.40.10.excalidraw"
+              "icon": "lucide-file",
+              "title": "lsm.23639"
             }
           }
         ]
@@ -239,9 +241,20 @@
   },
   "active": "524ffd511da98cfd",
   "lastOpenFiles": [
-    "01 Projects/Diode Laser Biopsy.md",
+    "02 Literature/10.1002/jbio.70218_FhmoQx.md",
+    "02 Literature/10.1002/cre2.670.md",
+    "02 Literature/10.1002/(SICI)1096-9101(1999)25_5_401__AID-LSM6_3.0.CO;2-U.md",
+    "02 Literature/10.1590/1678-7757-2023-0419.md",
+    "02 Literature/10.1371/journal.pone.0266193.md",
+    "02 Literature/10.1016/S1079-2104(05)80300-2.md",
+    "03 Concepts/Glossary/Set Power.md",
+    "03 Concepts/Glossary/Specimen Margin.md",
+    "03 Concepts/Glossary/Scattering.md",
+    "03 Concepts/Glossary/Beam Delivery Geometry.md",
     "02 Literature/10.1007/s10103-021-03491-y_QFwgHj.md",
     "07 Data/Parker et al 2022 - Delivery Power Losses and Operating Parameters.md",
+    "Excalidraw/Drawing 2026-09-14 17.40.10.excalidraw.md",
+    "01 Projects/Diode Laser Biopsy.md",
     "02 Literature/10.17219/acem/189795.md",
     "paper-search-results/dental_laser_presets_standard_20260916_141944/classifications",
     "paper-search-results/dental_laser_presets_standard_20260916_141944/raw",
@@ -264,17 +277,6 @@
     "90 Agent/_Archive/02 Literature/Romeo et al 2014 - Biopsy of Oral Soft Tissue Lesions by KTP and Diode Laser.md",
     "90 Agent/_Archive/02 Literature/Azevedo et al 2016 - Surgical Margins by Different Laser Wavelengths in Tongue Tissue.md",
     "90 Agent/_Archive/02 Literature/Angiero et al 2011 - Diode Laser Applied to Oral Soft Tissue Lesions.md",
-    "03 Concepts/Glossary/Glossary Index.md",
-    "02 Literature/10.1177/25785478261465277.md",
-    "02 Literature/10.1590/1678-7757-2023-0419.md",
-    "01 Projects/Diode Laser Master.md",
-    "AGENTS.md",
-    "90 Agent/Vault Housekeeping Audit - 2026-09-15.md",
-    "02 Literature/10.1002/lsm.23639.md",
-    "07 Data/Strakas et al 2023 - 940nm Diode Cutting Efficiency and Thermal Damage Data.md",
-    "07 Data/Angiero et al 2011 - Diode Laser Biopsy Specimen Size and Diagnostic Yield.md",
-    "99 Templates/Paper Summary - Diode Laser.md",
-    "02 Literature/10.1117/1.JBO.22.12.121602.md",
     "Untitled.canvas",
     "ยังไม่ได้ตั้งชื่อ 1.canvas",
     "ยังไม่ได้ตั้งชื่อ.canvas",
