@@ -6,7 +6,7 @@
 
 ## Claim
 
-- Claim: Dental diode lasers (808–980 nm) produce a measurable thermal-artifact zone at the incision margin, on the order of 150–630 μm across the processed sources, whose extent does not correlate simply with carbonization severity within one device's own settings even though it does across instrument types pooled. One processed source (Gambino et al.) shows this artifact can be statistically significant relative to untreated tissue while still not impairing diagnosis.
+- Claim: Dental diode lasers (808–980 nm) produce a measurable thermal-artifact zone at the incision margin. In the Angiero, Azevedo, and Gambino datasets summarized here, reported dimensions are on the order of 150–630 μm; this range is not generalized to all processed sources. Extent does not correlate simply with carbonization severity within one device's own settings even though it does across instrument types pooled. One processed source (Gambino et al.) shows this artifact can be statistically significant relative to untreated tissue while still not impairing diagnosis.
 - Scope: Thermally induced histologic artifact (thermal damage zone, coagulation, carbonization, tissue splitting) at the margin of a laser-incised oral soft-tissue specimen.
 
 ## Supporting findings
@@ -41,12 +41,12 @@
 
 - Concepts: [[03 Concepts/Glossary/Thermal Damage]], [[03 Concepts/Glossary/Carbonization]], [[03 Concepts/Glossary/Coagulation Zone]], [[03 Concepts/Glossary/Histological Artifact]]
 - Evidence: [[04 Evidence/Tip Initiation and Fiber Condition - Supporting Evidence]], [[04 Evidence/Power Output and Tissue Effect]], [[04 Evidence/Surgical Margins]], [[04 Evidence/Biopsy Specimen Quality]]
-- Data: [[07 Data/Angiero et al 2011 - Diode Laser Biopsy Specimen Size and Diagnostic Yield]], [[07 Data/Azevedo et al 2016 - Diode Laser Thermal Damage and Carbonization Data]], [[07 Data/Gambino et al 2026 - Diode Laser OCT and Histologic Thermal Damage Data]], [[07 Data/Li et al 2022 - Diode vs Er-YAG vs Cold Scalpel Mice Oral Mucosa Data]], [[07 Data/Capodiferro et al 2009 - Diode Laser Chondroid Lipoma Case Report Data]], [[07 Data/Capodiferro et al 2008 - Oral Laser Surgical Pathology Abstract-Level Data]]
+- Data: [[07 Data/Angiero et al 2011 - Diode Laser Biopsy Specimen Size and Diagnostic Yield]], [[07 Data/Azevedo et al 2016 - Diode Laser Thermal Damage and Carbonization Data]], [[07 Data/Gambino et al 2026 - Diode Laser OCT and Histologic Thermal Damage Data]], [[07 Data/Prado et al 2022 - Micro vs Super Pulsed Diode Laser Ex Vivo Thermal Damage Data]], [[07 Data/Hanke et al 2021 - Eight-Wavelength Diode Cut Efficiency Data]], [[07 Data/Strakas et al 2023 - 940nm Diode Cutting Efficiency and Thermal Damage Data]], [[07 Data/Goharkhay et al 1999 - Diode Laser Incision Depth and Collateral Damage Data]], [[07 Data/Li et al 2022 - Diode vs Er-YAG vs Cold Scalpel Mice Oral Mucosa Data]], [[07 Data/Capodiferro et al 2009 - Diode Laser Chondroid Lipoma Case Report Data]], [[07 Data/Capodiferro et al 2008 - Oral Laser Surgical Pathology Abstract-Level Data]]
 - Project: [[01 Projects/Diode Laser Biopsy]]
 
 ## สรุปภาษาไทย
 
-- บันทึกนี้เป็น **หลักฐานบางส่วน (PARTIAL EVIDENCE)** โดยมี 3 แหล่งข้อมูล (Angiero, Azevedo, Gambino) วัดขนาดสิ่งแปลกปลอมจากความร้อนของเลเซอร์ไดโอดโดยตรง
+- บันทึกนี้เป็น **หลักฐานบางส่วน (PARTIAL EVIDENCE)** สำหรับผลลัพธ์ความเสียหายจากความร้อน โดย Angiero, Azevedo และ Gambino วัดขนาดรอยความร้อนโดยตรง และมี Prado, Hanke, Strakas และ Goharkhay เป็นหลักฐานเชิงเทคนิคเรื่องกำลังที่วัด/ตรวจสอบได้ร่วมกับผลจุลพยาธิวิทยาจากความร้อน
 - Angiero et al. วัดความกว้างความเสียหาย 260.7–321.4 ไมโครเมตร (เฉลี่ย 282.8)
 - Azevedo et al. พบว่าค่า ETTD สูงขึ้นที่การตั้งค่า Boost (626.82 μm) แต่คะแนนการไหม้เป็นถ่านกลับต่ำกว่า (1.80) เมื่อเทียบกับค่าตั้งมาตรฐาน (456.15 μm, คะแนน 2.50) — แสดงว่าความสัมพันธ์ระหว่างค่าทั้งสองไม่เป็นเส้นตรงภายในอุปกรณ์เดียวกัน
 - Gambino et al. พบว่าเนื้อเยื่อที่ผ่านเลเซอร์หนากว่ากลุ่มควบคุมอย่างมีนัยสำคัญทางสถิติ แต่ไม่กระทบต่อการวินิจฉัย — เป็นแหล่งข้อมูลแรกในคลังนี้ที่มีทั้งการวัดสิ่งแปลกปลอมจากความร้อนและผลการวินิจฉัยในชิ้นเนื้อชุดเดียวกัน พร้อมกลุ่มควบคุมที่แท้จริง
