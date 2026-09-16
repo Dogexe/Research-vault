@@ -2,6 +2,8 @@
 
 **Status: PROVISIONAL** — built only from the current core evidence ([[04 Evidence/Set Power vs Measured Output]], [[04 Evidence/Power Loss and Deviation Across Dental Diode Devices]]) and supporting/background evidence ([[04 Evidence/Output Accuracy and Repeatability - Supporting Evidence]], [[04 Evidence/Tip Initiation and Fiber Condition - Supporting Evidence]]) in this vault, and the underlying 07 Data extractions those four notes cite. It is not a systematic review of the wider literature; absence of a study in this vault is not by itself treated as proof the study doesn't exist elsewhere — each gap below states the specific basis for calling it CONFIRMED or LIKELY rather than resting on vault-absence alone.
 
+**Canonical navigation:** for current delivered-power/output conclusions, see [[06 Synthesis/Current Evidence on Diode Laser Power Output]]. For the current project-level novelty/integration gap, see [[06 Synthesis/Novelty Matrix - Diode Laser Biopsy]]. This note retains output-specific gap detail.
+
 ## Scope
 
 - Core (direct power-deviation) sources: [[07 Data/Parker et al 2022 - Delivery Power Losses and Operating Parameters|Parker et al. 2022]], [[07 Data/Xue et al 2022 - Two Semiconductor Lasers Power Output|Xue et al. 2022]], [[07 Data/Zegaib et al 2011 - Fiber Tip Power Loss During Periodontal Curettage|Zegaib et al. 2011]], [[07 Data/Kim et al 2020 - Set vs Actual Power Across Three Dental Diode Lasers|Kim et al. 2020]].

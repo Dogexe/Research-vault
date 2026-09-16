@@ -1,3 +1,5 @@
+**Canonical navigation:** this review retains its comprehensive source narrative. Current topic conclusions are maintained in [[06 Synthesis/Current Evidence on Diode Laser Power Output]], [[06 Synthesis/Incision Speed and Movement in Diode Laser Tissue Interaction]], [[06 Synthesis/Diode Laser Biopsy Specimen Quality]], and [[06 Synthesis/Novelty Matrix - Diode Laser Biopsy]].
+
 ## 1. Clinical and Methodological Importance of Oral Soft-Tissue Laser Biopsy
 
 ### 1.1 Oral biopsy as a histopathologic procedure
