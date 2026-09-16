@@ -32,19 +32,9 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-09-16 16.03.30.excalidraw"
             }
-          },
-          {
-            "id": "fc5555525fbfac4b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,7 +252,7 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "fc5555525fbfac4b",
+  "active": "e29076f1deb0efc5",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-09-14 17.40.10.excalidraw.md",
     "Excalidraw/Drawing 2026-09-16 16.03.30.excalidraw.md",
