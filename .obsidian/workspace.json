@@ -37,14 +37,10 @@
             "id": "fc5555525fbfac4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Present/3 topic review.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3 topic review"
+              "title": "New tab"
             }
           }
         ],
@@ -268,9 +264,13 @@
   },
   "active": "fc5555525fbfac4b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-09-16 16.03.30.excalidraw.restored.md",
-    "Excalidraw/Drawing 2026-09-16 16.03.30.excalidraw.md",
     "Excalidraw/Drawing 2026-09-14 17.40.10.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-16 16.03.30.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-16 16.03.30.excalidraw.restored.md",
+    "Excalidraw/Research outline.md",
+    "AGENTS.md",
+    "CLAUDE.md",
+    "Present/3 topic review.md",
     "03 Concepts/Glossary/Biopsy-oriented.md",
     "03 Concepts/Glossary/Irradiance.md",
     "03 Concepts/Glossary/Pulsed Mode.md",
@@ -283,7 +283,6 @@
     "03 Concepts/Glossary/Procedure Time.md",
     "03 Concepts/Glossary/Artifact Grading.md",
     "03 Concepts/Glossary/Average Power.md",
-    "Present/3 topic review.md",
     "07 Data/Mazzoni et al 2026 - Diode Laser Lingual Frenulum Thermal Histology Data.md.tmp.28300.cc68b0465db6",
     "07 Data/Mazzoni et al 2026 - Diode Laser Lingual Frenulum Thermal Histology Data.md",
     "07 Data/Mazzoni et al 2026 - Diode Laser Lingual Frenulum Thermal Histology Data.md.tmp.28300.07e96b928324",
@@ -301,9 +300,6 @@
     "paper-search-results/dental_laser_safety_standard_20260916_150458/classifications/batch_002_result.json.tmp.28300.686501927679",
     "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md",
     "02 Literature/10.1002/lsm.23639.md",
-    "90 Agent/Search Reports/Preset Reliance and Technical Misuse/Search Log - Gemini EVO and SOL Manual Verification 2026-09-16.md",
-    "02 Literature/10.1002/jbio.70218_FhmoQx.md",
-    "02 Literature/10.1002/cre2.670.md",
     "Untitled.canvas",
     "ยังไม่ได้ตั้งชื่อ 1.canvas",
     "ยังไม่ได้ตั้งชื่อ.canvas",
