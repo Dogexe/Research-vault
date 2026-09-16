@@ -18,7 +18,7 @@ Source → extracted data → claim → evidence → synthesis
 
 ## Literature
 
-- [[02 Literature/Fahlstedt et al 2021 - Dental Implant Surface Temperatures]]
+- [[Fahlstedt et al 2021 - Dental Implant Surface Temperatures]]
 - [[02 Literature/10.1007/s10103-021-03491-y_QFwgHj|Parker et al. 2022]]
 - [[02 Literature/10.3390/photonics9040219|Xue et al. 2022]]
 - [[02 Literature/10.3390/mi15010031|Ma and Zhang 2024]]

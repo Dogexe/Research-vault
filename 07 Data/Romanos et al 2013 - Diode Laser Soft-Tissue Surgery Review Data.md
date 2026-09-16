@@ -35,7 +35,7 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 
 ## Source
 
-- Literature note: [[02 Literature/Diode Laser Soft-Tissue Surgery_ Advancements Aimed at Consistent Cutting, Improved Clinical Outcomes]]
+- Literature note: [[Diode Laser Soft-Tissue Surgery_ Advancements Aimed at Consistent Cutting, Improved Clinical Outcomes]]
 - Source link: UNKNOWN (no DOI given in the retrieved text; journal is *Compendium of Continuing Education in Dentistry*, published by AEGIS Communications)
 - Source locator: Full text retrieved from the local Zotero PDF-text cache (`.zotero-ft-cache`, zotero-key EHPY3MPVg6669922). Romanos GE. "Diode Laser Soft-Tissue Surgery: Advancements Aimed at Consistent Cutting, Improved Clinical Outcomes." *Compendium of Continuing Education in Dentistry.* November/December 2013;34(10):752-758. Course validity stated in the source itself as "12/3/2013 to 12/31/2016."
 

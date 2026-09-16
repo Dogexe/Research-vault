@@ -7,7 +7,7 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 ## Source
 
 - Citation: Capodiferro S, Loiudice AM, Pilolli G, Lajolo C, Giuliani M, Maiorano E, Favia G. "Diode Laser Excision of Chondroid Lipoma of the Tongue with Microscopic (Conventional and Confocal Laser Scanning) Analysis." *Photomed Laser Surg.* 2009;27(4):683-687. DOI: [10.1089/pho.2008.2359](https://doi.org/10.1089/pho.2008.2359)
-- Literature note: [[02 Literature/Diode laser excision of chondroid lipoma of the tongue with microscopic (conventional and confocal laser scanning) analysis]]
+- Literature note: [[Diode laser excision of chondroid lipoma of the tongue with microscopic (conventional and confocal laser scanning) analysis]]
 - Source type: Single case report (n=1)
 - Source locator: Full text (Abstract; Case Report; Discussion; Summary; Figs. 1–6), retrieved from the attached PDF via the local Zotero library.
 

@@ -35,7 +35,7 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 
 ## Source
 
-- Literature note: [[02 Literature/Biopsy of Different Oral Soft Tissues Lesions by KTP and Diode Laser_ Histological Evaluation - Romeo - 2014 - The Scientific World Journal - Wiley Online Library]]
+- Literature note: [[Biopsy of Different Oral Soft Tissues Lesions by KTP and Diode Laser_ Histological Evaluation - Romeo - 2014 - The Scientific World Journal - Wiley Online Library]]
 - Source link: https://doi.org/10.1155/2014/761704
 - Source locator: Full text (Introduction; Materials and Methods; Results; Discussion; Tables 1–4), retrieved from the Wiley Online Library page via the local Zotero library (zotero-key 464BCCSL). Upgraded from an earlier PMC-API extraction with per-patient device attribution now available.
 

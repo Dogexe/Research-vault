@@ -3,7 +3,7 @@
 ## Definition
 
 - FACT: For the 940 nm diode laser, Fahlstedt et al. reported estimated fibre-tip output lower than the device setting.
-- Source: [[02 Literature/Fahlstedt et al 2021 - Dental Implant Surface Temperatures]] (§3.1.1)
+- Source: [[Fahlstedt et al 2021 - Dental Implant Surface Temperatures]] (§3.1.1)
 
 ## Relationships
 
@@ -27,10 +27,10 @@
 
 ## Related notes
 
-- Literature: [[02 Literature/Fahlstedt et al 2021 - Dental Implant Surface Temperatures]]
+- Literature: [[Fahlstedt et al 2021 - Dental Implant Surface Temperatures]]
 - Literature: [[02 Literature/10.1007/s10103-021-03491-y_QFwgHj|Parker et al. 2022]] (Abstract; Table 1)
 - Literature: [[02 Literature/10.3390/photonics9040219|Xue et al. 2022]] (Tables 1–2)
-- Literature: [[02 Literature/Phenomenon of laser power loss during curettage of infected periodontal pockets|Zegaib et al. 2011]] (Materials and Methods; Table 2; Discussion)
+- Literature: [[Phenomenon of laser power loss during curettage of infected periodontal pockets|Zegaib et al. 2011]] (Materials and Methods; Table 2; Discussion)
 - Data: [[07 Data/Fahlstedt et al 2021 - Laser Operating Parameters]]
 - Data: [[07 Data/Parker et al 2022 - Delivery Power Losses and Operating Parameters]]
 - Data: [[07 Data/Xue et al 2022 - Two Semiconductor Lasers Power Output]]

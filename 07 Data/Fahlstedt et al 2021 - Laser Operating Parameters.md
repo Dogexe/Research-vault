@@ -4,7 +4,7 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 
 ## Source
 
-- Literature note: [[02 Literature/Fahlstedt et al 2021 - Dental Implant Surface Temperatures]]
+- Literature note: [[Fahlstedt et al 2021 - Dental Implant Surface Temperatures]]
 - Source link: https://pmc.ncbi.nlm.nih.gov/articles/PMC8404505/
 - Source locator: Table 1; §§2.2–2.4; Table 2; §3.1.1
 

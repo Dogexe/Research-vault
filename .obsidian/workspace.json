@@ -27,16 +27,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Literature/Biopsy of Different Oral Soft Tissues Lesions by KTP and Diode Laser_ Histological Evaluation - Romeo - 2014 - The Scientific World Journal - Wiley Online Library.md",
+                "file": "02 Literature/Others/Biopsy of Different Oral Soft Tissues Lesions by KTP and Diode Laser_ Histological Evaluation - Romeo - 2014 - The Scientific World Journal - Wiley Online Library.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Biopsy of Different Oral Soft Tissues Lesions by KTP and Diode Laser_ Histological Evaluation - Romeo - 2014 - The Scientific World Journal - Wiley Online Library"
             }
+          },
+          {
+            "id": "cbd6fc61021a7a6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Literature/Others/Diode Laser Soft-Tissue Surgery_ Advancements Aimed at Consistent Cutting, Improved Clinical Outcomes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diode Laser Soft-Tissue Surgery_ Advancements Aimed at Consistent Cutting, Improved Clinical Outcomes"
+            }
+          },
+          {
+            "id": "46417ff32a214c6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Literature/Others/Fahlstedt et al 2021 - Dental Implant Surface Temperatures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fahlstedt et al 2021 - Dental Implant Surface Temperatures"
+            }
+          },
+          {
+            "id": "88e6e5a188a203ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Literature/Others/Research and Innovation in Orofacial Laserology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Research and Innovation in Orofacial Laserology"
+            }
+          },
+          {
+            "id": "9239a6fb55e0be2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Literature/Others/Fahlstedt et al 2021 - Dental Implant Surface Temperatures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fahlstedt et al 2021 - Dental Implant Surface Temperatures"
+            }
+          },
+          {
+            "id": "630acb1d2cbfc227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Literature/10.1016/j.jvsv.2020.10.018.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "j.jvsv.2020.10.018"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -254,14 +324,18 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "e29076f1deb0efc5",
+  "active": "630acb1d2cbfc227",
   "lastOpenFiles": [
+    "02 Literature/Literature Index.md",
+    "02 Literature/Others/Oral laser surgical pathology_ a preliminary study on the clinical advantages of diode laser and on the histopathological features of specimens evaluated by conventional and confocal laser scanning microscopy.md",
+    "02 Literature/Others/Fahlstedt et al 2021 - Dental Implant Surface Temperatures.md",
+    "02 Literature/Others/Biopsy of Different Oral Soft Tissues Lesions by KTP and Diode Laser_ Histological Evaluation - Romeo - 2014 - The Scientific World Journal - Wiley Online Library.md",
+    "02 Literature/Others/Diode Laser Soft-Tissue Surgery_ Advancements Aimed at Consistent Cutting, Improved Clinical Outcomes.md",
+    "02 Literature/10.1002/lsm.23639.md",
+    "02 Literature/Others/Research and Innovation in Orofacial Laserology.md",
     "02 Literature/Others",
-    "02 Literature/Oral laser surgical pathology_ a preliminary study on the clinical advantages of diode laser and on the histopathological features of specimens evaluated by conventional and confocal laser scanning microscopy.md",
     "Present/3 topic review.md",
     "02 Literature/10.1002/cre2.369.md",
-    "02 Literature/Fahlstedt et al 2021 - Dental Implant Surface Temperatures.md",
-    "02 Literature/Literature Index.md",
     "02 Literature/10.3390/photonics9040219.md",
     "02 Literature/10.1007/s10103-013-1266-9.md",
     "07 Data/Seoane et al 2013 - Er,Cr YSGG Leukoplakia Pseudodysplastic Artifact Data.md",
@@ -279,9 +353,6 @@
     "03 Concepts/Glossary/Set Power.md",
     "03 Concepts/Glossary/Temperature Rise.md",
     "03 Concepts/Glossary/Thermal Damage.md",
-    "03 Concepts/Glossary/Spot Size.md",
-    "03 Concepts/Glossary/Procedure Time.md",
-    "03 Concepts/Glossary/Artifact Grading.md",
     "07 Data/Mazzoni et al 2026 - Diode Laser Lingual Frenulum Thermal Histology Data.md.tmp.28300.cc68b0465db6",
     "07 Data/Mazzoni et al 2026 - Diode Laser Lingual Frenulum Thermal Histology Data.md.tmp.28300.07e96b928324",
     "02 Literature/10.3390/jcm15103567.md.tmp.28300.05642f87dba5",
@@ -291,7 +362,6 @@
     "paper-search-results/dental_laser_safety_standard_20260916_150458/classifications/batch_007_result.json",
     "paper-search-results/dental_laser_safety_standard_20260916_150458/classifications/batch_007_result.json.tmp.28300.268bd0263819",
     "paper-search-results/dental_laser_safety_standard_20260916_150458/classifications/batch_002_result.json",
-    "paper-search-results/dental_laser_safety_standard_20260916_150458/classifications/batch_002_result.json.tmp.28300.686501927679",
     "Untitled.canvas",
     "ยังไม่ได้ตั้งชื่อ 1.canvas",
     "ยังไม่ได้ตั้งชื่อ.canvas",

@@ -7,7 +7,7 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 ## Source
 
 - Citation: Capodiferro S, Maiorano E, Loiudice AM, Scarpelli F, Favia G. "Oral laser surgical pathology: a preliminary study on the clinical advantages of diode laser and on the histopathological features of specimens evaluated by conventional and confocal laser scanning microscopy." *Minerva Stomatol.* 2008;57(1-2):1-6, 6-7. PMID: 18427366. No DOI is available in PubMed's record for this article.
-- Literature note: [[02 Literature/Oral laser surgical pathology_ a preliminary study on the clinical advantages of diode laser and on the histopathological features of specimens evaluated by conventional and confocal laser scanning microscopy]]
+- Literature note: [[Oral laser surgical pathology_ a preliminary study on the clinical advantages of diode laser and on the histopathological features of specimens evaluated by conventional and confocal laser scanning microscopy]]
 - Source locator: PubMed structured abstract only (retrieved via `get_article_metadata`); no full text available in this vault.
 
 ## Extraction

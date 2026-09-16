@@ -39,7 +39,7 @@ According to PubMed, the following is drawn from: Suter VGA, Altermatt HJ, Sendi
 
 ## Source
 
-- Literature note: [[02 Literature/CO2 and diode laser for excisional biopsies of oral mucosal lesions. A pilot study evaluating clinical and histopathological parameters]]
+- Literature note: [[CO2 and diode laser for excisional biopsies of oral mucosal lesions. A pilot study evaluating clinical and histopathological parameters]]
 - Source link: https://pubmed.ncbi.nlm.nih.gov/21038754/
 - Source locator: PubMed structured abstract only (retrieved via `get_article_metadata`), no full text available in this vault.
 
