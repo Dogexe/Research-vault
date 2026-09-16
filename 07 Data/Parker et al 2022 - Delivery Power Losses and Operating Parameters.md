@@ -1,3 +1,36 @@
+---
+classification: SUPPORTING TECHNICAL
+oral_tissue: false
+ex_vivo: true
+human_tissue: false
+diode_laser: true
+wavelength_nm: [445, 1064]
+set_power_w: [0.1, 2.0]
+measured_power: true
+measured_power_value_reported: true
+measured_power_w: null
+power_meter: calibrated power meter (model not reported in extraction)
+measurement_location: post-fibre emission
+incision_speed_reported: false
+speed_mm_s: null
+speed_control: unknown
+speed_varied: null
+cw_pw: null
+fiber_diameter_um: null
+tip_initiation: null
+contact_mode: null
+histology: false
+thermal_damage: false
+thermal_damage_measure: null
+margin_quality: null
+tissue_architecture: null
+specimen_interpretability: null
+diagnostic_outcome: false
+biopsy_oriented: false
+full_text: true
+needs_verification: false
+---
+
 # Laser Operating Parameters
 
 Record values exactly as reported. Use `UNKNOWN` when a value is not reported; do not infer missing parameters.

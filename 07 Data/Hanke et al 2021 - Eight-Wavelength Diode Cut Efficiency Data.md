@@ -18,21 +18,23 @@ set_power_w:
   - 4
 measured_power: true
 measured_power_value_reported: false
-measured_power_w:
+measured_power_w: null
 power_meter: LabMax Top (Coherent) + PM10 detector
 measurement_location: distal end of fiber
 incision_speed_reported: true
 speed_mm_s: 2
 speed_control: mechanized
+speed_varied: false
 cw_pw: CW
 fiber_diameter_um: 320
 tip_initiation: both
 contact_mode: both
 histology: true
 thermal_damage: true
-margin_quality:
-tissue_architecture:
-specimen_interpretability:
+thermal_damage_measure: "quantified (histologic cut depth/width, total interaction zone, and 5-class morphology)"
+margin_quality: null
+tissue_architecture: null
+specimen_interpretability: null
 diagnostic_outcome: false
 biopsy_oriented: false
 full_text: true

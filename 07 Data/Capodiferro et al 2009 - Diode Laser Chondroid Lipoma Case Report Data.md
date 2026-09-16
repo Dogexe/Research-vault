@@ -1,3 +1,36 @@
+---
+classification: CORE BIOPSY
+oral_tissue: true
+ex_vivo: false
+human_tissue: true
+diode_laser: true
+wavelength_nm: 880
+set_power_w: 2.5
+measured_power: false
+measured_power_value_reported: false
+measured_power_w: null
+power_meter: null
+measurement_location: null
+incision_speed_reported: false
+speed_mm_s: null
+speed_control: unknown
+speed_varied: null
+cw_pw: CW
+fiber_diameter_um: 300
+tip_initiation: null
+contact_mode: null
+histology: true
+thermal_damage: true
+thermal_damage_measure: "qualitative (no thermal alteration detected at the margin by conventional H&E or confocal autofluorescence microscopy)"
+margin_quality: "qualitative (wide lateral and deep margins; no numeric margin reported)"
+tissue_architecture: "qualitative (no structural or morphological changes in central or peripheral specimen areas)"
+specimen_interpretability: null
+diagnostic_outcome: true
+biopsy_oriented: true
+full_text: true
+needs_verification: true
+---
+
 # Laser Operating Parameters
 
 Record values exactly as reported. Use `UNKNOWN` when a value is not reported; do not infer missing parameters.

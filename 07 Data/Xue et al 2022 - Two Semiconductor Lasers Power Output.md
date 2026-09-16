@@ -1,3 +1,36 @@
+---
+classification: SUPPORTING TECHNICAL
+oral_tissue: false
+ex_vivo: true
+human_tissue: false
+diode_laser: true
+wavelength_nm: [445, 970, 810]
+set_power_w: [2.0, 3.0]
+measured_power: true
+measured_power_value_reported: true
+measured_power_w: [2.2, 4.1]
+power_meter: PowerMax Pro 150F HD-50 mW-150 W sensor and LabMax-Pro SSIM Laser Power Meter
+measurement_location: fiber tip positioned 1 cm from power-meter base
+incision_speed_reported: false
+speed_mm_s: null
+speed_control: unknown
+speed_varied: null
+cw_pw: CW+PW
+fiber_diameter_um: [300, 320]
+tip_initiation: non-initiated
+contact_mode: null
+histology: false
+thermal_damage: false
+thermal_damage_measure: null
+margin_quality: null
+tissue_architecture: null
+specimen_interpretability: null
+diagnostic_outcome: false
+biopsy_oriented: false
+full_text: true
+needs_verification: false
+---
+
 # Laser Operating Parameters
 
 Record values exactly as reported. Use `UNKNOWN` when a value is not reported; do not infer missing parameters.

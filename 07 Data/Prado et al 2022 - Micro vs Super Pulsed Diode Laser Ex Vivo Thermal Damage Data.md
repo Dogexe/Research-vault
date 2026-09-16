@@ -19,6 +19,7 @@ measurement_location: null
 incision_speed_reported: false
 speed_mm_s: null
 speed_control: unknown
+speed_varied: null
 cw_pw: "CW+PW"
 fiber_diameter_um:
   - 300
@@ -27,7 +28,8 @@ tip_initiation: initiated
 contact_mode: null
 histology: true
 thermal_damage: true
-margin_quality: "Recommends ≥1 mm perimeter of healthy margin around the excision, derived from measured thermal-damage depth (606–1024 μm across groups); this is a margin-width recommendation, not a direct margin-readability/quality score of the specimens themselves."
+thermal_damage_measure: "quantified (thermal-damage area and depth; 606–1024 μm depth across groups)"
+margin_quality: null
 tissue_architecture: null
 specimen_interpretability: null
 diagnostic_outcome: false

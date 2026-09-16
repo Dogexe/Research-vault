@@ -1,3 +1,36 @@
+---
+classification: SUPPORTING TECHNICAL
+oral_tissue: true
+ex_vivo: true
+human_tissue: false
+diode_laser: true
+wavelength_nm: 980
+set_power_w: 3.5
+measured_power: false
+measured_power_value_reported: false
+measured_power_w: null
+power_meter: null
+measurement_location: null
+incision_speed_reported: false
+speed_mm_s: null
+speed_control: unknown
+speed_varied: null
+cw_pw: PW
+fiber_diameter_um: null
+tip_initiation: null
+contact_mode: contact
+histology: true
+thermal_damage: true
+thermal_damage_measure: "quantified (ETTD: 456.15 μm at 3.5 W PW; 626.82 μm at 3.5 W Boost PW; carbonization scored 0–4)"
+margin_quality: null
+tissue_architecture: "ordinal histologic tissue-change and incision-regularity scores; not a biopsy-architecture-preservation outcome"
+specimen_interpretability: null
+diagnostic_outcome: false
+biopsy_oriented: false
+full_text: true
+needs_verification: false
+---
+
 # Laser Operating Parameters
 
 Record values exactly as reported. Use `UNKNOWN` when a value is not reported; do not infer missing parameters.
