@@ -1,0 +1,915 @@
+[
+ {
+  "key": "doi|10.1002/jemt.24471",
+  "title": "Atomic force microscopy in disease‐related studies: Exploring tissue and cell mechanics",
+  "year": 2023,
+  "venue": "Microscopy Research and Technique",
+  "doi": "10.1002/jemt.24471",
+  "pmid": "38063315",
+  "type": "article",
+  "abstract": "Despite significant progress in human medicine, certain diseases remain challenging to promptly diagnose and treat. Hence, the imperative lies in the development of more exhaustive criteria and tools. Tissue and cellular mechanics exhibit distinctive traits in both normal and pathological states, suggesting that \"force\" represents a promising and distinctive target for disease diagnosis and treatment. Atomic force microscopy (AFM) holds great promise as a prospective clinical medical device due to its capability to concurrently assess surface morphology and mechanical characteristics of biological specimens within a physiological setting. This review presents a comprehensive examination of the operational principles of AFM and diverse mechanical models, focusing on its applications in investigating tissue and cellular mechanics associated with prevalent diseases. The findings from these studies lay a solid groundwork for potential clinical implementations of AFM. RESEARCH HIGHLIGHTS: By examining the surface morphology and assessing tissue and cellular mechanics of biological specimens in a physiological setting, AFM shows promise as a clinical device to diagnose and treat challeng",
+  "mesh_terms": [
+   "Humans",
+   "Microscopy, Atomic Force",
+   "Prospective Studies",
+   "Mechanical Phenomena"
+  ],
+  "keywords": [
+   "Cell mechanics",
+   "Atomic force microscopy",
+   "Disease",
+   "Molecular mechanics",
+   "Microscopy",
+   "Biophysics",
+   "Cell",
+   "Pathology",
+   "Mechanics",
+   "Chemistry"
+  ]
+ },
+ {
+  "key": "doi|10.3389/fphot.2024.1359784",
+  "title": "Dual-modal photoacoustic and ultrasound imaging: from preclinical to clinical applications",
+  "year": 2024,
+  "venue": "Frontiers in Photonics",
+  "doi": "10.3389/fphot.2024.1359784",
+  "pmid": "39185248",
+  "type": "article",
+  "abstract": "Photoacoustic imaging is a novel biomedical imaging modality that has emerged over the recent decades. Due to the conversion of optical energy into the acoustic wave, photoacoustic imaging offers high-resolution imaging in depth beyond the optical diffusion limit. Photoacoustic imaging is frequently used in conjunction with ultrasound as a hybrid modality. The combination enables the acquisition of both optical and acoustic contrasts of tissue, providing functional, structural, molecular, and vascular information within the same field of view. In this review, we first described the principles of various photoacoustic and ultrasound imaging techniques and then classified the dual-modal imaging systems based on their preclinical and clinical imaging applications. The advantages of dual-modal imaging were thoroughly analyzed. Finally, the review ends with a critical discussion of existing developments and a look toward the future.",
+  "mesh_terms": [],
+  "keywords": [
+   "Photoacoustic imaging in biomedicine",
+   "Ultrasound imaging",
+   "Modality (human–computer interaction)",
+   "Ultrasound",
+   "Molecular imaging",
+   "Optical imaging",
+   "Medical imaging",
+   "Biomedical engineering",
+   "Computer science",
+   "Materials science"
+  ]
+ },
+ {
+  "key": "doi|10.1039/d5mh00501a",
+  "title": "Transforming surgical planning and procedures through the synergistic use of additive manufacturing, advanced materials and artificial intelligence: challenges and opportunities",
+  "year": 2025,
+  "venue": "Materials Horizons",
+  "doi": "10.1039/d5mh00501a",
+  "pmid": "40586271",
+  "type": "article",
+  "abstract": "Additive manufacturing (AM) is a powerful approach in healthcare to augment the functionalities of patient-specific medical products and surgical tools. One such area of the healthcare industry is surgical planning and procedures, where the benefits of AM can revolutionize the industry. AM technologies, commonly known as three-dimensional (3D) printing, can change the conventional surgical methodology from the \"open-detect-operate-close\" mode to the \"detect-open-operate-close\" mode. However, the use of 3D printing in surgical planning has been hampered by the limited availability of literature reports thoroughly examining the advantages and drawbacks of this technology in clinical settings. Hence, this review explores the widespread use of additive manufacturing, multi-materials, metamaterials, 4D printing, and artificial intelligence in surgical planning for complex surgical procedures of the spine and in orthopedics, dentistry, cardiology, gynecology, and neurology. This review focuses on meticulously adjusting the lattice structure of metamaterials during 3D printing to achieve specific mechanical properties. It further delves into 4D printing to achieve dynamic capabilities in ",
+  "mesh_terms": [
+   "Humans",
+   "Printing, Three-Dimensional",
+   "Artificial Intelligence",
+   "Surgical Procedures, Operative"
+  ],
+  "keywords": [
+   "Nanotechnology",
+   "Manufacturing engineering",
+   "Materials science",
+   "Business",
+   "Process management",
+   "Engineering"
+  ]
+ },
+ {
+  "key": "doi|10.1016/j.fsisyn.2020.01.018",
+  "title": "Interpol review of toxicology 2016–2019",
+  "year": 2020,
+  "venue": "Forensic Science International Synergy",
+  "doi": "10.1016/j.fsisyn.2020.01.018",
+  "pmid": "33385147",
+  "type": "article",
+  "abstract": "This review paper covers the forensic-relevant literature in toxicology from 2016 to 2019 as a part of the 19th Interpol International Forensic Science Managers Symposium. The review papers are also available at the Interpol website at: https://www.interpol.int/content/download/14458/file/Interpol%20Review%20.Papers%202019.pdf.",
+  "mesh_terms": [],
+  "keywords": [
+   "Download",
+   "Library science",
+   "Computer science",
+   "World Wide Web"
+  ]
+ },
+ {
+  "key": "doi|10.1109/tbme.2022.3153659",
+  "title": "O-pH: Optical pH Monitor to Measure Dental Biofilm Acidity and Assist in Enamel Health Monitoring",
+  "year": 2022,
+  "venue": "IEEE Transactions on Biomedical Engineering",
+  "doi": "10.1109/tbme.2022.3153659",
+  "pmid": "35196222",
+  "type": "article",
+  "abstract": "OBJECTIVE: Bacteria in the dental biofilm produceacid after consumption of carbohydrates which if left unmonitored leads to caries formation. We present O-pH, a device that can measure dental biofilm acidity and provide quantitative feedback to assist in oral health monitoring. METHOD: O-pH utilizes a ratiometric pH sensing method by capturing fluorescence of Sodium Fluorescein, an FDA approved chemical dye. The device was calibrated to a lab pH meter using buffered fluorescein solution with a correlation coefficient of 0.97. The calibration was further verified in vitro on additional buffered solution, artificial, and extracted teeth. An in vivo study on 30 pediatric subjects was performed to measure pH before (rest pH) and after (drop pH) a sugar rinse, and the resultant difference in pH (diff pH) was calculated. The study enrolled subjects with low (Post-Cleaning) and heavy (Pre-Cleaning) biofilm load, having both unhealthy/healthy surfaces. Further, we modified point-based O-pH to an image-based device using a multimode-scanning fiber endoscope (mm-SFE) and tested in vivo on one subject. RESULTS AND CONCLUSION: We found significant difference between Post-Cleaning and Pre-Clean",
+  "mesh_terms": [
+   "Biofilms",
+   "Calibration",
+   "Child",
+   "Dental Enamel",
+   "Humans",
+   "Hydrogen-Ion Concentration"
+  ],
+  "keywords": [
+   "Biofilm",
+   "Enamel paint",
+   "Measure (data warehouse)",
+   "Dental enamel",
+   "pH meter",
+   "Streptococcus mutans",
+   "Dental instruments"
+  ]
+ },
+ {
+  "key": "doi|10.1021/acsomega.5c03575",
+  "title": "Enhanced Antimicrobial and Biofilm-Disrupting Properties of Gallium-Doped Carbon Dots",
+  "year": 2025,
+  "venue": "ACS Omega",
+  "doi": "10.1021/acsomega.5c03575",
+  "pmid": "40621032",
+  "type": "article",
+  "abstract": "Abstract Antibiotic resistance continues to be a global health threat caused by microbial biofilms, yet carbon dots (CDs) offer a promising countermeasure. Doping CDs with metals or nonmetals further enhances their properties while maintaining biocompatibility. This work reports the sonochemical synthesis of gallium–boronic acid carbon dots (Ga-BACDs) under conditions (20 kHz, 2000 W, 60% amplitude, 60 °C, and 60 min), achieving significant gallium incorporation. Ultraviolet–visible and fluorescence analyses reveal characteristic CD absorbance peaks at 286 and 355 nm and strong emission at 397–400 nm. Fourier transform infrared spectral changes on Ga-BACDs suggest successful incorporation of gallium and confirm Ga–H/Ga–O–C (2000–2600 cm–1) and Ga–O/Ga–O–Ga (400–700 cm–1) vibrations. X-ray diffraction and Raman spectroscopy data indicate the retention of the amorphous carbon framework with enhanced local ordering. High-resolution scanning electron microscopy (HR-SEM) and high-resolution transmission electron microscopy images demonstrate morphological alterations compared to BACDs with a particle mean diameter of 8.6 ± 4.1 nm. The gallium doping in Ga-BACDs was quantified as 3.66 pp",
+  "mesh_terms": [],
+  "keywords": [
+   "Gallium",
+   "Materials science",
+   "Raman spectroscopy",
+   "Analytical Chemistry (journal)",
+   "Scanning electron microscope",
+   "Fourier transform infrared spectroscopy",
+   "Absorbance",
+   "X-ray photoelectron spectroscopy",
+   "Nuclear chemistry",
+   "Transmission electron microscopy"
+  ]
+ },
+ {
+  "key": "doi|10.3390/metrology6010003",
+  "title": "Recent Advances in Digital Fringe Projection Profilometry (2022–2025): Techniques, Applications, and Metrological Challenges—A Review",
+  "year": 2026,
+  "venue": "Metrology",
+  "doi": "10.3390/metrology6010003",
+  "pmid": null,
+  "type": "article",
+  "abstract": "Digital fringe projection profilometry (DFPP) is a widely used technique for full-field, non-contact 3D surface measurement, offering precision from the sub-micrometer-to-millimeter scale depending on system geometry and fringe design. This review provides a consolidated synthesis of advances reported between 2022 and 2025, covering projection and imaging architectures, phase formation and unwrapping strategies, calibration approaches, high-speed implementations, and learning-based reconstruction methods. A central contribution of this review is the integration of these developments within a metrological perspective, explicitly relating phase–height transformation, fringe parameters, system geometry, and calibration to dominant uncertainty sources and error propagation. Recent progress highlights trade-offs between sensitivity, robustness, computational complexity, and applicability to non-ideal surfaces, while learning-based and hybrid optical–computational approaches demonstrate substantial improvements in reconstruction reliability under challenging conditions. Remaining challenges include measurements on reflective or transparent surfaces, dynamic scenes, environmental instabil",
+  "mesh_terms": [],
+  "keywords": [
+   "Structured-light 3D scanner",
+   "Profilometer",
+   "Metrology",
+   "Calibration",
+   "Projection (relational algebra)",
+   "Reliability (semiconductor)"
+  ]
+ },
+ {
+  "key": "doi|10.3390/s25165089",
+  "title": "Sensor Arrays: A Comprehensive Systematic Review",
+  "year": 2025,
+  "venue": "Sensors",
+  "doi": "10.3390/s25165089",
+  "pmid": "40871952",
+  "type": "review",
+  "abstract": "Sensor arrays are arrangements of sensors that follow a certain pattern, usually in a row-column distribution. This study presents a systematic review on sensor arrays. For this purpose, several systematic searches of recent studies covering a period of 10 years were performed. As a result of these searches, 361 papers have been analyzed in detail. The most relevant aspects for sensor array design have been studied. In relation to sensing technologies, different categories were identified: resistive/piezoresistive, capacitive, inductive, diode-based, transistor-based, triboelectric, fiber optic, Hall effect-based, piezoelectric, and bioimpedance-based. Other aspects of sensor array design have also been analyzed: applications, validation experiments, software used for sensor array data analysis, sensor array characteristics, and performance metrics. For each aspect, the studies were classified into different subcategories. As a result of this analysis, different emerging technologies and future research challenges in sensor arrays were identified.",
+  "mesh_terms": [],
+  "keywords": [
+   "Systematic review",
+   "Computer science",
+   "Engineering",
+   "MEDLINE",
+   "Political science"
+  ]
+ },
+ {
+  "key": "doi|10.20944/preprints202507.1149.v1",
+  "title": "Quantum Dots: Catalysts for a New Era of Precision Medicine and Biomedical Innovation",
+  "year": 2025,
+  "venue": "Preprints.org",
+  "doi": "10.20944/preprints202507.1149.v1",
+  "pmid": null,
+  "type": "preprint",
+  "abstract": "Quantum dots have emerged as transformative nanomaterials whose extraordinary optical and electronic properties are revolutionizing precision medicine and biomedical innovation. This comprehensive review synthesizes multidisciplinary advances—from cutting‐edge eco‐friendly and biogenic synthesis methods to sophisticated surface modification strategies such as ligand engineering, zwitterionic polymer coatings, and congeneric passivation—that together enhance biocompatibility, reduce nonspecific binding, and prolong in vivo circulation. We explore the development of multifunctional hybrid nanocomposites, including QD–gold nanostars and QD/MoS₂ systems, which exhibit remarkable performance in multimodal imaging, fluorescence-guided surgery, and smart drug delivery applications. Furthermore, the review highlights the pivotal role of QDs in photothermal and photodynamic therapies, where their capacity to convert light into localized therapeutic effects paves the way for innovative cancer and dental treatments. Emphasis is placed on the integration of QDs as traceable carriers for targeted drug delivery, enabling real-time monitoring and controlled release via pH-sensitive and enzyme-res",
+  "mesh_terms": [],
+  "keywords": [
+   "Nanotechnology",
+   "Drug delivery",
+   "Photothermal therapy",
+   "Materials science",
+   "Biocompatibility",
+   "Quantum dot",
+   "Nanomedicine",
+   "Computer science",
+   "Nanoparticle"
+  ]
+ },
+ {
+  "key": "doi|10.3390/act14100483",
+  "title": "From Static to Adaptive: A Systematic Review of Smart Materials and 3D/4D Printing in the Evolution of Assistive Devices",
+  "year": 2025,
+  "venue": "Actuators",
+  "doi": "10.3390/act14100483",
+  "pmid": null,
+  "type": "review",
+  "abstract": "People with disabilities often face challenges like moving around independently and depending on personal caregivers for daily life activities. Traditional assistive devices are universally accepted by these communities, but they are designed with one-size-fits-all approaches that cannot adjust to individual human sizes, are not easily customized, and are made from rigid materials that do not adapt as a person’s condition changes over time. This systematic review examines the integration of smart materials, sensors, actuators, and 3D/4D printing technologies in advancing assistive devices, with a particular emphasis on mobility aids. In this work, the authors conducted a comparative analysis of traditional devices with commercially available innovative prototypes and research stage assistive devices by focusing on smart adaptable materials and sustainable additive manufacturing techniques. The results demonstrate how artificial intelligence drives smart assistive devices in hospital decentralized additive manufacturing, and policy frameworks agree with the Sustainable Development Goals, representing the future direction for adaptive assistive technology. Also, by combining 3D/4D pr",
+  "mesh_terms": [],
+  "keywords": [
+   "Commercialization",
+   "Assistive technology",
+   "Smart material",
+   "Adaptation (eye)",
+   "Assistive device",
+   "3D printing",
+   "Health care",
+   "Smart device"
+  ]
+ },
+ {
+  "key": "doi|10.3390/app132212459",
+  "title": "Assessing the Viability of Laser-Activated Dental Bleaching Compared to Conventional In-Office Bleaching Methods: A Systematic Review of Clinical and In Vitro Studies",
+  "year": 2023,
+  "venue": "Applied Sciences",
+  "doi": "10.3390/app132212459",
+  "pmid": null,
+  "type": "review",
+  "abstract": "Laser-activated tooth bleaching is discussed as a means to optimize results, while minimizing adverse side effects, but it lacks consensus in the scientific literature. Therefore, this systematic review aims to evaluate the protocols and outcomes of laser-activated vs. non-activated bleaching methods for safe and effective approaches. The PubMed, Cochrane, Scopus, ScienceDirect, and Google Scholar search engines, with the following MeSH terms and keywords: (bleaching OR whitening) AND laser AND (tooth OR dental OR enamel OR dentine), were used to identify human clinical trials and in vitro studies regarding laser-activated dental bleaching. After applying the keywords and additional filters, and inclusion and exclusion criteria, the final number of included articles was 19 clinical and 20 in vitro studies. Laser activation yielded no significant color improvement, but reduced gel contact time (10 min). Laser-activated bleaching required 24% less hydrogen peroxide (HP) concentration to achieve similar results. Additionally, there were no significant differences in terms of sensitivity and hard tissue alterations between the laser-activated and conventional groups. The benefits assoc",
+  "mesh_terms": [],
+  "keywords": [
+   "Dentistry",
+   "Inclusion and exclusion criteria",
+   "Enamel paint",
+   "Laser",
+   "Medicine",
+   "Hydrogen peroxide",
+   "Dental enamel",
+   "Carbamide peroxide",
+   "In vitro",
+   "Materials science"
+  ]
+ },
+ {
+  "key": "doi|10.1038/s41529-025-00721-4",
+  "title": "Recent advances in corrosion behaviour and interfacial failure of rubber–metal composites",
+  "year": 2025,
+  "venue": "npj Materials Degradation",
+  "doi": "10.1038/s41529-025-00721-4",
+  "pmid": null,
+  "type": "article",
+  "abstract": "Abstract Rubber- Metal Composite are extensively used in automotive, aerospace and offshore industry as well as in the industry due to its flexibility, damping, and mechanical strength. Their work is however limited regularly through failure between interfaces and corrosion in highly aggressive conditions such as exposure to saline, thermal cycling, and mechanical fatigue. The review highlights recent advances in the study of corrosion behavior and interfacial degradation mechanisms of rubber-metal systems, as well as the effects of different formulations, vulcanization processes, surface modification, and filler engineering on adhesion, fatigue, and wear resistance. The new tendencies reflect a shift away from descriptive observation and toward mechanism-based insights, which are aided by the use of multi-scale modeling and real-time sensing to forecast crack initiation and interfacial delamination. New corrosion mitigation technologies are being reinterpreted in sustainable directions such as bio-based fillers, recycled rubber, and circular material design, with the goal of generating greener, more durable solutions. This review integrates experimental and computational insights ",
+  "mesh_terms": [],
+  "keywords": [
+   "Corrosion",
+   "Aerospace",
+   "Work (physics)",
+   "Composite number",
+   "Filler (materials)",
+   "Aerospace materials",
+   "Delamination (geology)"
+  ]
+ },
+ {
+  "key": "doi|10.1126/sciadv.adu1753",
+  "title": "Monolithic multimodal neural probes for sustained stimulation and long-term neural recording",
+  "year": 2025,
+  "venue": "Science Advances",
+  "doi": "10.1126/sciadv.adu1753",
+  "pmid": "41004593",
+  "type": "article",
+  "abstract": "Long-term implantable neural probes with dual-mode optical stimulation and simultaneous electrical recording are crucial for modulating neural loop activity in vivo. Traditional probes using \"add-on\" strategies often suffer from mechanical rigidity, compromised electrical performance, and insufficient biocompatibility, limiting their clinical applicability. In this study, we present a method for the direct laser writing of electrode arrays onto the curved surface of optical fibers, integrating them within a biocompatible polymer coating to create monolithic neural probes. The monolithic probes demonstrate high mechanical bending endurance, stable impedance, and improved biocompatibility, resulting in a lower inflammatory response compared to conventional systems. Furthermore, our method facilitates the multilayer integration of multilayer electrodes onto optical fibers, enabling high-density electrical readout channels. This advancement represents substantial progress in neuroengineering, with promising implications for future neural monitoring and modulation applications.",
+  "mesh_terms": [
+   "Electrodes, Implanted",
+   "Animals",
+   "Neurons",
+   "Optical Fibers",
+   "Biocompatible Materials",
+   "Electric Stimulation"
+  ],
+  "keywords": [
+   "Limiting",
+   "Neural Prosthesis",
+   "Electrode",
+   "Microelectrode",
+   "Neural activity",
+   "Biocompatible material",
+   "Brain implant",
+   "Coating",
+   "Optical recording"
+  ]
+ },
+ {
+  "key": "doi|10.1186/s12967-024-06008-7",
+  "title": "High-intensity focused ultrasound: an innovative approach for micro-manipulation of demineralized dentine",
+  "year": 2025,
+  "venue": "Journal of Translational Medicine",
+  "doi": "10.1186/s12967-024-06008-7",
+  "pmid": "39780194",
+  "type": "article",
+  "abstract": "BACKGROUND: Treatment of deep carious lesions poses significant challenges in dentistry, as complete lesion removal risks compromising pulp vitality, while selective removal often reduces the longevity of restorations. Herein, we propose a minimally invasive approach using High-Intensity Focused Ultrasound (HIFU) for microscale removal of carious dentine. Concurrently, HIFU's antimicrobial effects against associated cariogenic biofilms and the corresponding thermal and biological impacts on surrounding tissues were investigated. METHODS: A total of 238 sound human molars were utilized, with 203 samples of artificial carious-simulated dentine (ACSD) prepared for HIFU exposure. HIFU (250 kHz) was applied at 20 W for varying durations (60, 120, and 180 s). The acoustic waves were administered via a collimated cone coupled to the dentine surface using ultrasonic gel. RESULTS: Advanced characterization techniques including scanning electron microscopy (n = 5/group), Raman spectroscopy, atomic force microscopy, and nano-indentation (n = 5/group), demonstrated HIFU's effectiveness in removing demineralized collagen-fibrils. This was reflected in the increased mineral content, nano-hardnes",
+  "mesh_terms": [
+   "Dentin",
+   "Humans",
+   "Biofilms",
+   "Spectrum Analysis, Raman",
+   "Streptococcus mutans",
+   "Dental Caries",
+   "Microscopy, Atomic Force",
+   "Tooth Demineralization",
+   "Hardness",
+   "Rhodamines",
+   "High-Intensity Focused Ultrasound Ablation"
+  ],
+  "keywords": [
+   "Biomedical engineering",
+   "Molar",
+   "Demineralization",
+   "Dentistry",
+   "Materials science",
+   "Dentin",
+   "High-intensity focused ultrasound",
+   "Pulp (tooth)",
+   "Ultrasound",
+   "Medicine"
+  ]
+ },
+ {
+  "key": "doi|10.3390/cryst14010007",
+  "title": "Research on the Input-Transformation-Output Process of Additive Manufacturing: Comparing PLA/Polysmooth and Resin Printed Rings",
+  "year": 2023,
+  "venue": "Crystals",
+  "doi": "10.3390/cryst14010007",
+  "pmid": null,
+  "type": "article",
+  "abstract": "This research delves into the transformative potential of additive manufacturing (AM) within the jewelry industry, focusing on materials such as PLA, PolySmooth, and resin to process a ring. The study encompasses an analysis of the materials, the role of the Scanning Electron Microscope (SEM), the CAD design stage, printers, post-processing techniques, and the Input-Transformation-Output (ITO) process. SEM plays a crucial role in understanding material behavior at a micro-level, offering invaluable insights into its selection. The CAD design stage is foundational, providing a precise digital representation before physical production. Additive manufacturing showcases advantages over traditional methods, including design flexibility and production. Various printers and post-processing methods contribute to enhancing the quality and aesthetics of the final products. The Input-Transformation-Output process emerges as a strategic approach for efficient AM implementation. This study highlights the need for the continued exploration and integration of AM, emphasizing its potential to reshape how jewelry is designed, manufactured, and experienced, thereby providing a foundation for further",
+  "mesh_terms": [],
+  "keywords": [
+   "Transformative learning",
+   "Process (computing)",
+   "Flexibility (engineering)",
+   "Transformation (genetics)",
+   "Manufacturing engineering",
+   "Computer science",
+   "CAD",
+   "Engineering drawing",
+   "Engineering",
+   "Mathematics"
+  ]
+ },
+ {
+  "key": "doi|10.3390/polym18010123",
+  "title": "Integrating Polymeric 3D-Printed Microneedles with Wearable Devices: Toward Smart and Personalized Healthcare Solutions",
+  "year": 2025,
+  "venue": "Polymers",
+  "doi": "10.3390/polym18010123",
+  "pmid": "41516906",
+  "type": "article",
+  "abstract": "Wearable healthcare is shifting from passive tracking to active, closed-loop care by integrating polymeric three-dimensional (3D)-printed microneedle arrays (MNAs) with soft electronics and wireless modules. This review surveys the design, materials, and the manufacturing routes that enable skin-conformal MNA wearables for minimally invasive access to the interstitial fluid and precise but localized drug delivery. Looking ahead, the converging advances in multimaterial printing, nano/biofunctional coatings, and artificial intelligence (AI)-driven control are promising \"wearable clinics\" that can personalize monitoring and therapy in real time, thus accelerating the translation of MNA-integrated wearables from laboratory prototypes to clinically robust, patient-centric systems. Overall, this review identifies a clear transition from proof-of-concept MNA devices toward integrated, wearable, and closed-loop therapeutic platforms. Key challenges remain in scalable manufacturing, drug dose limitations, long-term stability, and regulatory translation. Addressing these gaps through advances in hollow MNA architectures, system integration, and standardized evaluation protocols is expected ",
+  "mesh_terms": [],
+  "keywords": [
+   "Wearable computer",
+   "Wearable technology",
+   "Health care",
+   "Scalability",
+   "Key (lock)",
+   "Wireless",
+   "Electronics",
+   "Healthcare system"
+  ]
+ },
+ {
+  "key": "doi|10.5772/38429",
+  "title": "Optical Fiber Gratings in Perspective of Their Applications in Biomedicine",
+  "year": 2012,
+  "venue": "InTech eBooks",
+  "doi": "10.5772/38429",
+  "pmid": null,
+  "type": "book-chapter",
+  "abstract": "IntroductionOptical fiber is a flexible, transparent waveguide or \"light pipe\" to transmit light; the latter, in its various forms and facets has caught the attention of humanity since prehistoric times.The ancient civilization used it as fire signals to communicate and later as a therapeutic and preventive tool for better health.In the modern era, the idea that light can be used for communication combined with the phenomenon of total internal reflection, gave rise to the concept of medium for light transmission.As a consequence, by the end of 19th century glass rods as illuminators were realized.Optical fibers were the next step as they are basically glass rods stretched very thin to become long and flexible.Gradual technological advances from 1920s when use of fiber for light transmission was first proposed, to 1980s resulted in glass fibers as the most ideal communication medium for enormous amount of data with lowest possible attenuation.Their inherent properties such as small size (have standard thickness of ~0.250 mm that can be less than that of surgical suture), biocompatibility, non-toxicity, chemical inertness and remote monitoring capability, make them quite lucrative fo",
+  "mesh_terms": [],
+  "keywords": [
+   "Optical fiber",
+   "Wearable computer",
+   "Materials science",
+   "Attenuation",
+   "Optics",
+   "Optoelectronics",
+   "Computer science",
+   "Nanotechnology",
+   "Telecommunications",
+   "Physics"
+  ]
+ },
+ {
+  "key": "doi|10.1371/journal.pbio.3003706",
+  "title": "A GABAergic network from AVP- to VIP-neurons in the suprachiasmatic nucleus sets the timing of circadian behavior rhythms",
+  "year": 2026,
+  "venue": "PLoS Biology",
+  "doi": "10.1371/journal.pbio.3003706",
+  "pmid": "41802008",
+  "type": "article",
+  "abstract": "The central circadian clock of the suprachiasmatic nucleus (SCN) consists of a network of multiple types of γ-aminobutyric acid (GABA)-ergic neurons and glial cells. However, the precise role of GABAergic transmission in the SCN remains unclear. In this study, we investigated the GABAergic regulation from arginine vasopressin (AVP)-producing neurons in the SCN shell to vasoactive intestinal polypeptide (VIP)-producing neurons in the SCN core. Blocking GABA release from AVP neurons via deletion of the vesicular GABA transporter (Vgat) gene lengthened the activity time (the interval between the onset and offset of locomotor activity) and shortened the duration of high Ca2+ activity in VIP neurons to correspond to the behavioral rest time. Conversely, eliminating functional GABAA receptors (GABAAR) in VIP neurons by in vivo genome editing reduced morning locomotor activity level and shortened the activity time, while lengthening the high Ca2+ duration in VIP neurons. Optogenetic activation of AVP neurons in vivo increased Ca2+ levels in VIP neurons during the night; this effect was significantly reduced in AVP neuron-specific Vgat-deficient mice. A similar Ca2+ response in VIP neurons",
+  "mesh_terms": [
+   "Animals",
+   "Circadian Rhythm",
+   "Vasoactive Intestinal Peptide",
+   "Suprachiasmatic Nucleus",
+   "Arginine Vasopressin",
+   "Mice",
+   "GABAergic Neurons",
+   "gamma-Aminobutyric Acid",
+   "Receptors, GABA-A",
+   "Vesicular Inhibitory Amino Acid Transport Proteins",
+   "Male",
+   "Neurons",
+   "Mice, Knockout",
+   "Calcium",
+   "Mice, Inbred C57BL"
+  ],
+  "keywords": [
+   "Suprachiasmatic nucleus",
+   "Vasoactive intestinal peptide",
+   "GABAergic",
+   "Circadian rhythm",
+   "Premovement neuronal activity",
+   "Vasopressin",
+   "Neuropeptide",
+   "Tonic (physiology)",
+   "Neuron"
+  ]
+ },
+ {
+  "key": "doi|10.3390/bioengineering12070777",
+  "title": "Evaluating 3D Hand Scanning Accuracy Across Trained and Untrained Students",
+  "year": 2025,
+  "venue": "Bioengineering",
+  "doi": "10.3390/bioengineering12070777",
+  "pmid": "40722469",
+  "type": "article",
+  "abstract": "Background and Objectives: Three-dimensional (3D) scanning is increasingly utilized in medical practice, from orthotics to surgical planning. However, traditional hand measurement techniques remain inconsistent and prone to human error and are often time-consuming. This research evaluates the practicality of a commercial 3D scanning method by comparing the accuracy of scans conducted by two user groups. Materials and Methods: This study evaluated the following two groups: an experimental group (n = 45) and a control group (n = 42). A total of 261 hand scans were captured using the Structure Sensor Pro 3D scanner for iPad (Structure, Boulder, CO, USA). The scans were then evaluated using Meshmixer software (version 3.5.474), analyzing key parameters, such as surface area, volume, number of vertices, and triangles, etc. Furthermore, a digital literacy test and a user experience survey were conducted to support a more comprehensive evaluation of participant performance within the study. Results: The experimental group outperformed the control group on all measured parameters, including surface area, volume, vertices, triangle, and gap count, with large effect sizes observed. User expe",
+  "mesh_terms": [],
+  "keywords": [
+   "3d scanning",
+   "Scanner",
+   "Computer science",
+   "Reliability (semiconductor)",
+   "Session (web analytics)",
+   "Medical physics",
+   "Artificial intelligence",
+   "Medicine"
+  ]
+ },
+ {
+  "key": "doi|10.1021/acsanm.5c01242",
+  "title": "Nanosized Glutathione- and Enzyme-Sensitive Carriers Based on Hyaluronic Acid for Hydrophilic Payload Delivery",
+  "year": 2025,
+  "venue": "ACS Applied Nano Materials",
+  "doi": "10.1021/acsanm.5c01242",
+  "pmid": null,
+  "type": "article",
+  "abstract": "Redox-responsive nanocarriers (NCs) for drug delivery have gained continuous interest in precision medicine. However, the complexity of the redox balance between different oxidative (e.g., reactive oxygen species) and antioxidative (e.g., glutathione, GSH) species in various pathological conditions (e.g., tumors, inflammation) makes site-specific payload release challenging. Moreover, hydrophilic bioactive substances undergo rapid clearance by the reticuloendothelial system. These obstacles underscore the necessity for novel strategies to enhance the precision and safety of redox-responsive NCs for hydrophilic payload delivery. Herein, we present a simple and efficient approach to fabricate hydrophilic cargo-loaded dual-responsive hyaluronic acid (HA)-based NCs using inverse miniemulsion interfacial cross-linking chemistry. By simply combining HA and bis(4-hydroxyphenyl) disulfide (HPD) as separate precursors in the formulation (i.e., without the need for prior chemical conjugation of HA and HPD), biopolymer-based NCs sensitive to hyaluronidase and GSH are achieved. A fluorescent dye, sulforhodamine B, and an anticancer drug, doxorubicin (DOX), were used as payloads. The characteri",
+  "mesh_terms": [],
+  "keywords": [
+   "Hyaluronic acid",
+   "Payload (computing)",
+   "Glutathione",
+   "Chemistry",
+   "Enzyme",
+   "Biochemistry",
+   "Computer science",
+   "Medicine",
+   "Computer network",
+   "Anatomy"
+  ]
+ },
+ {
+  "key": "doi|10.1101/2025.04.28.650944",
+  "title": "GABAergic network from AVP neurons to VIP neurons in the suprachiasmatic nucleus sets the activity/rest time of the circadian behavior rhythm",
+  "year": 2025,
+  "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+  "doi": "10.1101/2025.04.28.650944",
+  "pmid": null,
+  "type": "preprint",
+  "abstract": "Abstract The central circadian clock of the suprachiasmatic nucleus (SCN) is a network composed of multiple types of γ-aminobutyric acid (GABA)-ergic neurons and glial cells. However, the precise role of GABAergic transmission in the SCN remains unclear. In this study, we investigated the GABAergic regulation from arginine vasopressin (AVP)-producing neurons in the SCN shell to vasoactive intestinal polypeptide (VIP)-producing neurons in the SCN core. Blocking GABA release from AVP neurons by a vesicular GABA transporter ( Vgat ) gene deletion lengthened the activity time (the interval between the onset and offset of locomotor activity) and shortened the duration of high Ca 2+ activity in VIP neurons to match the behavioral rest time. Conversely, eliminating functional GABA A receptors (GABA A R) in VIP neurons by in vivo genome editing reduced locomotor activity level and the activity time, and lengthened the high Ca 2+ duration in VIP neurons. Optogenetic activation of AVP neurons in vivo increased Ca 2+ in VIP neurons during the night. A similar Ca 2+ response of VIP neurons to AVP neuronal activation was also observed in SCN slices and was inhibited by a GABA A R antagonist, ga",
+  "mesh_terms": [],
+  "keywords": [
+   "Suprachiasmatic nucleus",
+   "Circadian rhythm",
+   "Neuroscience",
+   "GABAergic",
+   "Rhythm",
+   "Rest (music)",
+   "Light effects on circadian rhythm",
+   "Hypothalamus",
+   "Biology",
+   "Internal medicine"
+  ]
+ },
+ {
+  "key": "doi|10.13140/rg.2.1.4438.8569",
+  "title": "THE USE OF MOSFET DOSIMETERS AND ANTHROPOMORPHIC PHANTOMS IN LOW DOSE DENTAL CBCT APPLICATIONS",
+  "year": 2015,
+  "venue": "Työväentutkimus Vuosikirja",
+  "doi": "10.13140/rg.2.1.4438.8569",
+  "pmid": null,
+  "type": "dissertation",
+  "abstract": "The growing number of x-ray examinations being routinely performed on patients using cone-beam computed tomography (CBCT) and multi-slice computed tomography (MSCT) devices have led to an emerging risk of and concern about radiation exposure. Typical CBCT absorbed doses range between 1 7 mGy, and thus values less than 1 mGy can be considered as low dose values. To date, most studies concerning effective dose assessment in the maxillofacial region use anthropomorphic phantoms in combination with thermoluminescent dosimeters (TLD). Recently, MOSFET dosimeters have been considered as a possible alternative to TLDs for in vitro dose assessment. The major benefit of MOSFET dosimeters is their real-time dose measurement capabilities. All 20 MOSFET dosimeters were characterized for CBCT photon energy ranges, dose properties, and organ dose measurements using TLD dosimeters (I). The MOSFET dosimeter energy dependencies were evaluated for two photon energy ranges in order to encompass the typical mean photon energies used in dental radiology. Furthermore, the MOSFET dosimeter uncertainty was assessed by repetitive measurements at different doses. The MOSFET angular sensitivity was investiga",
+  "mesh_terms": [],
+  "keywords": [
+   "Dosimeter",
+   "Medical physics",
+   "Dentistry",
+   "Medicine",
+   "Nuclear medicine",
+   "Dosimetry"
+  ]
+ },
+ {
+  "key": "doi|10.1007/s10103-026-04999-x",
+  "title": "Comparative bubble dynamics of plasma-mediated Nd: YAG laser-induced optical breakdown and thermally driven Er: YAG laser-activated irrigation in water",
+  "year": 2026,
+  "venue": "Lasers in Medical Science",
+  "doi": "10.1007/s10103-026-04999-x",
+  "pmid": "42622918",
+  "type": "article",
+  "abstract": "PURPOSE: Root-canal anatomy can limit irrigant access. Bubble dynamics in distilled water were examined for plasma-mediated 1064-nm Nd: YAG laser-induced optical breakdown (LIOB) and thermally driven 2940-nm Er: YAG laser-activated irrigation (LAI) to guide confined-model testing. METHODS: LIOB was tested at 100, 200 and 300 mJ/pulse and LAI at 10, 15 and 20 mJ/pulse. Ten independent bubble events per setting were imaged at 50,000 frames/s. Projected size, lifetime, frame-averaged apparent expansion rates, aspect ratio and first rebound were compared using Kruskal-Wallis and Holm-adjusted Mann-Whitney U tests. RESULTS: Chain-like plasma luminescence preceded LIOB bubble formation. Median primary equivalent diameters were 3.21, 4.39 and 4.72 mm in LIOB and 2.24, 2.60 and 2.89 mm in LAI. The LIOB increment was smaller at 200-300 mJ than at 100-200 mJ. Axial apparent expansion was lower and transverse expansion generally higher with LIOB. Rebound-to-primary ratios were 0.65-0.74 for LAI and 0.57-0.61 for LIOB, while absolute rebounds were larger with 200/300-mJ LIOB. CONCLUSION: Under the tested, non-energy-matched configurations, LIOB and LAI produced different bubble sequences and g",
+  "mesh_terms": [
+   "Lasers, Solid-State",
+   "Water",
+   "Therapeutic Irrigation",
+   "Root Canal Irrigants"
+  ],
+  "keywords": [
+   "Bubble",
+   "Distilled water",
+   "Luminescence",
+   "Dynamics (music)",
+   "Transverse plane",
+   "Irrigation"
+  ]
+ },
+ {
+  "key": "openalex|W7209726630",
+  "title": "IMSA Summer Symposium 2026",
+  "year": 2026,
+  "venue": "DigitalCommons-IMSA (Illinois Mathematics and Science Academy)",
+  "doi": null,
+  "pmid": null,
+  "type": "conference-paper",
+  "abstract": "For nearly four decades, IMSA has worked to advance the human condition through educational innovation. The Summer Symposium is our annual showcase for the research projects that were conducted in IMSA’s experiential learning programs between May and August. These programs include Student Inquiry and Research (SIR), IN2 Business Internships, and the Student Research and Experiential Learning Opportunity (SRELO) program. For the first time, we are also excited to welcome IMSA Research, Inquiry Skills, and Experimentation (RISE) students to present at the Summer Symposium. Cover Design Luke Berryman",
+  "mesh_terms": [],
+  "keywords": [
+   "Experiential learning",
+   "Cover (algebra)",
+   "Experiential education",
+   "Research methodology"
+  ]
+ },
+ {
+  "key": "doi|10.14288/1.0453193",
+  "title": "Development of engineered heart tissues with sacrificial alginate-fibrinogen bioink using low-cost open-source 3D bioprinter",
+  "year": 2026,
+  "venue": "cIRcle (University of British Columbia)",
+  "doi": "10.14288/1.0453193",
+  "pmid": null,
+  "type": "dissertation",
+  "abstract": "Introduction: As cardiovascular disease becomes more prevalent in aging society and continues to be one of the leading causes of death globally, early intervention is required to prevent disease onset and progression. Intervention can be accomplished by characterizing disease physiology, mechanism, and biomarkers to screen and develop efficient personalized therapies. Recent technological advances such as the development of 3-dimensional engineered heart tissue models and optical mapping can allow for the study of certain diseases for drug screening. However, the model can be prone to batch-to-batch variation, immature contractile force and inconsistent electrophysiology compared to the adult heart. Objective: The aim of this proposed study is to develop a low-cost open-source 3D bioprinter to fabricate reproducible and physiologically accurate heart tissues. Method: A desktop 3D printer was converted into a bioprinter by replacing the thermal extrusion nozzle with custom syringe pumps. The print fidelity was characterized using alginate ink and gelatin support bath. Functional tissues were printed using induced pluripotent stem cells differentiated cardiomyocytes (iPSC-CM) embedde",
+  "mesh_terms": [],
+  "keywords": [
+   "Gelatin",
+   "Sarcomere",
+   "Tissue engineering",
+   "3d printed",
+   "Induced pluripotent stem cell",
+   "Regenerative medicine",
+   "Extrusion",
+   "3D printing"
+  ]
+ },
+ {
+  "key": "doi|10.1021/acsnano.6c02201",
+  "title": "Nongenetic in Vivo Bimodal Neuromodulation via Photothermal Gold Nanorods and a Multifunctional Fiber Neural Probe",
+  "year": 2026,
+  "venue": "ACS Nano",
+  "doi": "10.1021/acsnano.6c02201",
+  "pmid": "42411602",
+  "type": "article",
+  "abstract": "High Resolution Image Download MS PowerPoint Slide Neuromodulation is central to both fundamental neuroscience and the development of next-generation brain–computer interfaces (BCIs). However, most cell-type-specific neuromodulation strategies rely on genetic approaches such as optogenetics, which, despite their high spatiotemporal precision, can perturb intrinsic neuronal properties and raise concerns regarding off-target effects and gene-expression efficiency, thereby limiting clinical translation. Moreover, achieving true bimodal neuromodulation remains challenging, as single-gene expression typically enables either inhibition or excitation, restricting applications to one-way perturbations rather than bimodal control of neural activity. Here, we establish a nongenetic bimodal neuromodulation platform by integrating cholesterol-functionalized gold nanorods (GNR-CLS) with a multifunctional fiber-based neural (MFN) probe for localized photothermal stimulation and validate its functionality in the mouse brain. The MFN probe combines microfluidic delivery, near-infrared (NIR) light transmission, and electrophysiological recording within a single flexible fiber, enabling submillimete",
+  "mesh_terms": [
+   "Gold",
+   "Animals",
+   "Nanotubes",
+   "Mice",
+   "Neurons",
+   "Infrared Rays"
+  ],
+  "keywords": [
+   "Neuromodulation",
+   "Excitatory postsynaptic potential",
+   "Photothermal therapy",
+   "Inhibitory postsynaptic potential",
+   "Colocalization",
+   "Premovement neuronal activity",
+   "Hippocampal formation",
+   "Electrophysiology"
+  ]
+ },
+ {
+  "key": "doi|10.1186/s11671-026-04542-5",
+  "title": "Evaluation of biofilm disruption on root dentin following conventional and nanoparticle-enhanced photodynamic therapies using scanning electron microscopy and FIJI-based image analysis",
+  "year": 2026,
+  "venue": "Discover Nano",
+  "doi": "10.1186/s11671-026-04542-5",
+  "pmid": "41925812",
+  "type": "article",
+  "abstract": "OBJECTIVE: Enterococcus faecalis biofilm is a major contributor to persistent root canal infections due to its high resistance to conventional irrigants. This study aimed to evaluate and compare different disinfection protocols, including sodium hypochlorite (NaOCl), photodynamic therapy (PDT) with methylene blue (MB), and MB functionalized with reduced graphene oxide (MB-rGO) nanoparticles with or without sonic activation, in disrupting E. faecalis biofilm on root canal dentin using SEM and quantitative FIJI-based image analysis. MATERIALS AND METHODS: Eighty root dentin specimens were obtained from forty extracted single-rooted human teeth. Following canal preparation and instrumentation, thirty-five teeth were inoculated with Enterococcus faecalis and incubated for 21 days to develop mature biofilms, while five teeth served as negative controls. Each tooth was longitudinally sectioned to yield two standardized dentin specimens, which were randomly allocated to six experimental groups (n = 10 specimens per group) according to the disinfection protocol. Groups 1-2 received 5% sodium hypochlorite (NaOCl), Groups 3-4 underwent photodynamic therapy (PDT) using methylene blue (MB), an",
+  "mesh_terms": [],
+  "keywords": [
+   "Sodium hypochlorite",
+   "Enterococcus faecalis",
+   "Biofilm",
+   "Root canal",
+   "Methylene blue",
+   "Dentin",
+   "Scanning electron microscope",
+   "Photodynamic therapy"
+  ]
+ },
+ {
+  "key": "doi|10.1186/s12903-026-08082-3",
+  "title": "Influence of repeated cycles of full-strength sodium hypochlorite activation on the mechanical behavior of root canal-treated teeth: a laboratory study",
+  "year": 2026,
+  "venue": "BMC Oral Health",
+  "doi": "10.1186/s12903-026-08082-3",
+  "pmid": "41917917",
+  "type": "article",
+  "abstract": "OBJECTIVES: To assess the effects of different activation protocols of full-strength sodium hypochlorite (NaOCl), including stepwise intraoperative activation (SIA), conventional ultrasonic irrigation (CUI), and their combination (SIA + CUI), compared to conventional syringe irrigation (CSI), on the fracture resistance of root canal-treated teeth. METHODS: Ninety extracted maxillary second premolars were assigned to four experimental groups (n = 15 each) based on the irrigation protocol: CSI, SIA, CUI, and SIA + CUI, along with two control groups (n = 15): intact teeth (positive control) and saline irrigation (negative control). Standardized access cavities were prepared, followed by uniform root canal instrumentation, while irrigation protocols were conducted as assigned. Root canals were filled, and access cavities were sealed with resin composite. Specimens underwent compressive fracture testing using a universal testing machine to determine the maximum load to fracture after thermo-mechanical fatigue, and failure modes were assessed. Data were statistically analyzed, with the significance threshold set at p < 0.05 and a 95% confidence interval (CI). RESULTS: All experimental gr",
+  "mesh_terms": [
+   "Sodium Hypochlorite",
+   "Humans",
+   "Root Canal Irrigants",
+   "Tooth Fractures",
+   "Dental Stress Analysis",
+   "Root Canal Preparation",
+   "In Vitro Techniques",
+   "Therapeutic Irrigation",
+   "Bicuspid",
+   "Materials Testing",
+   "Root Canal Therapy"
+  ],
+  "keywords": [
+   "Sodium hypochlorite",
+   "Root canal",
+   "Fracture (geology)",
+   "Saline",
+   "Irrigation",
+   "Syringe",
+   "Universal testing machine",
+   "Negative control"
+  ]
+ },
+ {
+  "key": "doi|10.3390/jfb17040166",
+  "title": "Effect of Implant Surface Decontamination Procedures on Surface Morphology—In Vitro Study",
+  "year": 2026,
+  "venue": "Journal of Functional Biomaterials",
+  "doi": "10.3390/jfb17040166",
+  "pmid": "42042271",
+  "type": "article",
+  "abstract": "Numerous chemical and physical surface decontamination methods are used in clinical practice for implant surface decontamination, which constitutes the most critical step in the management of peri-implantitis. The aim of this study was to compare, in vitro, the efficacy of the electrolytic cleaning device GalvoSurge (GalvoSurge, GalvoSurge Dental AG, Widnau, Switzerland) with that of an air-abrasive AIRFLOW unit (AIRFLOW, Master PiezonVR, EMS Electro Medical Systems, Herrliberg, Switzerland). Thirty-two SLA-surfaced dental implants were allocated to two groups (n = 16) and contaminated with permanent ink, after which they were placed into jaw models representing two different defect configurations. After treatment, implants were photographed and, using ImageJ, the residual stain area/percentage within a 4 mm region apical to the implant neck was calculated. Surface topography was further evaluated by SEM and EDS. In the two-way analysis of variance, the effect of the decontamination method was statistically significant. The GalvoSurge group exhibited a lower residual stain percentage than AIRFLOW (overall 28.47 ± 10.13 vs. 37.14 ± 9.60; p = 0.019). This difference was independent o",
+  "mesh_terms": [],
+  "keywords": [
+   "Human decontamination",
+   "Stain",
+   "Contamination",
+   "Implant",
+   "Dental implant",
+   "Residual",
+   "Surface modification"
+  ]
+ },
+ {
+  "key": "doi|10.1038/s41598-026-40879-8",
+  "title": "Clinical efficacy of high versus low intensity diode laser as an adjunct to non-surgical periodontal therapy in periodontitis: randomized controlled clinical trial",
+  "year": 2026,
+  "venue": "Scientific Reports",
+  "doi": "10.1038/s41598-026-40879-8",
+  "pmid": "41723233",
+  "type": "article",
+  "abstract": "Scaling and root planing (SRP) is the standard nonsurgical treatment for periodontitis; however, its efficacy in eliminating subgingival biofilm and promoting periodontal healing is often limited, particularly in deep pockets. Adjunctive diode laser therapy has been proposed to enhance clinical outcomes through antimicrobial and host-modulatory effects. This study aimed to evaluate the clinical efficacy of high- and low-intensity diode laser therapy as adjuncts to SRP. A randomized, within-patient, site-level controlled clinical trial was conducted on 27 patients, encompassing 81 periodontal quadrants and 596 sites. Periodontal sites were randomly assigned to three treatment groups: SRP alone as the control, SRP combined with high-intensity diode laser therapy (DLT-H), and SRP combined with low-intensity diode laser therapy (DLT-L). Clinical indices—plaque index (PI), gingival index (GI), probing pocket depth (PPD), and clinical attachment level (CAL)—were assessed at baseline (T0), after one month (T1), and after three months (T2). The results were analyzed using repeated-measures ANOVA followed by post-hoc pairwise comparisons. All three treatment approaches led to statistically ",
+  "mesh_terms": [
+   "Adult",
+   "Female",
+   "Humans",
+   "Male",
+   "Middle Aged",
+   "Combined Modality Therapy",
+   "Dental Scaling",
+   "Lasers, Semiconductor",
+   "Low-Level Light Therapy",
+   "Periodontal Index",
+   "Periodontitis",
+   "Root Planing",
+   "Treatment Outcome"
+  ],
+  "keywords": [
+   "Clinical trial",
+   "Scaling and root planing",
+   "Clinical efficacy",
+   "Randomized controlled trial",
+   "Clinical effectiveness",
+   "Laser therapy",
+   "Gingival and periodontal pocket",
+   "Clinical attachment loss"
+  ]
+ },
+ {
+  "key": "doi|10.3390/materproc2026029001",
+  "title": "Abstracts of the 1st International Online Conference on Gels",
+  "year": 2026,
+  "venue": null,
+  "doi": "10.3390/materproc2026029001",
+  "pmid": null,
+  "type": "conference-abstract",
+  "abstract": "Methods: Coa-ASC16 PEG was prepared at 2.5% (w/v) using a mixture of PEG 400 and water in a 4:1 ratio.ASC16 was dissolved in PEG 400 in glass tubes and heated to 64 • C until complete solubilization was achieved (≤2 min).The mixture was then cooled to 40 • C and allowed to reach thermal equilibrium, after which OVPs dissolved in water were added and mixed for 10 s (Coa-ASC16 PEG/OVP ).The formulation was characterized using dynamic rotational rheology tests, a three-interval thixotropy test (3ITT), encapsulation efficiency measurements, and in vitro release assays.Results: Coa-ASC16 PEG/OVP demonstrated high encapsulation efficiency (96.42 ± 1.06%), retained stability under protein overload, and enabled a sustained release of OVP over time (23.41 ± 6.12% at 360 min).Rheological analyses confirmed its viscoelastic behavior, while 3ITT revealed a robust capacity to recover the original viscosity following mechanical stress.Conclusions: Coa-ASC16 PEG represents a simple, low-cost platform with favorable rheological properties and high protein loading capacity.Its ability to withstand mechanical stress while providing sustained release highlights its potential as a controlled-release s",
+  "mesh_terms": [],
+  "keywords": [
+   "Work (physics)",
+   "Focus (optics)",
+   "Government (linguistics)",
+   "Feature (linguistics)"
+  ]
+ },
+ {
+  "key": "doi|10.18653/v1/2026.acl-long.1893",
+  "title": "HarDBench: A Benchmark for Draft-Based Co-Authoring Jailbreak Attacks for Safe Human–LLM Collaborative Writing",
+  "year": 2026,
+  "venue": null,
+  "doi": "10.18653/v1/2026.acl-long.1893",
+  "pmid": null,
+  "type": "conference-paper",
+  "abstract": "Warning.This paper includes references to hazardous procedures, such as cyberattacks and explosives, solely to analyze and mitigate LLM vulnerabilities for research purposes.",
+  "mesh_terms": [],
+  "keywords": [
+   "Benchmark (surveying)",
+   "Feature (linguistics)",
+   "Key (lock)",
+   "Confidentiality",
+   "Context (archaeology)"
+  ]
+ },
+ {
+  "key": "doi|10.34660/inf.2025.76.25.058",
+  "title": "ADAPTATION OF SIMPLE METHODS OF PROTEIN DETERMINATION FOR EXPRESS QUALITY CONTROL OF FOODS, INCLUDING ADAPTATION FOR FIELD AND HOME CONDITIONS",
+  "year": 2025,
+  "venue": null,
+  "doi": "10.34660/inf.2025.76.25.058",
+  "pmid": null,
+  "type": "conference-paper",
+  "abstract": "The following research was conducted with use of Uniplan (Picon, Russia), a portable microplate photometer, equipped with a special universal light filter with a light transmission range of 550-590 nm. A method of visual semi- quantitative protein content analysis is also developed. Two methods of protein determination were applied: biuret method based on determination of peptide bonds and Bradford method (Coomassie method), using Coomassie pigment for determination of globular non-glycosylated proteins. It is demonstrated that biuret method has some obstacles of application for food analysis due to high concentration of reducing sugars in various objects of analysis. Coomassie method has several advantages, such as low detection limit and absence of interaction with reducing components of the object. An acidic pH value of Coomassie- containing reagent, which is close to pH values of samples analyzed, is also an advantage because addition of the reagent has no significant influence on intrinsic spectra of these samples, which we need to consider during the analysis. Products chosen for research are: chicken egg white, 2 samples of apple juice from different manufacturers, fresh-squ",
+  "mesh_terms": [],
+  "keywords": [
+   "Biuret test",
+   "Coomassie Brilliant Blue",
+   "Detection limit",
+   "Filter paper",
+   "Filter (signal processing)",
+   "Globular protein",
+   "Adaptation (eye)",
+   "Limit (mathematics)"
+  ]
+ },
+ {
+  "key": "doi|10.17504/protocols.io.4r3l2zm6jl1y/v1",
+  "title": "Standardized Clinical Protocol for 650 nm and 810 nm Diode Laser Photobiomodulation After Dental Implant Placement v1",
+  "year": 2025,
+  "venue": null,
+  "doi": "10.17504/protocols.io.4r3l2zm6jl1y/v1",
+  "pmid": null,
+  "type": "preprint",
+  "abstract": "This protocol describes a randomized controlled clinical procedure for evaluating the analgesic effects of photobiomodulation using 650 nm and 810 nm diode lasers following dental implant placement in the posterior maxilla. The procedure standardizes surgical parameters, laser irradiation settings, treatment schedules, and outcome assessments, including postoperative pain, analgesic intake, and oral health–related quality of life. Expected outcomes include reduced postoperative pain intensity and decreased analgesic consumption in active photobiomodulation groups compared with sham treatment. The protocol is designed to support reproducibility and transparent reporting of laser-assisted pain management following implant surgery. Developed in accordance with SPIRIT guidelines for interventional protocols, this document underpins the randomized controlled trial “Analgesic outcomes of 650 nm versus 810 nm diode laser photobiomodulation after dental implant placement,” which has been accepted for publication in Scientific Reports. The study adheres to CONSORT recommendations and is registered at ClinicalTrials.gov (Identifier: NCT06988722). A preprint version is available on Research S",
+  "mesh_terms": [],
+  "keywords": [
+   "Dental implant",
+   "Laser",
+   "Randomized controlled trial",
+   "Protocol (science)",
+   "Implant",
+   "Diode",
+   "Analgesic"
+  ]
+ },
+ {
+  "key": "doi|10.70269/kkeidsmadqc5",
+  "title": "SUPERPOSING OF THE ADDITIVE MANUFACTURING TECHNIQUES FOR INDUSTRIAL APPLICATIONS: A HOLISTIC REVIEW",
+  "year": 2025,
+  "venue": null,
+  "doi": "10.70269/kkeidsmadqc5",
+  "pmid": null,
+  "type": "book",
+  "abstract": "",
+  "mesh_terms": [],
+  "keywords": [
+   "Work (physics)",
+   "Process (computing)",
+   "Context (archaeology)",
+   "Welding"
+  ]
+ },
+ {
+  "key": "openalex|W7140348815",
+  "title": "Specialty Optical Fibers from Visible to Terahertz",
+  "year": 2025,
+  "venue": "PolyPublie (École Polytechnique de Montréal)",
+  "doi": null,
+  "pmid": null,
+  "type": "dissertation",
+  "abstract": "RÉSUMÉ: Cette thèse explore la fabrication et la caractérisation de fibres optiques spéciales à travers deux axes principaux. La première partie porte sur le développement d’une méthode simple et peu coûteuse pour produire des fibres polymères à émission latérale, capables de diffuser la lumière de manière contrôlée le long de leur surface, sans utiliser des techniques de fabrication complexes. La Deuxième partie propose une approche pour la caractérisation de guides d’onde térahertz, afin de développer une méthode robuste d’évaluation de leurs performances de transmission. La première partie de ce travail est consacrée à la fabrication de fibres optiques polymères à émission latérale par abrasion de surface à l’aide de papier de verre. Les études expérimentales ont montré que cette méthode permet d’améliorer efficacement l’émission latérale ; toutefois, cette méthode ne garantit toutefois ni une émission uniforme ni un contrôle complet de celle-ci. Des recherches supplémentaires sont donc nécessaires pour améliorer l’uniformité de l’émission latérale et permettre le contrôle de paramètres tels que le profil de diffusion et la distribution de l’émission. La seconde partie est consa",
+  "mesh_terms": [],
+  "keywords": [
+   "Optical fiber",
+   "Fabrication",
+   "Diffuser (optics)",
+   "Optical materials"
+  ]
+ },
+ {
+  "key": "openalex|W7160579794",
+  "title": "Development of an Automation Framework for 1D Measurement",
+  "year": 2025,
+  "venue": "Qucosa (Saxon State and University Library Dresden)",
+  "doi": null,
+  "pmid": null,
+  "type": "dissertation",
+  "abstract": "Modern laser micromachining machines must move with very high accuracy to keep product quality consistent. At 3D-Micromac, the earlier calibration process used several separate tools: one for moving the axis, another for reading the laser interferometer, and a spreadsheet for the calculations. This separation made the work slow, error-prone, and hard to repeat. This thesis builds a single, automated framework that joins all steps from axis motion, data capture, error calculation, and report creation inside the company’s microSTAGE software. The framework has four main parts Motion Control, Measurement, Analysis, and Reporting. The different parts can communicate with each other seamlessly thanks to standard file formats and clear programming interfaces. Python handles the maths and plots. Ready-made HTML templates turn the results into calibration certificates that follow the relevant international standard. Tests on a 200 mm linear axis show that the new tool matches the results of the old spreadsheet and more accurate while cutting total calibration time from about two hours to under twenty minutes. After applying the correction table produced by the framework, the overall positi",
+  "mesh_terms": [],
+  "keywords": [
+   "Python (programming language)",
+   "Automation",
+   "Joins",
+   "Calibration",
+   "Table (database)",
+   "Process (computing)",
+   "NIST",
+   "New product development"
+  ]
+ },
+ {
+  "key": "doi|10.14945/0002001782",
+  "title": "Study of The Application of Microplasma for Intranasal Drug Delivery to The Brain",
+  "year": 2025,
+  "venue": "Institutional Repositories DataBase (IRDB)",
+  "doi": "10.14945/0002001782",
+  "pmid": null,
+  "type": "dissertation",
+  "abstract": "Investigating ozone concentration and power consumption of thin wire microplasma and the impact on",
+  "mesh_terms": [],
+  "keywords": [
+   "Drug delivery",
+   "Microplasma",
+   "Nasal administration",
+   "Drug",
+   "Delivery system"
+  ]
+ },
+ {
+  "key": "doi|10.1002/cnr2.70672",
+  "title": "Survival Outcomes With Cadonilimab Versus PD-(L)1 Therapy in Front-Line Gastric Cancer: A Network Meta-Analysis.",
+  "year": 2026,
+  "venue": null,
+  "doi": "10.1002/cnr2.70672",
+  "pmid": "42744764",
+  "type": null,
+  "abstract": "The FDA Oncologic Drugs Advisory Committee (ODAC) highlighted that the risk-benefit profile for patients with low PD-L1 expression remains unclear in front-line treatment of HER2-negative gastric and gastroesophageal junction (GC/GEJ) cancer with PD-(L)1 therapy. The first PD-1/CTLA-4 bispecific antibody (BsAb), cadonilimab, has been approved, but it is unknown if it can extend the PD-(L)1 regimen to lower PD-L1 patients. To indirectly compare the survival outcomes of cadonilimab versus PD-(L)1 therapy in first-line HER2-negative gastric and gastroesophageal junction cancer, with particular focus on patients with low PD-L1 expression, using a network meta-analysis. Randomized controlled trials with ICIs as first-line treatment were searched in public databases and FDA ODAC up to December 31, 2024. A network meta-analysis was conducted to evaluate the efficacy and safety of approved ICI-based treatments to refine the optimal approach for front-line GC/GEJ. A total of 7127 patients from eight Phase III trials were included. All ICIs-based therapies significantly improved overall survival (OS) compared to chemotherapy. In indirect comparisons, cadonilimab plus XELOX was associated wit",
+  "mesh_terms": [],
+  "keywords": []
+ },
+ {
+  "key": "doi|10.1146/annurev-vision-110725-100948",
+  "title": "The Biology and Cell Engineering of Retinal Pigment Epithelium Cell Transplantation: Developing a Living Drug.",
+  "year": 2026,
+  "venue": null,
+  "doi": "10.1146/annurev-vision-110725-100948",
+  "pmid": "42744754",
+  "type": null,
+  "abstract": "Age-related macular degeneration (AMD) is a multifactorial retinal disease that causes progressive vision loss, with retinal pigment epithelium (RPE) atrophy representing a key initiating event. The RPE monolayer plays a crucial role in maintaining photoreceptor and choriocapillaris health and function. In advanced AMD stages, degeneration extends to the photoreceptors and choriocapillaris, likely as a consequence of preceding RPE atrophy. Existing treatment modalities aim to slow disease progression rather than restore degenerated cells and improve visual function. Pluripotent stem cell-derived RPE cell replacement therapy has emerged as a promising approach for restoring native retinal structure and visual function. This review provides an overview of RPE biology and function, clinical-grade manufacturing of RPE transplants, quality control considerations, and the use of scaffolds to improve delivery and integration. We also summarize preclinical and clinical studies that assess the safety, efficacy, and translational potential of RPE transplantation for AMD and other retinal degenerative conditions.",
+  "mesh_terms": [
+   "Humans",
+   "Retinal Pigment Epithelium",
+   "Macular Degeneration",
+   "Animals",
+   "Cell Engineering",
+   "Stem Cell Transplantation",
+   "Cell Differentiation",
+   "Induced Pluripotent Stem Cells"
+  ],
+  "keywords": []
+ },
+ {
+  "key": "doi|10.1016/j.orcp.2026.09.001",
+  "title": "A multicenter real-world study on the safety and effectiveness of the glucagon-like peptide-1 receptor agonist (liraglutide) in adolescents with obesity in Taiwan.",
+  "year": 2026,
+  "venue": null,
+  "doi": "10.1016/j.orcp.2026.09.001",
+  "pmid": "42744726",
+  "type": null,
+  "abstract": "Pediatric obesity is linked to many metabolic complications and has limited treatment options. We evaluated the safety and effectiveness of GLP-1 receptor agonist (liraglutide) in adolescents with obesity in clinical practice in Taiwan. We conducted a prospective study (NCT06283641) across 14 hospitals and clinics from February 2024 to March 2025 evaluating adolescents receiving liraglutide at baseline, week 13, and week 26. Demographics, and safety and effectiveness outcomes, including incidence proportions of adverse events and adverse drug reactions, and changes in body weight and body mass index, were assessed. Among 41 participants, 22 (53.7%) were male, with mean age (±standard deviation) 13.9 ± 1.8 years, body weight (BW) 88.5 ± 19.3 kg, and body mass index (BMI) 33.4 ± 5.1 kg/m<sup>2</sup>. Nineteen (46.3%) had medical history of hepatic impairment. Mean daily and maximum doses were 1.4 ± 0.5 mg/day and 1.8 ± 0.7 mg/day, respectively, throughout 128.3 ± 56.0 days; 14.4% escalated to 3.0 mg/day. Overall respective incidence proportions of adverse events and adverse drug reactions were 19.5% (8/41; all mild) and 9.8% (4/41; 6 events), respectively. Gastrointestinal events wer",
+  "mesh_terms": [],
+  "keywords": []
+ }
+]

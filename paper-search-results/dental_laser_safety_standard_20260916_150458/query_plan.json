@@ -1,0 +1,21 @@
+{
+  "user_query": "Literature on DENTAL LASER SAFETY relevant to a diode-laser oral soft-tissue research project (thermal injury, excessive power, prolonged dwell/slow movement, carbonization/collateral tissue damage, eye safety, plume/smoke hazards, fire risk, equipment/fiber-tip safety, calibration/output verification, operator training, adverse events, safety guidelines/professional recommendations).",
+  "framework": "PEO (Population=dental soft-tissue laser procedures/operators; Exposure=diode laser parameters, power, dwell/speed, fiber-tip condition; Outcome=thermal injury/adverse events/safety compliance)",
+  "concept_blocks": [
+    {"name": "parameter-related tissue safety", "terms": ["dental diode laser", "soft tissue", "thermal injury", "carbonization", "collateral damage", "power", "dwell time", "incision speed"]},
+    {"name": "guidelines/consensus", "terms": ["laser safety", "dentistry", "guideline", "consensus", "standard of care"]},
+    {"name": "adverse events/case reports", "terms": ["dental laser", "adverse event", "complication", "burn", "case report"]},
+    {"name": "device/calibration/eye/plume/fire", "terms": ["laser output power calibration", "fiber tip", "eye safety", "laser plume", "surgical smoke", "fire hazard", "operating room"]}
+  ],
+  "year_min": 2005,
+  "search_strategies": [
+    "dental diode laser soft tissue thermal injury safety",
+    "laser safety guidelines dentistry eye plume fire hazard",
+    "diode laser dentistry adverse event complication burn case report",
+    "laser output power calibration fiber tip safety verification dental"
+  ],
+  "tier": "standard",
+  "pubmed_enabled": true,
+  "arxiv_enabled": false,
+  "language_space": "en"
+}

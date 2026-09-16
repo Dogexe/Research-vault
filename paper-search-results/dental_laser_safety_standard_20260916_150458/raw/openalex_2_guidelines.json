@@ -1,0 +1,1696 @@
+[
+  {
+    "doi": "10.1088/0034-4885/71/5/056701",
+    "arxiv_id": null,
+    "openalex_id": "W1993301566",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Lasers in medicine",
+    "abstract": "It is hard to imagine that a narrow, one-way, coherent, moving, amplified beam of light fired by excited atoms is powerful enough to slice through steel. In 1917, Albert Einstein speculated that under certain conditions atoms could absorb light and be stimulated to shed their borrowed energy. Charles Townes coined the term laser (light amplification by stimulated emission of radiation) in 1951. Theodore Maiman investigated the glare of a flash lamp in a rod of synthetic ruby, creating the first human-made laser in 1960. The laser involves exciting atoms and passing them through a medium such as crystal, gas or liquid. As the cascade of photon energy sweeps through the medium, bouncing off mirrors, it is reflected back and forth, and gains energy to produce a high wattage beam of light. Although lasers are today used by a large variety of professions, one of the most meaningful applications of laser technology has been through its use in medicine. Being faster and less invasive with a high precision, lasers have penetrated into most medical disciplines during the last half century including dermatology, ophthalmology, dentistry, otolaryngology, gastroenterology, urology, gynaecology, cardiology, neurosurgery and orthopaedics. In many ways the laser has revolutionized the diagnosis and treatment of a disease. As a surgical tool the laser is capable of three basic functions. When focused on a point it can cauterize deeply as it cuts, reducing the surgical trauma caused by a knife. It can vaporize the surface of a tissue. Or, through optical fibres, it can permit a doctor to see inside the body. Lasers have also become an indispensable tool in biological applications from high-resolution microscopy to subcellular nanosurgery. Indeed, medical lasers are a prime example of how the movement of an idea can truly change the medical world. This review will survey various applications of lasers in medicine including four major categories: types of lasers, laser-tissue interactions, therapeutics and diagnostics.",
+    "authors": [
+      {
+        "name": "Qian Peng",
+        "orcid": "https://orcid.org/0000-0003-3261-3330",
+        "affiliation": "University of Oslo",
+        "country": "NO",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Asta Juzeniene",
+        "orcid": "https://orcid.org/0000-0001-9426-0062",
+        "affiliation": "University of Oslo",
+        "country": "NO",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ji-Yao Chen",
+        "orcid": "https://orcid.org/0000-0001-6087-3215",
+        "affiliation": "Fudan University",
+        "country": "CN",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Lars O. Svaasand",
+        "orcid": null,
+        "affiliation": "Norwegian University of Science and Technology",
+        "country": "NO",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Trond Warloe",
+        "orcid": "https://orcid.org/0000-0001-7126-7501",
+        "affiliation": "University of Oslo",
+        "country": "NO",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Karl-Erik Giercksky",
+        "orcid": null,
+        "affiliation": "University of Oslo",
+        "country": "NO",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Johan Moan",
+        "orcid": null,
+        "affiliation": "University of Oslo",
+        "country": "NO",
+        "is_first": false,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2008,
+    "venue": "Reports on Progress in Physics",
+    "issn": "0034-4885",
+    "type": "article",
+    "citation_count": 250,
+    "referenced_works_count": 269,
+    "fwci": 8.9339,
+    "cited_by_percentile_year": 100,
+    "topics": [
+      {
+        "id": "T11566",
+        "name": "Laser Applications in Dentistry and Medicine",
+        "score": 0.9998000264167786
+      },
+      {
+        "id": "T11172",
+        "name": "Dermatologic Treatments and Research",
+        "score": 0.9908999800682068
+      },
+      {
+        "id": "T11127",
+        "name": "Solid State Laser Technologies",
+        "score": 0.9868000149726868
+      }
+    ],
+    "keywords": [
+      "Laser",
+      "Physics",
+      "Optics",
+      "Medical physics",
+      "Medicine",
+      "Optoelectronics"
+    ],
+    "sdgs": [
+      {
+        "id": "https://metadata.un.org/sdg/7",
+        "score": 0.5799999833106995,
+        "display_name": "Affordable and clean energy"
+      }
+    ],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.1088/0034-4885/71/5/056701",
+    "openalex_url": "https://openalex.org/W1993301566",
+    "pdf_url": "https://iopscience.iop.org/article/10.1088/0034-4885/71/5/056701/pdf",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://iopscience.iop.org/article/10.1088/0034-4885/71/5/056701/pdf"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.1038/bdj.2007.370",
+    "arxiv_id": null,
+    "openalex_id": "W2062281695",
+    "ss_paper_id": null,
+    "pmid": "17496861",
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Laser regulation and safety in general dental practice",
+    "abstract": "Laser devices, instruments and machines vary in their potential for light energy emission from low-powered hand-held or integrated devices, to high-powered units capable of cutting and ablating tissue and materials. The safe use of lasers in dentistry extends to all personnel who might be exposed, either deliberately or by accident, and demands of the lead clinician an approach to their use in order that risk of accidental exposure to laser light is minimised. The scope for regulations extends in similar ways to those imposed on the use of ionising radiation in the dental practice. Laser safety measures in the dental surgery are often drawn from the safe approach to the use of lasers in general and other specialties in medicine and surgery. This article serves to examine the risks involved in laser use in dentistry, the regulations governing safe use and the responsibilities of personnel involved in providing treatment to patients.",
+    "authors": [
+      {
+        "name": "Steven Parker",
+        "orcid": "https://orcid.org/0000-0003-2317-8381",
+        "affiliation": "Harrogate District Hospital",
+        "country": "GB",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2007,
+    "venue": "BDJ",
+    "issn": "0007-0610",
+    "type": "article",
+    "citation_count": 52,
+    "referenced_works_count": 43,
+    "fwci": 1.1799,
+    "cited_by_percentile_year": 99,
+    "topics": [
+      {
+        "id": "T13869",
+        "name": "Ocular and Laser Science Research",
+        "score": 0.9998000264167786
+      },
+      {
+        "id": "T11867",
+        "name": "Traumatic Ocular and Foreign Body Injuries",
+        "score": 0.9301999807357788
+      }
+    ],
+    "keywords": [
+      "Laser safety",
+      "Dental practice",
+      "Laser surgery",
+      "Laser",
+      "Scope (computer science)",
+      "Safety standards",
+      "Dentistry",
+      "Risk analysis (engineering)",
+      "Medicine",
+      "Business"
+    ],
+    "sdgs": [
+      {
+        "id": "https://metadata.un.org/sdg/7",
+        "score": 0.5199999809265137,
+        "display_name": "Affordable and clean energy"
+      }
+    ],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [
+      "Dental Care",
+      "Humans",
+      "Laser Therapy",
+      "Lasers",
+      "Occupational Health",
+      "Protective Devices",
+      "United Kingdom"
+    ],
+    "publication_types": [
+      "Journal Article"
+    ],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.1038/bdj.2007.370",
+    "openalex_url": "https://openalex.org/W2062281695",
+    "pdf_url": "https://www.nature.com/articles/bdj.2007.370.pdf",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://www.nature.com/articles/bdj.2007.370.pdf"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex",
+      "pubmed"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.15761/ohc.1000189",
+    "arxiv_id": null,
+    "openalex_id": "W3135180180",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Laser hazards and safety in dental practice: A Review",
+    "abstract": null,
+    "authors": [
+      {
+        "name": "Meenakshi Boddun",
+        "orcid": null,
+        "affiliation": "People’s University",
+        "country": "IN",
+        "is_first": true,
+        "is_corresponding": true
+      },
+      {
+        "name": "Vijayta Sharva",
+        "orcid": null,
+        "affiliation": "People’s University",
+        "country": "IN",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2020,
+    "venue": "Oral Health and Care",
+    "issn": "2399-9640",
+    "type": "article",
+    "citation_count": 4,
+    "referenced_works_count": 5,
+    "fwci": 0.3148,
+    "cited_by_percentile_year": 95,
+    "topics": [
+      {
+        "id": "T13869",
+        "name": "Ocular and Laser Science Research",
+        "score": 0.9932000041007996
+      },
+      {
+        "id": "T11867",
+        "name": "Traumatic Ocular and Foreign Body Injuries",
+        "score": 0.911899983882904
+      }
+    ],
+    "keywords": [
+      "Laser safety",
+      "Dental practice",
+      "Medicine",
+      "Laser",
+      "Dentistry",
+      "Optics",
+      "Physics"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.15761/ohc.1000189",
+    "openalex_url": "https://openalex.org/W3135180180",
+    "pdf_url": "https://www.oatext.com/pdf/OHC-5-189.pdf",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://www.oatext.com/pdf/OHC-5-189.pdf"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "openalex_id": "W2407365557",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "The use of laser-based technologies in dentistry: Ethical issues and safety considerations",
+    "abstract": "The use of laser-based technologies in general dental \\npractice in South Africa is growing each year both in \\nnumbers and in scope of use. It has been shown to be \\nbeneficial in treating a wide range of oral and dental \\nconditions as well as being used as a therapeutic tool in \\ntissue management. They have been used in the practice \\nof dentistry for over thirty years and recently there have \\nbeen numerous advertisements in the dental press \\nregarding the advantages of owning and using lasers \\nand how it can be a good marketing tool for a dental \\npractice. In the United States patients seek out practices \\nutilising laser technology and nearly two thirds of patients \\nsurveyed thought that dentists should own a laser. How \\ncan practitioners ensure that they are using laser treatment \\nfor their patients in a responsible and ethical manner?",
+    "authors": [
+      {
+        "name": "Sudeshni Naidoo",
+        "orcid": "https://orcid.org/0000-0001-7424-8082",
+        "affiliation": "University of the Western Cape",
+        "country": "ZA",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Riaan Mulder",
+        "orcid": "https://orcid.org/0000-0002-8722-7632",
+        "affiliation": "University of the Western Cape",
+        "country": "ZA",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2015,
+    "venue": "UWC Research Repository (University of the Western Cape)",
+    "issn": null,
+    "type": "article",
+    "citation_count": 3,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": 94,
+    "topics": [
+      {
+        "id": "T11566",
+        "name": "Laser Applications in Dentistry and Medicine",
+        "score": 0.9865999817848206
+      },
+      {
+        "id": "T12145",
+        "name": "Dental Anxiety and Anesthesia Techniques",
+        "score": 0.9818999767303467
+      },
+      {
+        "id": "T10359",
+        "name": "Dental Implant Techniques and Outcomes",
+        "score": 0.9093999862670898
+      }
+    ],
+    "keywords": [
+      "Dental practice",
+      "Scope (computer science)",
+      "Scope of practice",
+      "Laser therapy",
+      "Dentistry",
+      "Medicine",
+      "Ethical issues",
+      "Clinical Practice",
+      "Laser",
+      "Engineering ethics"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": null,
+    "openalex_url": "https://openalex.org/W2407365557",
+    "pdf_url": "http://hdl.handle.net/10566/2222",
+    "pmc_url": null,
+    "oa_locations": [
+      "http://hdl.handle.net/10566/2222"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.7324/japs.2025.210316",
+    "arxiv_id": null,
+    "openalex_id": "W4405329514",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Laser-assisted dentistry, safety, and cross-infection control: A narrative review",
+    "abstract": "The rapidly expanding use of laser-assisted care in dentistry requires exploring all aspects of safety. The acronym laser stands for “light amplification by stimulated emission of radiation”. The laser produces a very narrow beam of electromagnetic radiation (light) and has been exploited for some innovative dental care technologies. So far, regulatory framework and laser safety issues mainly concern the prevention of some tissue damages (eye, non-target oral tissue, and non-target skin), and laser hazards (chemical, fire, and electric shock), but minimal on cross-infection prevention and control. Concerning infection prevention, it is important to remember that the outlook for infectious risk is alarming, dental patients are potentially infectious, and as with any other innovative oral-dental health technology, laser-assisted dentistry cannot claim to be free of healthcare-associated infections. The narrative review focuses on cross-infection prevention of laser-assisted dental care and includes 158 references. The search was adopted using some essential keywords from documents in databases (PubMed, Scopus) from 2010 to 2023. This study focuses on 10 important areas in results and discussion: a) international guidelines and recommendations; b) pre-procedural mouthwash before LD; c) indoor air quality during laser dentistry and recommendations for indoor air quality in dentistry; d) use of personal protective equipment; e) hand hygiene; g) reconditioning of laser safety eyewear; f) standards for the reconditioning of laser accessories; g) clinical contact surface disinfection and the use of transparent barriers; h) limitations; and i) perspectives. To ensure safety and cross-infection prevention, the study highlights the need for sound research and updated international guidelines, and better information for users with detailed recommendations for dental practitioners.",
+    "authors": [
+      {
+        "name": "Livia Barenghi",
+        "orcid": "https://orcid.org/0000-0001-7493-5798",
+        "affiliation": "University of Milan",
+        "country": "IT",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Alberto Barenghi",
+        "orcid": "https://orcid.org/0009-0009-5325-0496",
+        "affiliation": "University of Parma",
+        "country": "IT",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Andrea Scribante",
+        "orcid": "https://orcid.org/0000-0002-2760-0124",
+        "affiliation": "University of Pavia",
+        "country": "IT",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Matteo Pellegrini",
+        "orcid": "https://orcid.org/0000-0003-0867-5398",
+        "affiliation": "University of Milan",
+        "country": "IT",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "F. Spadari",
+        "orcid": "https://orcid.org/0000-0002-7436-7871",
+        "affiliation": "University of Milan",
+        "country": "IT",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2024,
+    "venue": "Journal of Applied Pharmaceutical Science",
+    "issn": "2231-3354",
+    "type": "review",
+    "citation_count": 2,
+    "referenced_works_count": 0,
+    "fwci": 0.337,
+    "cited_by_percentile_year": 96,
+    "topics": [
+      {
+        "id": "T12339",
+        "name": "Medical Malpractice and Liability Issues",
+        "score": 0.9546999931335449
+      }
+    ],
+    "keywords": [
+      "Dentistry",
+      "Narrative",
+      "Laser",
+      "Medicine",
+      "Orthodontics",
+      "Psychology",
+      "Art",
+      "Optics",
+      "Physics",
+      "Literature"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.7324/japs.2025.210316",
+    "openalex_url": "https://openalex.org/W4405329514",
+    "pdf_url": "https://japsonline.com/admin/php/uploads/4459_pdf.pdf",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://japsonline.com/admin/php/uploads/4459_pdf.pdf"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "openalex_id": "W3033811110",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Mobile measurement of aerosols using drones",
+    "abstract": "The measurement of air particles is often restricted by its versatility. Remote or inaccessible areas are challenging to humans in terms of gathering measurable data. Unmanned aerial vehicles (UAVs) allow us to overcome this burden and gather valuable data to predict and analyse current air compositions, and with global application, anticipate potential future atmospheric processes. \\n \\nThis thesis provides the reader with general knowledge about aerosols and tech-niques for measuring them. Beyond that, the possibility to combine the measurement with advantageous UAVs is discussed, and an overview of previous attempts is given. By raising a sense of awareness regarding our air constituents and opportunities with future airborne measurement techniques, a greater understanding and possible problem-solving approaches are generated. \\n \\nThe content of this thesis shows that drones are immensely beneficial for enhancing the versatility of current measurement systems. Expanding the range of possibilities to measure aerosols in various remote areas is improving our knowledge about particle-climate interactions and helps us to control greenhouse gas induced climate heating and human health risks resulting from air pollution. \\n \\nThe increasing global particle emissions inspired the author of this thesis to analyse the use of current drone implementations in the process of measuring air constituents, and to illustrate possible tests to investigate the influences drones might have on the measurement reliability. Further study is needed to establish a reliable conclusion whether the planned tests are meaningful.",
+    "authors": [
+      {
+        "name": "Jerome Kalka",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2020,
+    "venue": "Theseus (Ammattikorkeakoulujen)",
+    "issn": null,
+    "type": "dissertation",
+    "citation_count": 1,
+    "referenced_works_count": 0,
+    "fwci": null,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T11133",
+        "name": "UAV Applications and Optimization",
+        "score": 0.7603999972343445
+      },
+      {
+        "id": "T12597",
+        "name": "Fire Detection and Safety Systems",
+        "score": 0.7488999962806702
+      },
+      {
+        "id": "T12120",
+        "name": "Air Quality Monitoring and Forecasting",
+        "score": 0.7412999868392944
+      }
+    ],
+    "keywords": [
+      "Drone",
+      "Environmental science",
+      "Computer science",
+      "Biology"
+    ],
+    "sdgs": [
+      {
+        "id": "https://metadata.un.org/sdg/7",
+        "score": 0.5899999737739563,
+        "display_name": "Affordable and clean energy"
+      }
+    ],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": null,
+    "openalex_url": "https://openalex.org/W3033811110",
+    "pdf_url": "http://www.theseus.fi/bitstream/10024/342311/3/Kalka_Jerome.pdf",
+    "pmc_url": null,
+    "oa_locations": [
+      "http://www.theseus.fi/bitstream/10024/342311/3/Kalka_Jerome.pdf"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.5005/jp-journals-10022-1015",
+    "arxiv_id": null,
+    "openalex_id": "W2335607302",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Safety Concerns Regarding the use of Dental Lasers",
+    "abstract": "The laser technology offers a wide range of uses in dentistry with certain advantages to the general dental practitioner like bloodless surgery, minimal postoperative pain, reduction of operative time and high patient acceptance.Patient acceptance has also been demonstrated in various studies.Despite these major advantages, safety regarding the use of lasers cannot be neglected.It has become an important concern in this modern era of dentistry because of the growing application of the technology.Potential hazards can be encountered while using lasers like the ocular hazards, tissue injury, inhaling the vapors emitted by the laser procedure, fire, explosion hazards, etc.The safe use of lasers should be ensured by the individuals who might be exposed either deliberately or accidently while using lasers.Effective measures should also be undertaken by clinicians and health professionals to minimize the injuries caused due to laser accidents.This article explores the risks involved in the use of lasers in dentistry and suggests some of the laser safety protocols/measures that can be established in the dental office for prevention of laser injuries.",
+    "authors": [
+      {
+        "name": "Gurminder Singh",
+        "orcid": "https://orcid.org/0000-0001-5921-9638",
+        "affiliation": "Gian Sagar Dental College and Hospital",
+        "country": "IN",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ramandeep Singh Gambhir",
+        "orcid": "https://orcid.org/0000-0002-4045-474X",
+        "affiliation": "Gian Sagar Dental College and Hospital",
+        "country": "IN",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Daljit Kapoor",
+        "orcid": null,
+        "affiliation": "Gian Sagar Dental College and Hospital",
+        "country": "IN",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Simarpreet Singh",
+        "orcid": "https://orcid.org/0000-0002-4168-8556",
+        "affiliation": "Gian Sagar Dental College and Hospital",
+        "country": "IN",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Amarinder Kaur",
+        "orcid": null,
+        "affiliation": "Gian Sagar Dental College and Hospital",
+        "country": "IN",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2012,
+    "venue": "International Journal of Laser Dentistry",
+    "issn": "2249-5614",
+    "type": "article",
+    "citation_count": 1,
+    "referenced_works_count": 128,
+    "fwci": 0.0,
+    "cited_by_percentile_year": 93,
+    "topics": [
+      {
+        "id": "T12145",
+        "name": "Dental Anxiety and Anesthesia Techniques",
+        "score": 0.9968000054359436
+      },
+      {
+        "id": "T11566",
+        "name": "Laser Applications in Dentistry and Medicine",
+        "score": 0.9965999722480774
+      },
+      {
+        "id": "T11867",
+        "name": "Traumatic Ocular and Foreign Body Injuries",
+        "score": 0.9944000244140625
+      }
+    ],
+    "keywords": [
+      "Laser",
+      "Dentistry",
+      "Medicine",
+      "Optics",
+      "Physics"
+    ],
+    "sdgs": [
+      {
+        "id": "https://metadata.un.org/sdg/3",
+        "score": 0.7799999713897705,
+        "display_name": "Good health and well-being"
+      }
+    ],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.5005/jp-journals-10022-1015",
+    "openalex_url": "https://openalex.org/W2335607302",
+    "pdf_url": "https://doi.org/10.5005/jp-journals-10022-1015",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://doi.org/10.5005/jp-journals-10022-1015"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.25675/3.021017",
+    "arxiv_id": null,
+    "openalex_id": "W3186420934",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Review, assessment and prioritization for an occupational health and safety management system in a veterinary teaching hospital using the ANSI/AIHA Z10 standard",
+    "abstract": "There are many hazards that could cause employee injuries and illnesses in veterinary hospitals. An effective way to control hazards in any organization is the implementation of an Occupational Health and Safety Management System (OHSMS). However, there are no published reports of any veterinary hospital that has successfully implemented an OHSMS using the ANSI/AIHA Z10 Standard. In 2005, the voluntary standard, Occupational Health and Safety Management Systems (ANSI/AIHA Standard Z10-2005) was published to assist organizations in implementing an OHSMS. This research was focused on the development of the initial stage of an OHSMS at Colorado State University (CSU)'s Veterinary Teaching Hospital (VTH), following the ANSI/AIHA Standard. The VTH was audited in 2003 and 2009 revealing significant health and safety hazards, yet there was little improvement in health and safety performance between the two audits. The rationale for this study was to improve the health and safety performance at the VTH as well as provide a template that other veterinary hospitals may use to develop and implement an OHSMS. Through a health and safety assessment and employee interviews at the VTH, the researcher identified hazards; conducted a comprehensive hazard analysis and risk assessment of the service areas; identified applicable regulations, standards, and requirements; prioritized health and safety issues based on risk; and recommended protective strategies for each service area to lower the health and safety risk. Per the risk assessment and prioritization strategy of the 20 service areas that were evaluated, Large Animal Surgery was the number one service area priority followed by Livestock and Small Animal Surgery. Identified issues in these service areas were related to confined spaces, lack of lock-out tag-out procedures, chemical storage, and zoonotic disease. The service area with the lowest priority rating was Reception/Call Center/Business Office/Medical Records. Except for the Maintenance Service Area risks, all other serious health and safety risks affected all or the majority of the hospital and included violent patients, anesthetic waste gas, zoonotic disease, and lasers.",
+    "authors": [
+      {
+        "name": "Miriam Koesterich",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      },
+      {
+        "name": "Brazile, William Joseph",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Blehm, Kenneth D.",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Hendrickson, Dean A.",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2007,
+    "venue": "Digital Collections of Colorado (Colorado State University)",
+    "issn": null,
+    "type": "article",
+    "citation_count": 1,
+    "referenced_works_count": 35,
+    "fwci": 0.0,
+    "cited_by_percentile_year": 94,
+    "topics": [
+      {
+        "id": "T13164",
+        "name": "Quality and Management Systems",
+        "score": 0.9878000020980835
+      },
+      {
+        "id": "T10809",
+        "name": "Occupational Health and Safety Research",
+        "score": 0.9857000112533569
+      },
+      {
+        "id": "T13036",
+        "name": "Veterinary Practice and Education Studies",
+        "score": 0.9668999910354614
+      }
+    ],
+    "keywords": [
+      "Prioritization",
+      "Check List",
+      "Medicine",
+      "Computer science",
+      "Engineering",
+      "Management science",
+      "Library science"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.25675/3.021017",
+    "openalex_url": "https://openalex.org/W3186420934",
+    "pdf_url": "http://hdl.handle.net/10217/47285",
+    "pmc_url": null,
+    "oa_locations": [
+      "http://hdl.handle.net/10217/47285",
+      "https://doi.org/10.25675/3.021017"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.18203/2394-6040.ijcmph20263229",
+    "arxiv_id": null,
+    "openalex_id": "W7204836813",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Toward evidence-based laser dentistry: wavelength selection, parameter standardization and clinical outcomes",
+    "abstract": "Lasers in dentistry represent a range of wavelength-specific technologies and biological mechanisms rather than a uniform treatment category. This structured comprehensive narrative review examined the principal foundations and clinical domains of contemporary laser dentistry, including laser–tissue interaction, wavelength and parameter selection, periodontics and peri-implant therapy, endodontics, restorative dentistry, prosthodontics, oral surgery, pediatric dentistry, orthodontics, photobiomodulation, and antimicrobial photodynamic therapy. Literature from PubMed, Scopus, and Web of Science was reviewed and interpreted comparatively according to wavelength, target chromophore, emission characteristics, operating parameters, clinical indication, comparator, outcome measures, and degree of clinical support. The evidence showed considerable variation across applications. Selected soft-tissue surgical procedures and wavelength-matched ablative or debonding applications had the clearest clinically established roles, although superiority over conventional approaches was not universal. In periodontics, peri-implant therapy, and endodontics, lasers and antimicrobial photodynamic therapy were better supported as adjuncts to mechanical debridement or chemomechanical disinfection than as independent alternatives. Prosthodontic applications offered useful options for material-specific surface treatment and conservative restoration retrieval, although their effectiveness remained dependent on substrate characteristics and thermal control. Pediatric applications appeared relevant to minimally invasive care and patient acceptance. In orthodontics, evidence was stronger for selected soft-tissue procedures and ceramic bracket debonding than for accelerating tooth movement or consistently reducing pain. The available evidence indicates that lasers should not be considered a single therapeutic category or a universal replacement for conventional methods. Their clinical value is indication-specific and, in many applications, primarily adjunctive.",
+    "authors": [
+      {
+        "name": "Almiqdad Dashti",
+        "orcid": null,
+        "affiliation": "Ministry of Health",
+        "country": "KW",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Mohammad Reda",
+        "orcid": null,
+        "affiliation": "Ministry of Health",
+        "country": "KW",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Abdulaziz Abdullah",
+        "orcid": null,
+        "affiliation": "Ministry of Health",
+        "country": "KW",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Abdulaziz Aladwani",
+        "orcid": null,
+        "affiliation": "Ministry of Health",
+        "country": "KW",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ahmad AlIbrahim",
+        "orcid": null,
+        "affiliation": "Ministry of Health",
+        "country": "KW",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ali Shukrallah",
+        "orcid": null,
+        "affiliation": "Ministry of Health",
+        "country": "KW",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Husain Alshakhs",
+        "orcid": null,
+        "affiliation": "Ministry of Health",
+        "country": "KW",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ahmad Alsediqi",
+        "orcid": null,
+        "affiliation": "Ministry of Health",
+        "country": "KW",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Anfal Alsanea",
+        "orcid": null,
+        "affiliation": "Ministry of Health",
+        "country": "KW",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Fahad Bohendi Alali",
+        "orcid": null,
+        "affiliation": "Ministry of Health",
+        "country": "KW",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Wadhah Alotaibi",
+        "orcid": null,
+        "affiliation": "Ministry of Health",
+        "country": "KW",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Reem Alkandari",
+        "orcid": null,
+        "affiliation": "Ministry of Health",
+        "country": "KW",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Reem Almotawaa",
+        "orcid": null,
+        "affiliation": "Ministry of Health",
+        "country": "KW",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Mshari Aljanfawi",
+        "orcid": null,
+        "affiliation": "Ministry of Health",
+        "country": "KW",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Wadhha Aldousari",
+        "orcid": null,
+        "affiliation": "Ministry of Health",
+        "country": "KW",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2026,
+    "venue": "International Journal of Community Medicine and Public Health",
+    "issn": "2394-6032",
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 66,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T11566",
+        "name": "Laser Applications in Dentistry and Medicine",
+        "score": 0.9610999822616577
+      },
+      {
+        "id": "T10368",
+        "name": "Dental Health and Care Utilization",
+        "score": 0.0066999997943639755
+      },
+      {
+        "id": "T10536",
+        "name": "Endodontics and Root Canal Treatments",
+        "score": 0.006599999964237213
+      }
+    ],
+    "keywords": [
+      "Laser",
+      "Laser therapy",
+      "Ablative case",
+      "Photodynamic therapy",
+      "Debridement (dental)",
+      "Standardization",
+      "Narrative review"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.18203/2394-6040.ijcmph20263229",
+    "openalex_url": "https://openalex.org/W7204836813",
+    "pdf_url": "https://www.ijcmph.com/index.php/ijcmph/article/download/16554/9691",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://www.ijcmph.com/index.php/ijcmph/article/download/16554/9691"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.33915/etd.13179",
+    "arxiv_id": null,
+    "openalex_id": "W7165389394",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Comparison of Push-Pull Air Curtain to Overhead Downdraft Systems on Aerosol Containment and Distribution in Controlled Environments",
+    "abstract": "Comparison of Push-Pull Air Curtain to Overhead Downdraft Systems on Aerosol Containment and Distribution in Controlled Environments. This dissertation looks at the ongoing issue of tiny airborne particles created during medical and dental procedures and evaluates ways to reduce the risk of exposure for healthcare workers and patients to these particles. The first study focuses on the size, how long particles stay in the air, and how far they travel from common medical procedures that create aerosols, showing that tiny particles (less than 5 µm) can stay in the air long enough to escape basic droplet controls. As a transition, the second study compares three air curtain configurations, i.e., Push, Pull, and Push-Pull, in a purpose-built dual-compartment chamber and demonstrates that a well-tuned Push-Pull arrangement consistently delivers the best containment (≈95% under optimized conditions), maintains performance when modest obstructions are introduced, and outperforms single-stream designs. The third study translates the chamber results to realistic clinical rooms by applying Reynolds and Euler number as a dimensionless parameter for scaling and regression based predictions. The scaled models indicate that Push-Pull system can achieve comparable containment in full scale settings, when properly calibrated and integrated with existing ventilation. These studies show that combining targeted engineering controls with routine ventilation and personal protective equipment reduces aerosol escape from procedural zones. The studies also provide partial parameters (jet velocity, nozzle geometry, and pressure balance) to guide clinical implementation.",
+    "authors": [
+      {
+        "name": "Manal Mutairi",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2026,
+    "venue": null,
+    "issn": null,
+    "type": "dissertation",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": null,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T10990",
+        "name": "Infection Control and Ventilation",
+        "score": 0.3797999918460846
+      },
+      {
+        "id": "T12208",
+        "name": "Occupational exposure and asthma",
+        "score": 0.08399999886751175
+      },
+      {
+        "id": "T11000",
+        "name": "Infection Control in Healthcare",
+        "score": 0.08330000191926956
+      }
+    ],
+    "keywords": [
+      "Containment (computer programming)",
+      "Overhead (engineering)",
+      "Aerosol",
+      "Nozzle",
+      "Ventilation (architecture)",
+      "Sizing",
+      "Reynolds number",
+      "Mist"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.33915/etd.13179",
+    "openalex_url": "https://openalex.org/W7165389394",
+    "pdf_url": "https://researchrepository.wvu.edu/cgi/viewcontent.cgi?article=13910&context=etd",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://researchrepository.wvu.edu/cgi/viewcontent.cgi?article=13910&context=etd",
+      "https://researchrepository.wvu.edu/context/etd/article/13910/viewcontent/auto_convert.pdf"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.1002/9781394205356.ch5",
+    "arxiv_id": null,
+    "openalex_id": "W4406258176",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Therapy Laser Safety",
+    "abstract": "Do no harm. Is laser therapy safe for veterinary patients and personnel? This chapter discusses not only the safe utilization of laser equipment by staff in the clinical environment, but also reviews (and even challenges) well-established safety stigmas of administering photobiomodulation therapy to veterinary patients.",
+    "authors": [
+      {
+        "name": "Christopher J. Winkler",
+        "orcid": "https://orcid.org/0009-0001-7834-9523",
+        "affiliation": "Suffolk University",
+        "country": "US",
+        "is_first": true,
+        "is_corresponding": true
+      }
+    ],
+    "year": 2025,
+    "venue": null,
+    "issn": null,
+    "type": "other",
+    "citation_count": 0,
+    "referenced_works_count": 62,
+    "fwci": null,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T11566",
+        "name": "Laser Applications in Dentistry and Medicine",
+        "score": 0.9998000264167786
+      },
+      {
+        "id": "T12145",
+        "name": "Dental Anxiety and Anesthesia Techniques",
+        "score": 0.9886999726295471
+      },
+      {
+        "id": "T13869",
+        "name": "Ocular and Laser Science Research",
+        "score": 0.9501000046730042
+      }
+    ],
+    "keywords": [
+      "Harm",
+      "Laser therapy",
+      "Medicine",
+      "Laser",
+      "Medical emergency",
+      "Intensive care medicine",
+      "Veterinary medicine",
+      "Psychology",
+      "Optics",
+      "Physics"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.1002/9781394205356.ch5",
+    "openalex_url": "https://openalex.org/W4406258176",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/9781394205356.ch5",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/9781394205356.ch5"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": null,
+    "arxiv_id": null,
+    "openalex_id": "W7208893777",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "2024 Summer Conference: Office of Undergraduate Research",
+    "abstract": "Occurring July 25, 2024, this conference gave summer researchers an opportunity to share their work through poster presentations and engage with the Virginia Tech community.",
+    "authors": [],
+    "year": 2024,
+    "venue": "VTechWorks (Virginia Tech)",
+    "issn": null,
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T13800",
+        "name": "Earthquake and Disaster Impact Studies",
+        "score": 0.019099999219179153
+      },
+      {
+        "id": "T14335",
+        "name": "Educational Robotics and Engineering",
+        "score": 0.010099999606609344
+      },
+      {
+        "id": "T13280",
+        "name": "Biomedical and Engineering Education",
+        "score": 0.00860000029206276
+      }
+    ],
+    "keywords": [
+      "Undergraduate research",
+      "Work (physics)",
+      "Undergraduate student",
+      "Virginia tech",
+      "Undergraduate education"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": null,
+    "openalex_url": "https://openalex.org/W7208893777",
+    "pdf_url": "https://vtechworks.lib.vt.edu/bitstreams/ddde8717-da18-4037-9796-a714e681179f/download",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://vtechworks.lib.vt.edu/bitstreams/ddde8717-da18-4037-9796-a714e681179f/download"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.1002/9781119830306.ch4",
+    "arxiv_id": null,
+    "openalex_id": "W4399878359",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Safety Considerations for Laser and Radiographic Procedures and Magnetic Resonance Imaging",
+    "abstract": "Laser surgery, radiographic procedures, and magnetic resonance imaging each present a unique set of dangers for patients as well as the individuals managing anesthesia. This chapter describes the dangers associated with each of these situations in order to allow anesthetists to take appropriate steps to prevent or manage an adverse event involving themselves or their patients. The authors provide advice for safe patient care, anesthetic management, patient monitoring, and emergency care in these challenging and potentially hazardous situations.",
+    "authors": [
+      {
+        "name": "Julie Ann Smith",
+        "orcid": "https://orcid.org/0000-0002-4175-0823",
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Carrie Davis",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2024,
+    "venue": null,
+    "issn": null,
+    "type": "other",
+    "citation_count": 0,
+    "referenced_works_count": 51,
+    "fwci": null,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T10844",
+        "name": "Radiation Dose and Imaging",
+        "score": 0.9962000250816345
+      },
+      {
+        "id": "T11867",
+        "name": "Traumatic Ocular and Foreign Body Injuries",
+        "score": 0.9916999936103821
+      },
+      {
+        "id": "T10630",
+        "name": "Orthopedic Surgery and Rehabilitation",
+        "score": 0.9858999848365784
+      }
+    ],
+    "keywords": [
+      "Magnetic resonance imaging",
+      "Radiography",
+      "Laser",
+      "Medicine",
+      "Radiology",
+      "Nuclear medicine",
+      "Medical physics",
+      "Optics",
+      "Physics"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.1002/9781119830306.ch4",
+    "openalex_url": "https://openalex.org/W4399878359",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/9781119830306.ch4",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/9781119830306.ch4"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.62906/bs.book.158",
+    "arxiv_id": null,
+    "openalex_id": "W4403648743",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "The Latest Laser Medical Devices Used in Stone Fragmentation",
+    "abstract": "Buy The Latest Laser Medical Devices Used in Stone Fragmentation edited by Hiba Abbas Amin Kazem, Baneen Wammedh Abd Al-Hussein Manher, Hadeel Khairallah Laftah and Bint Al-Huda Dhaher Jabor at low price.",
+    "authors": [
+      {
+        "name": "Hiba Abbas Amin Kazem",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Baneen Wammedh Abd Al-Hussein Manher",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Hadeel Khairallah Laftah",
+        "orcid": null,
+        "affiliation": "University of Babylon",
+        "country": "IQ",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Bint Al-Huda Dhaher Jabor",
+        "orcid": null,
+        "affiliation": null,
+        "country": null,
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2024,
+    "venue": "Bright Sky Publications eBooks",
+    "issn": null,
+    "type": "book",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T11867",
+        "name": "Traumatic Ocular and Foreign Body Injuries",
+        "score": 0.989799976348877
+      },
+      {
+        "id": "T11566",
+        "name": "Laser Applications in Dentistry and Medicine",
+        "score": 0.9090999960899353
+      }
+    ],
+    "keywords": [
+      "Fragmentation (computing)",
+      "Laser",
+      "Materials science",
+      "Computer science",
+      "Optics",
+      "Physics",
+      "Operating system"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.62906/bs.book.158",
+    "openalex_url": "https://openalex.org/W4403648743",
+    "pdf_url": "https://www.bspublications.com/book-pdf/1727328655-the-latest-laser-medical-devices-used-in-stone-fragmentation.pdf",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://www.bspublications.com/book-pdf/1727328655-the-latest-laser-medical-devices-used-in-stone-fragmentation.pdf"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.5281/zenodo.7404319",
+    "arxiv_id": null,
+    "openalex_id": "W4320930582",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "APPLICATIONS OF LASER ASA TOOL IN THE MANAGEMENT OF SOFT TISSUE LESIONS - A REVIEW",
+    "abstract": "Lasers are making significant contributions to every step in the practice of dentistry, from diagnosis to preventive measures. A laser, an acronym for light amplification by stimulated emission of radiation. In recent years, improved understanding of light -tissue interactions and of greatest importance, new technologies for delivering laser light to the tissue, has transformed laser light into versatile and valuable one. Laser is one of the minimally invasive procedures, it can be used as a treatment tool for both hard and soft tissues with less discomfort to the patient. In this review article, we will be discussing about its uses in the management of soft tissue lesions.",
+    "authors": [
+      {
+        "name": "Jaisankar Sowmiya",
+        "orcid": null,
+        "affiliation": "Karpagam Academy of Higher Education",
+        "country": "IN",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "R.R. Mahendra Raj",
+        "orcid": null,
+        "affiliation": "Karpagam Academy of Higher Education",
+        "country": "IN",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "K.R. Shakila",
+        "orcid": null,
+        "affiliation": "Karpagam Academy of Higher Education",
+        "country": "IN",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "G. Sasipriyadarsini",
+        "orcid": null,
+        "affiliation": "Karpagam Academy of Higher Education",
+        "country": "IN",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2022,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "issn": null,
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 0,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T11566",
+        "name": "Laser Applications in Dentistry and Medicine",
+        "score": 0.9603999853134155
+      }
+    ],
+    "keywords": [
+      "Soft tissue",
+      "Laser",
+      "Medicine",
+      "Computer science",
+      "Biomedical engineering",
+      "Pathology",
+      "Medical physics",
+      "Optics",
+      "Physics"
+    ],
+    "sdgs": [],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.5281/zenodo.7404319",
+    "openalex_url": "https://openalex.org/W4320930582",
+    "pdf_url": "https://zenodo.org/record/7404319",
+    "pmc_url": null,
+    "oa_locations": [
+      "https://zenodo.org/record/7404319",
+      "https://doi.org/10.5281/zenodo.7404319"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  },
+  {
+    "doi": "10.33574/hjog.1855",
+    "arxiv_id": null,
+    "openalex_id": "W3200112875",
+    "ss_paper_id": null,
+    "pmid": null,
+    "pmcid": null,
+    "source_native_id": null,
+    "title": "Energy sources in gynecologic laparoscopic surgery",
+    "abstract": "A number of energy sources are used in gynecologic laparoscopy. Monopolar electrosurgery, bipolar electrosurgery, advanced bipolar devices, ultrasonic energy and various types of lasers are some of the technologies used nowadays to facilitate surgeons tasks during laparoscopic operations. A lack of basic knowledge or ignorance of principles of electrosurgery and equipment among obstetricians and gynecologists is reported. As a result thermal injuries during laparoscopic electrosurgery occur, which frequently lead to significant morbidity and mortality and medicolegal actions. It is important though that surgeons have an understanding of the biophysics of these technologies in order to understand their limitations and potential dangers and to utilize the most appropriate energy source in the appropriate clinical setting to minimize the risk of a potential complication. This review provides an overview of the basic principles of these energy sources, the tissue effects and the complications that may arise. It aims to highlight any potential advantages or disadvantages of various energy sources and help surgeons to achieve better knowledge of their instrumentation.",
+    "authors": [
+      {
+        "name": "Nikolaos Kathopoulis",
+        "orcid": "https://orcid.org/0000-0002-0031-809X",
+        "affiliation": "National and Kapodistrian University of Athens",
+        "country": "GR",
+        "is_first": true,
+        "is_corresponding": false
+      },
+      {
+        "name": "Αθανάσιος Πρωτόπαπας",
+        "orcid": "https://orcid.org/0000-0001-9395-9162",
+        "affiliation": "National and Kapodistrian University of Athens",
+        "country": "GR",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Ioannis Xatzipapas",
+        "orcid": null,
+        "affiliation": "National and Kapodistrian University of Athens",
+        "country": "GR",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Panagiotis Antsaklis",
+        "orcid": null,
+        "affiliation": "National and Kapodistrian University of Athens",
+        "country": "GR",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Dimitrios Zacharakis",
+        "orcid": "https://orcid.org/0000-0002-5099-9452",
+        "affiliation": "National and Kapodistrian University of Athens",
+        "country": "GR",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Konstantinos Samartzis",
+        "orcid": "https://orcid.org/0000-0002-5420-7205",
+        "affiliation": "National and Kapodistrian University of Athens",
+        "country": "GR",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Konstantinos Kipriotis",
+        "orcid": null,
+        "affiliation": "National and Kapodistrian University of Athens",
+        "country": "GR",
+        "is_first": false,
+        "is_corresponding": false
+      },
+      {
+        "name": "Dimitrios Loutradis",
+        "orcid": null,
+        "affiliation": "National and Kapodistrian University of Athens",
+        "country": "GR",
+        "is_first": false,
+        "is_corresponding": false
+      }
+    ],
+    "year": 2019,
+    "venue": "Hellenic Journal of Obstetrics and Gynecology",
+    "issn": "2241-9276",
+    "type": "article",
+    "citation_count": 0,
+    "referenced_works_count": 51,
+    "fwci": 0.0,
+    "cited_by_percentile_year": null,
+    "topics": [
+      {
+        "id": "T11728",
+        "name": "Thyroid and Parathyroid Surgery",
+        "score": 0.9932000041007996
+      }
+    ],
+    "keywords": [
+      "Electrosurgery",
+      "Laparoscopy",
+      "Medicine",
+      "Instrumentation (computer programming)",
+      "Ignorance",
+      "Medical physics",
+      "Surgery",
+      "Risk analysis (engineering)",
+      "Computer science"
+    ],
+    "sdgs": [
+      {
+        "id": "https://metadata.un.org/sdg/3",
+        "score": 0.5,
+        "display_name": "Good health and well-being"
+      },
+      {
+        "id": "https://metadata.un.org/sdg/7",
+        "score": 0.41999998688697815,
+        "display_name": "Affordable and clean energy"
+      }
+    ],
+    "is_oa": true,
+    "tldr": null,
+    "influential_citation_count": null,
+    "funders": [],
+    "license": [],
+    "clinical_trial_number": null,
+    "mesh_terms": [],
+    "publication_types": [],
+    "arxiv_categories": [],
+    "arxiv_comment": null,
+    "doi_url": "https://doi.org/10.33574/hjog.1855",
+    "openalex_url": "https://openalex.org/W3200112875",
+    "pdf_url": "http://hjog.org/wp-content/pdf/2019/02_Kathopoulis_Review.pdf",
+    "pmc_url": null,
+    "oa_locations": [
+      "http://hjog.org/wp-content/pdf/2019/02_Kathopoulis_Review.pdf"
+    ],
+    "journal_metric": null,
+    "journal_rank": null,
+    "rcs": null,
+    "rcs_reasoning": null,
+    "rcs_flag": null,
+    "sources": [
+      "openalex"
+    ],
+    "discovery_path": null
+  }
+]
