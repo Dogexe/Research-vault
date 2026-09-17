@@ -67,9 +67,11 @@ INTERPRETATION: the current gap is an ex vivo oral-soft-tissue study that combin
 ## 8. Links to canonical evidence/synthesis notes
 
 - Delivered power: [[04 Evidence/Set Power vs Measured Output]], [[04 Evidence/Power Loss and Deviation Across Dental Diode Devices]], [[04 Evidence/Power Output and Tissue Effect]]
-- Thermal damage and specimen quality: [[04 Evidence/Thermal Artifact]], [[04 Evidence/Surgical Margins]], [[04 Evidence/Biopsy Specimen Quality]]
+- Speed/movement: [[06 Synthesis/Incision Speed and Movement in Diode Laser Tissue Interaction]]
+- Thermal damage: [[04 Evidence/Thermal Artifact]]
+- Specimen quality: [[04 Evidence/Surgical Margins]], [[04 Evidence/Biopsy Specimen Quality]]
 - Technical and clinical context: [[06 Synthesis/Diode Laser Biopsy Specimen Quality]], [[06 Synthesis/Contradictions in Diode Laser Biopsy Evidence]], [[06 Synthesis/Research Gaps in Dental Diode Laser Output]]
-- Novelty/prior art: [[06 Synthesis/Novelty Matrix - Diode Laser Biopsy]], [[06 Synthesis/Novelty Check - Prior Systematic Review]]
+- Novelty/prior art (authoritative gap/novelty source): [[06 Synthesis/Novelty Matrix - Diode Laser Biopsy]], [[06 Synthesis/Novelty Check - Prior Systematic Review]]
 - Supporting rationale only: [[06 Synthesis/Preset Reliance and Technical Misuse in Dental Laser Use]], [[05 Devices/Device Index]]
 - Structured source extractions: [[07 Data]]; provenance and processing history: [[90 Agent/Processing Logs/Diode Laser Biopsy - Processing Log]]
 

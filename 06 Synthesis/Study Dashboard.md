@@ -2,7 +2,9 @@
 
 Auto-generated Dataview tables over `07 Data/` frontmatter. Source of truth is still the prose extraction in each note — this dashboard is a queryable index, not a replacement for reading the underlying evidence.
 
-**Coverage note:** only notes with the YAML schema applied populate these tables — the schema-tagged set has grown past its original 12-note pilot batch (23 tagged notes in `07 Data/` as of 2026-09-14; see [[99 Templates/Study Metadata Schema]] for field definitions). Un-tagged `07 Data/` notes simply do not appear yet — their absence is a coverage gap, not a finding that they lack the property. This count should be re-verified against the repository (e.g. a search for `classification:` in `07 Data/`) rather than assumed, since it will keep growing as more notes are tagged.
+**Coverage note:** only notes with the YAML schema applied populate these tables — the schema-tagged set has grown past its original 12-note pilot batch. **Current count: 35 tagged notes in `07 Data/` as of 2026-09-17** (re-verified by searching for `classification:` in `07 Data/`; the earlier "23 as of 2026-09-14" figure below is historical, kept for the v1.1 patch's own record, not the current count). See [[99 Templates/Study Metadata Schema]] for field definitions. Un-tagged `07 Data/` notes simply do not appear yet — their absence is a coverage gap, not a finding that they lack the property. This count should be re-verified against the repository rather than assumed, since it will keep growing as more notes are tagged.
+
+**Schema version:** now **v1.3** (see [[99 Templates/Study Metadata Schema]]). v1.3 adds `speed_varied` (whether incision speed was varied as an independent experimental condition) and `thermal_damage_measure` (the specific reported thermal-damage/coagulation/necrosis measure) on top of v1.2's `specimen_interpretability`. **Rollout is partial:** as of 2026-09-17, `speed_varied` is populated on 7 of 35 tagged notes and `thermal_damage_measure` on 15 of 35 — a coverage gap in the *rollout*, not evidence the other notes lack the property. `specimen_interpretability` (v1.2) is fully rolled out across all 35 tagged notes.
 
 **Canonical research question** (see [[01 Projects/Diode Laser Biopsy]]): How do diode-laser operating parameters, independently measured delivered power, and incision speed/movement affect thermal tissue damage and biopsy-oriented histopathologic specimen quality in ex vivo oral soft tissue? Presets/manufacturer guidance, operator knowledge/training, and laser safety are supporting rationale only. Clinical diagnostic-biopsy literature (Table A below) remains translational/context evidence, not the primary ex vivo endpoint.
 
@@ -18,7 +20,8 @@ Auto-generated Dataview tables over `07 Data/` frontmatter. Source of truth is s
   - `CORE BIOPSY` — a real (human or animal) diagnostic or excisional biopsy pathway; a lesion is excised and/or a histopathologic diagnosis is rendered.
   - `SUPPORTING TECHNICAL` — controlled bench/ex vivo characterization of cutting, thermal, or power behavior; no lesion, no diagnosis. A study can be methodologically central to this project's technical chain (e.g. Hanke 2021, Strakas 2023) while still carrying this classification — its importance is explained in prose/dashboard notes, not by inventing a new tier.
   - `BACKGROUND` — general/contextual literature not itself reporting new operating-parameter or outcome data (not yet used among the tagged notes below).
-- **`diagnostic_outcome` is clinical context, not the primary ex vivo endpoint.** Ex vivo/bench studies are expected to show `diagnostic_outcome: false` — that is not a limitation of those studies, it reflects that they were never designed to produce a diagnosis. Only `CORE BIOPSY` studies are expected to carry a diagnostic outcome.
+- **`diagnostic_outcome` is clinical context, not the primary ex vivo endpoint.** Ex vivo/bench studies are expected to show `diagnostic_outcome: false` — that is not a limitation of those studies, it reflects that they were never designed to produce a diagnosis. Only `CORE BIOPSY` studies are expected to carry a diagnostic outcome. Where a source reports both, this vault treats `specimen_interpretability` — a whole-specimen readability/adequacy judgment — as the more direct biopsy-quality construct for this project's RQ; `diagnostic_outcome` alone (a bare yes/no diagnosis) does not substitute for it.
+- **Thermal damage (`thermal_damage`, `thermal_damage_measure`) and specimen quality (`margin_quality`, `tissue_architecture`, `specimen_interpretability`) are tracked as separate outcome families and must not be conflated.** A study reporting thermal damage has not thereby reported anything about specimen quality, and vice versa — see [[01 Projects/Diode Laser Biopsy]] §3.
 - **`speed_control: unknown` is the default**, not a fallback of last resort, whenever a numeric speed is reported but the source does not explicitly describe how that speed was controlled or verified. A reported number alone never justifies `mechanized` or `clinician-controlled`.
 
 ## A. Core biopsy studies
@@ -77,7 +80,7 @@ SORT file.name ASC
 
 **Reading this table:** existing diode-laser studies already demonstrate independently measured output, a reported incision speed, and histologic tissue-effect assessment. What none of the rows above also carry is `biopsy_oriented: true` — none excise a real lesion or assess biopsy-oriented specimen-quality outcomes (margin readability, tissue-architecture preservation, diagnostic outcome). The remaining potential gap is applying this measurement rigor to biopsy-oriented histopathologic specimen-quality outcomes in an ex vivo oral soft-tissue model — not the absence of measured power, not the absence of a reported speed, and not the absence of histology individually. This is **not** a claim that no such study exists anywhere, and **not** a "first ever" claim — see [[06 Synthesis/Novelty Matrix - Diode Laser Biopsy]] for the full prose analysis this table summarizes.
 
-(Table B has grown to 11 rows since [[07 Data/Prado et al 2022 - Micro vs Super Pulsed Diode Laser Ex Vivo Thermal Damage Data|Prado et al. 2022]] was tagged — see the validation note below for the count at the time of the v1.1 patch itself. Table D below gives the fuller histology-specific breakdown.)
+(Table B stood at 11 rows when [[07 Data/Prado et al 2022 - Micro vs Super Pulsed Diode Laser Ex Vivo Thermal Damage Data|Prado et al. 2022]] was first tagged — now 15; see "Current counts" below for the present figure and the historical v1.1 validation note for the count at the time of that patch. Table D below gives the fuller histology-specific breakdown.)
 
 ## D. Histopathologic specimen-quality outcome coverage
 
@@ -91,7 +94,9 @@ measured_power,
 measured_power_value_reported,
 speed_mm_s,
 speed_control,
+speed_varied,
 thermal_damage,
+thermal_damage_measure,
 margin_quality,
 tissue_architecture,
 diagnostic_outcome,
@@ -106,7 +111,8 @@ SORT file.name ASC
 
 **How to read this table:**
 
-- `thermal_damage: true` alone does **not** mean good or poor specimen quality — it only records that thermal damage/effect was reported as an outcome (quantified or qualitative), not its magnitude or clinical significance.
+- `thermal_damage: true` alone does **not** mean good or poor specimen quality — it only records that thermal damage/effect was reported as an outcome (quantified or qualitative), not its magnitude or clinical significance. `thermal_damage_measure` (v1.3) gives the short, source-faithful description of that measure where rolled out; a blank cell here can mean either "not reported" or "not yet tagged under v1.3" (see the Coverage note above) — never assume the former without checking the note.
+- `speed_varied` (v1.3) records whether incision speed was tested as an independent experimental condition (`true`), held fixed (`false`), or not reported/unclear (`null`) — distinct from `speed_mm_s` (the value(s) themselves) and `speed_control` (how the value was produced). See [[06 Synthesis/Incision Speed and Movement in Diode Laser Tissue Interaction]] for the prose synthesis of which studies vary speed.
 - `margin_quality` and `tissue_architecture` are free-text v1 fields (see [[99 Templates/Study Metadata Schema]]) and may contain heterogeneous descriptions — a quantified µm distance, a qualitative statement, or a margin-*width* recommendation — rather than a standardized score. Do not compare cells across rows as if they were the same scale.
 - `diagnostic_outcome` is mainly clinical/translational context here, not this project's primary ex vivo endpoint (see the Legend above and [[01 Projects/Diode Laser Biopsy]]).
 - `specimen_interpretability` (added in schema v1.2) is a heterogeneous free-text field for explicit specimen/slide readability or adequacy judgments. It is not a standardized scale and should not be compared numerically across studies. A `null` cell here means no distinct interpretability construct was reported under the schema definition — it does **not** mean the specimen was uninterpretable.
@@ -115,7 +121,18 @@ SORT file.name ASC
 - A blank/`null` cell means not reported / not applicable / unresolved per schema rules (see [[99 Templates/Study Metadata Schema]]) — **never** treat it as proof the phenomenon was absent from the underlying study or from the wider literature.
 - Absence of an otherwise-qualifying study from this table can also reflect incomplete schema rollout (an untagged `07 Data/` note) rather than a property of the study itself — see the Coverage note above.
 
-## Validation note (schema v1.1 maintenance patch)
+## Current counts (refreshed 2026-09-17)
+
+Re-counted directly against `07 Data/` frontmatter (not the dataview render, to catch quoting/formatting variance the queries above tolerate but a manual audit should not assume away):
+
+- **Table A (CORE BIOPSY):** 14 rows.
+- **Table B (measured power OR reported speed, diode, non-BACKGROUND):** 15 rows.
+- **Table C (measured power AND reported speed AND histology, diode, non-BACKGROUND):** 4 rows — Goharkhay 1999, Hanke 2021, Strakas 2023, and Liu et al. 2025 (newly qualifying since the counts below were last narrated).
+- **Table D (diode, histology, non-BACKGROUND):** 24 rows.
+
+These are current figures, not a patch delta — see the historical v1.1 validation note immediately below for the schema-patch narrative that produced the v1.1 figures, which are preserved as history and are **not** current counts.
+
+## Validation note (schema v1.1 maintenance patch, historical — figures below are as of the 2026-09-14 patch, not current)
 
 A 10-note stress-test batch (Isola 2018, Romeo 2014, Gambino 2026, Li 2022, Romanos 2022, Suter 2010, Kim 2020, Wilder-Smith 1995, Gutiérrez-Corrales 2020, Romanos 2013) surfaced two schema/dashboard defects, now fixed as v1.1:
 
@@ -132,5 +149,6 @@ All 22 tagged notes re-validated after this patch: YAML parses cleanly on every 
 
 - [[99 Templates/Study Metadata Schema]] — field definitions and allowed values
 - [[06 Synthesis/Novelty Matrix - Diode Laser Biopsy]] — prose analysis this dashboard summarizes in queryable form
+- [[06 Synthesis/Incision Speed and Movement in Diode Laser Tissue Interaction]] — prose synthesis behind `speed_mm_s`/`speed_control`/`speed_varied`
 - [[01 Projects/Diode Laser Biopsy]] — canonical research question and experimental chain
 - [[04 Evidence/Power Output and Tissue Effect]]

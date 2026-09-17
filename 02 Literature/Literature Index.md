@@ -82,7 +82,11 @@ Priority reflects RQ relevance, novelty/prior-art value, and outcome/method cont
 
 ## Preset / Manufacturer
 
-- [[02 Literature/10.1007/s10103-013-1266-9|Seoane et al. 2013]]
+This heading previously pointed only to Seoane et al. 2013, which is not a preset/manufacturer source — misleading navigation, now fixed to point to this vault's actual preset-rationale synthesis and its underlying verified-manufacturer/measured-output sources.
+
+- Preset-rationale synthesis (canonical): [[06 Synthesis/Preset Reliance and Technical Misuse in Dental Laser Use]]
+- Verified manufacturer/measured-output sources (independent power-meter measurement against a set/panel value, not a manufacturer claim taken at face value): [[05 Devices/Device Index]] — see its "Devices with independent measured-output data" section
+- Underlying literature: [[02 Literature/10.3390/photonics9040219|Xue et al. 2022]], [[02 Literature/10.3390/app10124167|Kim et al. 2020]]
 
 ## Safety / Thermal
 
@@ -147,12 +151,21 @@ Priority reflects RQ relevance, novelty/prior-art value, and outcome/method cont
 
 ## Needs Review
 
+**Two different things share this heading — do not conflate them.** "Reading incomplete" is a Zotero/reading-status fact: no full text was available, so extraction is abstract-level only. `needs_verification: true` is a separate, structured `07 Data/` frontmatter field (see [[99 Templates/Study Metadata Schema]]): the source *was* read in full, but the note itself flags an internal discrepancy or ambiguous boundary case a human should re-check. A paper can be in neither, either, or (in principle) both groups — they are not interchangeable, and a paper leaving one group does not put it in the other.
+
+**Reading incomplete (abstract-only / full text not obtained):**
+
 - [[Oral laser surgical pathology_ a preliminary study on the clinical advantages of diode laser and on the histopathological features of specimens evaluated by conventional and confocal laser scanning microscopy|Capodiferro et al. 2008]]
 - [[CO2 and diode laser for excisional biopsies of oral mucosal lesions. A pilot study evaluating clinical and histopathological parameters|Suter et al. 2010]]
 - [[02 Literature/10.1177/25785478261465277|Lu et al. 2026]]
-- [[Phenomenon of laser power loss during curettage of infected periodontal pockets|Zegaib et al. 2011]]
-- [[02 Literature/10.3390/dj14030168|Gambino/Alessio et al. 2026]]
 - [[Research and Innovation in Orofacial Laserology|Research and Innovation in Orofacial Laserology (Sattayut)]]
+
+**Flagged `needs_verification: true` (full text read; extraction has a flagged discrepancy — see the corresponding `07 Data/` note for specifics):**
+
+- [[Phenomenon of laser power loss during curettage of infected periodontal pockets|Zegaib et al. 2011]] — see [[07 Data/Zegaib et al 2011 - Fiber Tip Power Loss During Periodontal Curettage]]
+- [[02 Literature/10.1002/cre2.670|Prado et al. 2022]] — see [[07 Data/Prado et al 2022 - Micro vs Super Pulsed Diode Laser Ex Vivo Thermal Damage Data]] (Table 1 extraction/rendering issue, flagged in the note)
+
+Gambino/Alessio et al. 2026 was previously listed here; full text has since been retrieved and processed, and its `07 Data/` note carries `needs_verification: false`. Removed as stale — it belongs in neither group above.
 
 ## Role-Untagged
 

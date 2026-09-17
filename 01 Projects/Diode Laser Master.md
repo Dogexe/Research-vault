@@ -4,9 +4,11 @@ Main hub for research on dental diode lasers, laser presetting, power output, po
 
 ## Logic chain
 
-Device preset → actual delivered output → operating parameters → tissue interaction → biopsy specimen quality
+`Operating parameters` + `measured delivered power` + `speed/movement` → `thermal damage` + `biopsy specimen quality`
 
-This vault's existing power-output/power-loss evidence (below) covers the first two links. The tissue-interaction and biopsy-specimen-quality links are tracked in the companion project [[01 Projects/Diode Laser Biopsy]], which does not duplicate or alter this note's existing content.
+This is the canonical research chain, matching [[01 Projects/Diode Laser Biopsy]]'s current RQ — see that project for the full chain, evidence links, and novelty analysis. This vault's existing power-output/power-loss evidence (below) supports the delivered-power link; the speed/movement, thermal-damage, and specimen-quality links are tracked in that companion project, which does not duplicate or alter this note's existing content.
+
+**Supporting rationale (not part of the experimental chain above):** device presets/manufacturer guidance, operator knowledge/training, and laser safety provide problem framing and context only — see [[06 Synthesis/Preset Reliance and Technical Misuse in Dental Laser Use]] and [[05 Devices/Device Index]].
 
 ## Workflow
 
