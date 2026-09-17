@@ -74,6 +74,7 @@ INTERPRETATION: the current gap is an ex vivo oral-soft-tissue study that combin
 - Novelty/prior art (authoritative gap/novelty source): [[06 Synthesis/Novelty Matrix - Diode Laser Biopsy]], [[06 Synthesis/Novelty Check - Prior Systematic Review]]
 - Supporting rationale only: [[06 Synthesis/Preset Reliance and Technical Misuse in Dental Laser Use]], [[05 Devices/Device Index]]
 - Structured source extractions: [[07 Data]]; provenance and processing history: [[90 Agent/Processing Logs/Diode Laser Biopsy - Processing Log]]
+- Supporting comprehensive narrative (background/provenance only, not canonical for current RQ/gap decisions): [[06 Synthesis/Literature Review - Diode Laser Biopsy]]
 
 ### Direct technical precedent: Hanke and Strakas
 
