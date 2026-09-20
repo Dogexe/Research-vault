@@ -11,17 +11,30 @@
             "id": "f928cdda5a3dae30",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-09-16 16.03.30.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-09-16 16.03.30.excalidraw"
+            }
+          },
+          {
+            "id": "4661c3aa734d727a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Present/3 topic review.md",
+                "file": "01 Projects/Diode Laser Biopsy.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 topic review"
+              "title": "Diode Laser Biopsy"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,17 +252,37 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "f928cdda5a3dae30",
+  "active": "4661c3aa734d727a",
   "lastOpenFiles": [
-    "06 Synthesis/Novelty Check - Prior Systematic Review.md",
-    "06 Synthesis/Novelty Matrix - Diode Laser Biopsy.md",
+    "07 Data.md",
     "06 Synthesis/Preset Reliance and Technical Misuse in Dental Laser Use.md",
-    "Present/3 topic review.md",
     "01 Projects/Diode Laser Biopsy.md",
+    "03 Concepts/Glossary/Non-initiated Tip.md",
+    "03 Concepts/Glossary/Initiated Tip.md",
+    "03 Concepts/Glossary/Hot-tip Effect.md",
+    "04 Evidence/Tip Initiation and Fiber Condition - Supporting Evidence.md",
+    "01 Projects/Diode Laser Master.md",
+    "Present/3 topic review.md",
+    "Excalidraw/Research outline.md",
+    "02 Literature/10.1007/s10103-026-05011-2.md",
+    "02 Literature/10.1007/s10103-026-05011-2_6dL1ZN.md",
     "06 Synthesis/Literature Review - Diode Laser Biopsy.md",
-    "06 Synthesis/Incision Speed and Movement in Diode Laser Tissue Interaction.md",
-    "06 Synthesis/Contradictions in Diode Laser Biopsy Evidence.md",
-    "03 Concepts/Operating Parameters.md",
+    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md",
+    "Excalidraw/Drawing 2026-09-16 16.03.30.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-16 16.03.30.excalidraw.restored.md",
+    "Excalidraw/Drawing 2026-09-16 16.03.30.excalidraw.restored_0.md",
+    "create a link.md",
+    "03 Concepts/Glossary/Calibration.md",
+    "03 Concepts/Glossary/Ablation.md",
+    "03 Concepts/Glossary/Photothermal Interaction.md",
+    "03 Concepts/Glossary/Chromophore.md",
+    "02 Literature/10.1007/s10103-020-03243-4.md",
+    "07 Data/Hanke et al 2021 - Eight-Wavelength Diode Cut Efficiency Data.md",
+    "04 Evidence/Biopsy Specimen Quality.md",
+    "02 Literature/10.3390/dj11020028.md",
+    "06 Synthesis/Study Dashboard.md.tmp.12232.5f5b0c7bb290",
+    "01 Projects/Diode Laser Biopsy.md.tmp.12232.3ab93cd367a2",
+    "Untitled.base",
     "01 Projects/Diode Laser Biopsy.md.tmp.29072.d51d5084d496",
     "04 Evidence/Power Output and Tissue Effect.md.tmp.29072.335ac275c5f6",
     "00 Inbox/Shortlist - PubMed Candidates 3-7 (Adjacent, Not Core Diode-Output Evidence).md.tmp.29072.f8f9148ff613",
@@ -257,26 +290,6 @@
     "06 Synthesis/Preset Reliance and Technical Misuse in Dental Laser Use.md.tmp.7720.b2a7e8e0d0d6",
     "06 Synthesis/Preset Reliance and Technical Misuse in Dental Laser Use.md.tmp.7720.25acb85bcdf5",
     "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md.tmp.7720.51cd06a6b790",
-    "01 Projects/Diode Laser Master.md.tmp.7720.12dd87e65a95",
-    "01 Projects/Diode Laser Biopsy.md.tmp.7720.232668028f92",
-    "02 Literature/Literature Index.md.tmp.7720.adcb3cce7166",
-    "04 Evidence/Thermal Artifact.md",
-    "06 Synthesis/Research Gaps in Dental Diode Laser Output.md",
-    "06 Synthesis/Study Dashboard.md",
-    "06 Synthesis/Diode Laser Biopsy Pre-setting Map.md",
-    "06 Synthesis/Current Evidence on Diode Laser Power Output.md",
-    "06 Synthesis/Diode Laser Biopsy Specimen Quality.md",
-    "07 Data/Al-Ani et al 2023 - Dual-Wavelength Diode Operating Parameters.md",
-    "07 Data/Al-Ani et al 2024 - Dual-Wavelength Diode vs Er,Cr YSGG Biopsy Margin Histology Data.md",
-    "02 Literature/10.1016/j.jvsv.2020.10.018.md",
-    "02 Literature/Others/Fahlstedt et al 2021 - Dental Implant Surface Temperatures.md",
-    "02 Literature/Others/Research and Innovation in Orofacial Laserology.md",
-    "02 Literature/Others/Diode Laser Soft-Tissue Surgery_ Advancements Aimed at Consistent Cutting, Improved Clinical Outcomes.md",
-    "02 Literature/Literature Index.md",
-    "02 Literature/Others/Oral laser surgical pathology_ a preliminary study on the clinical advantages of diode laser and on the histopathological features of specimens evaluated by conventional and confocal laser scanning microscopy.md",
-    "02 Literature/Others/Biopsy of Different Oral Soft Tissues Lesions by KTP and Diode Laser_ Histological Evaluation - Romeo - 2014 - The Scientific World Journal - Wiley Online Library.md",
-    "02 Literature/10.1002/lsm.23639.md",
-    "02 Literature/10.1002/cre2.369.md",
     "Untitled.canvas",
     "ยังไม่ได้ตั้งชื่อ 1.canvas",
     "ยังไม่ได้ตั้งชื่อ.canvas",
