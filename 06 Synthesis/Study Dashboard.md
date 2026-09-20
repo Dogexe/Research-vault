@@ -6,7 +6,11 @@ Auto-generated Dataview tables over `07 Data/` frontmatter. Source of truth is s
 
 **Schema version:** now **v1.3** (see [[99 Templates/Study Metadata Schema]]). v1.3 adds `speed_varied` (whether incision speed was varied as an independent experimental condition) and `thermal_damage_measure` (the specific reported thermal-damage/coagulation/necrosis measure) on top of v1.2's `specimen_interpretability`. **Rollout is partial:** as of 2026-09-17, `speed_varied` is populated on 7 of 35 tagged notes and `thermal_damage_measure` on 15 of 35 — a coverage gap in the *rollout*, not evidence the other notes lack the property. `specimen_interpretability` (v1.2) is fully rolled out across all 35 tagged notes.
 
-**Canonical research question** (see [[01 Projects/Diode Laser Biopsy]]): How do diode-laser operating parameters, independently measured delivered power, and incision speed/movement affect thermal tissue damage and biopsy-oriented histopathologic specimen quality in ex vivo oral soft tissue? Presets/manufacturer guidance, operator knowledge/training, and laser safety are supporting rationale only. Clinical diagnostic-biopsy literature (Table A below) remains translational/context evidence, not the primary ex vivo endpoint.
+**Canonical research question** (see [[01 Projects/Diode Laser Biopsy]]): How do diode-laser operating parameters, independently measured delivered power, and incision speed/movement affect thermal tissue damage and biopsy-oriented histopathologic specimen quality in ex vivo oral soft tissue?
+
+**Rationale (summary; canonical text: [[01 Projects/Diode Laser Biopsy#2. Current rationale|Diode Laser Biopsy §2]]):** Nominal diode-laser settings do not fully characterize tissue exposure, because independently measured delivered power can differ from the displayed value and emission characteristics, fiber/tip conditions, and incision speed also matter. Thermal tissue damage and biopsy-oriented specimen quality are related but distinct outcomes and are evaluated separately. Presets/manufacturer guidance, operator knowledge/training, and laser safety are supporting rationale only.
+
+Clinical diagnostic-biopsy literature (Table A below) remains translational/context evidence, not the primary ex vivo endpoint.
 
 ## Legend
 
