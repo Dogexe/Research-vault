@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Projects/Diode Laser Biopsy.md",
+                "file": "03 Concepts/Glossary/Chromophore.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diode Laser Biopsy"
+              "title": "Chromophore"
             }
           }
         ]
@@ -241,6 +241,7 @@
   },
   "active": "f928cdda5a3dae30",
   "lastOpenFiles": [
+    "01 Projects/Diode Laser Biopsy.md",
     "02 Literature/10.1007/s10103-020-03243-4.md",
     "07 Data/Hanke et al 2021 - Eight-Wavelength Diode Cut Efficiency Data.md",
     "04 Evidence/Biopsy Specimen Quality.md",
@@ -255,7 +256,6 @@
     "Untitled.base",
     "06 Synthesis/Novelty Check - Prior Systematic Review.md",
     "06 Synthesis/Novelty Matrix - Diode Laser Biopsy.md",
-    "01 Projects/Diode Laser Biopsy.md",
     "06 Synthesis/Literature Review - Diode Laser Biopsy.md",
     "06 Synthesis/Incision Speed and Movement in Diode Laser Tissue Interaction.md",
     "06 Synthesis/Contradictions in Diode Laser Biopsy Evidence.md",
