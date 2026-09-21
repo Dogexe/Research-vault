@@ -122,7 +122,7 @@
 
 เพิ่มเติม
 
-ชื่อ: A histological evaluation of the surgical margins from human oral fibrous-epithelial lesions excised with CO2 laser, Diode laser, Er:YAG laser, Nd:YAG laser, electrosurgical scalpel and cold scalpel (Monteiro et al., 2019)
+1. ชื่อ: A histological evaluation of the surgical margins from human oral fibrous-epithelial lesions excised with CO2 laser, Diode laser, Er:YAG laser, Nd:YAG laser, electrosurgical scalpel and cold scalpel (Monteiro et al., 2019)
 
 คำถามวิจัย: margin ที่เกิดจากเครื่องมือตัด 6 ชนิดต่างกันอย่างไรในแง่ tissue damage extension (TDE) และความสม่ำเสมอของรอยตัด
 
@@ -135,8 +135,57 @@ Discussion: สรุปว่าเลเซอร์ใช้ตัดได�
 ลิ้ง: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6441595/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6441595/) (PubMed: [https://pubmed.ncbi.nlm.nih.gov/30818322/](https://pubmed.ncbi.nlm.nih.gov/30818322/))
 
 
-
-
-
-Cercadillo-Ibarguren, I., España-Tost, A., Arnabat-Domínguez, J., Valmaseda-Castellón, E., Berini-Aytés, L., & Gay-Escoda, C. (2010). Histologic evaluation of thermal damage produced on soft tissues by CO2, Er,Cr:YSGG and diode lasers. Medicina Oral, Patologia Oral y Cirugia Bucal, 15(6), e912-8. https://doi.org/10.4317/medoral.15.e912
+2. Cercadillo-Ibarguren, I., España-Tost, A., Arnabat-Domínguez, J., Valmaseda-Castellón, E., Berini-Aytés, L., & Gay-Escoda, C. (2010). Histologic evaluation of thermal damage produced on soft tissues by CO2, Er,Cr:YSGG and diode lasers. Medicina Oral, Patologia Oral y Cirugia Bucal, 15(6), e912-8. https://doi.org/10.4317/medoral.15.e912
 ลิ้ง https://www.medicinaoral.com/medoralfree01/v15i6/medoralv15i6p912.pdf
+
+
+3. ชื่อ: Nd:YAG laser versus traditional scalpel. A preliminary histological analysis of specimens from the human oral mucosa (Bevilacqua et al., 2010)
+
+คำถามวิจัย: thermal change จาก Nd:YAG กระทบการวินิจฉัยทาง histopathology และการประเมิน margin หรือไม่ เทียบกับ scalpel
+
+วิธีการ: 26 lesion จากผู้ป่วย 26 ราย แบ่ง 3 กลุ่ม: Nd:YAG 3.5W/60Hz (power density 488,281 W/cm²), Nd:YAG 5W/30Hz, scalpel Bard-Parker no.15c
+
+ผล: คุณภาพรอยตัดดีกว่าและ tissue injury น้อยกว่าในกลุ่ม power ต่ำ+frequency สูง (3.5W/60Hz) เทียบกับ power สูง+frequency ต่ำ (5W/30Hz); ความแตกต่างระหว่าง 2 พารามิเตอร์ Nd:YAG ไม่มีนัยสำคัญทางสถิติในหลายตัวชี้วัด (stromal change p=0.48, vascular stasis p=0.21, incision regularity p=1.00); Nd:YAG ก่อ thermal effect รุนแรงใน specimen ขนาดเล็ก (<7mm) โดยไม่ขึ้นกับ frequency/power ที่ใช้เลย
+
+Discussion: ชี้ว่า "combination" ของพารามิเตอร์ (ไม่ใช่แค่ power ตัวเดียว) กำหนดผลลัพธ์ และขนาด specimen เป็นตัวแปรกวนที่ทำให้ผล unpredictable แม้ตั้งพารามิเตอร์เดียวกัน
+
+ลิ้ง: [https://link.springer.com/article/10.1007/s10103-010-0770-4](https://link.springer.com/article/10.1007/s10103-010-0770-4)
+
+  
+
+4. ชื่อ: A comparative histological and immunohistochemical study of wound healing following incision with a scalpel, CO2 laser or Er,Cr:YSGG laser in the Guinea pig oral mucosa
+
+คำถามวิจัย: เปรียบเทียบ wound healing และ TNF-α/TGF-β1 expression ระหว่าง 3 วิธี (scalpel, CO₂ laser, Er,Cr:YSGG laser)
+
+วิธีการ: guinea pig 5 ตัว เก็บตัวอย่างวันที่ 7 และ 14 หลังผ่าตัด, ย้อม immunohistochemistry
+
+ผล: TGF-β1 expression สูงกว่าที่วันที่ 7 และต่ำกว่าที่วันที่ 14 ใน CO₂ laser wound เทียบกับ scalpel และ Er,Cr:YSGG
+
+Discussion: สรุปว่า Er,Cr:YSGG มี inflammatory response ต่ำและ tissue damage น้อยที่สุด; CO₂ laser แม้ hemostasis ดีกว่า แต่ก่อ tissue damage มากกว่า scalpel และ Er,Cr:YSGG
+
+ลิ้ง: [https://www.tandfonline.com/doi/abs/10.3109/00016357.2011.635598](https://www.tandfonline.com/doi/abs/10.3109/00016357.2011.635598)
+
+5. ชื่อ: Maxillary labial frenectomy: a randomized, controlled comparative study of two blue (445 nm) and infrared (980 nm) diode lasers versus surgical scalpel (Sobouti et al., 2024)
+
+คำถามวิจัย: เปรียบเทียบ intra- และ postoperative complications ของการทำ frenectomy ระหว่าง surgical scalpel กับ diode laser 445nm และ 980nm
+
+วิธีการ: RCT, ผู้ป่วย 174 ราย แบ่ง 3 กลุ่ม (n=58): group 1 diode 445nm CW 1.5W, group 2 diode 980nm CW 1.7W, control group scalpel (V-Y plasty technique); เปรียบเทียบ intra-operative bleeding, discomfort in chewing/speaking, pain, tissue healing ที่ทันที, วันที่ 7 และ 30 ด้วย Kruskal-Wallis, Mann-Whitney, Chi-square test
+
+ผล: pain score กลุ่ม 445nm ต่ำกว่ากลุ่ม 980nm อย่างมีนัยสำคัญทั้งทันทีและวันที่ 7 (P<0.05); tissue healing เร็วกว่าอย่างมีนัยสำคัญในกลุ่ม 445nm เทียบกับกลุ่ม 980nm ที่วันที่ 7 และ 30 (P<0.05); กลุ่ม 445nm ดีกว่ากลุ่ม control ในทุกตัวชี้วัด (bleeding, discomfort, pain, healing) (P<0.05); กลุ่ม 980nm ดีกว่ากลุ่ม control ในด้าน bleeding, discomfort, healing ที่วันที่ 7 (P<0.05)
+
+Discussion: diode laser frenectomy ให้ intra- และ postoperative complications ต่ำกว่า scalpel อย่างมีนัยสำคัญ; diode 445nm ให้ผลดีกว่า diode 980nm อย่างมีนัยสำคัญ
+
+ลิ้ง: [https://link.springer.com/article/10.1186/s12903-024-04364-w](https://link.springer.com/article/10.1186/s12903-024-04364-w) (PMC: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11271033/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11271033/))
+  
+
+6. ชื่อ: Perioperative outcomes of frenectomy using laser versus conventional surgery: a systematic review (Lebret et al., 2021)
+
+คำถามวิจัย: "Does laser improve the perioperative management of patients requiring frenectomy compared to scalpel?" — เปรียบเทียบการจัดการช่วงรอบผ่าตัด (perioperative) ของผู้ป่วยที่ทำ frenectomy ด้วย scalpel เทียบกับ laser
+
+วิธีการ: systematic review ตาม PRISMA guidelines, ค้นจาก PubMed และ Scopus, ใช้ PICO method คัดบทความ; รวมได้ 10 บทความ ผู้ป่วยรวม 375 ราย; ประเมินพารามิเตอร์ก่อนผ่าตัด (anxiety), ระหว่างผ่าตัด (anesthesia, surgery duration, bleeding, suture, difficulty), และหลังผ่าตัด (pain เป็นพารามิเตอร์ที่ถูกศึกษามากที่สุด)
+
+ผล: conventional technique (scalpel) มีค่า postoperative pain และ discomfort สูงกว่าเทคนิค laser; scalpel group มี chewing discomfort สูงกว่าอย่างมีนัยสำคัญวันที่ 1–2 หลังผ่าตัด; wound healing ดีกว่าอย่างมีนัยสำคัญด้วย scalpel ที่ 1 สัปดาห์และ 1 เดือน (จาก 1 การศึกษา); มีผู้ป่วย 1 รายในกลุ่ม scalpel มี post-operative hemorrhage และ 2 รายในกลุ่มเลเซอร์มี superficial bone exposure; การศึกษาเรื่อง fear/anxiety ก่อนผ่าตัดมีน้อยและให้ผลใกล้เคียงกันในทั้งสองเทคนิค
+
+Discussion: laser surgery ให้ hemostasis ที่ดีขึ้นและลดความจำเป็นในการเย็บแผล ถือเป็นข้อได้เปรียบหลักของ laser; แต่ละวิธีมีความเสี่ยงภาวะแทรกซ้อนเฉพาะของตัวเอง ไม่ใช่ว่าเลเซอร์ปลอดภัยกว่าเสมอ
+
+ลิ้ง: [https://www.jomos.org/articles/mbcb/full_html/2021/03/mbcb210058/mbcb210058.html](https://www.jomos.org/articles/mbcb/full_html/2021/03/mbcb210058/mbcb210058.html)
