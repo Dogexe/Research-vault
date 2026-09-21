@@ -119,3 +119,17 @@
   
 
 หมายเหตุการจัดกลุ่ม: รายการที่ 1–2 (Hanke, Strakas) และรายการที่ 7 (Xue) เป็นแกนหลักที่เชื่อมโยงกันได้โดยตรงสำหรับ protocol ของคุณ ส่วนรายการ 8–18 ทั้งหมดควรอยู่ใน [[06 Synthesis/Preset Reliance and Technical Misuse in Dental Laser Use]] ตามที่คุณกำหนดไว้ตั้งแต่ต้นว่าเป็น literature context ไม่ใช่ premise ของ experiment หลัก
+
+เพิ่มเติม
+
+ชื่อ: A histological evaluation of the surgical margins from human oral fibrous-epithelial lesions excised with CO2 laser, Diode laser, Er:YAG laser, Nd:YAG laser, electrosurgical scalpel and cold scalpel (Monteiro et al., 2019)
+
+คำถามวิจัย: margin ที่เกิดจากเครื่องมือตัด 6 ชนิดต่างกันอย่างไรในแง่ tissue damage extension (TDE) และความสม่ำเสมอของรอยตัด
+
+วิธีการ: ตัวอย่าง fibrous-epithelial lesion ของมนุษย์ แบ่ง 6 กลุ่มตามเครื่องมือ, วัด TDE ด้วยกล้องจุลทรรศน์
+
+ผล: เรียงจากเสียหายมากไปน้อย: electrosurgical scalpel (1002.2±434.9μm) > diode laser (913.7±322.5μm) > Nd:YAG (899.8±327.8μm) > CO₂ laser (538.4±170.5μm) > Er:YAG laser (166.5±123.9μm) > cold scalpel (2.36±7.27μm) — ทั้งหมดต่างกันอย่างมีนัยสำคัญ (P<0.001); ความสม่ำเสมอของรอยตัดดีที่สุดคือ CO₂ ตามด้วย Er:YAG
+
+Discussion: สรุปว่าเลเซอร์ใช้ตัดได้โดยไม่จำกัด histopathological diagnosis ตราบใดที่รู้และเคารพคุณสมบัติทางฟิสิกส์ของเลเซอร์แต่ละชนิด; Er:YAG ถูกเสนอเป็นตัวเลือกที่ดีที่สุดในกลุ่มเลเซอร์เพราะ TDE ต่ำและรอยตัดสม่ำเสมอ; cold scalpel ให้ TDE ต่ำสุดในทุกกรณี
+
+ลิ้ง: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6441595/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6441595/) (PubMed: [https://pubmed.ncbi.nlm.nih.gov/30818322/](https://pubmed.ncbi.nlm.nih.gov/30818322/))
