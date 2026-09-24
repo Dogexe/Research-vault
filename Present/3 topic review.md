@@ -139,7 +139,7 @@ Discussion: สรุปว่าเลเซอร์ใช้ตัดได�
 ลิ้ง https://www.medicinaoral.com/medoralfree01/v15i6/medoralv15i6p912.pdf
 
 
-3. ชื่อ: Nd:YAG laser versus traditional scalpel. A preliminary histological analysis of specimens from the human oral mucosa (Bevilacqua et al., 2010)
+3. ชื่อ:Nd:YAG laser versus traditional scalpel. A preliminary histological analysis of specimens from the human oral mucosa (Bevilacqua et al., 2010)
 
 คำถามวิจัย: thermal change จาก Nd:YAG กระทบการวินิจฉัยทาง histopathology และการประเมิน margin หรือไม่ เทียบกับ scalpel
 
