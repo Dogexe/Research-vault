@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Projects/Diode Laser Biopsy.md",
-                "mode": "preview",
+                "file": "02 Literature/Ablative properties of oral soft tissue resurfacing technique using 980 nm Diode laser and Nd_YAG laser in continuous wave and pulsed modes with India ink  and Methylene blue staining_ A porcine ex vivostudy.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diode Laser Biopsy"
+              "title": "Ablative properties of oral soft tissue resurfacing technique using 980 nm Diode laser and Nd_YAG laser in continuous wave and pulsed modes with India ink  and Methylene blue staining_ A porcine ex vivostudy"
             }
           }
         ],
@@ -254,12 +254,14 @@
   },
   "active": "4661c3aa734d727a",
   "lastOpenFiles": [
+    "02 Literature/10.3390/life13010162.md",
+    "02 Literature/Ablative properties of oral soft tissue resurfacing technique using 980 nm Diode laser and Nd_YAG laser in continuous wave and pulsed modes with India ink  and Methylene blue staining_ A porcine ex vivostudy.md",
+    "01 Projects/Diode Laser Biopsy.md",
     "ยินดีต้อนรับ.md",
     "Untitled.md",
     "Untitled 1.base",
     "07 Data.md",
     "06 Synthesis/Preset Reliance and Technical Misuse in Dental Laser Use.md",
-    "01 Projects/Diode Laser Biopsy.md",
     "03 Concepts/Glossary/Non-initiated Tip.md",
     "03 Concepts/Glossary/Initiated Tip.md",
     "03 Concepts/Glossary/Hot-tip Effect.md",
@@ -279,8 +281,6 @@
     "03 Concepts/Glossary/Ablation.md",
     "03 Concepts/Glossary/Photothermal Interaction.md",
     "03 Concepts/Glossary/Chromophore.md",
-    "02 Literature/10.1007/s10103-020-03243-4.md",
-    "07 Data/Hanke et al 2021 - Eight-Wavelength Diode Cut Efficiency Data.md",
     "06 Synthesis/Study Dashboard.md.tmp.12232.5f5b0c7bb290",
     "01 Projects/Diode Laser Biopsy.md.tmp.12232.3ab93cd367a2",
     "Untitled.base",
