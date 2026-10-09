@@ -80,7 +80,7 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 
 ## Derived values (not reported by the source)
 
-- INTERPRETATION / ASSUMPTION: If each 95% CI = mean ± t(0.975, df 5) × SD/√6 (CI method not stated), the implied SD of tongue diode depth is ≈ 267 µm (3 W), 200 µm (5 W), 300 µm (6 W); pooled ≈ 259 µm. 4 W not derived (illegible bound). These SDs come from n = 6 and replica-based measurement, so they are imprecise and method-specific.
+- INTERPRETATION / ASSUMPTION: If each 95% CI = mean ± t(0.975, df 5) × SD/√6 (CI method not stated), the implied SD of tongue diode depth is ≈ 267 µm (3 W), 200 µm (5 W), 300 µm (6 W); pooled ≈ 259 µm (√[Σ(5·SDᵢ²)/15], equal-variance assumption). Half-widths used; the 6 W interval (480–1110) is not symmetric about the reported mean 800 (unresolved rounding or transcription). 4 W not derived (illegible bound). These SDs come from n = 6 and replica-based measurement, so they are imprecise and method-specific.
 
 ## Notes
 
