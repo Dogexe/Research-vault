@@ -5,7 +5,8 @@ created: 2026-10-09
 sources_used:
   - "Google Doc: Proposal ฉบับร่าง (1COfIRQtOIaXq37bJ-K44ndMm4Ad8_Tof_PasbZwDf0c)"
   - "Google Doc: Materials and Methods (1uOGzPe2XkScKStGMYUTAHbXmO0isQaJx5mvZsXszsQg)"
-  - "ข้อแนะนำการเขียนระเบียบวิธีวิจัยจากอาจารย์ที่ปรึกษา (วางในแชต 2026-10-09)"
+  - "[[01 Projects/คำแนะนำอาจารย์ - ระเบียบวิธีวิจัย (Methods)]]"
+  - "[[01 Projects/คำแนะนำอาจารย์ - ปรับโครงร่างการวิจัย (endpoint-guided)]]"
   - "[[02 Literature/10.3390/life13010162|Mungmee & Sattayut 2023]]"
   - "[[02 Literature/Ablative properties of oral soft tissue resurfacing technique using 980 nm Diode laser and Nd_YAG laser in continuous wave and pulsed modes with India ink  and Methylene blue staining_ A porcine ex vivostudy|Assamongkol et al. (รายงานวิจัย ปีการศึกษา 2567)]]"
 ---
