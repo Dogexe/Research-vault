@@ -26,3 +26,7 @@ Prefer:
 
 \- separating FACT / INTERPRETATION / HYPOTHESIS
 
+
+
+
+Also read `90 Agent/Research Assistant Instructions - SS Research Group 2026.md` and follow it as the role, response format, and methodology rules for proposal / literature review / Methods work in this project.
