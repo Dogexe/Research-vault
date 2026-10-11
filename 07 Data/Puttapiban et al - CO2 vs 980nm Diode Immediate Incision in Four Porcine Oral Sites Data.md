@@ -40,7 +40,7 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 - Citation (as on title page): ธรรมดา พุทธาภิบาล, วรุณพันธุ์ ปราณีตพลกรัง, ศจี สัตยุตม์. การเปรียบเทียบรอยตัดเนื้อเยื่อช่องปากที่เกิดจากคาร์บอนไดออกไซด์เลเซอร์และไดโอดเลเซอร์ความยาวคลื่น 980 นาโนเมตร: การศึกษานอกร่างกายสุกร. รายงานวิจัย คณะทันตแพทยศาสตร์ มหาวิทยาลัยขอนแก่น. ปี = UNKNOWN (เอกสารอ้างข้อมูลคลินิกปี 2007–2014 จึงจัดทำไม่ก่อนปี 2014 — INTERPRETATION).
 - Authorship: title page lists Sattayut S (รองศาสตราจารย์) as third author with the two dental students — unlike the Limtanakul report where she appears only as advisor.
 - Source locator: scanned PDF supplied by the researcher (`D:\Downloads\Puttapiban.pdf`, 30 scanned pages, report pp. 4–32) read page-by-page on 2026-10-10. **Ingestion note:** not yet in Zotero/ZotLit — extraction made at the researcher's explicit request; import to Zotero to complete the vault workflow.
-- NEEDS VERIFICATION: values below were read visually from scanned page images; one cell (tongue, diode 4 W depth CI upper bound) is not legibly consistent with its mean.
+- NEEDS VERIFICATION: values below were read visually from scanned page images. The tongue diode 4 W depth CI upper bound was confirmed by the researcher as 810 µm (2026-10-11); it is still not consistent with the reported mean of 800 µm (see Derived values).
 
 ## Parameters
 
@@ -69,7 +69,7 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 
 | Outcome (diode 980 nm, tongue, n = 6) | 3 W | 4 W | 5 W | 6 W | Locator |
 |---|---|---|---|---|---|
-| Depth mean (95% CI), µm | 760 (480–1040) | 800 (420–[illegible; printed "810"?]) | 610 (400–820) | 800 (480–1110) | Table 4, p.25 |
+| Depth mean (95% CI), µm | 760 (480–1040) | 800 (420–810; upper bound confirmed by researcher 2026-10-11) | 610 (400–820) | 800 (480–1110) | Table 4, p.25 |
 | Width mean (95% CI), µm | 630 (420–840) | 660 (510–810) | 620 (400–820) | 650 (440–850) | Table 3, p.24 |
 | Carbonisation (incisions with char / 6) | 6 | 6 | 6 | 6 | Table 1, p.21 |
 | Deepest layer | mucosa 6/6 | mucosa 6/6 | mucosa 6/6 | mucosa 6/6 | Table 2, p.22 |
@@ -80,7 +80,7 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 
 ## Derived values (not reported by the source)
 
-- INTERPRETATION / ASSUMPTION: If each 95% CI = mean ± t(0.975, df 5) × SD/√6 (CI method not stated), the implied SD of tongue diode depth is ≈ 267 µm (3 W), 200 µm (5 W), 300 µm (6 W); pooled ≈ 259 µm (√[Σ(5·SDᵢ²)/15], equal-variance assumption). Half-widths used; the 6 W interval (480–1110) is not symmetric about the reported mean 800 (unresolved rounding or transcription). 4 W not derived (illegible bound). These SDs come from n = 6 and replica-based measurement, so they are imprecise and method-specific.
+- INTERPRETATION / ASSUMPTION: If each 95% CI = mean ± t(0.975, df 5) × SD/√6 (CI method not stated), the implied SD of tongue diode depth is ≈ 267 µm (3 W), 186 µm (4 W), 200 µm (5 W), 300 µm (6 W); pooled over 3, 5 and 6 W ≈ 259 µm (√[Σ(5·SDᵢ²)/15], equal-variance assumption). Half-widths used; the 6 W interval (480–1110) is not symmetric about the reported mean 800 (unresolved rounding or transcription). The 4 W interval (420–810) is strongly asymmetric about its reported mean 800 (380 µm below vs 10 µm above), so a mean ± t·SD/√n interval cannot produce it; either the mean or a bound in the source may be a typographical error, and the 4 W SD should be treated with caution. These SDs come from n = 6 and replica-based measurement, so they are imprecise and method-specific.
 
 ## Notes
 
@@ -89,4 +89,4 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 
 ## สรุปภาษาไทย
 
-รายงานวิจัยกลุ่มเดียวกัน (ex vivo, split-mouth) หัวสุกร 6 หัว ตัด 4 ตำแหน่ง (เพดาน ลิ้น กระพุ้งแก้ม ร่องรอบปาก) ด้วย CO₂ และไดโอด 980 nm (CHEESE II) ที่ 3–6 W แบบต่อเนื่อง ความเร็ว 2.5 mm/s ยาว 1 cm วัดความลึกจากชิ้นพิมพ์ sealant ใต้ stereomicroscope ×10 ไม่ได้วัดกำลังจริง ไม่ระบุขนาด fibre/การสัมผัส/การ initiate ไดโอดที่ลิ้นลึกเฉลี่ย 610–800 µm ทุกรอยมี carbonisation และลึกถึงชั้นเยื่อเมือกเท่านั้น SD ที่คำนวณย้อนจาก 95% CI ประมาณ 200–300 µm
+รายงานวิจัยกลุ่มเดียวกัน (ex vivo, split-mouth) หัวสุกร 6 หัว ตัด 4 ตำแหน่ง (เพดาน ลิ้น กระพุ้งแก้ม ร่องรอบปาก) ด้วย CO₂ และไดโอด 980 nm (CHEESE II) ที่ 3–6 W แบบต่อเนื่อง ความเร็ว 2.5 mm/s ยาว 1 cm วัดความลึกจากชิ้นพิมพ์ sealant ใต้ stereomicroscope ×10 ไม่ได้วัดกำลังจริง ไม่ระบุขนาด fibre/การสัมผัส/การ initiate ไดโอดที่ลิ้นลึกเฉลี่ย 610–800 µm ทุกรอยมี carbonisation และลึกถึงชั้นเยื่อเมือกเท่านั้น SD ที่คำนวณย้อนจาก 95% CI ประมาณ 186–300 µm (กลุ่ม 4 W มี CI 420–810 µm ไม่สมมาตรรอบค่าเฉลี่ย 800 µm จึงควรใช้อย่างระมัดระวัง)
