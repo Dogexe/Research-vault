@@ -37,7 +37,7 @@ Bench measurement of two devices (SIROLaser Blue: 445/970 nm; Picasso: 810 nm) a
 
 ### Main findings
 
-- Measured mean CW output deviated from the console preset in both directions depending on device/wavelength: +21%, +22%, and −8% for 445 nm, 970 nm, and 810 nm respectively.
+- Measured mean CW output deviated from the console preset in both directions depending on device/wavelength: +21%, +23%, and −8% for 445 nm, 970 nm, and 810 nm respectively (23% verified against the published abstract and Results, 2026-10-11).
 - In pulsed mode, deviations were +37%, +26%, and −3% for the same three wavelengths.
 - The direction and magnitude of deviation is device- and mode-dependent, not a single universal "loss" factor.
 - This paper is one of only a small number of vault sources ([[07 Data/Kim et al 2020 - Set vs Actual Power Across Three Dental Diode Lasers|Kim et al. 2020]] being the other clear case) to show measured output exceeding the console preset, rather than only falling short of it — see [[06 Synthesis/Current Evidence on Diode Laser Power Output]].

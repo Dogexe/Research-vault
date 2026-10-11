@@ -62,7 +62,7 @@ Record values exactly as reported. Use `UNKNOWN` when a value is not reported; d
 | Contact mode | UNKNOWN; fibre tip positioned 1 cm from power-meter base | UNKNOWN | Materials and Methods | FACT |
 | Exposure duration | CW: 60; pulsed: 5; each procedure repeated 10 times | s | §§2.1–2.2 | FACT |
 | Measurement method | PowerMax Pro 150F HD-50 mW-150 W fan-cooled sensor and LabMax-Pro SSIM Laser Power Meter; fibre perpendicular to sensor | UNKNOWN | Materials and Methods | FACT |
-| Power loss | Not uniformly a loss. Mean-output change versus preset: CW 445/970/810 nm: +21/+22/−8; pulsed: +37/+26/−3. Mean-average-power change in pulsed mode: +29/+24/−5 | % | Tables 1–2; Results §§3.1–3.2 | FACT |
+| Power loss | Not uniformly a loss. Mean-output change versus preset: CW 445/970/810 nm: +21/+23/−8 (paper abstract and Results state 23% for 970 nm; verified against mdpi.com/2304-6732/9/4/219 on 2026-10-11); pulsed: +37/+26/−3. Mean-average-power change in pulsed mode: +29/+24/−5 | % | Tables 1–2; Results §§3.1–3.2 | FACT |
 | Calibration method | Power-meter calibration performed by manufacturer before experiment; temperature compensation and wavelength correction used on each measurement sample | UNKNOWN | Materials and Methods | FACT |
 
 ## Notes
