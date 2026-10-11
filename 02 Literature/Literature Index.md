@@ -19,6 +19,7 @@ Priority reflects RQ relevance, novelty/prior-art value, and outcome/method cont
 - **Specimen quality / thermal damage:** [[02 Literature/10.1007/s10103-011-0900-7|Angiero et al. 2011]], [[Biopsy of Different Oral Soft Tissues Lesions by KTP and Diode Laser_ Histological Evaluation - Romeo - 2014 - The Scientific World Journal - Wiley Online Library|Romeo et al. 2014]], [[02 Literature/10.1117/1.JBO.22.12.121602|Gobbo et al. 2017]], [[02 Literature/10.2334/josnusd.20-0665|Palaia et al. 2021]], [[02 Literature/10.1007/s41547-025-00309-w|Shnawa et al. 2025]], [[02 Literature/10.4317/medoral.22819|Monteiro et al. 2019]], [[02 Literature/10.1097/SCS.0000000000004734|Isola et al. 2018]]
 - **Operating parameters / thermal damage / fiber-tip conditions:** [[02 Literature/10.4317/jced.52830|Azevedo et al. 2016]], [[02 Literature/10.3390/dj13060265|Pergolini et al. 2025]], [[02 Literature/10.4317/medoral.23317|Gutierrez-Corrales et al. 2020]], [[02 Literature/10.34172/jlms.2023.37|Al-Ani et al. 2023]], [[02 Literature/10.3390/app122412771|Romanos et al. 2022]], [[02 Literature/10.3390/jcm15103567|Mazzoni et al. 2026 — Lingual Frenulum thermal/histology study]]
 - **Delivered power/output support:** [[02 Literature/10.3390/app10124167|Kim et al. 2020]], [[02 Literature/10.3390/photonics9040219|Xue et al. 2022]], [[Phenomenon of laser power loss during curettage of infected periodontal pockets|Zegaib et al. 2011]]
+- **Immediate macroscopic incision scoring (non-diode CO2 methods precedent; advisor-requested 2026-10-11):** [[02 Literature/10.1038/s41598-022-18969-0|Hohmann et al. 2022]], [[02 Literature/10.1038/s41598-024-51449-1|Hohmann et al. 2024]]
 - **Novelty/prior-art and reporting context:** [[02 Literature/10.3390/dj11020028|Tenore et al. 2023]], [[02 Literature/10.1007/s10103-023-03923-x|Lopes-Santos et al. 2023]], [[02 Literature/10.17219/acem/189795|Parker et al. 2024]]
 
 ### P3 / HOLD — context or incomplete verification
@@ -131,6 +132,8 @@ This heading previously pointed only to Seoane et al. 2013, which is not a prese
 - [[02 Literature/10.1007/s10103-023-03923-x|Lopes-Santos et al. 2023]]
 - [[02 Literature/10.3390/dj11020028|Tenore et al. 2023]]
 - [[02 Literature/10.17219/acem/189795|Parker et al. 2024]]
+- [[02 Literature/10.1038/s41598-022-18969-0|Hohmann et al. 2022]]
+- [[02 Literature/10.1038/s41598-024-51449-1|Hohmann et al. 2024]]
 
 ## Context Only
 
@@ -164,6 +167,8 @@ This heading previously pointed only to Seoane et al. 2013, which is not a prese
 
 - [[Phenomenon of laser power loss during curettage of infected periodontal pockets|Zegaib et al. 2011]] — see [[07 Data/Zegaib et al 2011 - Fiber Tip Power Loss During Periodontal Curettage]]
 - [[02 Literature/10.1002/cre2.670|Prado et al. 2022]] — see [[07 Data/Prado et al 2022 - Micro vs Super Pulsed Diode Laser Ex Vivo Thermal Damage Data]] (Table 1 extraction/rendering issue, flagged in the note)
+- [[02 Literature/10.1038/s41598-022-18969-0|Hohmann et al. 2022]] — see [[07 Data/Hohmann et al 2022 - Macroscopic Laser Incision Scoring System Reliability Data]] (Table 2/4 captions say CE but column labels say CA)
+- [[02 Literature/10.1038/s41598-024-51449-1|Hohmann et al. 2024]] — see [[07 Data/Hohmann et al 2024 - CO2 Laser Parameter Effects on Incision Score Data]] ("cutting front" scored region ambiguous vs. 2022 CA/CE results)
 
 Gambino/Alessio et al. 2026 was previously listed here; full text has since been retrieved and processed, and its `07 Data/` note carries `needs_verification: false`. Removed as stale — it belongs in neither group above.
 
