@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Projects/Proposal ฉบับเต็ม - Manufacturer Preset 980 nm (ร่าง 2026-10-09).md",
+                "file": "01 Projects/คำแนะนำอาจารย์ - กรอบแนวคิดและบททบทวนวรรณกรรม (2026-10-13).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proposal ฉบับเต็ม - Manufacturer Preset 980 nm (ร่าง 2026-10-09)"
+              "title": "คำแนะนำอาจารย์ - กรอบแนวคิดและบททบทวนวรรณกรรม (2026-10-13)"
             }
           }
         ],
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.8999938964844
+    "width": 263.8999938964844,
+    "collapsed": true
   },
   "right": {
     "id": "04e4905b0899b4ed",
@@ -254,6 +255,7 @@
   },
   "active": "4661c3aa734d727a",
   "lastOpenFiles": [
+    "01 Projects/Proposal ฉบับเต็ม - Manufacturer Preset 980 nm (ร่าง 2026-10-09).md",
     "01 Projects/คำแนะนำอาจารย์ - กรอบแนวคิดและบททบทวนวรรณกรรม (2026-10-13).md",
     "01 Projects/คำแนะนำอาจารย์ - Methods ฉบับปรับโครงสร้าง (2026-10-13).md",
     "01 Projects/คำแนะนำอาจารย์ - Proposal ฉบับ revised ตัวอย่าง (2026-10-11).md",
@@ -265,7 +267,6 @@
     "01 Projects/Methods ฉบับเกลา - 2026-10-13.md",
     "01 Projects/Framework - compact editable.drawio",
     "01 Projects/Methods ฉบับเกลา - 2026-10-13.md.tmp.8632.51dca995bfab",
-    "01 Projects/Proposal ฉบับเต็ม - Manufacturer Preset 980 nm (ร่าง 2026-10-09).md",
     "02 Literature/10.3390/photonics9040219.md",
     "01 Projects/attachments/advisor-revised-2026-10-11-fig2-flow.png",
     "01 Projects/attachments/advisor-revised-2026-10-11-fig1-framework.png",
