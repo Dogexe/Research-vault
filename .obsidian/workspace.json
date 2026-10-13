@@ -11,12 +11,14 @@
             "id": "f928cdda5a3dae30",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-16 16.03.30.excalidraw.md"
+                "file": "01 Projects/คำแนะนำอาจารย์ - Methods ฉบับปรับโครงสร้าง (2026-10-13).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-16 16.03.30.excalidraw"
+              "icon": "lucide-file",
+              "title": "คำแนะนำอาจารย์ - Methods ฉบับปรับโครงสร้าง (2026-10-13)"
             }
           },
           {
@@ -33,8 +35,7 @@
               "title": "คำแนะนำอาจารย์ - กรอบแนวคิดและบททบทวนวรรณกรรม (2026-10-13)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.8999938964844,
-    "collapsed": true
+    "width": 263.8999938964844
   },
   "right": {
     "id": "04e4905b0899b4ed",
@@ -253,10 +253,11 @@
       "modalforms:Edit forms": false
     }
   },
-  "active": "4661c3aa734d727a",
+  "active": "f928cdda5a3dae30",
   "lastOpenFiles": [
-    "01 Projects/Proposal ฉบับเต็ม - Manufacturer Preset 980 nm (ร่าง 2026-10-09).md",
     "01 Projects/คำแนะนำอาจารย์ - กรอบแนวคิดและบททบทวนวรรณกรรม (2026-10-13).md",
+    "Excalidraw/Drawing 2026-09-16 16.03.30.excalidraw.md",
+    "01 Projects/Proposal ฉบับเต็ม - Manufacturer Preset 980 nm (ร่าง 2026-10-09).md",
     "01 Projects/คำแนะนำอาจารย์ - Methods ฉบับปรับโครงสร้าง (2026-10-13).md",
     "01 Projects/คำแนะนำอาจารย์ - Proposal ฉบับ revised ตัวอย่าง (2026-10-11).md",
     "01 Projects/คำแนะนำอาจารย์ - คำถามวิจัยและวัตถุประสงค์ (2026-10-13).md",
@@ -292,7 +293,6 @@
     "07 Data/Puttapiban et al - CO2 vs 980nm Diode Immediate Incision in Four Porcine Oral Sites Data.md.tmp.20152.34b6f292fa96",
     "02 Literature/10.1016/S0140-6736(02)07683-3.md",
     "02 Literature/10.1016/S0140-6736(02)07750-4.md",
-    "07 Data/Limtanakul et al BE2567 - 980nm Diode and NdYAG Spot Ablation in Porcine Palate Data.md",
     "Untitled.canvas",
     "ยังไม่ได้ตั้งชื่อ 1.canvas",
     "ยังไม่ได้ตั้งชื่อ.canvas",
